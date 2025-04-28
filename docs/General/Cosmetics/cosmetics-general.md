@@ -1,9 +1,13 @@
-:warning: Cosmetics do not give bonuses, they are for aesthetics only.
+---
+icon: material/folder
+---
+!!! warning
+    Cosmetics do not give bonuses, they are for aesthetics only.
 
 On Signature, you cannot test the cosmetics on your character due to L2OFF file limits.
 
 - You can buy coins here: [https://l2reborn.org/balance/](https://l2reborn.org/balance/)
-    - 1 Coin is 1 €.
+    - 1 Coin = 1 €.
   - After you have to send the coins to the correct server, account & character.
   - If there is an issue with donation, please open a [ticket](https://l2reborn.org/support/) and **include all necessary information** shown on the left.
 <hr>
@@ -33,5 +37,8 @@ The Package includes:
 
 **(Costs: 89 Balance)**
 
-![1 Year Package Cloaks](https://i.postimg.cc/jj88s9JG/ZX9IOLx.png){: style="transform: scale(0.8);" .lightbox }
+<figure markdown="1">
+![1 Year Package Cloaks](https://i.postimg.cc/jj88s9JG/ZX9IOLx.png){ width=500 .lightbox }
+</figure>
+
 <hr>
