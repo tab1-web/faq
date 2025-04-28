@@ -43,6 +43,7 @@ Resources:
 - [Trojan Horse](https://computer.howstuffworks.com/trojan-horse.htm?s1sid=p72jxahoyuw542hapz3ymntx&srch_tag=cr5h2zidpuzx5tq2happ4z4nbvrw2ac4)
 - [Computer Viruses](https://computer.howstuffworks.com/virus.htm?s1sid=eel1e9ghs7mx46h94ct1qipt&srch_tag=zxjxanufcg27gc3f5j5suqausw7tl6lw)
 - [Phishing](https://computer.howstuffworks.com/phishing.htm)
+- [Social Engineering](https://www.okta.com/identity-101/social-engineering/)
 <hr>
 
 ## Lock System
