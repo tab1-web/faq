@@ -1,5 +1,10 @@
 :warning: Cosmetics do not give bonuses, they are for aesthetics only.
 
+- You can buy coins here: [https://l2reborn.org/balance/](https://l2reborn.org/balance/)
+    - 1 Coin is 1 €.
+  - After you have to send the coins to the correct server, account & character.
+  - If there is an issue with donation, please open a [ticket](https://l2reborn.org/support/) and **include all necessary information** shown on the left.
+
 ## Hide Cosmetics
 - To turn off suits: `.visualequip`
 
