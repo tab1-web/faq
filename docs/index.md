@@ -8,9 +8,14 @@ icon: material/home
 This is a website dedicated to streamline assistance without the need of having to ask.
 
 You can search on the website in the top right corner and you can also search the page with: `CTRL + F`
+<div class="grid cards" markdown>
+- ![Interactable GIF](https://i.postimg.cc/hPGSbK6H/firefox-nk-Se-APQh-Pw.gif){ .lightbox width=400 }
+  Interactable buttons
+  
+- ![Search GIF](https://i.postimg.cc/L52j0JLk/firefox-6a-KNmq-Ryon.gif){ .lightbox width=600 }  
+  Search function
 
-### Interactables <br>
-![Interactable GIF](https://i.postimg.cc/hPGSbK6H/firefox-nk-Se-APQh-Pw.gif){ .lightbox width=400 }
+</div>
 
 <figure markdown="1">
 ![Tabi PFP](https://i.postimg.cc/rsmNw6Hv/tabi.webp){ width=300 .lightbox }
