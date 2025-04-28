@@ -6,7 +6,7 @@ icon: material/lingerie
 
 To turn off cosmetics: `.visualequip`
 
-To equip suits, you need to go to your **skills (ALT + K)** and **activate the toggle**.
+To equip suits, you need to go to your **skills** (`ALT + K`) and **activate the toggle**.
 
 !!! warning
     They are cosmetics only, they do not provide any bonuses.
