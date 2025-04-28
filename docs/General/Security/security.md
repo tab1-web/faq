@@ -6,44 +6,48 @@ icon: material/incognito
 
 # User Safety
 
-## Contents
+## :material-table-of-contents: Contents
 - [Server Rules](#server-rules)
 - [Account Security](#why-do-i-have-to-worry-about-this)
 - [Lock System](#lock-system)
 - [2FA](#2fa)
 - [Anti-Scam Policy](#anti-scam-policy)
+<hr>
 
-## Server Rules
+## :fontawesome-regular-file-lines: Server Rules
+
 You can read about rules here: [l2reborn.org/server-rules](https://l2reborn.org/server-rules/)
+<hr>
 
-## Why do I have to worry about this?
+## :octicons-question-16: Why do I have to worry about this?
+
 **Reborn takes responsibility to provide systems**, rules that offer as much protection to our players as possible. However, **this responsibility ends on the system end** - we cannot and are not responsible for how players act in-game and out-of-game. 
 
 L2Reborn provided lock systems, master accounts, anti-scam policy, 2FA, server rules and frequently remind players to be careful when trading and to keep their accounts private. 
 
-Your account is your **responsibility**. REBORN STAFF will NEVER ask for your password.
+Your account is your **responsibility**.
 
-:warning: **Password Tips:**
+!!! danger "Critical Security Tip"
+    Never share your password, even with staff members.
 
-- Use random combinations (`@!?#-.,*/- , numbers and capital letters`)
-- Never reuse passwords.
-- Enable 2FA.
+=== ":material-alert: Password Tips"
+    - **Use random combinations** (@!?#-.,*/- , numbers and capital letters)
+    - **Never reuse passwords.**
+    - **Enable 2FA.**
 
-:warning: **Avoid:**
+=== ":material-eye-check: Spot"
+    - **Sharing Accounts** (even with friends or STAFF)
+    - **Clicking suspicious links** (e.g. free gift sites, I dare you to click this link)
+    - **Downloading "cheats" or unverified programs.**
 
-- Sharing Accounts (`even with friends or STAFF`)
-- Clicking suspicious links (`e.g. free gift sites, I dare you to click this link`)
-- Downloading "cheats" or unverified programs.
+=== ":material-exclamation: **Spot**"
+    - **Staff impersonators** (check GM USERNAMES and not NICKS)
+    - **Urgent threats** (Act now or lose your account!).
+    - **Too good to be true links/offers** (Free giftcards / adena links)
 
-:warning: **Spot:**
 
-- Staff impersonators (`check GM USERNAMES and not NICKS`)
-- Urgent threats (`Act now or lose your account!`).
-- Too good to be true links/offers (`Free giftcards / adena links`)
-<figure markdown="1">
-![Impersonators](https://i.postimg.cc/KvPHW2Wq/fakeimpersonators-1.png){: style="width: 70%;"} <br>
-</figure>
 **Summary:**
+![Impersonators](https://i.postimg.cc/KvPHW2Wq/fakeimpersonators-1.png){: style="width: 40%;" .lightbox align=right } <br>
 
 - You are the first line of defense.
 - No one, not friends or staff, needs your password.
@@ -57,11 +61,15 @@ Your account is your **responsibility**. REBORN STAFF will NEVER ask for your pa
 - [Social Engineering](https://www.okta.com/identity-101/social-engineering/)
 <hr>
 
-## Lock System
+## :material-lock: Lock System
+=== ":octicons-code-16: Set Lock Pin"
+    `.setlockpw pincode` will set pin code to lock and unlock your character.
 
-`.setlockpw pincode` will set pin code to lock and unlock your character. <br>
-`.lock pincode` will enable the lock system. <br>
-`.unlock pincode` will disable the lock system.
+=== ":fontawesome-solid-toggle-on: Lock"
+    `.lock pincode` enables protection
+
+=== ":fontawesome-solid-toggle-off: Unlock"
+    `.unlock pincode` disables protection
 
 When a character is locked these functions are **disabled:**
 
@@ -69,16 +77,19 @@ When a character is locked these functions are **disabled:**
 
 We recommend you to store Adena and AA in your warehouse and only have in your char the basic/necessary amount.
 <figure markdown="1">
-![Lock System](https://i.postimg.cc/hGsSK9gX/locksystem.gif){: style="width: 40%;"}
+![Lock System](https://i.postimg.cc/hGsSK9gX/locksystem.gif){: style="width: 40%;" .lightbox }
 </figure>
 <hr>
 
-### Resetting In-Game Lock PIN
-You need to have 2FA, otherwise you can't do it. Enable it here: [l2reborn.org/setting](https://l2reborn.org/setting/)
+### :material-lock-reset: Resetting In-Game Lock PIN
+!!! note "Requirements"
+    You need to have 2FA, otherwise you can't do it. 
+    
+    Enable it here: [l2reborn.org/setting](https://l2reborn.org/setting/)
 
-Go to: [l2reborn.org/game-account](https://l2reborn.org/game-account/) and click on "Overview" for the account you want to unlock.
+1. Go to: [l2reborn.org/game-account](https://l2reborn.org/game-account/) and click on "Overview" for the account you want to unlock.
 
-Click the `…` and click 'Unlock'
+2. Click the `…` and click 'Unlock'
 
 <figure markdown="1">
 ![PIN Reset](https://i.postimg.cc/52tDBQ25/caccc.png){: style="width: 60%;"}
@@ -86,39 +97,44 @@ Click the `…` and click 'Unlock'
 
 <hr>
 
-## 2FA
-![Mobile Authenticator](https://upload.wikimedia.org/wikipedia/commons/0/0f/Aegis_Authenticator_3.2_screenshot.png){ align=right width="150" }
+## :simple-2fas: 2FA
+![Mobile Authenticator](https://upload.wikimedia.org/wikipedia/commons/0/0f/Aegis_Authenticator_3.2_screenshot.png){ align=right width="140" .lightbox }
 
 You can enable 2FA here: [l2reborn.org/setting](https://l2reborn.org/setting/). 
 
 Follow the instructions in the window carefully.
 
-### What is 2FA?
+!!! question "What is 2FA?"
 
-When a user tries to log into your master account it will require a code from your mobile authenticator app. The code is re-generated every 30-60s.
+    When a user tries to log into your master account it will require a code from your mobile authenticator app. The code is re-generated every 30-60s.
 
-It is highly recommended, you take the first step in securing your account better.
+    It is highly recommended, you take the first step in securing your account better.
 
 **Resources:**
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Multi-factor_authentication#Mobile_phone-based_authentication)
 <hr>
 
-## Anti-Scam Policy
+## :material-clipboard: Anti-Scam Policy
 
-### Reporting Scams
+=== ":octicons-report-16: Reporting Scams"
 
-All scam cases **can be reported**, and the staff will take action by **banning the scammer**.
+    - All scam cases **can be reported**, and the staff will take action by **banning the scammer**.
 
-### Scam Information
+=== ":material-information-outline: Scam Information"
 
-Only accounts and characters with **2FA** and `.lock` enabled will receive details about the scammer (`character names`).
+    - Only accounts and characters with **2FA** and `.lock` enabled will receive details about the scammer (`character names`).
 
-### Item Recovery
+=== ":material-content-save-all: Item Recovery"
 
-Scam cases involving valuable items (`epic jewels, top-grade items, etc.`) are eligible for item recovery only if **2FA** and `.lock` were enabled at the time of the scam.
+    - Scam cases involving valuable items (`epic jewels, top-grade items, etc.`) are eligible for item recovery only if **2FA** and `.lock` were enabled at the time of the scam.
 
-We believe these measures are fair and reasonable. 
+!!! info
+    We believe these measures are fair and reasonable. 
 
-Spending a few minutes securing your account ensures full protection in case of a scam, allowing you to play with safety and peace of mind while taking responsibility for your account's security.
+    Spending a few minutes securing your account ensures full protection in case of a scam, allowing you to play with safety and peace of mind while taking responsibility for your account's security.
+
+
 <hr>
+
+

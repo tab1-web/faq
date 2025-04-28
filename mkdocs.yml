@@ -1,5 +1,7 @@
 site_name: Frequently Asked Questions
 site_url: https://tab1-web.github.io/faq/
+extra_css:
+  - stylesheets/extra.css
 nav: 
     - Index: index.md
     - General:
@@ -50,7 +52,6 @@ theme:
     - search.share
     - navigation.path
 
-
   palette:
 
     # Dark Mode
@@ -89,8 +90,9 @@ markdown_extensions:
   - md_in_html
   - pymdownx.blocks.caption
   - tables
-
+  - admonition
+  
 plugins:
-  - glightbox
   - search
+  - glightbox
   - tags
