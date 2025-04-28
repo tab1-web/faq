@@ -4,7 +4,7 @@
     - 1 Coin is 1 €.
   - After you have to send the coins to the correct server, account & character.
   - If there is an issue with donation, please open a [ticket](https://l2reborn.org/support/) and **include all necessary information** shown on the left.
-
+<hr>
 ## Hide Cosmetics
 - To turn off suits: `.visualequip`
 
