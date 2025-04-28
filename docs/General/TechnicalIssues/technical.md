@@ -1,0 +1,8 @@
+---
+icon: material/laptop
+
+
+---
+
+
+# technical

@@ -1,16 +1,48 @@
 site_name: FAQ
 site_url: https://sitename.example
+nav: 
+    - Index: index.md
+    - General:
+      - 'Technical Issues': General/TechnicalIssues\technical.md
+      - 'Website':  General/Website/website.md
+      - 'Cosmetics': General/Cosmetics/cosmetics.md
+      - 'Miscellaneous': General/Miscellaneous/miscellaneous.md
+      - 'Security': General/Security/security.md
+    - Signature:
+      - 'Combat': Signature/Combat/signature-combat.md
+      - 'Other': Signature/Other/signature-other.md
+      - 'Progression':
+        - 'Progression': 'Signature/Progression/signature-progression.md'
+        - 'Items': 'Signature/Progression/Items/signature-items.md'
+        - 'Quests': 'Signature/Progression/Quests/signature-quests.md'
 theme:
   name: material
-
+  
   favicon: images/favicon.png
   
   icon:
     logo: material/frequently-asked-questions
 
+  
+
   font:
     text: Montserrat
     code: Red Hat Mono
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
+
 
   palette:
 
@@ -35,3 +67,22 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.keys
+  - pymdownx.details
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - md_in_html
+  - pymdownx.blocks.caption
+
+plugins:
+  - glightbox
+  - search
+  - tags
