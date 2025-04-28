@@ -18,7 +18,7 @@ Paypal is not available, you can pay with:
 - [Card (Stripe)](https://stripe.com/)
 - [Card / Crypto (FreeKassa.ru)](https://freekassa.ru/)
 
-![Payment Methods](https://i.postimg.cc/DfQ2BPVt/payment-methods.png){: style="transform: scale(0.8);"}
+![Payment Methods](https://i.postimg.cc/DfQ2BPVt/payment-methods.png){: style="transform: scale(0.8);" .lightbox }
 <hr>
 ## 1 Year Package VIP
 The Package includes:
@@ -33,5 +33,5 @@ The Package includes:
 
 **(Costs: 89 Balance)**
 
-![1 Year Package Cloaks](https://i.postimg.cc/jj88s9JG/ZX9IOLx.png){: style="transform: scale(0.8);"}
+![1 Year Package Cloaks](https://i.postimg.cc/jj88s9JG/ZX9IOLx.png){: style="transform: scale(0.8);" .lightbox }
 <hr>

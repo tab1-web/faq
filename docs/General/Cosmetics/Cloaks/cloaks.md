@@ -1,5 +1,5 @@
 ---
-icon: material/receipt
+icon: material/pirate
 
 ---
 To **turn off cloaks**: Go into **Gameplay Settings** and **Do not show cloaks**.
@@ -14,6 +14,11 @@ Just a heads up:
 
 - Wearing a Costume makes it blue on Robe type.
 
-:warning: They are cosmetics only, they do not provide any bonuses.
+!!! warning
+    They are cosmetics only, they do not provide any bonuses.
 
-![Cloaks](https://i.postimg.cc/fLYrRX4j/cloaks.png)
+<figure markdown="1">
+
+![Cloaks](https://i.postimg.cc/fLYrRX4j/cloaks.png){ .lightbox width=700 }
+
+</figure>

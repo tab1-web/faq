@@ -92,7 +92,7 @@ We recommend you to store Adena and AA in your warehouse and only have in your c
 2. Click the `…` and click 'Unlock'
 
 <figure markdown="1">
-![PIN Reset](https://i.postimg.cc/52tDBQ25/caccc.png){: style="width: 60%;"}
+![PIN Reset](https://i.postimg.cc/52tDBQ25/caccc.png){: style="width: 60%;" .lightbox}
 </figure>
 
 <hr>
