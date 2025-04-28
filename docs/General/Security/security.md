@@ -56,10 +56,10 @@ When a character is locked these functions are **disabled:**
 - trade, destroy, crystalize, enchant skills, put or remove augments, put or remove SA, place private store, use private store, manage clan, manage warehouse, sell to NPC
 
 We recommend you to store Adena and AA in your warehouse and only have in your char the basic/necessary amount.
-
 <figure markdown="1">
 ![PIN Reset](https://i.postimg.cc/hGsSK9gX/locksystem.gif){: style="width: 40%;"}
 </figure>
+<hr>
 
 ### Resetting In-Game Lock PIN
 You need to have 2FA, otherwise you can't do it. Enable it here: [l2reborn.org/setting](https://l2reborn.org/setting/)
