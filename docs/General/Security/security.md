@@ -58,7 +58,7 @@ When a character is locked these functions are **disabled:**
 
 We recommend you to store Adena and AA in your warehouse and only have in your char the basic/necessary amount.
 <figure markdown="1">
-![PIN Reset](https://i.postimg.cc/hGsSK9gX/locksystem.gif){: style="width: 40%;"}
+![Lock System](https://i.postimg.cc/hGsSK9gX/locksystem.gif){: style="width: 40%;"}
 </figure>
 <hr>
 
@@ -69,7 +69,9 @@ Go to: [l2reborn.org/game-account](https://l2reborn.org/game-account/) and click
 
 Click the `…` and click 'Unlock'
 
-
+<figure markdown="1">
+![PIN Reset](https://i.postimg.cc/52tDBQ25/caccc.png){: style="width: 60%;"}
+</figure>
 
 <hr>
 
