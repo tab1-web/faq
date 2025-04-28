@@ -5,6 +5,9 @@ icon: material/incognito
 ---
 
 # User Safety
+## Server Rules
+You can read about rules here: [l2reborn.org/server-rules](https://l2reborn.org/server-rules/)
+
 ## Why do I have to worry about this?
 Reborn takes responsibility to provide systems, rules that offer as much protection to our players as possible. However, this responsibility ends on the system end - we cannot and are not responsible for how players act in-game and out-of-game. 
 
