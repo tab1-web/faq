@@ -5,9 +5,16 @@ nav:
     - General:
       - 'Technical Issues': General/TechnicalIssues/technical.md
       - 'Website':  General/Website/website.md
-      - 'Cosmetics': General/Cosmetics/cosmetics.md
       - 'Miscellaneous': General/Miscellaneous/miscellaneous.md
       - 'Security': General/Security/security.md
+      - 'Cosmetics': 
+        - 'General': General/Cosmetics/cosmetics-general.md
+        - 'Previews': 
+          - 'Hats': General/Cosmetics/Hats/hats.md
+          - 'Suits': General/Cosmetics/Suits/suits.md
+          - 'Cloaks': General/Cosmetics/Cloaks/cloaks.md
+          - 'Agathions': General/Cosmetics/Agathions/agathions.md
+
     - Signature:
       - 'Combat': Signature/Combat/signature-combat.md
       - 'Other': Signature/Other/signature-other.md
@@ -41,7 +48,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-
+    - navigation.path
 
 
   palette:
@@ -81,6 +88,7 @@ markdown_extensions:
   - pymdownx.snippets
   - md_in_html
   - pymdownx.blocks.caption
+  - tables
 
 plugins:
   - glightbox

@@ -1,7 +1,0 @@
----
-icon: material/lingerie
-
-
----
-
-# cosmetics
