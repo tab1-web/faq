@@ -53,17 +53,7 @@ Resources:
 
 When a character is locked these functions are **disabled:**
 
-- trade
-- destroy
-- crystalize 
-- enchant skills
-- put or remove augments
-- put or remove SA
-- place private store
-- use private store
-- manage clan
-- manage warehouse
-- sell to NPC
+- trade, destroy, crystalize, enchant skills, put or remove augments, put or remove SA, place private store, use private store, manage clan, manage warehouse, sell to NPC
 
 We recommend you to store Adena and AA in your warehouse and only have in your char the basic/necessary amount.
 
