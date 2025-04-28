@@ -69,8 +69,8 @@ icon: material/server
 - :material-timer-sand: Laid-back auto-farm  
 - :material-scale-balance: Custom class balance  
 - :material-calendar: 2 Servers: 
-    - **Aden** (2 years old)
-    - **Gludio** (5 months old)  
+    - :material-castle: **Aden** (2 years old)
+    - :fontawesome-solid-tower-observation: **Gludio** (5 months old)  
 - :material-account-group: Good population (**1.5k daily peak**)  
 
 :material-check: **Great for**: Players with limited time  
