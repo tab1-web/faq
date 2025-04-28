@@ -1,5 +1,7 @@
 :warning: Cosmetics do not give bonuses, they are for aesthetics only.
 
+On Signature, you cannot test the cosmetics on your character due to L2OFF file limits.
+
 - You can buy coins here: [https://l2reborn.org/balance/](https://l2reborn.org/balance/)
     - 1 Coin is 1 €.
   - After you have to send the coins to the correct server, account & character.
