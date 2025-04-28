@@ -30,24 +30,25 @@ Your account is your **responsibility**.
 !!! danger "Critical Security Tip"
     Never share your password, even with staff members.
 
-=== ":material-alert: Password Tips"
-    - **Use random combinations** (@!?#-.,*/- , numbers and capital letters)
-    - **Never reuse passwords.**
-    - **Enable 2FA.**
+!!! tip
+    === ":material-alert: Password Tips"
+        - **Use random combinations** (@!?#-.,*/- , numbers and capital letters)
+        - **Never reuse passwords.**
+        - **Enable 2FA.**
 
-=== ":material-eye-check: Spot"
-    - **Sharing Accounts** (even with friends or STAFF)
-    - **Clicking suspicious links** (e.g. free gift sites, I dare you to click this link)
-    - **Downloading "cheats" or unverified programs.**
+    === ":material-eye-check: Spot"
+        - **Sharing Accounts** (even with friends or STAFF)
+        - **Clicking suspicious links** (e.g. free gift sites, I dare you to click this link)
+        - **Downloading "cheats" or unverified programs.**
 
-=== ":material-exclamation: **Spot**"
-    - **Staff impersonators** (check GM USERNAMES and not NICKS)
-    - **Urgent threats** (Act now or lose your account!).
-    - **Too good to be true links/offers** (Free giftcards / adena links)
+    === ":material-exclamation: **Spot**"
+        - **Staff impersonators** (check GM USERNAMES and not NICKS)
+        - **Urgent threats** (Act now or lose your account!).
+        - **Too good to be true links/offers** (Free giftcards / adena links)
 
 
 **Summary:**
-![Impersonators](https://i.postimg.cc/KvPHW2Wq/fakeimpersonators-1.png){: style="width: 40%;" .lightbox align=right } <br>
+![Impersonators](https://i.postimg.cc/KvPHW2Wq/fakeimpersonators-1.png){: style="width: 47%;" .lightbox align=right .lightbox } <br>
 
 - You are the first line of defense.
 - No one, not friends or staff, needs your password.
@@ -60,16 +61,16 @@ Your account is your **responsibility**.
 - [Phishing](https://computer.howstuffworks.com/phishing.htm)
 - [Social Engineering](https://www.okta.com/identity-101/social-engineering/)
 <hr>
+!!! info
+    ## :material-lock: Lock System
+    === ":octicons-code-16: Set Lock Pin"
+        `.setlockpw pincode` will set pin code to lock and unlock your character.
 
-## :material-lock: Lock System
-=== ":octicons-code-16: Set Lock Pin"
-    `.setlockpw pincode` will set pin code to lock and unlock your character.
+    === ":fontawesome-solid-toggle-on: Lock"
+        `.lock pincode` enables protection
 
-=== ":fontawesome-solid-toggle-on: Lock"
-    `.lock pincode` enables protection
-
-=== ":fontawesome-solid-toggle-off: Unlock"
-    `.unlock pincode` disables protection
+    === ":fontawesome-solid-toggle-off: Unlock"
+        `.unlock pincode` disables protection
 
 When a character is locked these functions are **disabled:**
 
@@ -117,17 +118,19 @@ Follow the instructions in the window carefully.
 
 ## :material-clipboard: Anti-Scam Policy
 
-=== ":octicons-report-16: Reporting Scams"
+!!! warning
 
-    - All scam cases **can be reported**, and the staff will take action by **banning the scammer**.
+    === ":octicons-report-16: Reporting Scams"
 
-=== ":material-information-outline: Scam Information"
+        - All scam cases **can be reported**, and the staff will take action by **banning the scammer**.
 
-    - Only accounts and characters with **2FA** and `.lock` enabled will receive details about the scammer (`character names`).
+    === ":material-information-outline: Scam Information"
 
-=== ":material-content-save-all: Item Recovery"
+        - Only accounts and characters with **2FA** and `.lock` enabled will receive details about the scammer (`character names`).
 
-    - Scam cases involving valuable items (`epic jewels, top-grade items, etc.`) are eligible for item recovery only if **2FA** and `.lock` were enabled at the time of the scam.
+    === ":material-content-save-all: Item Recovery"
+
+        - Scam cases involving valuable items (`epic jewels, top-grade items, etc.`) are eligible for item recovery only if **2FA** and `.lock` were enabled at the time of the scam.
 
 !!! info
     We believe these measures are fair and reasonable. 
