@@ -76,14 +76,21 @@ Click the `…` and click 'Unlock'
 <hr>
 
 ## 2FA
+![Mobile Authenticator](https://upload.wikimedia.org/wikipedia/commons/0/0f/Aegis_Authenticator_3.2_screenshot.png){ align=right width="150" }
+
 You can enable 2FA here: [l2reborn.org/setting](https://l2reborn.org/setting/). 
 
 Follow the instructions in the window carefully.
 
 ### What is 2FA?
+
 When a user tries to log into your master account it will require a code from your mobile authenticator app. The code is re-generated every 30-60s.
 
 It is highly recommended, you take the first step in securing your account better.
+
+Resources:
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Multi-factor_authentication#Mobile_phone-based_authentication)
 <hr>
 
 ## Anti-Scam Policy
