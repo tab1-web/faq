@@ -3,7 +3,7 @@ site_url: https://tab1-web.github.io/faq/
 nav: 
     - Index: index.md
     - General:
-      - 'Technical Issues': General/TechnicalIssues\technical.md
+      - 'Technical Issues': General/TechnicalIssues/technical.md
       - 'Website':  General/Website/website.md
       - 'Cosmetics': General/Cosmetics/cosmetics.md
       - 'Miscellaneous': General/Miscellaneous/miscellaneous.md
