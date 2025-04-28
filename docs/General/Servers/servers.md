@@ -6,9 +6,10 @@ icon: material/server
 
 # Reborn Server List
 
-## :material-server: Signature x1 (C4 - Interlude)
+## :material-server: Signature x1 (C4 - IL)
 **Progressive Server (Older Chronicles)**
 
+- :fontawesome-solid-scroll: Current Chronicle: C4
 - :material-flask: Modern, high-performance client  
 - :material-close: No catch-up mechanics, high competition  
 - :material-account-group: High population (**4k daily peak**)  
@@ -19,9 +20,10 @@ icon: material/server
 
 ---
 
-## :material-server: Origins x1 (Gracia Epilogue)
+## :material-server: Origins x1 (GF - H5)
 **Progressive Server (Newer Chronicles)**
 
+- :fontawesome-solid-scroll: Current Chronicle: Gracia Epilogue
 - :material-fire: Dynamic Rates: x3 (Lv76), x2 (Lv82), x1.5 (Lv85)  
 - :material-gift: Starter kits (B-Grade), Vitality Buff, Newbie Buffs  
 - :material-account-group: Stable population (**2k daily peak**)  
@@ -32,9 +34,10 @@ icon: material/server
 
 ---
 
-## :material-server: Eternal x10/x30 (Interlude)
+## :material-server: Eternal x10/x30 (IL)
 **Seasonal Server (July/January cycles)**
 
+- :fontawesome-solid-scroll: All-time Chronicle: Interlude
 - :material-cart: GM shop: Mana Potions, C/B-Grade gear  
 - :material-party-popper: NPC buffer, fun events  
 - :material-account-group: High population (**4k daily peak**)  
@@ -45,9 +48,10 @@ icon: material/server
 
 ---
 
-## :material-server: Forever H5 x15 (High-Five)
+## :material-server: Forever H5 x15 (H5)
 **Seasonal Server (October/April cycles)**
 
+- :fontawesome-solid-scroll: All-time Chronicle: H5
 - :material-cart: GM shop: Mana Potions + S-Grade gear  
 - :material-account-group: Stable population (**2k on launch**)  
 
@@ -60,6 +64,7 @@ icon: material/server
 ## :material-server: Essence x1 (High Elf)
 **Progressive Server (Modern Chronicles)**
 
+- :fontawesome-solid-scroll: Current Chronicle: High Elf
 - :material-cards: Cool skills & gambling mechanics  
 - :material-timer-sand: Laid-back auto-farm  
 - :material-scale-balance: Custom class balance  
