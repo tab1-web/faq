@@ -5,6 +5,7 @@ extra_css:
 nav: 
     - Index: index.md
     - General:
+      - 'Servers': General/Servers/servers.md
       - 'Technical Issues': General/TechnicalIssues/technical.md
       - 'Website':  General/Website/website.md
       - 'Miscellaneous': General/Miscellaneous/miscellaneous.md
