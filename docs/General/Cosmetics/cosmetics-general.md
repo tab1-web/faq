@@ -1,5 +1,5 @@
 ---
-icon: material/folder
+icon: material/currency-eur
 
 ---
 

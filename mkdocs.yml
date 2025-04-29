@@ -13,17 +13,16 @@ nav:
         - 'Rules': General/Security/UserSafety/rules.md
         - 'Info': General/Security/UserSafety/security.md
         - 'Features': General/Security/UserSafety/features.md
-      - 'Game': 
-        - 'Noblesse': General/Game/Noblesse/noblesse.md
-        - 'Subclasses': General/Game/Subclasses/subclasses.md
       - 'Cosmetics': 
-        - 'General': General/Cosmetics/cosmetics-general.md
+        - 'Info': General/Cosmetics/cosmetics-general.md
         - 'Previews': 
           - 'Hats': General/Cosmetics/Hats/hats.md
           - 'Suits': General/Cosmetics/Suits/suits.md
           - 'Cloaks': General/Cosmetics/Cloaks/cloaks.md
           - 'Agathions': General/Cosmetics/Agathions/agathions.md
-
+    - Game: 
+      - 'Noblesse': Game/noblesse.md
+      - 'Subclasses': Game/subclasses.md
     - Signature:
       - 'Combat': Signature/Combat/signature-combat.md
       - 'Other': Signature/Other/signature-other.md
