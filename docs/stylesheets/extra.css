@@ -1,14 +1,4 @@
-table td.off {
-    color: grey;
+.md-top {
+    background-color: var(--md-primary-fg-color);
+    color: white;
 }
-
-table td {
-    cursor: pointer;
-}
-
-
-table td.selected {
-    font-size: large;
-    font-weight: bold;
-}
-

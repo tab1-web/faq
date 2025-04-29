@@ -2,7 +2,23 @@
 icon: material/dna
 
 ---
+<style>
 
+table td.off {
+    color: grey;
+}
+
+table td {
+    cursor: pointer;
+}
+
+
+table td.selected {
+    font-size: large;
+    font-weight: bold;
+}
+
+</style>
 
 ## :material-dna: General Info
 
@@ -105,8 +121,17 @@ Your main class is the selected one, the cell turns grey if you can't have that 
 
     
 <script>
-document$.subscribe(function () {
-  const cells = document.querySelectorAll("table td");
+if (!sessionStorage.getItem('subclassPageLoaded')) {
+    sessionStorage.setItem('subclassPageLoaded', 'true');
+    setTimeout(() => {
+        window.location.reload();
+    }, 100);
+} else {
+    sessionStorage.removeItem('subclassPageLoaded');
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    const cells = document.querySelectorAll("table td");
     const excluded = ["Inspector"];
 
 cells.forEach(cell => {
