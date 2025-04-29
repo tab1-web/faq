@@ -1,35 +1,70 @@
-## General
-Subclasses are major part of progression in the game. It allows you essentially to have another class
-on your main class, starting from level 40 that you can switch to.
+## :material-dna: General Info
 
-When switching classes, the buff state and symbol information is not maintained.
+Subclasses are a major milestone in your character's progression. If you finish the subclass quests,
+you're eligible to unlock a new class on the same character that starts from level 40, 
+allowing you to switch classes.
 
-You can switch between your main class and your subclasses through the appropriate Master of 
-each class in the village.
+!!! tip "Quick Start"
+    Talk to the appropriate **Class Master** in your village to switch between your **main class** and any **subclass** you've unlocked.
 
-Property of character, PvP/PK counter, information related to the clan/siege, recommended numeric 
-value and number of votes, friends list, party information, numeric value related to the Seven Signs, 
-and quest information are retained as in the previous class. Warehouse and inventory are also shared. 
-Therefore, please note that, when switching classes, in some cases, you are not able to move due to 
-weight restrictions.
+---
 
-!!! info
-    You may not select a **similar class** as the subclass. The occupations classified as similar 
-    classes are as follows:
+### :material-book: Subclass Mechanics
 
-    - Treasure Hunter, Plainswalker and Abyss Walker
-    - Hawkeye, Silver Ranger and Phantom Ranger
-    - Paladin, Dark Avenger, Temple Knight and Shillien Knight
-    - Warlocks, Elemental Summoner and Phantom Summoner
-    - Elder and Shillien Elder
-    - Swordsinger and Bladedancer
-    - Sorcerer, Spellsinger and Spellhowler
+- Switching classes **removes active buffs and symbol skills**.
+- The following information is **retained** between main and subclass:
 
-    If the race of the main class is **Elf** or **Dark Elf**, you may not select either class as a 
-    subclass to the other class. You may not select either the Overlord or Warsmith class as a 
-    subclass.
+    - :material-sword-cross: PvP/PK count
+    - :material-account-group: Clan and siege info
+    - :material-thumb-up: Recommendations and votes
+    - :material-account-multiple: Friends and party
+    - :material-scale-balance: Seven Signs progress
+    - :material-book: Quest progress
+    - :material-warehouse: Inventory & Warehouse
+
+- :fontawesome-solid-exclamation: **Note:** Weight penalties still apply, and you may become **overloaded** after switching classes.
+
+---
+
+### :octicons-sliders-16: Subclass Limits
+
+- Level up a subclass to **75** to unlock **two more**.
+- There’s **no cooldown** or limit on how often you can switch.
+- Subclasses are required to unlock:
+    - :material-crown: **Noblesse**
+        - :material-trophy: **Olympiad participation**
+
+---
+
+???+ info "Class Restrictions"
+
+    You may **not select a similar class** as a subclass. The following groups are considered "similar":
+
+    - Treasure Hunter, Plainswalker, Abyss Walker  
+    - Hawkeye, Silver Ranger, Phantom Ranger  
+    - Paladin, Dark Avenger, Temple Knight, Shillien Knight  
+    - Warlock, Elemental Summoner, Phantom Summoner  
+    - Elder, Shillien Elder  
+    - Swordsinger, Bladedancer  
+    - Sorcerer, Spellsinger, Spellhowler  
+
+    Additional limitations:
+
+    - If your main class is **Elf** or **Dark Elf**, you cannot select a subclass from the other.
+    - You may **not subclass Overlord or Warsmith**.
+
+---
+
+## :fontawesome-solid-scroll: Required Quests
+
+To unlock your subclass, complete the following quests:
+
+- :material-key: [**Fate's Whisper**](https://lineage2wiki.com/c4/quest/234/fates-whisper/)
+- :material-flask-outline: [**Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/)
 
 ## Subclass Selection Interactive Table
+(**Note**: if you refresh the page, the interactive table doesn't work.)
+
 Your main class is the selected one, the cell turns grey if you can't have that subclass.
 
 | Human           | Elf                | Dark Elf         | Orc       | Dwarf         |
@@ -165,4 +200,7 @@ cells.forEach(cell => {
     return map[cellValue] || [];
   }
 });
+
 </script>
+
+
