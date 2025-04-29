@@ -14,12 +14,109 @@ icon: material/incognito
 - [Anti-Scam Policy](#anti-scam-policy)
 <hr>
 
-## :fontawesome-regular-file-lines: Server Rules
+## :material-file-document-outline: Server Rules
 
-You can read about rules here: [l2reborn.org/server-rules](https://l2reborn.org/server-rules/)
-<hr>
+### :material-shield-check: **Applicable on all L2Reborn Servers**
 
-## :octicons-question-16: Why do I have to worry about this?
+!!! tip "Read Carefully"
+    These rules apply to **all L2Reborn servers** unless otherwise noted. Violations may lead to penalties including suspensions or bans.
+
+---
+
+### :material-robot-off-outline: **1. Botting**
+
+The use of **automation tools** is **strictly prohibited**.  
+:material-check: Only in-game macros (via the Macro system) are allowed.
+
+---
+
+### :material-account-multiple-remove: **2. Dualbox / AFK Farming**
+
+- :material-close: Dualboxing and AFK farming are **not allowed**.  
+- :material-account: Players may control **only one character at a time per server**.
+    - :material-monitor-multiple: Using **multiple devices** to play multiple characters is **forbidden**.  
+    - :material-wifi: Multiple players on the **same network (e.g., shared Wi-Fi)** are permitted *as long as*:
+        - :material-numeric-1-circle: Each player controls **only one character**
+        - :material-shield-check: Each player is **able to solve captchas**
+- :material-server-network: You may play on **multiple servers**, but:
+    - You must remain **active on all**.
+    - :material-alert: Being AFK or failing captchas on one server due to activity on another is **not a valid excuse**.
+
+---
+
+### :material-currency-usd-off: **3. Real Money Trading (RMT)**
+
+Exchanging in-game items, services, characters, or accounts for **real money** is strictly **prohibited**.  
+
+---
+
+### :material-bug: **4. Exploits**
+
+- :material-alert-octagon: Any bugs must be reported to staff.
+- :material-hammer-wrench: Deliberate abuse of bugs for gain will lead to **penalties**.
+
+---
+
+### :material-account-alert: **5. Scamming**
+
+All forms of scamming are **forbidden**.
+
+**Includes:**
+
+- :material-store-alert-outline: **Scamshops** (fake item listings or misleading names)
+- :material-account-key-outline: **Account theft** (stealing items by logging into another player’s account)
+
+!!! warning "High-Value Item Clause"
+    Scams involving major gear (e.g., S-grade, epic jewelry) may be reviewed for possible compensation.
+
+---
+
+### :material-storefront-outline: **6. Shops**
+- :material-account: Refer to Rule 5 regarding scamshops.
+- Each player is allowed only one shop at a time:
+    - This can be one **offline shop**.
+    - If your client is active, you may also run one **online shop**.
+
+---
+
+### :material-server: **7. Playing on Multiple Servers**
+
+:material-check: You may play on more than one L2Reborn server. However:
+
+- All servers’ rules apply fully.
+- :material-alert: Don’t use one server as an excuse for neglecting another (e.g., failing captchas).
+
+!!! tip "Optimize Your Time"
+    Setting up a shop or organizing gear on one server while farming actively on another is the best way to multi-task.
+
+---
+
+## :material-dna: **Essence-Specific Rules**
+
+### :material-sleep: **1. Offline Farming**
+
+:material-check: Offline farming is allowed via the in-game system.  
+:material-close: You **may not** open a second client to farm actively with another character at the same time.
+
+---
+
+### :material-mouse: **2. Mouse Macros**
+
+:material-check: The use of mouse macro software is permitted despite the general prohibition in Rule 1.
+
+:material-close: Use of generic auto-clickers or random macro software is not permitted.
+
+---
+
+### :material-emoticon-angry-outline: **3. Griefing is Prohibited**
+
+Any actions considered "griefing" are **not allowed**.
+
+:material-clippy: See: [Changelog Essence-66](https://l2reborn.org/news/changelog-essence-66/) for more details.
+
+---
+
+## :octicons-question-16: Why do I have to worry about Account Security?
 
 **Reborn takes responsibility to provide systems**, rules that offer as much protection to our players as possible. However, **this responsibility ends on the system end** - we cannot and are not responsible for how players act in-game and out-of-game. 
 
@@ -46,11 +143,25 @@ Your account is your **responsibility**.
         - **Urgent threats** (Act now or lose your account!).
         - **Too good to be true links/offers** (Free giftcards / adena links)
 
+<div class="grid cards" markdown>
+
+<figure markdown="span">
+    <a href="https://postimg.cc/KvPHW2Wq">
+        ![Staff Impersonators](https://i.postimg.cc/KvPHW2Wq/fakeimpersonators-1.png){ .lightbox }
+    </a>
+<figcaption>Staff Impersonators</figcaption>
+</figure>
+
+<figure markdown="span">
+    <a href="https://postimg.cc/fScz8JTH">
+        ![Password Cracking Times](https://i.postimg.cc/vTj4HnRd/redreader-dl-363029.png){ .lightbox }
+    </a>
+<figcaption>Password Cracking Times</figcaption>
+</figure>
+
+</div>
 
 **Summary:**
-<a href="https://postimg.cc/KvPHW2Wq">
-![Impersonators](https://i.postimg.cc/KvPHW2Wq/fakeimpersonators-1.png){: style="width: 47%;" .lightbox align=right .lightbox } 
-</a> <br>
 
 - You are the first line of defense.
 - No one, not friends or staff, needs your password.
@@ -105,9 +216,7 @@ We recommend you to store Adena and AA in your warehouse and only have in your c
 <hr>
 
 ## :simple-2fas: 2FA
-<a href="https://upload.wikimedia.org/wikipedia/commons/0/0f/Aegis_Authenticator_3.2_screenshot.png">
-![Mobile Authenticator](https://upload.wikimedia.org/wikipedia/commons/0/0f/Aegis_Authenticator_3.2_screenshot.png){ align=right width="140" .lightbox }
-</a>
+
 
 You can enable 2FA here: [l2reborn.org/setting](https://l2reborn.org/setting/). 
 
@@ -118,6 +227,12 @@ Follow the instructions in the window carefully.
     When a user tries to log into your master account it will require a code from your mobile authenticator app. The code is re-generated every 30-60s.
 
     It is highly recommended, you take the first step in securing your account better.
+
+<figure markdown="1">
+<a href="https://upload.wikimedia.org/wikipedia/commons/0/0f/Aegis_Authenticator_3.2_screenshot.png">
+![Mobile Authenticator](https://upload.wikimedia.org/wikipedia/commons/0/0f/Aegis_Authenticator_3.2_screenshot.png){ width=25% .lightbox }
+</a>
+</figure>
 
 **Resources:**
 
