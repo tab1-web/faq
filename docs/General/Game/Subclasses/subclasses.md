@@ -1,3 +1,9 @@
+---
+icon: material/dna
+
+---
+
+
 ## :material-dna: General Info
 
 Subclasses are a major milestone in your character's progression. If you finish the subclass quests,
