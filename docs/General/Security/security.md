@@ -8,7 +8,7 @@ icon: material/incognito
 
 ## :material-table-of-contents: Contents
 - [Server Rules](#server-rules)
-- [Account Security](#why-do-i-have-to-worry-about-this)
+- [Account Security](#why-do-i-have-to-worry-about-account-security)
 - [Lock System](#lock-system)
 - [2FA](#2fa)
 - [Anti-Scam Policy](#anti-scam-policy)
