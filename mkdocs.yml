@@ -9,7 +9,10 @@ nav:
       - 'Technical Issues': General/TechnicalIssues/technical.md
       - 'Website':  General/Website/website.md
       - 'Miscellaneous': General/Miscellaneous/miscellaneous.md
-      - 'Security': General/Security/security.md
+      - 'Security':
+        - 'Rules': General/Security/UserSafety/rules.md
+        - 'Info': General/Security/UserSafety/security.md
+        - 'Features': General/Security/UserSafety/features.md
       - 'Game': 
         - 'Subclasses': General/Game/Subclasses/subclasses.md
       - 'Cosmetics': 

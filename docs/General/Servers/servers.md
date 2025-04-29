@@ -16,7 +16,8 @@ icon: material/server
 
 :material-check: **Great for**: Veterans or players seeking a challenge  
 
-[More Info](https://l2reborn.org/news/reborn-signature-features/){ .md-button } [Video](https://www.youtube.com/watch?v=Xyqw43h7Qio){ .md-button }  [FAQ](https://discord.com/channels/622089207028121602/1307133204854997032/1307133249218285721){ .md-button }
+[More Info](https://l2reborn.org/news/reborn-signature-features/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
+[Video](https://www.youtube.com/watch?v=Xyqw43h7Qio){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
 
 ---
 
@@ -30,7 +31,8 @@ icon: material/server
 
 :material-check: **Great for**: New players wanting traditional x1 experience  
 
-[More Info](https://l2reborn.org/origins/full-description/){ .md-button } [Video](https://www.youtube.com/watch?v=T6lTyDTm2P8){ .md-button }
+[More Info](https://l2reborn.org/origins/full-description/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" } 
+[Video](https://www.youtube.com/watch?v=T6lTyDTm2P8){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
 
 ---
 
@@ -44,7 +46,9 @@ icon: material/server
 
 :material-check: **Great for**: Learning classes in low-pressure environment  
 
-[More Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button } [Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button } [Guide](https://l2reborn.org/news/adventure-guide/){ .md-button }
+[More Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" } 
+[Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
+[Guide](https://l2reborn.org/news/adventure-guide/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
 
 ---
 
@@ -57,7 +61,9 @@ icon: material/server
 
 :material-check: **Great for**: Mid-rate H5 seasonal enthusiasts  
 
-[More Info](https://l2reborn.org/forever-h5/full-description/){ .md-button } [Walkthrough](https://l2reborn.org/news/high-five-walkthrough/){ .md-button } [Video](https://youtu.be/BWjJ2MEUo9A){ .md-button }
+[More Info](https://l2reborn.org/forever-h5/full-description/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
+[Walkthrough](https://l2reborn.org/news/high-five-walkthrough/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
+[Video](https://youtu.be/BWjJ2MEUo9A){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
 
 ---
 
@@ -75,7 +81,9 @@ icon: material/server
 
 :material-check: **Great for**: Players with limited time  
 
-[More Info](https://l2reborn.org/essence/full-description/){ .md-button } [Class Balance](https://l2reborn.org/news/class-balance-v2-5/){ .md-button } [Video](https://www.youtube.com/watch?v=w4JF9_zTO1o){ .md-button }
+[More Info](https://l2reborn.org/essence/full-description/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
+[Class Balance](https://l2reborn.org/news/class-balance-v2-5/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
+[Video](https://www.youtube.com/watch?v=w4JF9_zTO1o){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
 
 ---
 
