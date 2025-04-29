@@ -8,16 +8,24 @@ icon: material/paw
 
 <div class="grid cards" markdown >
 
-- ![Phoenix](https://i.postimg.cc/8zrmg9PK/Phoenix-Agathion.gif){ .lightbox } <br>
+- <a href="https://.postimg.cc/8zrmg9PK/">
+![Phoenix](https://i.postimg.cc/8zrmg9PK/Phoenix-Agathion.gif){ .lightbox }
+</a> <br>
   **Phoenix Agathion**
 
-- ![Flower Fairy](https://i.postimg.cc/nV0k4qPk/Flower-Fairy-Spirit-Agathion.gif){ .lightbox } <br>
+- <a href="https://postimg.cc/nV0k4qPk/">
+![Flower Fairy](https://i.postimg.cc/nV0k4qPk/Flower-Fairy-Spirit-Agathion.gif){ .lightbox }
+</a> <br>
   **Flower Fairy Spirit Agathion**
 
-- ![Pegasus](https://i.postimg.cc/Y0qxcShY/Pegasus-Agathion.gif){ .lightbox } <br>
+- <a href="https://postimg.cc/Y0qxcShY">
+![Pegasus](https://i.postimg.cc/Y0qxcShY/Pegasus-Agathion.gif){ .lightbox } 
+</a> <br>
   **Pegasus Agathion**
 
-- ![Utanka](https://i.postimg.cc/sXJJ0WD3/Utanka-Agathion.gif){ .lightbox } <br>
+- <a href="https://postimg.cc/Y0qxcShY">
+![Utanka](https://i.postimg.cc/sXJJ0WD3/Utanka-Agathion.gif){ .lightbox } 
+</a> <br>
   **Utanka Agathion**
 
 </div>

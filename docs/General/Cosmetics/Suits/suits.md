@@ -13,53 +13,85 @@ To equip suits, you need to go to your **skills** (`ALT + K`) and **activate the
 
 <div class="grid cards" markdown>
 
-- ![Freya Suit](https://i.postimg.cc/SQgvd1jn/Freya.jpg) <br>
+- <a href="https://postimg.cc/SQgvd1jn/">
+![Freya Suit](https://i.postimg.cc/SQgvd1jn/Freya.jpg) 
+</a> <br>
   **Freya Suit**
 
-- ![Kelbim Suit](https://i.postimg.cc/LXC3t7vR/Kelbim.jpg) <br>
+- <a href="https://postimg.cc/LXC3t7vR">
+![Kelbim Suit](https://i.postimg.cc/LXC3t7vR/Kelbim.jpg) 
+</a> <br>
   **Kelbim Suit**
 
-- ![Military Suit](https://i.postimg.cc/J7FQtfG5/Military.jpg) <br>
+- <a href="https://postimg.cc/J7FQtfG5">
+![Military Suit](https://i.postimg.cc/J7FQtfG5/Military.jpg) 
+</a> <br>
   **Military Suit** <br>
   Comes with two options: **Without** or **with** a hat.
 
-- ![Rock Suit](https://i.postimg.cc/k44xgsCH/Rock.jpg) <br>
+- <a href="https://postimg.cc/k44xgsCH">
+![Rock Suit](https://i.postimg.cc/k44xgsCH/Rock.jpg) 
+</a> <br>
   **Rock Suit** <br>
 
-- ![Dark Knight Suit](https://i.postimg.cc/52YT6546/Dark-Knight.jpg) <br>
+- <a href="https://postimg.cc/52YT6546">
+![Dark Knight Suit](https://i.postimg.cc/52YT6546/Dark-Knight.jpg) 
+</a> <br>
   **Dark Knight Suit**
 
-- ![Ninja Suit](https://i.postimg.cc/RVnLtgt5/Ninja.jpg) <br>
+- <a href="https://postimg.cc/RVnLtgt5">
+![Ninja Suit](https://i.postimg.cc/RVnLtgt5/Ninja.jpg) 
+</a> <br>
   **Ninja Suit**
 
-- ![Blue Musketeer Suit](https://i.postimg.cc/wBszY8y4/Blue-Musketeer.jpg) <br>
+- <a href="https://postimg.cc/wBszY8y4">
+![Blue Musketeer Suit](https://i.postimg.cc/wBszY8y4/Blue-Musketeer.jpg) 
+</a> <br>
   **Blue Musketeer Suit**
 
-- ![Red Musketeer Suit](https://i.postimg.cc/nrQ4qCWN/Red-Musketeer.jpg) <br>
+- <a href="https://postimg.cc/nrQ4qCWN">
+![Red Musketeer Suit](https://i.postimg.cc/nrQ4qCWN/Red-Musketeer.jpg) 
+</a> <br>
   **Red Musketeer Suit**
 
-- ![Red Noblesse Suit](https://i.postimg.cc/wBHMCRNN/Red-Noblesse.jpg) <br>
+- <a href="https://postimg.cc/wBHMCRNN"> 
+![Red Noblesse Suit](https://i.postimg.cc/wBHMCRNN/Red-Noblesse.jpg) 
+</a> <br>
   **Red Noblesse Suit**
 
-- ![White Noblesse Suit](https://i.postimg.cc/4NtFGfB9/White-Noblesse.jpg) <br>
+- <a href="https://postimg.cc/4NtFGfB9">
+![White Noblesse Suit](https://i.postimg.cc/4NtFGfB9/White-Noblesse.jpg) 
+</a> <br>
   **White Noblesse Suit**
 
-- ![Red Pirate Suit](https://i.postimg.cc/Bnq8nz6w/Red-Pirate.jpg) <br>
+- <a href="https://postimg.cc/Bnq8nz6w">
+![Red Pirate Suit](https://i.postimg.cc/Bnq8nz6w/Red-Pirate.jpg) 
+</a> <br>
   **Red Pirate Suit**
 
-- ![White Assassin Suit](https://i.postimg.cc/pyN8ktjN/White-Assassin.jpg) <br>
+- <a href="https://postimg.cc/pyN8ktjNg">
+![White Assassin Suit](https://i.postimg.cc/pyN8ktjN/White-Assassin.jpg) 
+</a> <br>
   **White Assassin Suit**
 
-- ![Black Assassin Suit](https://i.postimg.cc/K8pcyD9j/Black-Assassin.jpg) <br>
+- <a href="https://postimg.cc/K8pcyD9j">
+![Black Assassin Suit](https://i.postimg.cc/K8pcyD9j/Black-Assassin.jpg) 
+</a> <br>
   **Black Assassin Suit**
 
-- ![Chevalier Suit](https://i.postimg.cc/5N8v0vmj/Chevalier.jpg) <br>
+- <a href="https://postimg.cc/5N8v0vmj">
+![Chevalier Suit](https://i.postimg.cc/5N8v0vmj/Chevalier.jpg) 
+</a> <br>
   **Chevalier Suit**
 
-- ![Valkyrie Suit](https://i.postimg.cc/tJnWhgYt/Valkyrie.jpg) <br>
+- <a href="https://postimg.cc/tJnWhgYt">
+![Valkyrie Suit](https://i.postimg.cc/tJnWhgYt/Valkyrie.jpg) 
+</a> <br>
   **Valkyrie Suit**
 
-- ![Wizard Wine Suit](https://i.postimg.cc/cLSk4pb5/Wizard-Wine.jpg) <br>
+- <a href="https://postimg.cc/cLSk4pb5">
+![Wizard Wine Suit](https://i.postimg.cc/cLSk4pb5/Wizard-Wine.jpg) 
+</a> <br>
   **Wizard Wine Suit**
 
 </div>

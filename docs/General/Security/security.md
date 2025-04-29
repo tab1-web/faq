@@ -41,14 +41,16 @@ Your account is your **responsibility**.
         - **Clicking suspicious links** (e.g. free gift sites, I dare you to click this link)
         - **Downloading "cheats" or unverified programs.**
 
-    === ":material-exclamation: **Spot**"
+    === ":material-exclamation: **Avoid**"
         - **Staff impersonators** (check GM USERNAMES and not NICKS)
         - **Urgent threats** (Act now or lose your account!).
         - **Too good to be true links/offers** (Free giftcards / adena links)
 
 
 **Summary:**
-![Impersonators](https://i.postimg.cc/KvPHW2Wq/fakeimpersonators-1.png){: style="width: 47%;" .lightbox align=right .lightbox } <br>
+<a href="https://postimg.cc/KvPHW2Wq">
+![Impersonators](https://i.postimg.cc/KvPHW2Wq/fakeimpersonators-1.png){: style="width: 47%;" .lightbox align=right .lightbox } 
+</a> <br>
 
 - You are the first line of defense.
 - No one, not friends or staff, needs your password.
@@ -78,7 +80,9 @@ When a character is locked these functions are **disabled:**
 
 We recommend you to store Adena and AA in your warehouse and only have in your char the basic/necessary amount.
 <figure markdown="1">
+<a href="https://postimg.cc/hGsSK9gX">
 ![Lock System](https://i.postimg.cc/hGsSK9gX/locksystem.gif){: style="width: 40%;" .lightbox }
+</a>
 </figure>
 <hr>
 
@@ -93,13 +97,17 @@ We recommend you to store Adena and AA in your warehouse and only have in your c
 2. Click the `…` and click 'Unlock'
 
 <figure markdown="1">
+<a href="https://postimg.cc/52tDBQ25">
 ![PIN Reset](https://i.postimg.cc/52tDBQ25/caccc.png){: style="width: 60%;" .lightbox}
+</a>
 </figure>
 
 <hr>
 
 ## :simple-2fas: 2FA
+<a href="https://upload.wikimedia.org/wikipedia/commons/0/0f/Aegis_Authenticator_3.2_screenshot.png">
 ![Mobile Authenticator](https://upload.wikimedia.org/wikipedia/commons/0/0f/Aegis_Authenticator_3.2_screenshot.png){ align=right width="140" .lightbox }
+</a>
 
 You can enable 2FA here: [l2reborn.org/setting](https://l2reborn.org/setting/). 
 

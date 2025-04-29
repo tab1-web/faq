@@ -17,6 +17,8 @@ To **turn off cloaks**: Go into **Gameplay Settings** and **Do not show cloaks**
 
 <figure markdown="1">
 
+<a href="https://postimg.cc/fLYrRX4j"> 
 ![Cloaks](https://i.postimg.cc/fLYrRX4j/cloaks.png){ .lightbox width=700 }
+</a>
 
 </figure>

@@ -10,6 +10,8 @@ nav:
       - 'Website':  General/Website/website.md
       - 'Miscellaneous': General/Miscellaneous/miscellaneous.md
       - 'Security': General/Security/security.md
+      - 'Game': 
+        - 'Subclasses': General/Game/Subclasses/subclasses.md
       - 'Cosmetics': 
         - 'General': General/Cosmetics/cosmetics-general.md
         - 'Previews': 
@@ -95,5 +97,4 @@ markdown_extensions:
   
 plugins:
   - search
-  - glightbox
   - tags
