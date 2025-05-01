@@ -6,9 +6,11 @@ nav:
     - Index: index.md
     - General:
       - 'Servers': General/Servers/servers.md
-      - 'Technical Issues': General/TechnicalIssues/technical.md
       - 'Website':  General/Website/website.md
       - 'Miscellaneous': General/Miscellaneous/miscellaneous.md
+      - 'Technical Issues':
+        - 'In-Game': General/TechnicalIssues/inside.md
+        - 'Outside the Game': General/TechnicalIssues/outside.md 
       - 'Security':
         - 'Rules': General/Security/UserSafety/rules.md
         - 'Info': General/Security/UserSafety/security.md
