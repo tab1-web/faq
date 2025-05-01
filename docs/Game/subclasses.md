@@ -54,7 +54,7 @@ allowing you to switch classes.
 - There’s **no cooldown** or limit on how often you can switch.
 - Subclasses are required to unlock:
     - :material-crown: **Noblesse**
-        - :material-trophy: **Olympiad participation**
+        - :material-trophy: and **Olympiad participation** requires Noblesse
 
 ---
 
