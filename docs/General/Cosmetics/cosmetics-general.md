@@ -1,5 +1,5 @@
 ---
-icon: material/currency-eur
+icon: octicons/info-16
 
 ---
 

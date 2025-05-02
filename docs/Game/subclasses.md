@@ -85,9 +85,8 @@ To unlock your subclass, complete the following quests:
 - :material-flask-outline: [**Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/)
 
 ## Subclass Selection Interactive Table
-(**Note**: if you refresh the page, the interactive table doesn't work.)
 
-Your main class is the selected one, the cell turns grey if you can't have that subclass.
+Your **main class is the selected one**, the cell turns `grey` if you can't have that subclass.
 
 | Human           | Elf                | Dark Elf         | Orc       | Dwarf         |
 |-----------------|--------------------|------------------|-----------|---------------|

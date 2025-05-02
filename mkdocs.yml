@@ -2,36 +2,35 @@ site_name: Frequently Asked Questions
 site_url: https://tab1-web.github.io/faq/
 extra_css:
   - stylesheets/extra.css
-nav: 
-    - Index: index.md
-    - General:
-      - 'Servers': General/Servers/servers.md
-      - 'Website':  General/Website/website.md
-      - 'Miscellaneous': General/Miscellaneous/miscellaneous.md
-      - 'Technical Issues':
-        - 'In-Game': General/TechnicalIssues/inside.md
-        - 'Outside the Game': General/TechnicalIssues/outside.md 
-      - 'Security':
-        - 'Rules': General/Security/UserSafety/rules.md
-        - 'Info': General/Security/UserSafety/security.md
-        - 'Features': General/Security/UserSafety/features.md
-      - 'Cosmetics': 
-        - 'Info': General/Cosmetics/cosmetics-general.md
-        - 'Previews': 
-          - 'Hats': General/Cosmetics/Hats/hats.md
-          - 'Suits': General/Cosmetics/Suits/suits.md
-          - 'Cloaks': General/Cosmetics/Cloaks/cloaks.md
-          - 'Agathions': General/Cosmetics/Agathions/agathions.md
-    - Game: 
-      - 'Noblesse': Game/noblesse.md
-      - 'Subclasses': Game/subclasses.md
-    - Signature:
-      - 'Combat': Signature/Combat/signature-combat.md
-      - 'Other': Signature/Other/signature-other.md
-      - 'Progression':
-        - 'Progression': 'Signature/Progression/signature-progression.md'
-        - 'Items': 'Signature/Progression/Items/signature-items.md'
-        - 'Quests': 'Signature/Progression/Quests/signature-quests.md'
+nav:
+  - 'Home': index.md
+  - 'Getting Started':
+    - 'Servers': General/Servers/servers.md
+    - 'Website': General/Website/website.md
+    - 'Cosmetics':
+      - 'Overview': General/Cosmetics/cosmetics-general.md
+      - 'Previews':
+        - 'Hats': General/Cosmetics/Hats/hats.md
+        - 'Suits': General/Cosmetics/Suits/suits.md
+        - 'Cloaks': General/Cosmetics/Cloaks/cloaks.md
+        - 'Agathions': General\Cosmetics\Agathions\agathions.md
+  - 'Help & Support':
+    - 'User Safety': General\Security\UserSafety\security.md
+    - 'Rules': General/Security/UserSafety/rules.md
+    - 'Features': General/Security/UserSafety/features.md
+    - 'Troubleshoot':
+      - 'In-Game Issues': General/TechnicalIssues/inside.md
+      - 'Out-of-Game Issues': General/TechnicalIssues/outside.md
+
+
+
+  - 'Gameplay':
+    - 'Noblesse': Game/noblesse.md
+    - 'Subclasses': Game/subclasses.md
+  - 'Signature':
+    - 'Combat': Signature/Combat/signature-combat.md
+    - 'Progression': Signature/Progression/signature-progression.md
+    - 'Quests': Signature/Progression/Quests/signature-quests.md
 theme:
   name: material
   
@@ -52,7 +51,6 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
-    - navigation.expand
     - toc.integrate
     - navigation.top
     - search.suggest

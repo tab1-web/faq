@@ -103,3 +103,7 @@ Any actions considered "griefing" are **not allowed**.
 :material-clippy: See: [Changelog Essence-66](https://l2reborn.org/news/changelog-essence-66/) for more details.
 
 ---
+
+**Resources**
+
+- [Server Rules](https://l2reborn.org/server-rules/)
