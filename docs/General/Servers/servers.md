@@ -4,6 +4,12 @@ icon: material/server
 
 ---
 
+<style>
+.md-button {
+    margin: 0.1rem;
+}
+</style>
+
 # Reborn Server List
 
 <figure markdown="span">
@@ -25,8 +31,8 @@ icon: material/server
     ---
 
     <figure markdown="span">
-    [More Info](https://l2reborn.org/news/reborn-signature-features/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
-    [Video](https://www.youtube.com/watch?v=Xyqw43h7Qio){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
+    [Info](https://l2reborn.org/news/reborn-signature-features/){ .md-button .lightbox  }
+    [Video](https://www.youtube.com/watch?v=Xyqw43h7Qio){ .md-button .lightbox }
     </figure>
 
 
@@ -45,8 +51,8 @@ icon: material/server
     ---
 
     <figure markdown="span">
-    [More Info](https://l2reborn.org/origins/full-description/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" } 
-    [Video](https://www.youtube.com/watch?v=T6lTyDTm2P8){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
+    [Info](https://l2reborn.org/origins/full-description/){ .md-button .lightbox } 
+    [Video](https://www.youtube.com/watch?v=T6lTyDTm2P8){ .md-button .lightbox }
     </figure>
 
 
@@ -66,9 +72,9 @@ icon: material/server
     ---
 
     <figure markdown="span">
-    [More Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em" } 
-    [Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
-    [Guide](https://l2reborn.org/news/adventure-guide/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
+    [Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button .lightbox } 
+    [Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button .lightbox }
+    [Guide](https://l2reborn.org/news/adventure-guide/){ .md-button .lightbox }
     </figure>
 
 
@@ -87,9 +93,9 @@ icon: material/server
     ---
 
     <figure markdown="span">
-    [More Info](https://l2reborn.org/forever-h5/full-description/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
-    [Walkthrough](https://l2reborn.org/news/high-five-walkthrough/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
-    [Video](https://youtu.be/BWjJ2MEUo9A){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
+    [Info](https://l2reborn.org/forever-h5/full-description/){ .md-button .lightbox }
+    [Guide](https://l2reborn.org/news/high-five-walkthrough/){ .md-button .lightbox }
+    [Video](https://youtu.be/BWjJ2MEUo9A){ .md-button .lightbox }
     </figure>
 
 
@@ -109,9 +115,9 @@ icon: material/server
     ---
 
     <figure markdown="span">
-    [More Info](https://l2reborn.org/essence/full-description/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
-    [Class Balance](https://l2reborn.org/news/class-balance-v2-5/){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
-    [Video](https://www.youtube.com/watch?v=w4JF9_zTO1o){ .md-button style="font-size: 1.1em; padding: 0.3em 0.6em;" }
+    [Info](https://l2reborn.org/essence/full-description/){ .md-button .lightbox }
+    [Class Balance](https://l2reborn.org/news/class-balance-v2-5/){ .md-button .lightbox }
+    [Video](https://www.youtube.com/watch?v=w4JF9_zTO1o){ .md-button .lightbox }
 
     
     </figure>
@@ -126,9 +132,13 @@ icon: material/server
 </div>
 
 
-## Quick Links
 
-- :material-book: [Server Rules](https://l2reborn.org/server-rules/)
-- :material-newspaper: [Changelogs](https://l2reborn.org/latest-news/)
-- :octicons-download-16: [Launcher](https://l2reborn.org/installer)
-- :fontawesome-solid-user-large: [Login](https://l2reborn.org/signin/)
+<figure markdown="span">
+<h1 style="padding: 0px; margin: 1rem 0;">Quick Links</h1>
+
+[:material-book: Server Rules](https://l2reborn.org/server-rules/){ .md-button  .lightbox gap=1rem}
+[:material-newspaper: Changelogs](https://l2reborn.org/latest-news/){ .md-button  .lightbox}
+[:octicons-download-16: Launcher](https://l2reborn.org/installer){ .md-button .lightbox}
+[:fontawesome-solid-user-large: Login](https://l2reborn.org/signin/){ .md-button  .lightbox }
+
+</figure>
