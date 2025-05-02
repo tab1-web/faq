@@ -16,7 +16,7 @@ icon: material/pillar
 1. Compete in monthly PvP events (Olympiad)
 2. Earn the **most points** in your class
 3. Ties go to the most active fighter
-
+  
 ---
 
 ## :fontawesome-solid-scroll: Grand Olympiad Rules
@@ -55,9 +55,21 @@ icon: material/pillar
 
     *(Minimum 50 points required to exchange)*
 
+
+
 <hr>
+
+
 
 <figure markdown="span">
 [C4 Patch Notes](https://lineage2wiki.com/c4/patch-notes/#heroes_and_olympiad){ .md-button .lightbox }
 [C5 Patch Notes](https://lineage2wiki.com/c5/patch-notes/#heroes_and_olympiad){ .md-button .lightbox }
+</figure>
+
+<figure markdown="span">
+<a href="https://postimg.cc/zvBSFcZC">
+![Hero](https://i.postimg.cc/zvBSFcZC/hero.png){ .lightbox width=50% }
+</a>
+
+<figcaption>Hero</figcaption>
 </figure>
