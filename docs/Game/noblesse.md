@@ -96,7 +96,7 @@ icon: material/crown
 
     Special untradeable headgear
     
-    [:octicons-arrow-right-24: Tiara Preview](https://i.postimg.cc/SNBRshH8/tiara.png)
+    [:octicons-arrow-right-24: Tiara Preview](https://postimg.cc/SNBRshH8)
 
 - :material-send: **Teleports**
 
