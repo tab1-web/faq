@@ -3,8 +3,8 @@ site_url: https://tab1-web.github.io/faq/
 extra_css:
   - stylesheets/extra.css
 nav:
-  - 'Home': index.md
-  - 'Getting Started':
+  - Home: index.md
+  - Getting Started:
     - 'Servers': General/Servers/servers.md
     - 'Website': General/Website/website.md
     - 'Cosmetics':
@@ -14,7 +14,7 @@ nav:
         - 'Suits': General/Cosmetics/Suits/suits.md
         - 'Cloaks': General/Cosmetics/Cloaks/cloaks.md
         - 'Agathions': General/Cosmetics/Agathions/agathions.md
-  - 'Help & Support':
+  - Help & Support:
     - 'User Safety': General/Security/UserSafety/security.md
     - 'Rules': General/Security/UserSafety/rules.md
     - 'Features': General/Security/UserSafety/features.md
