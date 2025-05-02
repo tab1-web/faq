@@ -13,9 +13,9 @@ nav:
         - 'Hats': General/Cosmetics/Hats/hats.md
         - 'Suits': General/Cosmetics/Suits/suits.md
         - 'Cloaks': General/Cosmetics/Cloaks/cloaks.md
-        - 'Agathions': General\Cosmetics\Agathions\agathions.md
+        - 'Agathions': General/Cosmetics/Agathions/agathions.md
   - 'Help & Support':
-    - 'User Safety': General\Security\UserSafety\security.md
+    - 'User Safety': General/Security/UserSafety/security.md
     - 'Rules': General/Security/UserSafety/rules.md
     - 'Features': General/Security/UserSafety/features.md
     - 'Troubleshoot':
