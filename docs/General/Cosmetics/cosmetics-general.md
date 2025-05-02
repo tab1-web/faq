@@ -6,27 +6,17 @@ icon: octicons/info-16
 !!! warning
     Cosmetics do not give bonuses, they are for aesthetics only.
 
-On Signature, you cannot test the cosmetics on your character due to L2OFF file limits.
+    On Signature, you cannot test the cosmetics on your character due to L2OFF file limits.
 
-- You can buy coins here: [https://l2reborn.org/balance/](https://l2reborn.org/balance/)
-    - 1 Coin = 1 €.
+- You can buy coins [here](https://l2reborn.org/balance/) (1 Coin = 1 €)
   - After you have to send the coins to the correct server, account & character.
-  - If there is an issue with donation, please open a [ticket](https://l2reborn.org/support/) and **include all necessary information** shown below.
+  - If there is an issue with donation, please open a [ticket](https://l2reborn.org/support/) and **include all necessary information** shown below:
+    - Payment method used (Creditcard/FreeKassa)
+    - **Transaction Id (and Hash for crypto)**
+    - Email used for the payment
+    - Time and Date of the payment
+    - Full Details of the donation: (`e.g. I purchased Bounty Hunter quest items for character Bob`)
 
-!!! tip "Please provide the following information in the tickets"
-    === "For any ticket"
-        - Account names
-        - Character names
-    === "Donation tickets"
-        - Payment method used (Creditcard/FreeKassa)
-        - Transaction Id (and Hash for crypto)
-        - Email used for the payment
-        - Time and Date of the payment
-        - Full Details of the donation. Ie. I purchased Bounty Hunter quest items for character Bob
-    === "Twitch tickets"
-        - Twitch username and schedule
-    === "Requesting a license"
-        - License is not required anymore to play in the same house with someone else.
 
 <hr>
 ## :material-eye-off: Hide Cosmetics

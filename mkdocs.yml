@@ -7,8 +7,8 @@ nav:
   - Getting Started:
     - 'Servers': General/Servers/servers.md
     - 'Website': General/Website/website.md
-    - 'Cosmetics':
-      - 'Info': General/Cosmetics/cosmetics-general.md
+    - 'Cosmetics Info': General/Cosmetics/cosmetics-general.md
+    - 'Cosmetics Preview':
       - 'Hats': General/Cosmetics/Hats/hats.md
       - 'Suits': General/Cosmetics/Suits/suits.md
       - 'Cloaks': General/Cosmetics/Cloaks/cloaks.md
@@ -19,11 +19,11 @@ nav:
     - 'Troubleshoot':
       - 'In-Game Issues': General/TechnicalIssues/inside.md
       - 'Out-of-Game Issues': General/TechnicalIssues/outside.md
-  - 'Gameplay':
+  - Gameplay:
     - 'Subclasses': Game/subclasses.md
     - 'Noblesse': Game/noblesse.md
     - 'Heroes & Olympiad': Game/heroes.md
-  - 'Signature':
+  - Signature:
     - 'Combat': Signature/Combat/signature-combat.md
     - 'Progression': Signature/Progression/signature-progression.md
     - 'Quests': Signature/Progression/Quests/signature-quests.md
