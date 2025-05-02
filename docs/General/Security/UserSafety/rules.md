@@ -2,18 +2,18 @@
 icon: fontawesome/solid/scroll
 ---
 
-## :material-file-document-outline: Server Rules
 
-### :material-shield-check: **Applicable on all L2Reborn Servers**
+## :material-shield-check: **Rules applicable on all L2Reborn Servers**
 
 !!! tip "Read Carefully"
-    These rules apply to **all L2Reborn servers** unless otherwise noted. Violations may lead to penalties including suspensions or bans.
-
----
+    These rules apply to **all L2Reborn servers**. 
+    
+    Violations may lead to penalties including suspensions or bans.
 
 ### :material-robot-off-outline: **1. Botting**
 
-The use of **automation tools** is **strictly prohibited**.  
+:material-close: The use of **automation tools** is **strictly prohibited**.  
+
 :material-check: Only in-game macros (via the Macro system) are allowed.
 
 ---
@@ -22,19 +22,16 @@ The use of **automation tools** is **strictly prohibited**.
 
 - :material-close: Dualboxing and AFK farming are **not allowed**.  
 - :material-account: Players may control **only one character at a time per server**.
-    - :material-monitor-multiple: Using **multiple devices** to play multiple characters is **forbidden**.  
-    - :material-wifi: Multiple players on the **same network (e.g., shared Wi-Fi)** are permitted *as long as*:
-        - :material-numeric-1-circle: Each player controls **only one character**
-        - :material-shield-check: Each player is **able to solve captchas**
-- :material-server-network: You may play on **multiple servers**, but:
-    - You must remain **active on all**.
-    - :material-alert: Being AFK or failing captchas on one server due to activity on another is **not a valid excuse**.
+    - :material-monitor-multiple: Using **multiple devices** to play multiple characters is **also forbidden**.  
+- :material-wifi: Multiple players on the **same network** are permitted as long as:
+    - :material-numeric-1-circle: Each player controls **only one character**
+    - :material-shield-check: Each player is **able to solve captchas**
 
 ---
 
 ### :material-currency-usd-off: **3. Real Money Trading (RMT)**
 
-Exchanging in-game items, services, characters, or accounts for **real money** is strictly **prohibited**.  
+:material-close: Exchanging in-game items, services, characters, or accounts for **real money** is strictly **prohibited**.  
 
 ---
 
@@ -47,15 +44,21 @@ Exchanging in-game items, services, characters, or accounts for **real money** i
 
 ### :material-account-alert: **5. Scamming**
 
-All forms of scamming are **forbidden**.
+:material-close: All forms of scamming are **forbidden**.
 
-**Includes:**
+**Includes, but NOT limited to:**
 
-- :material-store-alert-outline: **Scamshops** (fake item listings or misleading names)
-- :material-account-key-outline: **Account theft** (stealing items by logging into another player’s account)
+- :material-store-alert-outline: **Scamshops**
+    - Advertising one item but selling another (e.g., SOP/D gems).
+    - Announcing low prices but charging much higher (e.g., AA for 13a but sold for 13kk).
+    - Misleading package deals (e.g., sets with swapped items).
+    - Craft shops with absurd material costs (e.g., 1kk per material).
+- :material-account-key-outline: **Account theft**
+    - Stealing items by logging into another player’s account.
 
 !!! warning "High-Value Item Clause"
-    Scams involving major gear (e.g., S-grade, epic jewelry) may be reviewed for possible compensation.
+    Severe cases of scamming involving high-value items (e.g., S-grade equipment, epic jewelry) may warrant compensation at the staff’s discretion.
+
 
 ---
 
@@ -72,7 +75,7 @@ All forms of scamming are **forbidden**.
 :material-check: You may play on more than one L2Reborn server. However:
 
 - All servers’ rules apply fully.
-- :material-alert: Don’t use one server as an excuse for neglecting another (e.g., failing captchas).
+- Don’t use one server as an excuse for neglecting another (e.g., failing captchas).
 
 !!! tip "Optimize Your Time"
     Setting up a shop or organizing gear on one server while farming actively on another is the best way to multi-task.
@@ -83,7 +86,8 @@ All forms of scamming are **forbidden**.
 
 ### :material-sleep: **1. Offline Farming**
 
-:material-check: Offline farming is allowed via the in-game system.  
+:material-check: Offline farming is allowed via the in-game system. 
+ 
 :material-close: You **may not** open a second client to farm actively with another character at the same time.
 
 ---
@@ -98,7 +102,7 @@ All forms of scamming are **forbidden**.
 
 ### :material-emoticon-angry-outline: **3. Griefing is Prohibited**
 
-Any actions considered "griefing" are **not allowed**.
+:material-close: Any actions considered "griefing" are **not allowed**.
 
 :material-clippy: See: [Changelog Essence-66](https://l2reborn.org/news/changelog-essence-66/) for more details.
 

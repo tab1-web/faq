@@ -5,30 +5,68 @@ icon: material/incognito
 
 ## :octicons-question-16: Why do I have to worry about Account Security?
 
-**Reborn takes responsibility to provide systems**, rules that offer as much protection to our players as possible. However, **this responsibility ends on the system end** - we cannot and are not responsible for how players act in-game and out-of-game. 
+Reborn sets up systems and rules to protect players, but we're not responsible for players' 
+actions in or out of the game.
 
-L2Reborn provided lock systems, master accounts, anti-scam policy, 2FA, server rules and frequently remind players to be careful when trading and to keep their accounts private. 
 
-Your account is your **responsibility**.
+!!! danger "Your account is your responsibility"
+    Never share your password or `l2reborn_easylogin.ini` file, even with staff members.
+    
+    `l2reborn_easylogin.ini` contains all of your passwords. 
 
-!!! danger "Critical Security Tip"
-    Never share your password, even with staff members.
 
-!!! tip
-    === ":material-alert: Password Tips"
-        - **Use random combinations** (@!?#-.,*/- , numbers and capital letters)
-        - **Never reuse passwords.**
-        - **Enable 2FA.**
+<div class="grid cards" markdown>
+- ### :simple-2fas: Enable 2FA
+    Activate two-factor authentication on the L2Reborn website.    
 
-    === ":material-eye-check: Spot"
-        - **Sharing Accounts** (even with friends or STAFF)
-        - **Clicking suspicious links** (e.g. free gift sites, I dare you to click this link)
-        - **Downloading "cheats" or unverified programs.**
+    [:octicons-arrow-right-24: Link](https://l2reborn.org/setting/)
 
-    === ":material-exclamation: **Avoid**"
-        - **Staff impersonators** (check GM USERNAMES and not NICKS)
-        - **Urgent threats** (Act now or lose your account!).
-        - **Too good to be true links/offers** (Free giftcards / adena links)
+- ### :octicons-question-24: About 2FA
+    2FA generates a temporary code from your phone when logging into the website.
+    
+    **Essential** for account security.
+
+- ### :octicons-lock-16: Use the Lock System
+    Locked characters can't trade, sell, modify items or PK.
+
+    **Commands**:
+
+    - `.setlockpw pin` - will set pin code to lock & unlock 
+    - `.lock pin` - enables protection
+    - `.unlock pin` - disables protection
+
+
+- ### :material-restart: Reset Lock System
+    !!! info "Requirements"
+        Enable [2FA](https://l2reborn.org/setting) first.
+    
+    - Visit [Game Accounts](https://l2reborn.org/game-account/)
+    - Click `Overview` on the account
+    - Click `⋯` and **Unlock**
+
+- ### :material-unicorn-variant: Use Unique Passwords
+    Use different passwords for different accounts (master, email, servers)
+
+- ### :material-share-off: Never Share Sensitive Information
+    Keep your in-game goods and account details private.
+
+
+
+</div>
+
+!!! warning "Scam Protection"
+    - **Report all scams** - Staff will ban the scammers.
+    - **2FA + Lock required** to:  
+        - See scammer details  
+        - Recover lost epic/high-value items  
+
+### Summary
+
+- You are the first line of defense.
+- No one, not friends or staff, needs your password.
+- Stay skeptical, if something feels off, it probably is.
+
+<hr>
 
 <div class="grid cards" markdown>
 
@@ -48,15 +86,14 @@ Your account is your **responsibility**.
 
 </div>
 
-**Summary:**
+<hr>
 
-- You are the first line of defense.
-- No one, not friends or staff, needs your password.
-- Stay skeptical, if something feels off, it probably is.
 
-**Resources:**
+### :octicons-bookmark-16: Resources
 
 - [Trojan Horse](https://computer.howstuffworks.com/trojan-horse.htm?s1sid=p72jxahoyuw542hapz3ymntx&srch_tag=cr5h2zidpuzx5tq2happ4z4nbvrw2ac4)
 - [Computer Viruses](https://computer.howstuffworks.com/virus.htm?s1sid=eel1e9ghs7mx46h94ct1qipt&srch_tag=zxjxanufcg27gc3f5j5suqausw7tl6lw)
 - [Phishing](https://computer.howstuffworks.com/phishing.htm)
 - [Social Engineering](https://www.okta.com/identity-101/social-engineering/)
+
+
