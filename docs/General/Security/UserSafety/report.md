@@ -24,12 +24,16 @@ Auto Hunting Report is **not a live report**, it sends the report to database fo
 
 <div class="grid cards" markdown>
 <figure markdown="span">
-  ![Report Video](https://i.postimg.cc/8CgSJzZL/serielreport.gif){ .lightbox }
-      <figcaption>Mention nicks and server name.</figcaption>
+    <a href="https://postimg.cc/8CgSJzZL">
+    ![Report Video](https://i.postimg.cc/8CgSJzZL/serielreport.gif){ .lightbox }
+    </a>
+    <figcaption>Mention nicks and server name.</figcaption>
 </figure>
 
 <figure markdown="span">
+    <a href="https://postimg.cc/Yqfr6gmb">
     ![Direct Message Video](https://i.postimg.cc/Yqfr6gmb/directmesssage.gif){ .lightbox }
+    </a>
     <figcaption>Make sure Direct Messages are enabled</figcaption>
 </figure>
 </div>
