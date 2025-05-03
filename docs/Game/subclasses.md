@@ -6,6 +6,7 @@ icon: material/dna
 
 table td.off {
     color: grey;
+    text-decoration: line-through;
 }
 
 table td {
@@ -22,6 +23,7 @@ table td.selected {
 
 ## :material-dna: General Info
 
+
 Subclasses are a major milestone in your character's progression. If you finish the subclass quests,
 you're eligible to unlock a new class on the same character that starts from level 40, 
 allowing you to switch classes.
@@ -30,6 +32,12 @@ allowing you to switch classes.
     Talk to the appropriate **Class Master** in your village to switch between your **main class** and any **subclass** you've unlocked.
 
 ---
+
+## :fontawesome-solid-scroll: Quests
+To unlock your subclass, complete the following quests:
+
+- :material-key: [**Fate's Whisper**](https://lineage2wiki.com/c4/quest/234/fates-whisper/)
+- :material-flask-outline: [**Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/)
 
 ### :material-book: Subclass Mechanics
 
@@ -79,10 +87,7 @@ allowing you to switch classes.
 
 ## :fontawesome-solid-scroll: Required Quests
 
-To unlock your subclass, complete the following quests:
 
-- :material-key: [**Fate's Whisper**](https://lineage2wiki.com/c4/quest/234/fates-whisper/)
-- :material-flask-outline: [**Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/)
 
 ## Subclass Selection Interactive Table
 
@@ -231,6 +236,31 @@ cells.forEach(cell => {
     return map[cellValue] || [];
   }
 });
+
+const termMap = {
+    "[Magister] Ladd": {
+        emoji: "👨‍🏫",
+        link: "https://lineage2wiki.com/c4/monster/7721/ladd-magister/"
+    },
+};
+
+function processText() {
+    const elements = document.querySelectorAll('p, li, span');
+    
+    elements.forEach(el => {
+        let html = el.innerHTML;
+        
+        for (const [term, data] of Object.entries(termMap)) {
+            const replacement = `<a href="${data.link}" class="wiki-link">${data.emoji} ${term}</a>`;
+            html = html.replace(new RegExp(term, 'g'), replacement);
+        }
+        
+        el.innerHTML = html;
+    });
+}
+
+// Run when page loads
+document.addEventListener('DOMContentLoaded', processText);
 
 </script>
 
