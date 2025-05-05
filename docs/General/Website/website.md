@@ -55,6 +55,8 @@ For any other issue, please refer to the [Help & Support page](/faq/General/Tech
 !!! warning
     Make sure to login with your **in-game account's username** and **not your email**.
 
+    Do not share the `l2reborn_easylogin.ini` file with anyone, it contains your passwords.
+
 You don’t have to do fill out your account details every time, use **“Login Easy Manager”** in the bottom right corner.
 
 <figure markdown="span">
@@ -65,6 +67,8 @@ You don’t have to do fill out your account details every time, use **“Login 
 
 All the servers you see are essentially proxies that **connect to the same game server**, it's just for better connectivity, 
 choose either a Proxy closest to you or the Main server.
+
+- The server is in France.
 
 If you wish to play on the Seasonal Servers, choose from the **[NEW]** servers.
 

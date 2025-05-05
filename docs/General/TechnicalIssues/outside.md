@@ -5,7 +5,7 @@ icon: material/monitor-arrow-down
 ## General
 
 ### Ultimate Fix Summary 
-:white_check_mark:  Try all steps, check off what you've tested, and share your results in [Discord](https://discord.com/invite/l2reborn) if the issue continues :slight_smile:
+Try all steps, :white_check_mark: what you've tested, and share your results in [Discord](https://discord.com/invite/l2reborn) if the issue continues :slight_smile:
 
 Please make sure that:
 
@@ -98,11 +98,17 @@ Make sure that you are not on the correct Master Account.
 
 <hr>
 
+### VPN Recommendation
+
+[Cloudflare Warp](https://one.one.one.one/)
+
 ## SmartGuard fixes
 
 ### Invalid SafeAuth
 
 Save `l2reborn_easylogin.ini` file to Desktop, it contains your passwords.
+
+- Put it back in System folder after the install is done and don't share that file. **Ever.**
 
 **Delete your System folder** and do **Repair**.
 
@@ -178,7 +184,7 @@ Make sure you have Windows 10/11 and no 'Insider Mode' or other Beta/Debug featu
 ### SmartGuard stuck loading
 Reboot your PC and Router.
 
-- Temporary fix: Use a [VPN](#) to connect. 
+- Temporary fix: Use a [VPN](#vpn-recommendation) to connect. 
 
 <figure markdown="span">
 <a href="https://postimg.cc/BbgXQYD1/">
