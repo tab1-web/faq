@@ -9,7 +9,7 @@ icon: octicons/info-16
     On Signature, you cannot test the cosmetics on your character due to L2OFF file limits.
 
 - You can buy coins [here](https://l2reborn.org/balance/) (1 Coin = 1 €)
-  - After you have to send the coins to the correct server, account & character.
+  - You have to send the coins to the correct server, account & character.
   - If there is an issue with donation, please open a [ticket](https://l2reborn.org/support/) and **include all necessary information** shown below:
     - Payment method used (Creditcard/FreeKassa)
     - **Transaction Id (and Hash for crypto)**
@@ -26,7 +26,7 @@ icon: octicons/info-16
 <hr>
 
 ## :fontawesome-solid-money-bills: Payment Methods
-Paypal is not available, you can pay with:
+Paypal is not available, you can pay with [(here)](https://l2reborn.org/balance/):
 
 - [Card (Stripe)](https://stripe.com/)
 - [Card / Crypto (FreeKassa.ru)](https://freekassa.ru/)

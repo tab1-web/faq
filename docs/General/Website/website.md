@@ -4,5 +4,93 @@ icon: material/web
 
 ---
 
+# :material-star: Welcome to Lineage][Reborn!
 
-# website
+## :material-mapbox: Adventure Awaits
+Reborn is one of the most popular private servers for several versions of Lineage 2 with no pay to win, no wipes and no dual-box. 
+
+It started in 2019 October 31 by a group of enthusiasts with the goal of providing a vanilla and plain experience to bring back childhood memories.
+
+**First time playing?** Here's everything you need to get started:
+
+<hr>
+
+## :material-download: Install
+1. [Install the Launcher](https://l2reborn.org/installer)
+2. After launcher installs, press “Download” on which server you'd like to play on.
+3. Once finished downloading, press “Play”
+
+<figure markdown="span">
+    <a href="https://postimg.cc/K44NxzGK">
+    ![Launcher Image](https://i.postimg.cc/dQjSRkg9/launcher.png){ .lightbox width=45% }
+    </a>
+</figure>
+
+If there's an issue during the Download, try restarting your Router, or use Mobile Data / VPN.
+
+For any other issue, please refer to the [Help & Support page](/faq/General/TechnicalIssues/outside/#general).
+
+<hr>
+
+## :fontawesome-solid-user: Account Registration
+
+1. Create a [Master Account](https://l2reborn.org/signin/)
+    - Your Master Account holds all of your in–game accounts. 
+2. Create an [In-Game Account](https://l2reborn.org/account-summary/)
+    - Choose "Manage Account" the server you would like to play on. 
+    - Press **:material-plus: Create Account**
+    - Choose a random prefix from the list.
+    - Your **in-game username will look like**: eg_example123
+
+<figure markdown="span">
+    <a href="https://postimg.cc/zyB41pRW">
+    ![Create Account Image](https://i.postimg.cc/BQ2b7NZF/createacc.png){ .lightbox width=45%}
+    </a>
+</figure>
+
+<hr>
+
+## :material-login: Login
+
+!!! warning
+    Make sure to login with your **in-game account's username** and **not your email**.
+
+You don’t have to do fill out your account details every time, use **“Login Easy Manager”** in the bottom right corner.
+
+<figure markdown="span">
+    <a href="https://postimg.cc/xJJzDr97">
+    ![Easy Login](https://i.postimg.cc/bJLHn8Wz/easylogin.png){ .lightbox width=45% }
+    </a>
+</figure>
+
+All the servers you see are essentially proxies that **connect to the same game server**, it's just for better connectivity, 
+choose either a Proxy closest to you or the Main server.
+
+If you wish to play on the Seasonal Servers, choose from the **[NEW]** servers.
+
+<figure markdown="span">
+    <a href="https://postimg.cc/grMJpzMT">
+    ![Proxy Screen](https://i.postimg.cc/Dyhbqm1n/proxy.png){ .lightbox width=45% }
+    </a>
+</figure>
+If nothing happens after you pressed **“OK”**, you might have taken too long or the proxy is down. 
+
+- Try another proxy by going into the login menu again.
+
+<hr>
+
+
+## :material-sword-cross: You are all set!
+
+It's time to create your character now, I hope you enjoy your your journey. :slight_smile:
+
+Check out my other guides for navigating around the world of Aden.
+
+**Good luck & have fun!**
+
+<hr>
+
+
+
+
+

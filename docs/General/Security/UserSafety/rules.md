@@ -21,11 +21,11 @@ icon: fontawesome/solid/scroll
 ### :material-account-multiple-remove: **2. Dualbox / AFK Farming**
 
 - :material-close: Dualboxing and AFK farming are **not allowed**.  
-- :material-account: Players may control **only one character at a time per server**.
+- :material-account: **ONE** person may control **only ONE character at a time per server**.
     - :material-monitor-multiple: Using **multiple devices** to play multiple characters is **also forbidden**.  
-- :material-wifi: Multiple players on the **same network** are permitted as long as:
-    - :material-numeric-1-circle: Each player controls **only one character**
-    - :material-shield-check: Each player is **able to solve captchas**
+- :material-wifi: Multiple people on the **same network** are permitted as long as:
+    - :material-numeric-1-circle: Each person controls **only one character**
+    - :material-shield-check: Each person is **able to solve captchas**
 
 ---
 
@@ -63,10 +63,12 @@ icon: fontawesome/solid/scroll
 ---
 
 ### :material-storefront-outline: **6. Shops**
-- :material-account: Refer to Rule 5 regarding scamshops.
-- Each player is allowed only one shop at a time:
-    - This can be one **offline shop**.
+- :fontawesome-solid-scroll: Refer to [Rule 5](#5-scamming) regarding scamshops.
+- :material-numeric-1-circle-outline: Each person is allowed only **ONE offline shop** AND **one per account**:
+    - Even if you have multiple accounts, you can only have **1 offline shop maximum** per person.
+        - Make sure that if you wish to play on a character, it's **not on the same account** as the offline shop.
     - If your client is active, you may also run one **online shop**.
+- **Essence, Eternal, H5 Forever** are allowed to have **more than one offline shop**, but still **one per account**.
 
 ---
 

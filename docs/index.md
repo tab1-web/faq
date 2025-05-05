@@ -25,7 +25,7 @@ You can search on the website in the top right corner and you can also search th
 <a href="https://postimg.cc/rsmNw6Hv">
 ![Tabi PFP](https://i.postimg.cc/rsmNw6Hv/tabi.webp){ width=300 .lightbox }
 </a>
-**Made with :heart: by Tabi.**
+<figcaption> Made with ♡ by Tabi. </figcaption>
 
 </figure>
 

@@ -49,8 +49,8 @@ Thanks @Csilk
 
 <hr>
 
-## Buttons Fix / Reborn Shop Buttons not working
-Fixes also for Reborn Shop UI not working, clicking on Monster Data symbol
+## Unresponsive Buttons Fix
+This solution fixes the buttons not working for Monster Data / Spoil / Reborn Store etc..
 
 Delete `windowsinfo.ini` and `option.ini` and **repair**.
 
