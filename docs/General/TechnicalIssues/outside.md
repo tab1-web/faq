@@ -25,6 +25,7 @@ Additionally try:
 - [ ] Restarting your **router**
 - [ ] Restarting your **computer**
 - [ ] Disabling **Riot's Vanguard**, and **other anti-cheats**.
+    - [Here's how to play League with L2](#how-to-play-riots-games)
 - [ ] Deleting your **system folder** and **repairing your files**.
 - [ ] **Disabling all overlay extensions**: Discord, Overwolf etc..
 
