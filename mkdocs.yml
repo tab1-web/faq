@@ -14,7 +14,8 @@ nav:
       - 'Cloaks': General/Cosmetics/Cloaks/cloaks.md
       - 'Agathions': General/Cosmetics/Agathions/agathions.md
   - Help & Support:
-    - 'Report': General/Security/UserSafety/report.md
+    - 'Report Dual-box/Bot': General/Security/UserSafety/report.md
+    - 'How to open a ticket?': General/Security/UserSafety/ticket.md
     - 'User Safety': General/Security/UserSafety/security.md
     - 'Rules': General/Security/UserSafety/rules.md
     - 'Troubleshoot':
