@@ -27,6 +27,15 @@ If you have a problem related to **bans**, **account**, **game**, **donations**,
     - Time and Date of the payment
     - Full Details of the donation. Ie. I purchased Bounty Hunter quest items for character Bob
 
+    **If it’s about twitch, provide:**
+
+    - Twitch username and schedule
+
+    **If it’s about requesting a License to play under the same ip**
+
+    - It is not required to send a ticket for this anymore, just play.
+
+
 <hr>
 
 ## :material-reply: When will you reply to my ticket?
