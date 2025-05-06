@@ -4,7 +4,7 @@ icon: material/ticket
 
 # :material-ticket: How to open a ticket?
 
-If you have a problem related to **bans**, **account**, **game**, **donations**, **bug** or **abuse report**:
+If you have a problem related to **bans**, **account**, **game**, **donations**, **bug** or **abuse**:
 
 - You can [open a ticket by clicking this link](https://l2reborn.org/support/)
 
