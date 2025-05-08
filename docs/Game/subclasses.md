@@ -136,7 +136,7 @@ if (!sessionStorage.getItem('subclassPageLoaded')) {
 
 document.addEventListener('DOMContentLoaded', function() {
     const cells = document.querySelectorAll("table td");
-    const excluded = ["Inspector"];
+    const excluded = ["Inspector", "Kamael:"];
 
 cells.forEach(cell => {
     cell.addEventListener("click", () => {
