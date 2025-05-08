@@ -237,30 +237,6 @@ cells.forEach(cell => {
   }
 });
 
-const termMap = {
-    "[Magister] Ladd": {
-        emoji: "👨‍🏫",
-        link: "https://lineage2wiki.com/c4/monster/7721/ladd-magister/"
-    },
-};
-
-function processText() {
-    const elements = document.querySelectorAll('p, li, span');
-    
-    elements.forEach(el => {
-        let html = el.innerHTML;
-        
-        for (const [term, data] of Object.entries(termMap)) {
-            const replacement = `<a href="${data.link}" class="wiki-link">${data.emoji} ${term}</a>`;
-            html = html.replace(new RegExp(term, 'g'), replacement);
-        }
-        
-        el.innerHTML = html;
-    });
-}
-
-// Run when page loads
-document.addEventListener('DOMContentLoaded', processText);
 
 </script>
 
