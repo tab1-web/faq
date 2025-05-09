@@ -1,0 +1,7 @@
+.md-top {
+    background-color: var(--md-primary-fg-color);
+    color: white;
+}
+.task-list-indicator:hover {
+    cursor: pointer;
+}
