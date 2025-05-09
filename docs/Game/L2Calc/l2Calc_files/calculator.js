@@ -3409,23 +3409,3 @@ d.gI("EAVGDMG").innerHTML=Eavgdmg2
 }
 
 }
-/*
-     FILE ARCHIVED ON 19:35:34 Dec 26, 2021 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 17:16:17 May 07, 2025.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.58
-  exclusion.robots: 0.024
-  exclusion.robots.policy: 0.014
-  esindex: 0.014
-  cdx.remote: 15.215
-  LoadShardBlock: 403.044 (3)
-  PetaboxLoader3.datanode: 234.973 (4)
-  PetaboxLoader3.resolve: 188.038 (2)
-  load_resource: 73.227
-*/
