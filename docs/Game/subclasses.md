@@ -37,6 +37,9 @@ allowing you to switch classes.
 To unlock your subclass, complete the following quests:
 
 - :material-key: [**Fate's Whisper**](https://lineage2wiki.com/c4/quest/234/fates-whisper/)
+    - [:material-skull: Hallate](https://lineage2wiki.com/c4/monster/10220/death-lord-hallate-raid-boss/) - Tower of Insolence - ([3rd floor](https://i.postimg.cc/ZRLXJ3Vw/toi-3rd-floor.png))
+    - [:material-skull: Kernon](https://lineage2wiki.com/c4/monster/10054/kernon-raid-boss/) - Tower of Insolence - ([8th floor](https://i.postimg.cc/zBN9mpSL/toi-8th-floor.png))
+    - [:material-skull: Golkonda](https://lineage2wiki.com/c4/monster/10126/longhorn-golkonda-raid-boss/) - Tower of Insolence - ([11th floor](https://i.postimg.cc/d3tp31fw/toi-11thf-loor.png))
 - :material-flask-outline: [**Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/)
 
 ### :material-book: Subclass Mechanics
@@ -65,29 +68,6 @@ To unlock your subclass, complete the following quests:
     - :material-trophy: **Olympiad participation** requires Noblesse
 
 ---
-
-???+ info "Class Restrictions"
-
-    You may **not select a similar class** as a subclass. The following groups are considered "similar":
-
-    - Treasure Hunter, Plainswalker, Abyss Walker  
-    - Hawkeye, Silver Ranger, Phantom Ranger  
-    - Paladin, Dark Avenger, Temple Knight, Shillien Knight  
-    - Warlock, Elemental Summoner, Phantom Summoner  
-    - Elder, Shillien Elder  
-    - Swordsinger, Bladedancer  
-    - Sorcerer, Spellsinger, Spellhowler  
-
-    Additional limitations:
-
-    - If your main class is **Elf** or **Dark Elf**, you cannot select a subclass from the other.
-    - You may **not subclass Overlord or Warsmith**.
-
----
-
-## :fontawesome-solid-scroll: Required Quests
-
-
 
 ## Subclass Selection Interactive Table
 
@@ -239,5 +219,9 @@ cells.forEach(cell => {
 
 
 </script>
+
+<figure markdown="span">
+[C3 Patch Notes](https://lineage2wiki.com/c3/patch-notes/#subclasses){ .md-button .lightbox }
+</figure>
 
 
