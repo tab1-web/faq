@@ -37,9 +37,9 @@ allowing you to switch classes.
 To unlock your subclass, complete the following quests:
 
 - :material-key: [**Fate's Whisper**](https://lineage2wiki.com/c4/quest/234/fates-whisper/)
-    - [:material-skull: Hallate](https://lineage2wiki.com/c4/monster/10220/death-lord-hallate-raid-boss/) - Tower of Insolence - ([3rd floor](https://i.postimg.cc/ZRLXJ3Vw/toi-3rd-floor.png))
-    - [:material-skull: Kernon](https://lineage2wiki.com/c4/monster/10054/kernon-raid-boss/) - Tower of Insolence - ([8th floor](https://i.postimg.cc/zBN9mpSL/toi-8th-floor.png))
-    - [:material-skull: Golkonda](https://lineage2wiki.com/c4/monster/10126/longhorn-golkonda-raid-boss/) - Tower of Insolence - ([11th floor](https://i.postimg.cc/d3tp31fw/toi-11thf-loor.png))
+    - [:material-skull: Hallate](https://lineage2wiki.com/c4/monster/10220/death-lord-hallate-raid-boss/) - Tower of Insolence - ([3rd floor](https://postimg.cc/ZRLXJ3Vw))
+    - [:material-skull: Kernon](https://lineage2wiki.com/c4/monster/10054/kernon-raid-boss/) - Tower of Insolence - ([8th floor](https://postimg.cc/zBN9mpSL))
+    - [:material-skull: Golkonda](https://lineage2wiki.com/c4/monster/10126/longhorn-golkonda-raid-boss/) - Tower of Insolence - ([11th floor](https://postimg.cc/d3tp31fw))
 - :material-flask-outline: [**Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/)
 
 ### :material-book: Subclass Mechanics
