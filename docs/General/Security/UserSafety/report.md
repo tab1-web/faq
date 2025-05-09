@@ -19,7 +19,7 @@ icon: octicons/report-16
 
 3. If they don't respond, [**open a ticket**](https://l2reborn.org/support/)
     - **Include**: Time & time zone, server, nicknames. 
-        - Upload images and videos with [imgur.com](https://imgur.com/upload) and [share the public link](https://help.imgur.com/hc/article_attachments/26512938185243).
+        - Upload images and videos with [imgur.com](https://imgur.com/upload) + [streamable.com](https://streamable.com/) and [share the public link](https://help.imgur.com/hc/article_attachments/26512938185243).
 
 
 Auto Hunting Report is **not a live report**, it sends the report to database for checking it out later.

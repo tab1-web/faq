@@ -8,52 +8,47 @@ If you have a problem related to **bans**, **account**, **game**, **donations**,
 
 - You can [open a ticket by clicking this link](https://l2reborn.org/support/)
 
-- Upload images, videos with [imgur.com](https://imgur.com/upload) and [share the public link](https://help.imgur.com/hc/article_attachments/26512938185243)
+- Upload images, videos with [imgur.com](https://imgur.com/upload) + [streamable.com](https://streamable.com/) and [share the public link](https://help.imgur.com/hc/article_attachments/26512938185243)
 
 - [You will get a response here](https://l2reborn.org/my-support-tickets/) and **click on the appropriate ticket**.
 
 <hr>
-!!! info
-    **For any ticket, provide:**
+<figure markdown="span" markdown>
 
-    - Account Names
-    - Character Names
-
-    **If it is about a donation, provide:**
-
-    - Payment method used (Creditcard/FreeKassa)
-    - **Transaction Id (and Hash for crypto)**
-    - Email used for the payment
-    - Time and Date of the payment
-    - Full Details of the donation. Ie. I purchased Bounty Hunter quest items for character Bob
-
-    **If it’s about twitch, provide:**
-
-    - Twitch username and schedule
-
-    **If it’s about requesting a License to play under the same ip**
-
-    - It is not required to send a ticket for this anymore, just play.
-
-
-<hr>
-
-## :material-reply: When will you reply to my ticket?
-
-**As soon as possible. Please, let us do our work.**
-
-!!! danger
-    Asking about ticket updates will move your ticket to the back on the queue. 
-    
-    Players opening multiple tickets for the same matter will be sanctioned. 
-
-**Players pestering** GMs on Discord/forum/in-game about **status of tickets** created **less than 48h** ago will be **sanctioned**.
-
-<hr>
-
-<figure markdown="span">
-<a href="https://postimg.cc/ZBSs66xR">
-![Open ticket video](https://i.postimg.cc/50Ycd3Hw/ticketopen.gif){.lightbox width=60%}
-</a>
+| Category | What to Provide |
+|---|---|
+| :material-ticket-account: **All Tickets** | - Account + Character Name(s) |
+| :fontawesome-regular-money-bill-1: **Donation Issues** | - Payment Method (CC/FreeKassa/Crypto)<br>**- Transaction ID (Hash for crypto)**<br> - Payment Email + Date/Time<br>- Full details (Bought 1st class for "Bob) |
+| :simple-twitch: **Twitch** | - Twitch Username + Stream Schedule |
+| :material-share-variant: **IP Sharing** | - No ticket needed — Just play and [follow server rules](https://tab1-web.github.io/faq/General/Security/UserSafety/rules/). |
 </figure>
+!!! warning
+    Tickets that do not include all the necessary information may be closed without further notice. 
+
 <hr>
+
+## :material-email-fast: Ticket Response Times
+
+- We handle tickets **as soon as possible** in the order they're received. 
+- Please avoid follow-ups to let us work efficiently.
+
+
+
+!!! success "For Best Results"  
+    - **Be patient** - we process tickets in order  
+    - **Include all details** in your initial submission  
+    - **Wait at least 48 hours** before follow-ups  
+
+
+---
+
+## :material-help-box: How to Submit a Ticket Properly  
+<figure markdown>
+  <a href="https://postimg.cc/fk8KQq8v" target="_blank">
+    ![Animated GIF: How to open a ticket](https://i.postimg.cc/GhCSYZY6/ticket11mb.gif){ width="60%" .lightbox }
+  </a>
+  <figcaption>Click the GIF to enlarge</figcaption>
+</figure>
+
+---
+
