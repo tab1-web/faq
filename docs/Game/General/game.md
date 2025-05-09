@@ -77,7 +77,9 @@ You will battle monsters, players and fight for spots, use skills that need to b
 to each particular situation, overcome situations through teamwork with other clan members, and 
 experience action that is always thrilling, even when you kill a single monster. 
 
-In *Lineage II*, attacking other players triggers a **color-coded PK system** that tracks aggression and penalties. Below is a breakdown of how it works:
+In *Lineage II*, attacking other players triggers a 
+[**color-coded PK system**](https://tab1-web.github.io/faq/Game/General/pk/) that tracks aggression 
+and penalties.
 
 ## :material-castle: Castle Sieges
 Most of the Lords that built castles in the Era of the Giants, still remained and now Kings 

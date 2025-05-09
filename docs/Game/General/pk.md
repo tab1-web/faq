@@ -23,15 +23,19 @@ icon: material/sword
     - **Guards attack on sight** in towns.
 
 ### **3. Removing Karma Status**
+
 - **Die repeatedly**: Each death reduces Karma points.
 - **Kill monsters**: By earning experience, you can reduce your Karma points
+
+!!! info
+    If you reduce your Karma Points to 0, your name will turn white.
 
 ### **4. Reducing PK**
 - [**Do the Repent Your Sins Quest**](https://lineage2wiki.com/c4/quest/422/repent-your-sins/): When you level up Sin Eater Pet and hand it to Black Judge, 
 it will reduce your PK points, allowing you to kill again up to a certain point without drop penalty.
 ---
 
-## **4. Key Mechanics**
+### **5. Key Mechanics**
 - **Self-Defense Rule**: If a **purple**{: style="color:#c154c1;"} player attacks you, killing them **does not** give PK points.
 - **Party PKs**: Only the player who lands the killing blow gets PK points.
 - **Chaotic Zones**: Some areas (e.g., **Giran Arena**) allow free PvP without penalties (e.g., -EXP).
