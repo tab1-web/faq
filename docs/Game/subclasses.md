@@ -55,7 +55,8 @@ To unlock your subclass, complete the following quests:
     - :material-book: Quest progress
     - :material-warehouse: Inventory & Warehouse
 
-- :fontawesome-solid-exclamation: **Note:** Weight penalties still apply, and you may become **overloaded** after switching classes.
+!!! note 
+    Weight penalties still apply, and you may become **overloaded** after switching classes.
 
 ---
 
