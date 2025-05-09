@@ -6,10 +6,10 @@ icon: octicons/report-16
 # How to report Dual-Box / Bot?
 
 !!! warning
-    **Do not alert suspects** by letting them know or writing in the discord about them, you will sabotage the investigation.
+    **Never warn suspects** - it compromises investigations.
 
 1. Target the player, in `ALT + C` select **"Auto Hunting Report"** (If available)
-2. **Contact Staff on Discord** and **Include** the suspects' **nicknames** and **server name**.  
+2. **Contact Staff on Discord** and **include** the suspects' **nicknames** and **server name**.  
     - **EU Daytime**: Message [@ginreborn](https://discord.com/users/917729115770073119) or [@astarothreborn](https://discord.com/users/1067169953683349577)  
     - **EU Late Night**: Message [@serielreborn](https://discord.com/users/1139948642166394920) **(Times based on [Germany time-zone](https://time.is/Germany))**
 
@@ -23,6 +23,7 @@ icon: octicons/report-16
 
 
 Auto Hunting Report is **not a live report**, it sends the report to database for checking it out later.
+<hr>
 
 <figure markdown="span">
     <a href="https://postimg.cc/1f326tfK">
