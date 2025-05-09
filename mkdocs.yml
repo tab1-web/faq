@@ -29,6 +29,8 @@ nav:
       - 'Subclasses': Game/subclasses.md
       - 'Noblesse': Game/noblesse.md
       - 'Heroes & Olympiad': Game/heroes.md
+    - 'L2Calc':
+      - 'L2Calc': Game/L2Calc/l2calc.md
 
   - Signature:
     - 'Combat': Signature/Combat/signature-combat.md
