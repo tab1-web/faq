@@ -14,8 +14,8 @@ Players can choose from 5-7 races (depending on the updates):
 - Human **(balanced, versatile)**
 - Elf **(agility-based)**
 - Dark Elf **(glass cannons)**
-- Orc **(high strength, tanky)**
-- Dwarf **(crafting-focused, sturdy melee)**
+- Orc **(high strength)**
+- Dwarf **(crafting/adena focused melee)**
 
 Origins, Essence, H5 Forever:
 
