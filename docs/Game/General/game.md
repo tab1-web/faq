@@ -92,8 +92,38 @@ icon: material/nintendo-game-boy
 </li>
 </ul>
 </div>
+---
+
+### :material-castle: **Siege Warfare**  
+- **Goal**: Capture castles to control territories, impose taxes, and unlock rare perks.  
+- **Dynamics**: Real-time strategy with siege weapons, clan alliances, and evolving tactics.  
+- **Rewards**: Castle Lords gain Wyvern mounts, crafting monopolies, and political influence.  
+
+---
+
+> Your choices write history - conquer alone or rally a clan to dominance.  
+
+
+<div class="grid cards" markdown>
+
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/oH6-k6-1FXM?si=Rv1PpMlf9PKAh0Iz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/FYc7BRC7CX0" title="L2Reborn Origins - Euphoria - Cardinal PvP Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+<script>
+if (!sessionStorage.getItem('gamePageLoaded')) {
+    sessionStorage.setItem('gamePageLoaded', 'true');
+    setTimeout(() => {
+        window.location.reload();
+    }, 100);
+} else {
+    sessionStorage.removeItem('gamePageLoaded');
+}
+</script>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
 <script>
 const statsData = {
   "Fighter": {
@@ -201,22 +231,3 @@ document.getElementById('race-select').addEventListener('change', updateChart);
 populateRaceOptions();
 updateChart();
 </script>
----
-
-### :material-castle: **Siege Warfare**  
-- **Goal**: Capture castles to control territories, impose taxes, and unlock rare perks.  
-- **Dynamics**: Real-time strategy with siege weapons, clan alliances, and evolving tactics.  
-- **Rewards**: Castle Lords gain Wyvern mounts, crafting monopolies, and political influence.  
-
----
-
-> Your choices write history - conquer alone or rally a clan to dominance.  
-
-
-<div class="grid cards" markdown>
-
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/oH6-k6-1FXM?si=Rv1PpMlf9PKAh0Iz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/FYc7BRC7CX0" title="L2Reborn Origins - Euphoria - Cardinal PvP Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</div>
