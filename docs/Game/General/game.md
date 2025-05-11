@@ -146,7 +146,13 @@ const statsData = {
 };
 
 const ctx = document.getElementById('hexagonChart').getContext('2d');
+
+if (typeof chart !== 'undefined' && chart !== null) {
+  chart.destroy();
+}
+
 let chart;
+
 
 function populateRaceOptions() {
   const classSelect = document.getElementById('class-select');
