@@ -18,31 +18,38 @@ icon: fontawesome/solid/scroll
 
 ---
 
-### :material-account-multiple-remove: **2. Dualbox / AFK Farming**
+### :material-account-multiple-remove: **2. AFK Farming**
+- :material-close: AFK Farming is **not allowed**.
 
-- :material-close: Dualboxing and AFK farming are **not allowed**.  
+--- 
+
+### :material-account-multiple-remove: 3. Dualboxing
+- :material-close: Dualboxing is **not allowed**.  
 - :material-account: **ONE** person may control **only ONE character at a time per server**.
     - :material-monitor-multiple: Using **multiple devices** to play multiple characters is **also forbidden**.  
+    - :material-close: This also means that you cannot use multiple devices to set up shops or send
+    items to yourself.
+        - :material-mail: Use the **Mail System** or **Freight Service** if on the same account, to transfer.
 - :material-wifi: Multiple people on the **same network** are permitted as long as:
     - :material-numeric-1-circle: Each person controls **only one character**
     - :material-shield-check: Each person is **able to solve captchas**
 
 ---
 
-### :material-currency-usd-off: **3. Real Money Trading (RMT)**
+### :material-currency-usd-off: **4. Real Money Trading (RMT)**
 
 :material-close: Exchanging in-game items, services, characters, or accounts for **real money** is strictly **prohibited**.  
 
 ---
 
-### :material-bug: **4. Exploits**
+### :material-bug: **5. Exploits**
 
 - :material-alert-octagon: Any bugs must be reported to staff.
 - :material-hammer-wrench: Deliberate abuse of bugs for gain will lead to **penalties**.
 
 ---
 
-### :material-account-alert: **5. Scamming**
+### :material-account-alert: **6. Scamming**
 
 :material-close: All forms of scamming are **forbidden**.
 
@@ -62,8 +69,8 @@ icon: fontawesome/solid/scroll
 
 ---
 
-### :material-storefront-outline: **6. Shops**
-- :fontawesome-solid-scroll: Refer to [Rule 5](#5-scamming) regarding scamshops.
+### :material-storefront-outline: **7. Shops**
+- :fontawesome-solid-scroll: Refer to [Rule 6](#6-scamming) regarding scamshops.
 - :material-numeric-1-circle-outline: Each person is allowed only **ONE offline shop** AND **one per account**:
     - Even if you have multiple accounts, you can only have **1 offline shop maximum** per person.
         - Make sure that if you wish to play on a character, it's **not on the same account** as the offline shop.
@@ -72,7 +79,7 @@ icon: fontawesome/solid/scroll
 
 ---
 
-### :material-server: **7. Playing on Multiple Servers**
+### :material-server: **8. Playing on Multiple Servers**
 
 :material-check: You may play on more than one L2Reborn server. However:
 

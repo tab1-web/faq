@@ -18,6 +18,7 @@ nav:
     - 'How to open a ticket?': General/Security/UserSafety/ticket.md
     - 'User Safety': General/Security/UserSafety/security.md
     - 'Rules': General/Security/UserSafety/rules.md
+    - 'Login Failed': General/Security/UserSafety/email.md
     - 'Troubleshoot':
       - 'In-Game Issues': General/TechnicalIssues/inside.md
       - 'Out-of-Game Issues': General/TechnicalIssues/outside.md
