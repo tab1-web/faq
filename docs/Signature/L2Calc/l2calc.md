@@ -23,15 +23,26 @@ td.statcalc {
 	color: white;
 }
 table {
-	font: 10pt verdana;
+	font: 8pt verdana;
 	color: white;
 	padding: 5;
 	text-align: center;
 }
+
+table select {
+	font-size: 8pt;
+}
 table.statcalc {
-text-align: left;
-border: 0;
-cellpadding: 5;
+	text-align: left;
+	border: 0;
+	cellpadding: 5;
+}
+
+legend {
+	color-adjust: exact;
+  	font-size: .8rem;
+	color: var(--md-typeset-color);
+	font-family: var(--md-text-font-family);
 }
 </style>
 # L2Calc
@@ -53,8 +64,8 @@ and more..
 <table class="statcalc">
 <form id="statcalculator"></form>
 <tbody><tr>
-<td><fieldset>
-<legend class="style2">Status Window</legend>
+<td><fieldset display="block">
+<legend> Status Window </legend>
 	Lv 
 		<select id="LV" onchange="passives(true);calc()"><option value="1" selected="selected">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option><option value="32">32</option><option value="33">33</option><option value="34">34</option><option value="35">35</option><option value="36">36</option><option value="37">37</option><option value="38">38</option><option value="39">39</option><option value="40">40</option><option value="41">41</option><option value="42">42</option><option value="43">43</option><option value="44">44</option><option value="45">45</option><option value="46">46</option><option value="47">47</option><option value="48">48</option><option value="49">49</option><option value="50">50</option><option value="51">51</option><option value="52">52</option><option value="53">53</option><option value="54">54</option><option value="55">55</option><option value="56">56</option><option value="57">57</option><option value="58">58</option><option value="59">59</option><option value="60">60</option><option value="61">61</option><option value="62">62</option><option value="63">63</option><option value="64">64</option><option value="65">65</option><option value="66">66</option><option value="67">67</option><option value="68">68</option><option value="69">69</option><option value="70">70</option><option value="71">71</option><option value="72">72</option><option value="73">73</option><option value="74">74</option><option value="75">75</option><option value="76">76</option><option value="77">77</option><option value="78">78</option><option value="79">79</option><option value="80">80</option></select>
 
@@ -131,7 +142,7 @@ and more..
 </fieldset></td>
 <td valign="bottom">
 <fieldset>
-<legend class="style2">Base Stats</legend>
+<legend>Base Stats</legend>
 <table class="statcalc" cellpadding="5">
 	<tbody><tr><td>STR</td><td id="STR">41</td><td>DEX</td><td id="DEX">34</td><td>CON</td><td id="CON">32</td></tr>
 	<tr><td>INT</td><td id="INT">25</td><td>WIT</td><td id="WIT">12</td><td>MEN</td><td id="MEN">26</td></tr>
@@ -158,7 +169,8 @@ and more..
 </td>
 <td>
 <fieldset>
-Movement:<br>
+<legend>Movement</legend>
+Type:<br>
 <select id="MOVEMODE" onchange="calc()"><option value="1.1" selected="selected">Standing</option><option value="1.5">Sitting</option><option value="0.7">Running</option><option value="1">Walking</option></select><br>
 HP:<br>
 <input type="radio" name="HPMODIFIER" id="HP1" onclick="calc()" checked="checked">100%<br>
@@ -169,6 +181,7 @@ HP:<br>
 
 <td>
 <fieldset>
+<legend>Weight</legend>
 <table class="statcalc" width="200">
 	<tbody><tr><td>50% Weight Penalty</td><td id="WEIGHT50" align="right">39330</td></tr>
 	<tr><td>Weight Limit</td><td id="WEIGHTLIMIT" align="right">78660</td></tr>
@@ -182,6 +195,7 @@ HP:<br>
 </tbody></table>
 
 <fieldset>
+<legend>Combat Calculations</legend>
 	<table class="statcalc" <tr="">			<tbody><tr><td colspan="8">Turn the form display on or off with these:</td></tr>
 <tr>			<td width="5"><input type="checkbox" id="COMBATCHECK" onclick="boxgoaway()"></td>
 			<td>Combat Calculations</td>
@@ -200,7 +214,7 @@ HP:<br>
 </fieldset>
 
 <fieldset id="COMBAT" style="display: none;">
-<legend><span class="style2">Combat Calculations</span></legend>
+<legend>Combat Calculations</legend>
 	<table class="statcalc">
 		<tbody><tr><td>Enemy Target:</td>
 			<td><select id="ENEMY" onchange="calc()">
@@ -278,7 +292,7 @@ HP:<br>
 </fieldset>
 
 <fieldset id="ITEMS" style="display: block;">
-<legend><span class="style2">Equipment</span></legend>
+<legend>Equipment</legend>
 	<table class="statcalc">
 <tbody><tr>
 			<td>Weapon</td>
@@ -1670,7 +1684,7 @@ HP:<br>
 </fieldset>
 
 <fieldset id="PASSIVES" style="display: block;">
-<legend><span class="style2">Passives</span></legend>
+<legend>Passives</legend>
 <table class="statcalc">
 <tbody><tr>	<td></td>
 		<td><input type="checkbox" id="AUTOPASSIVECHECK" onclick="passives(true);calc()" checked="checked"></td>
@@ -1956,7 +1970,7 @@ HP:<br>
 </fieldset>
 
 <fieldset id="BUFFS" style="display: block;">
-<legend><span class="style2">Buffs</span></legend>
+<legend>Buffs</legend>
 <table class="statcalc">
 <tbody><tr>			<td colspan="2" align="right">Buffs Quickselect:</td>
 				<td colspan="5"><select id="SETBUFFS" onchange="buffs(true);calc()">
@@ -2652,7 +2666,7 @@ HP:<br>
   </tr></tbody></table>
 </fieldset>
 <fieldset id="TOGGLES" style="display: block;">
-<legend><span class="style2">Toggles</span></legend>
+<legend>Toggles</legend>
 	<table class="statcalc">
 <tbody><tr>
 		<td><input type="checkbox" id="SOUL1CHECK" onclick="toggles();calc()" style="display: none;">
@@ -2816,7 +2830,7 @@ HP:<br>
 	</tbody></table>
 </fieldset>
 <fieldset id="DEBUFFS" style="display: block;">
-<legend><span class="style2">Debuffs</span></legend>
+<legend>Debuffs</legend>
 	<table class="statcalc">
 <tbody><tr>	<td>P.Atk.</td>
 		<td><input type="checkbox" id="DEPATKCHECK" onclick="debuffs();calc()"></td>
