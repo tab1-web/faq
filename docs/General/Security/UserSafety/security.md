@@ -60,7 +60,26 @@ actions in or out of the game.
         - See scammer details  
         - Recover lost epic/high-value items  
 
-### Summary
+## Captcha System
+<div class="grid cards" markdown>
+
+- During gameplay you will encounter Captchas:
+
+    - **"Letter"** captcha (hit 3 letters correct consecutively)
+    - **"Anti-bot"** captcha (small math by addition)
+
+    It's **normal** that you encounter them, GMs use these **tools** to uphold **fair play**.
+
+    **Automatic captchas on fail don't ban**, all bans are done manually.
+
+- <figure markdown="span">
+<a href="https://postimg.cc/wyWWSdZy">
+![Captcha Concerns](https://i.postimg.cc/T1xZ5dc9/WcgMVnK.png){.ligtbox width=70%}
+</a>
+</figure>
+</div>
+
+## Summary
 
 - You are the first line of defense.
 - No one, not friends or staff, needs your password.
@@ -89,7 +108,7 @@ actions in or out of the game.
 <hr>
 
 
-### :octicons-bookmark-16: Resources
+## :octicons-bookmark-16: Resources
 
 - [Trojan Horse](https://computer.howstuffworks.com/trojan-horse.htm?s1sid=p72jxahoyuw542hapz3ymntx&srch_tag=cr5h2zidpuzx5tq2happ4z4nbvrw2ac4)
 - [Computer Viruses](https://computer.howstuffworks.com/virus.htm?s1sid=eel1e9ghs7mx46h94ct1qipt&srch_tag=zxjxanufcg27gc3f5j5suqausw7tl6lw)

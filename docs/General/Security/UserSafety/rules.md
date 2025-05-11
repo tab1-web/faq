@@ -16,10 +16,16 @@ icon: fontawesome/solid/scroll
 
 :material-check: Only in-game macros (via the Macro system) are allowed.
 
+:material-close: You are not allowed to use third-party programs (e.g. L2Hub HUD)
+
+:material-check: Use files only from the folders provided in your client's plugins folder.
+
 ---
 
 ### :material-account-multiple-remove: **2. AFK Farming**
 - :material-close: AFK Farming is **not allowed**.
+
+- :material-check: You must be at the computer to solve captchas.
 
 --- 
 
@@ -39,6 +45,9 @@ icon: fontawesome/solid/scroll
 ### :material-currency-usd-off: **4. Real Money Trading (RMT)**
 
 :material-close: Exchanging in-game items, services, characters, or accounts for **real money** is strictly **prohibited**.  
+
+!!! warning
+    You are not allowed to use **Reborn Coins** either for any exchange.
 
 ---
 
@@ -75,7 +84,8 @@ icon: fontawesome/solid/scroll
     - Even if you have multiple accounts, you can only have **1 offline shop maximum** per person.
         - Make sure that if you wish to play on a character, it's **not on the same account** as the offline shop.
     - If your client is active, you may also run one **online shop**.
-- **Essence, Eternal, H5 Forever** are allowed to have **more than one offline shop**, but still **one per account**.
+- :material-check: It is allowed to have an offline shop used by: `.offline` while farming on another account.
+- :material-check: **Essence, Eternal, H5 Forever** are allowed to have **more than one offline shop**, but still **one per account**.
 
 ---
 
@@ -88,6 +98,15 @@ icon: fontawesome/solid/scroll
 
 !!! tip "Optimize Your Time"
     Setting up a shop or organizing gear on one server while farming actively on another is the best way to multi-task.
+
+---
+
+### :material-share: **9. Account Sharing** 
+
+:material-close: Sharing your account is at your own risk. It is **highly discouraged**.
+
+!!! example
+    Sharing your account is risky—if it gets banned or items go missing, that's on you.
 
 ---
 

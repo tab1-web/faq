@@ -42,6 +42,8 @@ For any other issue, please refer to the [Help & Support page](/faq/General/Tech
     - Choose a random prefix from the list.
     - Your **in-game username will look like**: eg_example123
 
+Referral codes **are not implemented** at the moment.
+
 <figure markdown="span">
     <a href="https://postimg.cc/zyB41pRW">
     ![Create Account Image](https://i.postimg.cc/BQ2b7NZF/createacc.png){ .lightbox width=45%}
