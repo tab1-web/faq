@@ -90,7 +90,20 @@ If nothing happens after you pressed **“OK”**, you might have taken too long
 
 It's time to create your character now, I hope you enjoy your your journey. :slight_smile:
 
+Don't forget to **vote**, every server has VIP runes which increases your rates. 
+
+- Free VIP lasts for 12 hours (real-time) and can be acquirable again from the website after the rune expires.
+- Bought VIP last longer and may contain cosmetics.
+- They increase the rates the same way and don’t stack, but consider supporting the project!
+
+<figure markdown="span">
+    <a href="https://postimg.cc/cKsF1SZv">
+    ![Proxy Screen](https://i.postimg.cc/mr9JwL5y/vote.gif){ .lightbox width=70% }
+    </a>
+</figure>
+
 Check out my other guides and [rules](../support/rules.md) for navigating around the world of Aden.
+
 
 **Good luck & have fun!**
 
