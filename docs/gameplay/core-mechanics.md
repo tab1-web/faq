@@ -3,7 +3,7 @@ icon: material/nintendo-game-boy
 
 ---
 
-# Lineage II: A World of War & Power  
+# Lineage II: A World of War
 
 **Lineage II** is a high-fantasy MMORPG where players battle for dominance in a chaotic, war-torn world. Your character is a weapon—forge their strength, ally with clans, and shape history through conquest, politics, and siege warfare.  
 
