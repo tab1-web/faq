@@ -50,14 +50,14 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
     - search.share
     - navigation.path
     - content.code.copy
-
+    - navigation.indexes
+    
   palette:
 
     # Dark Mode
