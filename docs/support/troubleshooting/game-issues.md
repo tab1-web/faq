@@ -70,11 +70,23 @@ Sadly **there are no other solutions**. On 2K the buttons are good, beyond that 
 <hr>
 
 ## Event Code 10/5
-**Restart your PC**. If that doesn't work: **Delete the System folder** & do **Client Repair**.
+This happens when there is either an interruption in your connection and/or an interruption to the SmartGuard service.
+
+**Power-cycle your Modem/Router/Switch**. If that doesn't work: **Delete the System folder** & do **Client Repair**.
+
+<figure markdown="span">
+<a href="https://postimg.cc/14YQqDPB">
+![Smartguard error 05](https://i.postimg.cc/5NfNDmRh/105.png){.lightbox width=90%  }
+</a>
+</figure>
 
 <hr>
 
 ## smrt64.exe Error
 Restart your PC.
-
+<figure markdown="span">
+<a href="https://postimg.cc/CB7drC4k">
+![Smartguard error 10/5](https://i.postimg.cc/L5KfXNYC/dump.png){.lightbox width=80%  }
+</a>
+</figure>
 <hr>

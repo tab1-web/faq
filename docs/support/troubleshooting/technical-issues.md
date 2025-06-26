@@ -22,6 +22,7 @@ Please make sure that:
 
 Additionally try:
 
+- [ ] [Reinstalling .NET frameworks or Enable them](https://youtu.be/57HbrVq6Ej0?si=uUNFievc5M00opIf&t=105), click on drop down and tick the options below as well.
 - [ ] Restarting your **router**
 - [ ] Restarting your **computer**
 - [ ] Disabling **Riot's Vanguard**, and **other anti-cheats**.
@@ -90,6 +91,18 @@ Make sure that you are not on the correct Master Account.
 
 <hr>
 
+### Setup / Windows Installer Fail
+
+[Reinstall .NET frameworks](https://youtu.be/57HbrVq6Ej0?si=uUNFievc5M00opIf&t=105), or enable them in `Turn Windows features on or off`.
+
+<figure markdown="span">
+    <a href="https://postimg.cc/mPsVKt4C">
+    ![Setup Fail Image](https://i.postimg.cc/jSW9w7kg/setup-fail.png){.lightbox width=40% }
+    </a>
+</figure>
+
+<hr>
+
 ### How to play Riot's games?
 1. Open L2.
 2. Open Riot Launcher.
@@ -102,6 +115,8 @@ Make sure that you are not on the correct Master Account.
 
 [Cloudflare Warp](https://one.one.one.one/)
 
+<hr>
+
 ## SmartGuard fixes
 
 ### Invalid SafeAuth
@@ -111,6 +126,12 @@ Save `l2reborn_easylogin.ini` file to Desktop, it contains your passwords.
 - Put it back in System folder after the install is done and don't share that file. **Ever.**
 
 **Delete your System folder** and do **Repair**.
+
+<figure markdown="span">
+    <a href="https://postimg.cc/Pvn93fv5">
+    ![Safe Auth](https://i.postimg.cc/cCvWJrsw/invalidsafe.png){.lightbox  }
+    </a>
+</figure>
 
 <hr>
 
@@ -142,7 +163,7 @@ Close Updater, delete that file that has problem, re-launch Updater.
 
 <figure markdown="span">
     <a href="https://postimg.cc/gJpvGmvJ">
-    ![Image](https://i.postimg.cc/gJpvGmvJ/image3.png){.lightbox width=50% }
+    ![Image](https://i.postimg.cc/gJpvGmvJ/image3.png){.lightbox width=70% }
     </a>
 </figure>
 
@@ -152,10 +173,17 @@ Credit: @mefox_ @abeisede
 
 ### 0301 CDEF0002
 Make sure you have Windows 10/11 and no '[Insider Mode](https://www.microsoft.com/en-us/windowsinsider/leave-program)' or other Beta/[Debug](https://youtu.be/RwwULJe8QNE?si=Hp1c4G2bY8RwDGu-) features enabled.
+[Might require fresh Windows install with formatting PC.](https://youtu.be/OtHZueEZe9s?si=g9VtoAPseIRzo-S1&t=101)
 
+
+<figure markdown="span">
+<a href="https://postimg.cc/BtLbQvcy">
+![Smartguard error 002](https://i.postimg.cc/KcQMfkKZ/1uweBrL.png){.lightbox width=60%  }
+</a>
+</figure>
 <hr>
 
-### 0301 0000135
+### 0301 0000135 / 0xc0000135
 
 - [ ] Download and Run: [All in One VC Redistributables](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 - [ ] Latest Windows 11 version might not be supported by SmartGuard, wait ~3 days for SmartGuard to catch up or [revert the update.](https://support.microsoft.com/en-us/windows/how-to-uninstall-a-windows-update-c77b8f9b-e4dc-4e9f-a803-fdec12e59fb0#ID0EBF=Windows_11)
@@ -163,34 +191,73 @@ Make sure you have Windows 10/11 and no '[Insider Mode](https://www.microsoft.co
 
 <hr>
 
+### 0301 CDEF001
+Disable system's debug mode: [here](https://smart-guard.eu/en/support/game-client/debugger-detected)
+
+<hr>
+
+### 0301 000001B1
+
+Try everything from [here](#ultimate-fix-summary)
+
+<hr>
+
+### 0xc000041d
+Anti-virus is blocking Smartguard
+
+Uninstall the anti-virus (AVG, ESET ...) or add L2Reborn/Smartguard files/folders as Anti-virus Exceptions.
+Antiviruses can disregard exceptions, uninstalling is recommended. 
+
+<figure markdown="span">
+<a href="https://postimg.cc/FYJDbdMc">
+![Smartguard error 41d](https://i.postimg.cc/sgTqr5Kn/antivirus.png){.lightbox width=50%  }
+</a>
+</figure>
+
+<hr>
+
 ### 0xC0000005
 Restart your computer.
+<figure markdown="span">
+<a href="https://postimg.cc/GHTQmBFB">
+![Smartguard error 05](https://i.postimg.cc/tC2mDW7z/05.png){.lightbox width=90%  }
+</a>
+</figure>
+<hr>
+
+### 0301 CDEF000 / 0301 C000007B
+
+[Turn Core Isolation off](https://discord.com/channels/622089207028121602/1307133204854997032/1318727734398156810) and restart your PC. 
+
+<figure markdown="span">
+<a href="https://postimg.cc/rDVbVD22">
+![Smartguard error 000](https://i.postimg.cc/DwLKcGC0/coreisolat.png){.lightbox width=60%  }
+</a>
+</figure>
 
 <hr>
 
-### 0301 CDEF000 
-
-[Turn Core Isolation off](https://discord.com/channels/622089207028121602/1307133204854997032/1318727734398156810)
-
-<hr>
-
-### 0301 CDEF002
-Make sure you have Windows 10/11 and no 'Insider Mode' or other Beta/Debug features enabled.
-
-[Might require fresh Windows install with formatting PC.](https://youtu.be/OtHZueEZe9s?si=g9VtoAPseIRzo-S1&t=101)
+### 0301 0000041D
+It seems like this error comes from new AMI BIOS + Driver updates, roll them back.
 
 <hr>
 
 ### SmartGuard stuck loading
 Reboot your PC and Router.
 
-- Temporary fix: Use a [VPN](#vpn-recommendation) to connect. 
+- Temporary fix: Use a [VPN](#vpn-recommendation) or Mobile Data to connect. 
 
 <figure markdown="span">
 <a href="https://postimg.cc/BbgXQYD1/">
 ![SmartGuard stuck](https://i.postimg.cc/BbgXQYD1/stucksmartguard.png){.lightbox width=40% }
 </a>
 </figure>
+
+<hr>
+
+# I tried everything from above 
+
+If you are still having issues after [Ultimate Fix Summary](#ultimate-fix-summary) and the above posts, check out this [page](https://smart-guard.eu/ru/support/game-client) or let us know in the Discord.
 
 <hr>
 

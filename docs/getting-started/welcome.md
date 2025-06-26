@@ -90,7 +90,7 @@ If nothing happens after you pressed **“OK”**, you might have taken too long
 
 It's time to create your character now, I hope you enjoy your your journey. :slight_smile:
 
-Check out my other guides for navigating around the world of Aden.
+Check out my other guides and [rules](../support/rules.md) for navigating around the world of Aden.
 
 **Good luck & have fun!**
 

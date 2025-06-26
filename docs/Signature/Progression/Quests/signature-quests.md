@@ -1,7 +1,0 @@
----
-icon: material/script
-
-
----
-
-# Quests

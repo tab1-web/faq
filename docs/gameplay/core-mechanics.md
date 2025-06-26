@@ -17,7 +17,7 @@ icon: material/nintendo-game-boy
 
 ---
 
-### :material-castle: **Siege Warfare**  
+### :material-castle: **Clan Sieges**  
 - **Goal**: Capture castles to control territories, impose taxes, and unlock rare perks.  
 - **Dynamics**: Real-time strategy with siege weapons, clan alliances, and evolving tactics.  
 - **Rewards**: Castle Lords gain Wyvern mounts, crafting monopolies, and political influence.  

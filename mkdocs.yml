@@ -5,39 +5,31 @@ extra_css:
 nav:
   - Home: index.md
   - Getting Started:
-    - 'Welcome': General/Website/website.md
-    - 'Servers': General/Servers/servers.md
-    - 'Cosmetics Info': General/Cosmetics/cosmetics-general.md
-    - 'Cosmetics Preview':
-      - 'Hats': General/Cosmetics/Hats/hats.md
-      - 'Suits': General/Cosmetics/Suits/suits.md
-      - 'Cloaks': General/Cosmetics/Cloaks/cloaks.md
-      - 'Agathions': General/Cosmetics/Agathions/agathions.md
-  - Help & Support:
-    - 'Report Dual-box/Bot': General/Security/UserSafety/report.md
-    - 'How to open a ticket?': General/Security/UserSafety/ticket.md
-    - 'User Safety': General/Security/UserSafety/security.md
-    - 'Rules': General/Security/UserSafety/rules.md
-    - 'Login Failed': General/Security/UserSafety/email.md
-    - 'Troubleshoot':
-      - 'In-Game Issues': General/TechnicalIssues/inside.md
-      - 'Out-of-Game Issues': General/TechnicalIssues/outside.md
-  - Gameplay:
-    - 'General': 
-      - 'Game': Game/General/game.md
-      - 'PvP System': Game/General/pk.md
-    - 'Progression':
-      - 'Subclasses': Game/subclasses.md
-      - 'Noblesse': Game/noblesse.md
-      - 'Heroes & Olympiad': Game/heroes.md
-
-
-  - Signature:
-    - 'Combat': Signature/Combat/signature-combat.md
-    - 'Progression': Signature/Progression/signature-progression.md
-    - 'Quests': Signature/Progression/Quests/signature-quests.md
-    - 'Tools':
-      - 'L2Calc': Signature/L2Calc/l2calc.md
+    - Welcome: getting-started/welcome.md
+    - Server Information: getting-started/servers.md
+    - Account & Login Issues: getting-started/login-issues.md
+  - Gameplay Guide:
+    - Core Mechanics: gameplay/core-mechanics.md
+    - PvP System: gameplay/pvp-system.md
+    - L2Calc: features/l2calcinterlude.md
+    - Character Progression:
+      - Subclasses: gameplay/progression/subclasses.md
+      - Noblesse: gameplay/progression/noblesse.md
+      - Heroes & Olympiad: gameplay/progression/heroes.md
+  - Cosmetics:
+    - Overview: cosmetics/overview.md
+    - Hats: cosmetics/hats.md
+    - Suits: cosmetics/suits.md
+    - Cloaks: cosmetics/cloaks.md
+    - Agathions: cosmetics/agathions.md
+  - Support:
+    - Rules & Guidelines: support/rules.md
+    - User Safety: support/user-safety.md
+    - Reporting: support/reporting.md
+    - Creating Tickets: support/tickets.md
+    - Troubleshooting:
+      - Game Issues: support/troubleshooting/game-issues.md
+      - Technical Issues: support/troubleshooting/technical-issues.md
 theme:
   name: material
   
@@ -107,5 +99,6 @@ markdown_extensions:
   - admonition
   
 plugins:
-  - search
+  - search:
+      lang: en
   - tags
