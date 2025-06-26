@@ -8,7 +8,7 @@ nav:
     - Welcome: getting-started/welcome.md
     - Server Information: getting-started/servers.md
     - Account & Login Issues: getting-started/login-issues.md
-  - Gameplay Guide:
+  - Gameplay:
     - Core Mechanics: gameplay/core-mechanics.md
     - PvP System: gameplay/pvp-system.md
     - L2Calc: features/l2calcinterlude.md
