@@ -239,7 +239,7 @@ HP:<br>
 </fieldset>
 
 <fieldset id="COMBAT">
-<legend>Расчет PvP</legend>
+<legend>PvP Calculation</legend>
 	<table class="statcalc" id="RES1">
 		<tr><td>Resurrection lvl&nbsp </td>
 
@@ -325,10 +325,10 @@ HP:<br>
 			<option value="6">We're all gonna die!
 			</select></td></tr>
 		<tr><td align=right><input type="checkbox" id="SS" onclick="boxgoaway();calc()" checked></td><td>Use Soulshots</td</tr>
-		<tr><td align=right><input type="text" id="SSC1" size="1" value="0" onkeypress="calc()"></td><td><a id="SSC2">Adena per Soulshot</a></td></tr>
-		<tr><td align=right><a id="SSC3">0</a></td><td><a id="SSC4">Adena Cost per Second</a></td></tr>
+		<tr><td align=right><input type="text" id="SSC1" size="1" value="0" onkeypress="calc()"></td><td><p id="SSC2">Adena per Soulshot</p></td></tr>
+		<tr><td align=right><p id="SSC3">0</p></td><td><p id="SSC4">Adena Cost per Second</p></td></tr>
 
-		<tr><td align=right><a id="SSC5">0</a></td><td><a id="SSC6">Soulshot Efficiency</a></td></tr>
+		<tr><td align=right><p id="SSC5">0</p></td><td><p id="SSC6">Soulshot Efficiency</p></td></tr>
 	</table>
 	<table class="damage">
 <tr><td colspan=20><hr></td></tr>
