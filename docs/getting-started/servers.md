@@ -1,6 +1,7 @@
 ---
 icon: material/server
-
+hide:
+  - toc
 
 ---
 
@@ -72,9 +73,9 @@ icon: material/server
     ---
 
     <figure markdown="span">
-    [Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button .lightbox } 
-    [Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button .lightbox }
+    [Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button .lightbox }
     [Guide](https://l2reborn.org/news/adventure-guide/){ .md-button .lightbox }
+    [Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button .lightbox }
     </figure>
 
 
