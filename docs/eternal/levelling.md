@@ -2,73 +2,89 @@
 icon: material/sword
 ---
 
-# Levelling
+# Leveling Guide
 
-## Quick Tips
+## 🚀 Quick Tips
 
-### GM Shop & Buffer
-- Talk to Maria in Villages & Towns `/target Maria` to find her.
-- She's a Custom NPC for the server!
-- You can buff up and buy gear, consumables from her. Look around for her services & exchanges.
 
-### Essentials to Carry
-- Scroll of Escape, Mana/HP Potions, Soulshots/Blessed Spiritshots  
-- Buy these at **GM Shop Maria**  (Villages/Towns). 
+<div class="grid cards" markdown>
 
----
+- ### 🛒 GM Shop & Buffer <br>
+    Locate Maria in towns: `/target Maria` <br> <br>
+    Custom server NPC with buffs & gear <br> <br>
+    Offers consumables, exchanges, and services <br>
+    ### 🎒 Essentials to Carry
+    Scroll of Escape <br> <br>
+    HP/MP Potions <br> <br>
+    Soulshots/Blessed Spiritshots <br> <br>
+    *Available at Maria's Shop* <br>
 
-### Class Change Quests
-- 1st and 2nd class changes are free! 
-- Choose them by clicking on the medal in the right bottom corner.
+- <figure markdown="span">
+    <a href="https://postimg.cc/bSQBGM0r">
+    ![Maria](https://i.postimg.cc/WzKLychG/B42-C14-D0-37-AA-4548-BB3-C-18-BF21-ADD3-A3.png){ .lightbox width=70%}
+    </a>
+    <figcaption>Maria, GM Shop</figcaption>
+</figure>
 
----
-
-### Leveling Efficiency
-- Skip early quests – focus on killing monsters for faster XP.  
-- Use **Mana Potions sparingly** (expensive early-game).
-
----
-
-### Coupons & Rentals
-- **Lv20/40:** Redeem **Shadow Weapon Coupons** at Maria/Giran Weapons Trader.  
-- **Lv52:** Rent B-Grade weapons (Giran Weapons Trader).
+</div>
 
 ---
 
-### Buff Slots (Max: 20)
-- Each **Ancient Book** increases max buff slots by +1:  
-  - Divine Inspiration (Modern) – Lv52 – 400.000 Adena  
-  - Divine Inspiration (Original) – Lv62  - 7 Glittering Medal
-  - Divine Inspiration (Manuscript) – Lv76 - 10 Glittering Medal
-  - Divine Inspiration (Original Ver.) – Lv76 - 15 Glittering Medal
-- Learn the skills at your class's skill trainer.
+## 🔄 Class Changes
+- **Free** 1st & 2nd class changes
+- Access via medal icon (bottom-right corner)
 
 ---
 
-### Spending Priority
-1. Weapons > Gear  
-2. After both, buy **Dyes** (GM Shop Maria).
+## ⚡ Efficiency Tips
+<div class="grid cards" markdown>
+
+- ### 🎯 Early Game
+    - Skip quests → focus on mob grinding
+    - Conserve Mana Potions (expensive)
+
+- ### 🏆 Mid Game
+    - Lv20/40: Redeem **Shadow Weapons** (Maria/Giran)
+    - Lv52: Rent B-Grade (Giran Weapons Trader)
+
+</div>
 
 ---
 
-### Progression Boost
-- **Vote for Eternal server** → [Better rewards](/faq/getting-started/welcome/#you-are-all-set).
+## 🔮 Buff System
+<figure markdown="span" markdown>
+
+| Book Required | Level | Cost | Max Slots |
+|-----------|-------|------|-----------|
+| Modern (Lv52) | 52 | 400K Adena | +1 |
+| Original (Lv62) | 62 | 7 Medals | +1 |
+| Manuscript (Lv76) | 76 | 10 Medals | +1 |
+| Original Ver. (Lv76) | 76 | 15 Medals | +1 |
+
+</figure>
+> Learn them at your class trainer
 
 ---
 
-### Pets
-- Avoid leveling pets (time waste).  
-- Need mobility? Buy **Strider** (Maria GM Shop → Event Items).
+## 💰 Spending Priority
+1. **Weapons** (highest priority)
+2. Armor/Gear  
+3. Dyes (Maria's Shop)
 
 ---
 
-### Maria Macro
+## 🎁 Progression Boosters
+- Vote for server rewards → [Voting Guide](/faq/getting-started/welcome/#you-are-all-set)
+- Avoid pet leveling (inefficient)
+- Buy **Strider** if you need mobility (Maria → Event Items)
+
+---
+
+## 🤖 Maria Macro
 ```bash
 /target Maria  
 /attack
 ```
-Assign to hotbar – avoids Gatekeeper obstructions.
-
 [:material-arrow-right: Macro Tutorial](/faq/gameplay/macro/)
 
 ---

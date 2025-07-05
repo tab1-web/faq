@@ -4,124 +4,175 @@ icon: material/room-service
 
 # Maria Services
 
-## Options
+## Service Overview
 
 <div class="grid cards" markdown>
 
-- <figure markdown="span">
-    <a href="https://postimg.cc/gX2xfsCw">
-    ![Maria Services](https://i.postimg.cc/QtpcKnSq/1-C20-B8-F1-74-A9-4-BA8-BEC6-7-E5851-A271-E1.png){ .lightbox }
+- <figure class="service-portrait">
+    <a href="https://postimg.cc/gX2xfsCw" class="lightbox">
+    ![Maria Services](https://i.postimg.cc/QtpcKnSq/1-C20-B8-F1-74-A9-4-BA8-BEC6-7-E5851-A271-E1.png)
     </a>
+    <figcaption>Maria, Custom NPC</figcaption>
     </figure>
-- Every Buff Available
-    
-    Mana, HP Potions, Shots, Arrows
-        
-    - Shop
-    
-    Quest Exchanges
-        
-    - Shop
 
-    Warehouse, Augment, Dyes
+- __Buff, Service, Consumables Shop__  
+  📌 All potions (HP/MP/CP) <br>
+  📌 Shots/Arrows <br>
+  📌 Warehouse access <br> 
+  📌 Augmentation services <br>
+  📌 Symbol Maker <br>
+  📌 All buffs available <br>
+  📌 Subclass Change <br> <br>
+  __Alt + B__ Community Board <br>
+  📌 Rankings <br>
+  📌 Configs <br>
+  📌 Events <br>
+  📌 Boss Timers <br>
+  📌 Voucher Codes
 
-    - Services
 
-    Teleport Services
+- __Quest & Exchange__  
+  🔄 Quest item exchanges  
+  💰 Adena conversions  
+  🏆 Medal trade services
 
-    - Valakas > Upper FoG spawn
-    - Frintezza > Imperial Tomb entrance
-
+- __Teleport Services__  
+  🔮 Valakas → Upper FoG spawn  
+  🔮 Frintezza → Imperial Tomb entrance  
 
 </div>
 
-## Glittering Medal Exchange Rates
+---
 
+## Glittering Medal Exchange
+
+<figure class="service-portrait" markdown>
+
+### 🎖️ Basic Conversions
+| Item | Quantity | Converts To |
+|------|----------|-------------|
+| Event Medal | 50 | 1 Glittering Medal |
+| Clan Reputation | 100 | 10 Event Medals |
+| Dragon Bugle | 1 | 10 Glittering Medals |
+
+</figure>
+
+### 📜 Divine Inspiration Scrolls
 <div class="grid cards" markdown>
 
-- ### Basic Conversions
+- __Modern__  
+  Level: 52  
+  Cost: **1 Medal**
 
+- __Original__  
+  Level: 62  
+  Cost: **7 Medals**
 
-    | Item | Quantity | Converts To |
-    |------|----------|-------------|
-    | Event Medal | 50x | 1x Glittering Medal |
-    | Clan Reputation Points | 100x | 10x Event Medal |
-    | Dragon Bugle | 1x | 10x Glittering Medal |
+- __Manuscript__  
+  Level: 76  
+  Cost: **10 Medals**
 
-- ### Divine Inspiration Scrolls
-
-    | Scroll Type | Level | Cost (Glittering Medals) |
-    |------------|-------|--------------------------|
-    | Modern | Lv52 | 1x |
-    | Original | Lv62 | 7x |
-    | Manuscript | Lv76 | 10x |
-    | Original Ver. | Lv76 | 15x |
-
-
-
-- ### Blessed Enchant Scrolls
-
-    | Scroll Type | Grade | Cost (Glittering Medals) |
-    |------------|-------|--------------------------|
-    | Enchant Armor | B | 5x |
-    | Enchant Weapon | B | 10x |
-    | Enchant Armor | A | 10x |
-    | Enchant Weapon | A | 20x |
-    | Enchant Armor | S | 15x |
-    | Enchant Weapon | S | 30x |
-
-- ### Other Items
-
-    | Item | Cost (Glittering Medals) |
-    |------|--------------------------|
-    | Top-Grade Life Stone (L76) | 1x |
-    | Secret Book of Giants | 3x |
-
-    ### Soul Crystals
-
-    | Crystal Grade | Cost (Glittering Medals) |
-    |--------------|--------------------------|
-    | Lv11 | 5x |
-    | Lv12 | 15x |
-    | Lv13 | 30x |
-
+- __Original Ver.__  
+  Level: 76  
+  Cost: **15 Medals**
 </div>
+
+### ✨ Blessed Enchant Scrolls
+<div class="grid cards" markdown>
+
+- __Armor (B)__  
+  Cost: **5 Medals**
+
+- __Weapon (B)__  
+  Cost: **10 Medals**
+
+- __Armor (A)__  
+  Cost: **10 Medals**
+
+- __Weapon (A)__  
+  Cost: **20 Medals**
+
+- __Armor (S)__  
+  Cost: **15 Medals**
+
+- __Weapon (S)__  
+  Cost: **30 Medals**
+</div>
+
+### 💎 Other Valuables
+<div class="grid cards" markdown>
+
+- __Top-Grade Life Stone (L76)__  
+  Cost: **1 Medal**
+
+- __Secret Book of Giants__  
+  Cost: **3 Medals**
+
+- __Soul Crystal Lv11__  
+  Cost: **5 Medals**
+
+- __Soul Crystal Lv12__  
+  Cost: **15 Medals**
+
+- __Soul Crystal Lv13__  
+  Cost: **30 Medals**
+</div>
+
+---
 
 ## Adena Exchange Rates
 
+<figure class="service-portrait" markdown>
+
+### 📚 Book Conversions
+| Scroll Type | Level | Adena Cost |
+|------------|-------|------------|
+| Modern | 52 | 400,000 |
+| Original | 62 | 200,000,000 |
+| Manuscript | 76 | 300,000,000 |
+| Original Ver. | 76 | 600,000,000 |
+
+</figure>
+
+### 💰 Currency Values
 <div class="grid cards" markdown>
 
-- ### Book Conversions
-    | Scroll Type | Level | Cost (Adena) |
-    |------------|-------|--------------------------|
-    | Modern | Lv52 | 400.000 |
-    | Original | Lv62 | 200.000.000 |
-    | Manuscript | Lv76 | 300.000.000 |
-    | Original Ver. | Lv76 | 600.000.000 |
+- __Gold Bar__  
+  Value: **500M**
 
+- __Blooded Fabric__  
+  Value: **12M**
 
-- ### Currency Conversions
-    | Item | Adena Value |
-    |------|-------------|
-    | Gold Bar | 500,000,000 |
-    | Blooded Fabric | 12,000,000 |
-    | Portal Stone | 12,000,000 |
-    | Floating Stone | 12,000,000 |
-    | Frintezza QI | 23,000,000 |
-    | Dragon Bugle | 250,000,000 |
+- __Portal Stone__  
+  Value: **12M**
 
-- ### Life Stones (Level 76)
-    | Stone Grade | Adena Value |
-    |-------------|-------------|
-    | Regular | 6,000,000 |
-    | Mid-Grade | 7,000,000 |
-    | High-Grade | 8,500,000 |
-    | Top-Grade | 12,000,000 |
+- __Floating Stone__  
+  Value: **12M**
 
-- ### Special Items
-    | Item | Adena Value |
-    |------|-------------|
-    | Secret Book of Giants | 100,000,000 |
+- __Frintezza QI__  
+  Value: **23M**
 
+- __Dragon Bugle__  
+  Value: **250M**
+</div>
 
+### 💠 Life Stones (L76)
+<div class="grid cards" markdown>
+
+- __Regular__  
+  Value: **6M**
+
+- __Mid-Grade__  
+  Value: **7M**
+
+- __High-Grade__  
+  Value: **8.5M**
+
+- __Top-Grade__  
+  Value: **12M**
+</div>
+
+### 📦 Special Items
+<div class="grid cards" markdown>
+- Secret Book of Giants: **100M Adena**
 </div>
