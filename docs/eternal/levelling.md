@@ -327,7 +327,7 @@ Do [Noblesse](/faq/gameplay/progression/noblesse/) and [Subclass Quests](/faq/ga
 ### Human Classes
 | Base Class | 2nd Class | 3rd Class | Quest |
 |------------|-----------|-----------|-------|
-| **Knight** | Paladin | [Phoenix Knight](https://lineage2wiki.org/interlude/class/phoenix-knight/) | [Saga of the Phoenix Knight](https://lineage2wiki.org/interlude/quest/70/saga-of-the-phoenix-knight/) |
+| **Knight** | Paladin | [Phoenix Knight](https://lineage2wiki.org/interlude/class/phoenix_knight/) | [Saga of the Phoenix Knight](https://lineage2wiki.org/interlude/quest/70/saga-of-the-phoenix-knight/) |
 | **Knight** | Dark Avenger | [Hell Knight](https://lineage2wiki.org/interlude/class/hell_knight/) | [Saga of the Hell Knight](https://lineage2wiki.org/interlude/quest/95/saga-of-the-hell-knight/) |
 | **Warrior** | Gladiator | [Duelist](https://lineage2wiki.org/interlude/class/duelist/) | [Saga of the Duelist](https://lineage2wiki.org/interlude/quest/73/saga-of-the-duelist/) |
 | **Warrior** | Warlord | [Dreadnought](https://lineage2wiki.org/interlude/class/dreadnought/) | [Saga of the Dreadnoughts](https://lineage2wiki.org/interlude/quest/74/saga-of-the-dreadnoughts/) |
