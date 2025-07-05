@@ -1,10 +1,19 @@
+---
+icon: material/sword
+---
+
 # Levelling
 
 ## Quick Tips
 
+### GM Shop & Buffer
+- Talk to Maria in Villages & Towns `/target Maria` to find her.
+- She's a Custom NPC for the server!
+- You can buff up and buy gear, consumables from her. Look around for her services & exchanges.
+
 ### Essentials to Carry
 - Scroll of Escape, Mana/HP Potions, Soulshots/Blessed Spiritshots  
-- Buy these at **GM Shop Maria**  (Villages/Towns).
+- Buy these at **GM Shop Maria**  (Villages/Towns). 
 
 ---
 
@@ -16,16 +25,16 @@
 
 ### Coupons & Rentals
 - **Lv20/40:** Redeem **Shadow Weapon Coupons** at Maria/Giran Weapons Trader.  
-- **Lv52:** Rent B-Grade weapons (same NPCs).
+- **Lv52:** Rent B-Grade weapons (Giran Weapons Trader).
 
 ---
 
 ### Buff Slots (Max: 20)
 - Each **Ancient Book** increases max buff slots by +1:  
   - Divine Inspiration (Modern) – Lv52 – 400.000 Adena  
-  - Divine Inspiration (Original) – Lv62  
-  - Divine Inspiration (Manuscript) – Lv76  
-  - Divine Inspiration (Original Ver.) – Lv76
+  - Divine Inspiration (Original) – Lv62  - 7 Glittering Medal
+  - Divine Inspiration (Manuscript) – Lv76 - 10 Glittering Medal
+  - Divine Inspiration (Original Ver.) – Lv76 - 15 Glittering Medal
 - Learn the skills at your class's skill trainer.
 
 ---
@@ -53,6 +62,8 @@
 /attack
 ```
 Assign to hotbar – avoids Gatekeeper obstructions.
+
+[:material-arrow-right: Macro Tutorial](/faq/gameplay/macro/)
 
 ---
 
@@ -91,12 +102,14 @@ Assign to hotbar – avoids Gatekeeper obstructions.
 ### Levels 46-55
 - **46-50**: Tanor Canyon - Dion
     - Lower HP grouped mobs
+- **46-52**: Pavel Ruins - Schuttgart
+    - SOP Spoil from Spelunking Ant
+    - Great AoE place inside the towers
 - **50-55**: Cemetary - Aden
-
 ---
 
 ### Levels 53-63
-- **53-63**: Frozen Labyrinth
+- **53-63**: Frozen Labyrinth - Schuttgart
     - [:fontawesome-solid-scroll: An Ice Merchant's Dream Quest](https://lineage2wiki.org/interlude/quest/648/an-ice-merchants-dream/)
     - Great for Adena + Materials farming
 
@@ -192,7 +205,7 @@ Assign to hotbar – avoids Gatekeeper obstructions.
 
 ### Levels 68-75
 - **68-75**: Wall of Argos - Goddard
-
+    - Spoils for SOP & A-Grade Key Materials
 ---
 
 ### Levels 73-76
@@ -239,6 +252,7 @@ Assign to hotbar – avoids Gatekeeper obstructions.
 
 - **78-85**: Primeval Isle - Rune
     - [:fontawesome-solid-scroll: Rise and Fall of the Elroki Tribe Quest](https://lineage2wiki.org/interlude/quest/643/rise-and-fall-of-the-elroki-tribe/)
+    - Included in the missions as well
 
 ---
 

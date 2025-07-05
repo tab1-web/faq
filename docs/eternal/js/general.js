@@ -21,9 +21,9 @@
     });
     
     document.querySelectorAll('.period-description').forEach(el => {
-      el.textContent = isRewardPeriod 
-        ? "Blacksmith of Mammon and Merchant of Mammon are available in Giran, you cannot register to fight in the catacombs. Lasts until Monday 18:00 UTC."
-        : "Blacksmith of Mammon and Merchant of Mammon are not available, you can register to fight in the catacombs. Lasts until Friday 18:00 UTC.";
+      el.innerHTML = isRewardPeriod 
+        ? `Blacksmith of Mammon and Merchant of Mammon are available in Giran, <span style="color: #ff4444">you cannot register to fight in the catacombs.</span> Lasts until Monday 18:00 UTC.`
+        : `Blacksmith of Mammon and Merchant of Mammon are not available, <span style="color: #44ff44">you can register to fight in the catacombs.</span> Lasts until Friday 18:00 UTC.`;
     });
 
     document.querySelectorAll('.current-utctime').forEach(el => {

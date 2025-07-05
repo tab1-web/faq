@@ -87,7 +87,6 @@
 }
 
 .events-title::before {
-  content: "🕒";
   margin-right: 0.5rem;
 }
 

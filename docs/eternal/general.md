@@ -1,4 +1,6 @@
-
+---
+icon: material/clock-time-one-outline
+---
 <figure markdown="span">
     Welcome to Eternal!
     <br>
@@ -14,7 +16,7 @@
 
 <div class="server-timer">
   <div class="period-header">
-    <h3>⏰ Server Countdown</h3>
+    <h3>Server Countdown</h3>
   </div>
   <div class="period-content">
     <div class="period-row">
@@ -29,14 +31,14 @@
 </div>
 
 <div class="events-widget">
-    <h3 class="events-title">Event Schedule (UTC)</h3>
+    <h3 class="events-title">Event Schedule</h3>
     <ul class="events-list">
     </ul>
 </div>
 
 <div class="period-widget">
     <div class="period-header">
-        <h3>🛡️ Seven Signs Status</h3>
+        <h3>Seven Signs Status</h3>
     </div>
     <div class="period-content">
         <div class="period-row">

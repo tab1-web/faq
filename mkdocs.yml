@@ -12,6 +12,7 @@ nav:
     - Core Mechanics: gameplay/core-mechanics.md
     - PvP System: gameplay/pvp-system.md
     - L2Calc: features/l2calcinterlude.md
+    - Macro: gameplay/macro.md
     - Character Progression:
       - Subclasses: gameplay/progression/subclasses.md
       - Noblesse: gameplay/progression/noblesse.md
@@ -32,6 +33,7 @@ nav:
       - Technical Issues: support/troubleshooting/technical-issues.md
   - Eternal:
     - General: eternal/general.md
+    - Maria: eternal/maria.md
     - Levelling: eternal/levelling.md
     - Classes: eternal/classes.md
     - Buffs: eternal/buffs.md

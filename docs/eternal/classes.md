@@ -1,3 +1,7 @@
+---
+icon: octicons/people-24
+---
+
 # Classes
 
 ## Meta Classes
