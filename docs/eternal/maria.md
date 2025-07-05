@@ -48,7 +48,6 @@ icon: material/room-service
 
 <figure class="service-portrait" markdown>
 
-### 🎖️ Basic Conversions
 | Item | Quantity | Converts To |
 |------|----------|-------------|
 | Event Medal | 50 | 1 Glittering Medal |
@@ -62,60 +61,60 @@ icon: material/room-service
 
 - __Modern__  
   Level: 52  
-  Cost: **1 Medal**
+  Cost: **1 Glittering Medal**
 
 - __Original__  
   Level: 62  
-  Cost: **7 Medals**
+  Cost: **7 Glittering Medals**
 
 - __Manuscript__  
   Level: 76  
-  Cost: **10 Medals**
+  Cost: **10 Glittering Medals**
 
 - __Original Ver.__  
   Level: 76  
-  Cost: **15 Medals**
+  Cost: **15 Glittering Medals**
 </div>
 
 ### ✨ Blessed Enchant Scrolls
 <div class="grid cards" markdown>
 
 - __Armor (B)__  
-  Cost: **5 Medals**
+  Cost: **5 Glittering Medals**
 
 - __Weapon (B)__  
-  Cost: **10 Medals**
+  Cost: **10 Glittering Medals**
 
 - __Armor (A)__  
-  Cost: **10 Medals**
+  Cost: **10 Glittering Medals**
 
 - __Weapon (A)__  
-  Cost: **20 Medals**
+  Cost: **20 Glittering Medals**
 
 - __Armor (S)__  
-  Cost: **15 Medals**
+  Cost: **15 Glittering Medals**
 
 - __Weapon (S)__  
-  Cost: **30 Medals**
+  Cost: **30 Glittering Medals**
 </div>
 
 ### 💎 Other Valuables
 <div class="grid cards" markdown>
 
 - __Top-Grade Life Stone (L76)__  
-  Cost: **1 Medal**
+  Cost: **1 Glittering Medal**
 
 - __Secret Book of Giants__  
-  Cost: **3 Medals**
+  Cost: **3 Glittering Medals**
 
 - __Soul Crystal Lv11__  
-  Cost: **5 Medals**
+  Cost: **5 Glittering Medals**
 
 - __Soul Crystal Lv12__  
-  Cost: **15 Medals**
+  Cost: **15 Glittering Medals**
 
 - __Soul Crystal Lv13__  
-  Cost: **30 Medals**
+  Cost: **30 Glittering Medals**
 </div>
 
 ---
@@ -156,7 +155,7 @@ icon: material/room-service
   Value: **250M**
 </div>
 
-### 💠 Life Stones (L76)
+### 💠 Life Stones (Lv76)
 <div class="grid cards" markdown>
 
 - __Regular__  
