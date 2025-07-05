@@ -336,6 +336,8 @@ icon: material/sword
 
 Do [Noblesse](/faq/gameplay/progression/noblesse/) and [Subclass Quests](/faq/gameplay/progression/subclasses/) as soon as possible, they are major milestones in your character's progression. Common misconception is that subclass quests give some sort of passive or active skills for Main Class, they don't in Interlude.
 
+For Subclass Quest, you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon, you can skip that part for later.
+
 ---
 
 ## 3rd Class Quests
