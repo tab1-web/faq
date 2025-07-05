@@ -17,6 +17,12 @@ icon: material/sword
 
 ---
 
+### Class Change Quests
+- 1st and 2nd class changes are free! 
+- Choose them by clicking on the medal in the right bottom corner.
+
+---
+
 ### Leveling Efficiency
 - Skip early quests – focus on killing monsters for faster XP.  
 - Use **Mana Potions sparingly** (expensive early-game).
