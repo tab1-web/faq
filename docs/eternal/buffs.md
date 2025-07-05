@@ -2,4 +2,6 @@
 icon: simple/magic
 ---
 
-# Buffs
+# Buffs Overview
+
+## Movement Speed
