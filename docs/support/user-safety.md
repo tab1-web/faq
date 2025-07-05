@@ -74,7 +74,7 @@ actions in or out of the game.
 
 - <figure markdown="span">
 <a href="https://postimg.cc/wyWWSdZy">
-![Captcha Concerns](https://i.postimg.cc/T1xZ5dc9/WcgMVnK.png){.ligtbox width=70%}
+![Captcha Concerns](https://i.postimg.cc/T1xZ5dc9/WcgMVnK.png){.ligtbox }
 </a>
 </figure>
 </div>

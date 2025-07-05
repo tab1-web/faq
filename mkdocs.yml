@@ -30,10 +30,14 @@ nav:
     - Troubleshooting:
       - Game Issues: support/troubleshooting/game-issues.md
       - Technical Issues: support/troubleshooting/technical-issues.md
+  - Eternal:
+    - General: eternal/general.md
+    - Levelling: eternal/levelling.md
+    - Classes: eternal/classes.md
+    - Buffs: eternal/buffs.md
 theme:
   name: material
   
-  favicon: images/favicon.png
   
   icon:
     logo: material/frequently-asked-questions

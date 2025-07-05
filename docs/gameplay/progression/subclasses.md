@@ -106,44 +106,38 @@ Your **main class is the selected one**, the cell turns `grey` if you can't have
 
     
 <script>
-if (!sessionStorage.getItem('subclassPageLoaded')) {
-    sessionStorage.setItem('subclassPageLoaded', 'true');
-    setTimeout(() => {
-        window.location.reload();
-    }, 100);
-} else {
-    sessionStorage.removeItem('subclassPageLoaded');
-}
+(function() {
+    function initTableInteractions() {
+        const cells = document.querySelectorAll("table td");
+        if (cells.length === 0) return;
 
-document.addEventListener('DOMContentLoaded', function() {
-    const cells = document.querySelectorAll("table td");
-    const excluded = ["Inspector", "Kamael:"];
+        const excluded = ["Inspector", "Kamael:"];
 
-cells.forEach(cell => {
-    cell.addEventListener("click", () => {
-        const cellValue = cell.textContent.trim();
-        if (excluded.includes(cellValue)) return;
+        cells.forEach(cell => {
+            cell.addEventListener("click", () => {
+                const cellValue = cell.textContent.trim();
+                if (excluded.includes(cellValue)) return;
 
-        const offTargets = getOffTargets(cellValue);
-    
-        cells.forEach(c => {
-            const value = c.textContent.trim();
-            c.classList.remove("selected");
+                const offTargets = getOffTargets(cellValue);
+            
+                cells.forEach(c => {
+                    const value = c.textContent.trim();
+                    c.classList.remove("selected");
 
-            if (offTargets.includes(value)) {
-                c.classList.add("off");
-            } else {
-                c.classList.remove("off");
-            }
-            if (value === cellValue) {
-                c.classList.add("selected");
-            }
+                    if (offTargets.includes(value)) {
+                        c.classList.add("off");
+                    } else {
+                        c.classList.remove("off");
+                    }
+                    if (value === cellValue) {
+                        c.classList.add("selected");
+                    }
+                });
+            });
         });
-    });
-});
 
-  function getOffTargets(cellValue) {
-    const map = {
+        function getOffTargets(cellValue) {
+            const map = {
         "Dark Avenger": ["Temple Knight", "Shillien Knight", "Paladin", "Warsmith", "Overlord", "Berserker", "Soulbreaker", "Arbalester", "Inspector"],
 
         "Paladin": ["Dark Avenger", "Shillien Knight", "Temple Knight", "Warsmith", "Overlord", "Berserker", "Soulbreaker", "Arbalester", "Inspector"],
@@ -212,12 +206,23 @@ cells.forEach(cell => {
         "Soulbreaker": ["Inspector", "Dark Avenger", "Temple Knight", "Shillien Knight", "Destroyer", "Warsmith", "Paladin", "Swordsinger", "Bladedancer", "Tyrant", "Bounty Hunter", "Treasure Hunter", "Plainswalker", "Abyss Walker",  "Overlord", "Hawkeye", "Silver Ranger", "Phantom Ranger", "Warcryer", "Warlock", "Elemental Summoner", "Phantom Summoner", "Sorcerer", "Spellsinger", "Spellhowler", "Necromancer", "Elven Elder", "Shillien Elder", "Warlord", "Gladiator", "Bishop", "Prophet"],
 
         "Arbalester": ["Inspector", "Dark Avenger", "Temple Knight", "Shillien Knight", "Destroyer", "Warsmith", "Paladin", "Swordsinger", "Bladedancer", "Tyrant", "Bounty Hunter", "Treasure Hunter", "Plainswalker", "Abyss Walker",  "Overlord", "Hawkeye", "Silver Ranger", "Phantom Ranger", "Warcryer", "Warlock", "Elemental Summoner", "Phantom Summoner", "Sorcerer", "Spellsinger", "Spellhowler", "Necromancer", "Elven Elder", "Shillien Elder", "Warlord", "Gladiator", "Bishop", "Prophet"],
+            };
+            return map[cellValue] || [];
+        }
+    }
 
-    };
-    return map[cellValue] || [];
-  }
-});
+    document.addEventListener('DOMContentLoaded', initTableInteractions);
 
+    if (typeof document$ !== 'undefined') {
+        document$.subscribe(function() {
+            setTimeout(initTableInteractions, 100);
+        });
+    }
+
+    if (document.readyState === 'complete') {
+        initTableInteractions();
+    }
+})();
 
 </script>
 

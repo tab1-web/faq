@@ -3,22 +3,40 @@ icon: octicons/info-16
 
 ---
 
-!!! warning
-    Cosmetics do not give bonuses, they are for aesthetics only.
+## Important Notes
+!!! warning "Cosmetics Info"
+    - **No stat bonuses**: Cosmetics are purely aesthetic.
+    - **Preview not available**: Due to L2OFF file limits, you cannot test cosmetics on your character before purchasing. Eternal players can use the command: `.trycosmetic`!
+    - **Do not trade Reborn Store bought cosmetics or Reborn Coins**: this includes as RMT and highly forbidden.
 
-    On Signature, you cannot test the cosmetics on your character due to L2OFF file limits.
+---
 
-- You can buy coins [here](https://l2reborn.org/balance/) (1 Coin = 1 €)
-  - You have to send the coins to the correct server, account & character.
-  - If there is an issue with donation, please open a [ticket](https://l2reborn.org/support/) and **include all necessary information** shown below:
-    - Payment method used (Creditcard/FreeKassa)
-    - **Transaction Id (and Hash for crypto)**
-    - Email used for the payment
-    - Time and Date of the payment
-    - Full Details of the donation: (`e.g. I purchased Bounty Hunter quest items for character Bob`)
+## How to Buy Coins
 
+**Exchange Rate**: 1 Coin = 1 €  
+**Purchase Link**: [Buy Coins Here](https://l2reborn.org/balance/)
+
+---
+
+## Donation Guidelines
+1. **Send coins to the correct target**:
+    - Specify the **server**, **account**, and **character** name.
+2. **Payment issues?** [Open a support ticket](https://l2reborn.org/support/) with:
+    - **Payment Method**: Credit Card / FreeKassa / Crypto  
+    - **Transaction Details**:
+        - Transaction ID (*and Hash for crypto payments*)
+        - Email used
+        - Time & Date of payment
+        - Full donation description (*e.g., "Purchased Bounty Hunter items for character 'Bob'"*)
+
+---
+
+### Common Mistakes
+- Incorrect server/character details → [open a support ticket.]((https://l2reborn.org/support/))
+- Missing transaction info → delays in resolving issues.
 
 <hr>
+
 ## :material-eye-off: Hide Cosmetics
 - To turn off suits: `.visualequip`
 
@@ -36,6 +54,17 @@ Paypal is not available, you can pay with [(here)](https://l2reborn.org/balance/
 </a>
 
 <hr>
+
+## Hair & Color / Face Change
+
+You can either buy it from the [Website's Shop](https://l2reborn.org/reborn-shop/) or buy it from Dawn/Dusk Priest for 24k Ancient Adena each.
+
+<figure markdown="span">
+  [Images](https://legacy-lineage2.com/guide/appearance_hair_colors.html){.md-button}
+</figure>
+
+<hr>
+
 ## :material-glass-wine: 1 Year Package VIP
 The Package includes:
 
