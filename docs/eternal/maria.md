@@ -4,126 +4,188 @@ icon: material/room-service
 
 # Maria Services
 
+<style>
+  .service-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+
+  .service-card {
+    background: var(--md-default-bg-color);
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1), 0 4px 8px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border: 1px solid var(--md-typeset-table-color);
+  }
+
+  .service-card:hover {
+    transform: translateY(-0.2rem);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1), 0 8px 16px rgba(0,0,0,0.1);
+  }
+
+  .service-card h3 {
+    margin-top: 0;
+    color: var(--md-primary-fg-color);
+    border-bottom: 2px solid var(--md-accent-fg-color);
+    padding-bottom: 0.5rem;
+  }
+
+  .service-portrait {
+    text-align: center;
+    margin: 0;
+  }
+
+  .service-portrait img {
+    max-width: 100%;
+    border-radius: 0.5rem;
+    border: 3px solid var(--md-accent-fg-color);
+  }
+
+  .service-portrait figcaption {
+    margin-top: 0.5rem;
+    font-style: italic;
+    color: var(--md-typeset-color);
+  }
+
+  .service-list {
+    padding-left: 1.5rem;
+  }
+
+  .service-list li {
+    margin-bottom: 0.5rem;
+    list-style-type: none;
+    position: relative;
+    padding-left: 1.5rem;
+  }
+
+  .service-list li:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.4em;
+    width: 0.8em;
+    height: 0.8em;
+    background-color: var(--md-accent-fg-color);
+    border-radius: 50%;
+  }
+</style>
+
 ## Service Overview
 
-<div class="grid cards" markdown>
+<div class="service-grid">
 
-- <figure class="service-portrait">
+<div class="service-card">
+  <figure class="service-portrait"
     <a href="https://postimg.cc/gX2xfsCw" class="lightbox">
-    ![Maria Services](https://i.postimg.cc/QtpcKnSq/1-C20-B8-F1-74-A9-4-BA8-BEC6-7-E5851-A271-E1.png)
+      <img src="https://i.postimg.cc/QtpcKnSq/1-C20-B8-F1-74-A9-4-BA8-BEC6-7-E5851-A271-E1.png" alt="Maria Services">
     </a>
-    <figcaption>Maria, Custom NPC</figcaption>
-    </figure>
+    <figcaption>Maria GM Shop Window</figcaption>
+  </figure>
+</div>
 
-- __Buff, Service, Consumables Shop__  
-  📌 All potions (HP/MP/CP) <br>
-  📌 Shots/Arrows <br>
-  📌 Warehouse access <br> 
-  📌 Augmentation services <br>
-  📌 Symbol Maker <br>
-  📌 All buffs available <br>
-  📌 Subclass Change <br> <br>
-  __Alt + B__ Community Board <br>
-  📌 Rankings <br>
-  📌 Configs <br>
-  📌 Events <br>
-  📌 Boss Timers <br>
-  📌 Voucher Codes
+<div class="service-card">
+  <figure class="service-portrait">
+    <a href="https://postimg.cc/bSQBGM0r" class="lightbox">
+      <img src="https://i.postimg.cc/WzKLychG/B42-C14-D0-37-AA-4548-BB3-C-18-BF21-ADD3-A3.png" alt="Maria" style="width:70%;">
+    </a>
+    <figcaption>Maria Custom NPC</figcaption>
+  </figure>
+</div>
 
+<div class="service-card">
+  <h3>Buff, Service, Consumables Shop</h3>
+  <ul class="service-list">
+    <li>All potions (HP/MP/CP)</li>
+    <li>Shots/Arrows</li>
+    <li>Warehouse access</li>
+    <li>Augmentation services</li>
+    <li>Symbol Maker</li>
+    <li>All buffs available</li>
+    <li>Subclass Change</li>
+  </ul>
+</div>
 
-- __Quest & Exchange__  
-  🔄 Quest item exchanges  
-  💰 Adena conversions  
-  🏆 Medal trade services
+<div class="service-card">
+  <h3>Alt + B Community Board</h3>
+  <ul class="service-list">
+    <li>Rankings</li>
+    <li>Configs</li>
+    <li>Events</li>
+    <li>Boss Timers</li>
+    <li>Voucher Codes</li>
+  </ul>
+</div>
 
-- __Teleport Services__  
-  🔮 Valakas → Upper FoG spawn  
-  🔮 Frintezza → Imperial Tomb entrance  
+<div class="service-card">
+  <h3>Quest & Exchange</h3>
+  <ul class="service-list">
+    <li>Quest item exchanges</li>
+    <li>Adena conversions</li>
+    <li>Medal trade services</li>
+  </ul>
+</div>
+
+<div class="service-card">
+  <h3>Useful Teleport Services</h3>
+  <ul class="service-list">
+    <li>Valakas → Upper FoG spawn</li>
+    <li>Frintezza → Imperial Tomb entrance</li>
+  </ul>
+</div>
+
 
 </div>
 
----
+<hr class="role-divider">
+
+<figure markdown>
 
 ## Glittering Medal Exchange
 
-<figure class="service-portrait" markdown>
-
-| Item | Quantity | Converts To |
+| Item | Quantity | Cost  |
 |------|----------|-------------|
 | Event Medal | 50 | 1 Glittering Medal |
 | Clan Reputation | 100 | 10 Event Medals |
 | Dragon Bugle | 1 | 10 Glittering Medals |
 
-</figure>
-
 ### 📜 Divine Inspiration Scrolls
-<div class="grid cards" markdown>
 
-- __Modern__  
-  Level: 52  
-  Cost: **1 Glittering Medal**
-
-- __Original__  
-  Level: 62  
-  Cost: **7 Glittering Medals**
-
-- __Manuscript__  
-  Level: 76  
-  Cost: **10 Glittering Medals**
-
-- __Original Ver.__  
-  Level: 76  
-  Cost: **15 Glittering Medals**
-</div>
+| Scroll Type       | Level | Cost  |
+|-------------------|-------|---------------|
+| **Modern**        | 52    | 1 Glittering Medal             |
+| **Original**      | 62    | 7 Glittering Medal            |
+| **Manuscript**    | 76    | 10 Glittering Medal           |
+| **Original Ver.** | 76    | 15 Glittering Medal          |
 
 ### ✨ Blessed Enchant Scrolls
-<div class="grid cards" markdown>
 
-- __Armor (B)__  
-  Cost: **5 Glittering Medals**
-
-- __Weapon (B)__  
-  Cost: **10 Glittering Medals**
-
-- __Armor (A)__  
-  Cost: **10 Glittering Medals**
-
-- __Weapon (A)__  
-  Cost: **20 Glittering Medals**
-
-- __Armor (S)__  
-  Cost: **15 Glittering Medals**
-
-- __Weapon (S)__  
-  Cost: **30 Glittering Medals**
-</div>
+| Scroll Type       | Grade | Cost  |
+|-------------------|-------|---------------|
+| **Armor**         | B     | 5 Glittering Medal            |
+| **Weapon**        | B     | 10 Glittering Medal           |
+| **Armor**         | A     | 10 Glittering Medal           |
+| **Weapon**        | A     | 20 Glittering Medal           |
+| **Armor**         | S     | 15 Glittering Medal           |
+| **Weapon**        | S     | 30 Glittering Medal          |
 
 ### 💎 Other Valuables
-<div class="grid cards" markdown>
 
-- __Top-Grade Life Stone (L76)__  
-  Cost: **1 Glittering Medal**
+| Item                     | Cost  |
+|--------------------------|---------------|
+| Top-Grade Life Stone (L76) | 1 Glittering Medal            |
+| Secret Book of Giants      | 3 Glittering Medal            |
+| Soul Crystal Lv11          | 5 Glittering Medal           |
+| Soul Crystal Lv12          | 15 Glittering Medal           |
+| Soul Crystal Lv13          | 30 Glittering Medal           |
 
-- __Secret Book of Giants__  
-  Cost: **3 Glittering Medals**
-
-- __Soul Crystal Lv11__  
-  Cost: **5 Glittering Medals**
-
-- __Soul Crystal Lv12__  
-  Cost: **15 Glittering Medals**
-
-- __Soul Crystal Lv13__  
-  Cost: **30 Glittering Medals**
-</div>
-
----
+<hr class="role-divider">
 
 ## Adena Exchange Rates
 
-<figure class="service-portrait" markdown>
 
-### 📚 Book Conversions
 | Scroll Type | Level | Adena Cost |
 |------------|-------|------------|
 | Modern | 52 | 400,000 |
@@ -131,47 +193,35 @@ icon: material/room-service
 | Manuscript | 76 | 300,000,000 |
 | Original Ver. | 76 | 600,000,000 |
 
-</figure>
+
 
 ### 💰 Currency Values
-<div class="grid cards" markdown>
 
-- __Gold Bar__  
-  Value: **500M**
+| Item            | Adena Value |
+|-----------------|-------------|
+| **Gold Bar**    | 500,000,000 |
+| **Blooded Fabric** | 12,000,000 |
+| **Portal Stone** | 12,000,000 |
+| **Floating Stone** | 12,000,000 |
+| **Frintezza QI** | 23,000,000 |
+| **Dragon Bugle** | 250,000,000 |
 
-- __Blooded Fabric__  
-  Value: **12M**
-
-- __Portal Stone__  
-  Value: **12M**
-
-- __Floating Stone__  
-  Value: **12M**
-
-- __Frintezza QI__  
-  Value: **23M**
-
-- __Dragon Bugle__  
-  Value: **250M**
-</div>
 
 ### 💠 Life Stones (Lv76)
-<div class="grid cards" markdown>
 
-- __Regular__  
-  Value: **6M**
 
-- __Mid-Grade__  
-  Value: **7M**
+| Grade        | Adena Value |
+|--------------|-------------|
+| **Regular**  | 6,000,000   |
+| **Mid-Grade** | 7,000,000   |
+| **High-Grade** | 8,500,000   |
+| **Top-Grade** | 12,000,000  |
 
-- __High-Grade__  
-  Value: **8.5M**
-
-- __Top-Grade__  
-  Value: **12M**
-</div>
 
 ### 📦 Special Items
-<div class="grid cards" markdown>
-- Secret Book of Giants: **100M Adena**
-</div>
+
+| Item                     | Adena Value |
+|--------------------------|-------------|
+| Secret Book of Giants    | 100,000,000 |
+
+</figure>

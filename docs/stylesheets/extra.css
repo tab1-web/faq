@@ -180,3 +180,29 @@
   margin-left: auto;
 }
 
+.md-typeset table:not([class]) {
+    font-size: 0.8rem;
+    line-height: 1.4;
+}
+
+.md-typeset table:not([class]) th {
+    background-color: rgba(0,0,0,0.1);
+    font-weight: 600;
+}
+
+.md-typeset table:not([class]) td {
+    vertical-align: middle;
+    padding: 0.5em 1em;
+}
+
+.md-typeset table:not([class]) tr:nth-child(odd) {
+    background-color: rgba(0,0,0,0.05);
+}
+
+.md-typeset .role-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--md-primary-fg-color), transparent);
+  margin: 2rem 0;
+  border: none;
+}
+

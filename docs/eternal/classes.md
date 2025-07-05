@@ -3,122 +3,266 @@ icon: octicons/people-16
 
 ---
 
+<style>
+.md-typeset .meta-classes-section {
+  margin: 2rem 0;
+}
+
+.md-typeset h2.material-knife,
+.md-typeset h2.material-sword,
+.md-typeset h2.material-bank,
+.md-typeset h2.material-bow-arrow,
+.md-typeset h2.material-magic-staff,
+.md-typeset h2.simple-codemagic {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--md-primary-fg-color);
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset .class-card {
+  background: var(--md-default-bg-color);
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  padding: 1.25rem;
+  margin: 1rem 0;
+  border-left: 4px solid var(--md-primary-fg-color);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.md-typeset .class-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.md-typeset .class-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: var(--md-primary-fg-color);
+  font-size: 1.2em;
+}
+
+.md-typeset .class-attributes {
+  padding-left: 1rem;
+  margin: 0.5rem 0;
+}
+
+.md-typeset .class-attributes li {
+  margin: 0.25rem 0;
+  list-style-type: none;
+  position: relative;
+  padding-left: 1.25rem;
+}
+
+.md-typeset .class-attributes li::before {
+  content: "•";
+  color: var(--md-accent-fg-color);
+  position: absolute;
+  left: 0;
+  font-weight: bold;
+}
+
+.md-typeset .strengths {
+  font-weight: 600;
+  color: var(--md-accent-fg-color);
+}
+
+@media screen and (min-width: 768px) {
+  .md-typeset .class-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 1.5rem;
+  }
+}
+
+
+</style>
+
+# Classes
+
 ## Meta Classes
 
 Below you'll find detailed descriptions of all major meta classes, categorized by role. Each class includes key traits to help guide your choice based on playstyle and leveling experience.
 
----
+<hr class="role-divider">
 
+<div class="meta-classes-section" markdown>
 
 ## :material-knife: Daggers
----
-- **Treasure Hunter**  
-  Exceptional critical rate and evasion. Strong in PvE and ambush-style PvP.  
+<div class="class-grid" markdown>
+
+<div class="class-card" markdown>
+### Treasure Hunter
+  Exceptional lethal damage and evasion. Strong in PvE and ambush-style PvP.  
     - **Leveling:** Medium  
-    - **Strengths:** Evasion, Burst Damage, PvP, DM Events
----
-- **Abyss Walker**  
+    - **Strengths:** <span class="strengths">Evasion, Burst Damage, PvP, DM Events</span>
+</div>
+
+<div class="class-card" markdown> 
+### Abyss Walker 
   Focuses on stealth and assassination. Balanced offensive capabilities. Treasure Hunter more preferable.  
     - **Leveling:** Medium  
-    - **Strengths:** Critical Burst, PvP Utility
----
-- **Plainswalker**  
+    - **Strengths:** <span class="strengths">Critical Burst, PvP Utility</span>
+</div>
+
+<div class="class-card" markdown> 
+### Plainswalker 
   Agile and evasive, specializing in mobility and fast attack speed. Treasure Hunter more preferable.  
     - **Leveling:** Medium  
-    - **Strengths:** Evasion, Fast Attacks, Mobility
+    - **Strengths:** <span class="strengths">Evasion, Fast Attacks, Mobility</span>
+</div>
 
----
+<hr class="role-divider">
 
 ## :material-sword: Other Fighters
----
-- **Tyrant**  
+<div class="class-card" markdown>
+
+### Tyrant  
   Versatile brawler class using fist weapons. Combines range skills with powerful close-combat combos.  
     - **Leveling:** Medium  
-    - **Strengths:** HP, Burst Combos, PvE/PvP mix
----
-- **Titan**  
+    - **Strengths:** <span class="strengths">HP, Burst Combos, PvE/PvP mix, Olympiad</span>
+
+</div>
+
+<div class="class-card" markdown>
+### Titan  
   High HP and devastating melee attacks. Performs exceptionally in PvE and boss encounters.  
     - **Leveling:** Medium  
-    - **Strengths:** High HP, AoE Damage with Spear, Boss Killer, DM events
----
-- **Gladiator**  
+    - **Strengths:** <span class="strengths">High HP, AoE Damage with Spear, Boss Killer, DM events</span>
+</div>
+
+<div class="class-card" markdown>
+### Gladiator
   Skilled dual-sword fighter effective in both PvE and PvP. Strong late-game scaling with balanced melee and ranged abilities.  
     - **Leveling:** Slow  
-    - **Strengths:** Excellent 1v1 combat, ranged attack options, high defenses  
+    - **Strengths:** <span class="strengths">Excellent 1v1 combat, ranged attack options, high defenses, Olympiad</span>
+</div>
 
----
+<hr class="role-divider">
+
 ## :material-bank: Economy Classes
----
-- **Spoiler**  
+
+<div class="class-card" markdown>
+
+### Spoiler  
   Specialist in spoiling monsters for rare items and adena. A must for players looking to fund crafting or economy roles.  
     - **Leveling:** Slow  
-    - **Strengths:** Economy, Item Farming, PvE Utility
----
-- **Artisan**  
-  Focuses on creating gear, items, and consumables for other players.  
-    - **Leveling:** Slow  
-    - **Strengths:** Crafting, Clan Utility, Economic Contribution
+    - **Strengths:** <span class="strengths">Economy, Item Farming, PvE Utility</span>
 
----
+</div>
+
+<div class="class-card" markdown>
+
+### Artisan 
+  Focuses on creating gear, items, and consumables for other players. Spoiler more preferable for newer players.  
+    - **Leveling:** Slow  
+    - **Strengths:** <span class="strengths">Crafting, Clan Utility, Economic Contribution</span>
+
+</div>
+
+<hr class="role-divider">
 
 ## :material-bow-arrow: Archer Classes
----
-- **Phantom Ranger**  
-  Highest burst damage among archers but comes with lower durability. Hawkeye more preferable.  
-    - **Leveling:** Slower
-    - **Strengths:** High Damage, PvP DPS
----
-- **Hawkeye**  
-  Balanced archer with superior HP. Great for surviving longer fights.  
-    - **Leveling:** Slower
-    - **Strengths:** Durability, Balanced Stats
----
-- **Silver Ranger**  
-  Agile and fast-shooting, with balanced HP and excellent speed. Hawkeye more preferable.  
-    - **Leveling:** Slower 
-    - **Strengths:** Attack Speed, Mobility, Kiting
 
----
+<div class="class-card" markdown>
+
+### Phantom Ranger
+  Highest burst damage among archers but comes with lower durability. Hawkeye more preferable.  
+    - **Leveling:** Slower  
+    - **Strengths:** <span class="strengths">High Damage, PvP DPS</span>
+
+</div>
+
+<div class="class-card" markdown>
+
+### Hawkeye  
+  Balanced archer with superior HP. Great for surviving longer fights.  
+    - **Leveling:** Slower  
+    - **Strengths:** <span class="strengths">Durability, Balanced Stats</span>
+
+</div>
+
+<div class="class-card" markdown>
+
+### Silver Ranger 
+  Agile and fast-shooting, with balanced HP and excellent speed. Hawkeye more preferable.  
+    - **Leveling:** Slower  
+    - **Strengths:** <span class="strengths">Attack Speed, Mobility, Kiting</span>
+
+</div>
+
+<hr class="role-divider">
 
 ## :material-magic-staff: Mage Classes
----
-- **Necromancer**  
-  Durable mage using Transfer Pain to tank damage. Good for solo play.   
-    - **Leveling:** Fast 
-    - **Strengths:** Survivability, Debuffs, Single target PvE, Curse Death Link, Vampiric Claw
----
-- **Spellsinger**  
-  Fast-casting water magic specialist. Effective in both PvP and PvP. Sustains HP by Battle Heal. 
+
+<div class="class-card" markdown>
+
+### Necromancer 
+  Durable mage using Transfer Pain to tank damage. Good for solo play.  
     - **Leveling:** Fast  
-    - **Strengths:** Casting Speed, PvE Efficiency
----
-- **Sorcerer**  
+    - **Strengths:** <span class="strengths">Survivability, Debuffs, Single target PvE, Curse Death Link, Vampiric Claw</span>  
+
+</div>
+
+<div class="class-card" markdown>
+
+### Spellsinger  
+  Fast-casting water magic specialist. Effective in both PvP and PvP. Sustains HP by Battle Heal.  
+    - **Leveling:** Fast   
+    - **Strengths:** <span class="strengths">Casting Speed, PvE Efficiency</span>
+
+</div>
+
+<div class="class-card" markdown>
+
+### Sorcerer
   Fire mage with balanced casting speed and powerful AoE spells. Sustains HP by Battle Heal. Spellsinger more preferable.  
     - **Leveling:** Fast  
-    - **Strengths:** AoE Damage, Versatility
----
-- **Spellhowler**  
+    - **Strengths:** <span class="strengths">AoE Damage, Versatility</span>
+
+</div>
+
+<div class="class-card" markdown>
+
+### Spellhowler
   Dark magic user with slow casting but high magical damage potential. Low Maximum HP.  
     - **Leveling:** Fast  
-    - **Strengths:** PvE beast, great sustain due to Vampiric Claw in trains, Curse Death Link
+    - **Strengths:** <span class="strengths">PvE beast, great sustain due to Vampiric Claw in trains, Curse Death Link</span>
 
+</div>
 
----
+<hr class="role-divider">
 
 ## :simple-codemagic: Support Classes
----
-- **Bishop**  
-  The best healer class in the game. Good for group PvE & PvP content.
-    - **Leveling:** Slow
-    - **Strengths:** Healing, Resurrection, Party Support
----
-- **Warlord**  
-  Stunner / Stop party for PvP and Sieges.  
-    - **Leveling:** Slow 
-    - **Strengths:** Stun, High HP
----
-- **Dominator**  
-  Clan support mage that shines in group play. Not ideal for solo players.  
+
+<div class="class-card" markdown>
+
+### Bishop
+  The best healer class in the game. Good for group PvE & PvP content.  
     - **Leveling:** Slow  
-    - **Strengths:** Clan Buffs, Ally Support, Mass PvP Utility: Debuffs
----
+    - **Strengths:** <span class="strengths">Healing, Resurrection, Party Support</span>
+
+</div>
+
+<div class="class-card" markdown>
+
+### Warlord  
+  Stunner / Stop party for PvP and Sieges.   
+    - **Leveling:** Slow  
+    - **Strengths:** <span class="strengths">Stun, High HP</span>
+
+</div>
+
+<div class="class-card" markdown>
+
+### Dominator
+  Clan support mage that shines in group play. Not ideal for solo players.   
+    - **Leveling:** Slow   
+    - **Strengths:** <span class="strengths">Clan Buffs, Ally Support, Mass PvP Utility: Debuffs, Olympiad</span>
+</div>
+
+</div>
+</div>

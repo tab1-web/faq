@@ -6,14 +6,14 @@ icon: simple/magic
 - **Buffs**: Temporary beneficial effects (e.g., increased stats)
 - **Debuffs**: Temporary harmful effects (e.g., slows, poison)
 
----
+<hr class="role-divider">
 
 ## Buff Limits
 - **Base Limit**: 20 buff slots
 - **Divine Inspiration Bonus**: +4 slots (unlockable)
 - **Total Possible**: 24 buff slots
 
----
+<hr class="role-divider">
 
 ## Buff Rules
 1. **Overflow Handling**: 
@@ -23,7 +23,7 @@ icon: simple/magic
 3. **Stacking Rules**:
     - Buffs with identical effects don't stack - they override each other
 
----
+<hr class="role-divider">
 
 ## Buff Overview
 ### Movement Speed Buffs
@@ -37,7 +37,7 @@ icon: simple/magic
 | Haste Potion 1 | Increases Speed by 20% |
 </figure>
 
----
+<hr class="role-divider">
 
 ### Shield Buffs
 <figure markdown="span" markdown>
@@ -51,7 +51,7 @@ icon: simple/magic
 | Defense Aura | Increases P. Def. by 12% |
 </figure>
 
----
+<hr class="role-divider">
 
 ### Magic Defense Buffs
 <figure markdown="span" markdown>
@@ -63,7 +63,7 @@ icon: simple/magic
 | Spirit Barrier 3 | Increases M. Def. by 30% |
 </figure>
 
----
+<hr class="role-divider">
 
 ### Evasion Buffs
 <figure markdown="span" markdown>
@@ -74,7 +74,7 @@ icon: simple/magic
 | Chant of Evasion 3 | +4 Evasion |
 </figure>
 
----
+<hr class="role-divider">
 
 ### Shield Defense Buffs
 <figure markdown="span" markdown>
@@ -85,7 +85,7 @@ icon: simple/magic
 | Advanced Block 3 | Increases Shield Defense Power by 100% |
 </figure>
 
----
+<hr class="role-divider">
 
 
 ### Physical Critical Buffs
@@ -96,7 +96,7 @@ icon: simple/magic
 | Chant of Predator 3 | Increases Critical by 30% |
 </figure>
 
----
+<hr class="role-divider">
 
 
 ### Physical Sustain Buffs
@@ -107,7 +107,7 @@ icon: simple/magic
 | Chant of Vampire 4 | Restores HP using damage inflicted by 9%<br>Skill/Ranged Atk. Excluded |
 </figure>
 
----
+<hr class="role-divider">
 
 ### Physical Attack Buffs
 <figure markdown="span" markdown>
@@ -122,7 +122,7 @@ icon: simple/magic
 | War Chant 3 | Increases P. Atk. by 10% |
 </figure>
 
----
+<hr class="role-divider">
 
 
 ### Physical Critical Damage Buffs
@@ -135,7 +135,7 @@ icon: simple/magic
 | Chant of Rage 3 | Increases Critical Damage Amount by 35% |
 </figure>
 
----
+<hr class="role-divider">
 
 
 ### Magic Attack Buffs
@@ -149,7 +149,7 @@ icon: simple/magic
 
 </figure>
 
----
+<hr class="role-divider">
 
 ### Casting Speed Buffs
 
@@ -165,7 +165,7 @@ icon: simple/magic
 
 </figure>
 
----
+<hr class="role-divider">
 
 ### Bard Songs
 <figure markdown="span" markdown>
@@ -188,7 +188,7 @@ icon: simple/magic
 | **Song of Champion** | Decreases MP Consumption by 20% and Reuse for Physical Skills by 30% |
 </figure>
 
----
+<hr class="role-divider">
 
 
 ### Dancer Dances
@@ -211,7 +211,7 @@ icon: simple/magic
 | Dance of Shadow | Decreases Speed and protected from monsters preemptive attacks |
 </figure>
 
----
+<hr class="role-divider">
 
 
 ### Resist Effects
@@ -233,7 +233,7 @@ icon: simple/magic
 | Arcane Protection 3 | Increases cancel by 30% and de-buff attack resist by 20% |
 </figure>
 
----
+<hr class="role-divider">
 
 ### General Buffs
 <figure markdown="span" markdown>
@@ -248,8 +248,9 @@ icon: simple/magic
 | Bless the Soul 6 | Increases Max. MP by 35% |
 | Pa'agrio's Fist 1 | Increases Max. CP by +800 |
 </figure>
----
 
+
+<hr class="role-divider">
 
 ### Prophecy Buffs
 <figure markdown="span" markdown>
@@ -264,4 +265,4 @@ icon: simple/magic
 | **Chant of Victory** | - Max HP +20%<br>- Speed -20%<br>- Accuracy +4<br>- P.Def. +20%<br>- P.Atk. +10%<br>- Atk. Spd. +20%<br>- Crit. Rate/Power +20%<br>- M.Def. +20%<br>- M.Atk. +20%<br>- Cast. Speed +20%<br>- Debuff Resist +20% 
 </figure>
 
----
+<hr class="role-divider">

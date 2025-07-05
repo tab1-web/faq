@@ -28,13 +28,13 @@ icon: material/sword
 
 </div>
 
----
+<hr class="role-divider">
 
 ## 🔄 Class Changes
 - **Free** 1st & 2nd class changes
 - Access via medal icon (bottom-right corner)
 
----
+<hr class="role-divider">
 
 ## ⚡ Efficiency Tips
 <div class="grid cards" markdown>
@@ -49,7 +49,7 @@ icon: material/sword
 
 </div>
 
----
+<hr class="role-divider">
 
 ## 🔮 Buff System
 <figure markdown="span" markdown>
@@ -64,21 +64,21 @@ icon: material/sword
 </figure>
 > Learn them at your class trainer
 
----
+<hr class="role-divider">
 
 ## 💰 Spending Priority
 1. **Weapons** (highest priority)
 2. Armor/Gear  
 3. Dyes (Maria's Shop)
 
----
+<hr class="role-divider">
 
 ## 🎁 Progression Boosters
 - Vote for server rewards → [Voting Guide](/faq/getting-started/welcome/#you-are-all-set)
 - Avoid pet leveling (inefficient)
 - Buy **Strider** if you need mobility (Maria → Event Items)
 
----
+<hr class="role-divider">
 
 ## 🤖 Maria Macro
 ```bash
@@ -87,7 +87,7 @@ icon: material/sword
 ```
 [:material-arrow-right: Macro Tutorial](/faq/gameplay/macro/)
 
----
+<hr class="role-divider">
 
 ## Leveling Zones
 
@@ -98,7 +98,7 @@ icon: material/sword
     - Kill outside, inside, or on mountain lines
     - ⚠️ Might be crowded on launch
 
----
+<hr class="role-divider">
 
 ### Levels 23-33
 - **23-30**: Partisan's Hideaway - Dion
@@ -110,7 +110,7 @@ icon: material/sword
     - Higher HP mobs deeper inside
     - ⚠️ Tough & crowded area
 
----
+<hr class="role-divider">
 
 ### Levels 38-51
 - **38-40**: Alligator Island - Heine
@@ -119,7 +119,7 @@ icon: material/sword
     - Sea of Spores - Oren
     - Higher HP mobs in Cruma Tower
 
----
+<hr class="role-divider">
 
 ### Levels 46-55
 - **46-50**: Tanor Canyon - Dion
@@ -128,21 +128,22 @@ icon: material/sword
     - SOP Spoil from Spelunking Ant
     - Great AoE place inside the towers
 - **50-55**: Cemetary - Aden
----
+
+<hr class="role-divider">
 
 ### Levels 53-63
 - **53-63**: Frozen Labyrinth - Schuttgart
     - [:fontawesome-solid-scroll: An Ice Merchant's Dream Quest](https://lineage2wiki.org/interlude/quest/648/an-ice-merchants-dream/)
     - Great for Adena + Materials farming
 
----
+<hr class="role-divider">
 
 ### Levels 54-60
 - **54-60**: Skyshadow Meadow - Oren
     - Grouped mobs
     - [:fontawesome-solid-scroll: Warehouse Keeper's Pastime Quest](https://lineage2wiki.org/interlude/quest/384/warehouse-keepers-pastime/)
 
----
+<hr class="role-divider">
 
 ### Levels 55-70
 - **55-70**: Giant's Cave - Aden
@@ -151,7 +152,7 @@ icon: material/sword
 - **55-66**: Forsaken Plains - Aden
 - **55-64**: Fields of Massacre - Aden
 
----
+<hr class="role-divider">
 
 ### Levels 60-75
 - **60-75**: 
@@ -159,7 +160,7 @@ icon: material/sword
     - Tower of Insolence - Aden
     - Higher HP mobs
 
----
+<hr class="role-divider">
 
 ### Levels 60-67
 - **60-67**: Valley of Saints - Rune
@@ -172,7 +173,7 @@ icon: material/sword
         - Alliance Of Splendor: DC Robe (Spoil 0.3%)
         - Judge Of Splendor: DC Gloves (0.07%)
 
----
+<hr class="role-divider">
 
 ### Levels 63-69
 - **63-69**: Beast Farm - Rune
@@ -201,21 +202,21 @@ icon: material/sword
 
     - [:fontawesome-solid-scroll: Necromancer's Request Quest](https://lineage2wiki.org/interlude/quest/632/necromancers-request/)
 
----
+<hr class="role-divider">
 
 ### Levels 64-70
 - **64-70**: Ancient Battleground - Aden
     - [:fontawesome-solid-scroll: Seductive Whispers Quest](https://lineage2wiki.org/interlude/quest/663/seductive-whispers/)
         - Gambling-style quest (requires 50 beads to play)
 
----
+<hr class="role-divider">
 
 ### Levels 65-75
 - **65-75**: Blazing Swamp - Rune
     - [:fontawesome-solid-scroll: Supplier of Reagents Quest](https://lineage2wiki.org/interlude/quest/373/supplier-of-reagents/)
         - Required for Subclass + Noblesse advancement
 
----
+<hr class="role-divider">
 
 ### Levels 66-74
 - **66-74**: Swamp of Screams - Rune
@@ -223,12 +224,12 @@ icon: material/sword
         - Only Part 1 required
     - [:fontawesome-solid-scroll: The Zero Hour Quest](https://lineage2wiki.org/interlude/quest/640/the-zero-hour/)
 
----
+<hr class="role-divider">
 
 ### Levels 68-75
 - **68-75**: Wall of Argos - Goddard
     - Spoils for SOP & A-Grade Key Materials
----
+<hr class="role-divider">
 
 ### Levels 73-76
 - **73-76**: Hot Springs - Goddard
@@ -239,7 +240,7 @@ icon: material/sword
             - Requires [1x Ice Crystal](https://lineage2wiki.org/interlude/item/7080/ice-crystal/) per 3rd class quest
             - Duelists additionally need [1x Top Quality Meat](https://lineage2wiki.org/interlude/quest/631/delicious-top-choice-meat/)
 
----
+<hr class="role-divider">
 
 ### Levels 74-85
 - **74-85**: Silent Valley - Aden
@@ -253,7 +254,7 @@ icon: material/sword
         - [:fontawesome-solid-scroll: War with Varka Silenos](https://lineage2wiki.org/interlude/quest/606/war-with-varka-silenos/)
         - Must kill opposing faction's mobs
 
----
+<hr class="role-divider">
 
 ### Levels 78-85
 - **78-85**: Forge of the Gods - Goddard
@@ -276,7 +277,7 @@ icon: material/sword
     - [:fontawesome-solid-scroll: Rise and Fall of the Elroki Tribe Quest](https://lineage2wiki.org/interlude/quest/643/rise-and-fall-of-the-elroki-tribe/)
     - Included in the missions as well
 
----
+<hr class="role-divider">
 
 ### Quest Exchanges
 
@@ -338,7 +339,7 @@ Do [Noblesse](/faq/gameplay/progression/noblesse/) and [Subclass Quests](/faq/ga
 
 For Subclass Quest, you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon, you can skip that part for later.
 
----
+<hr class="role-divider">
 
 ## 3rd Class Quests
 
