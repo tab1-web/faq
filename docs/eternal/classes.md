@@ -107,10 +107,6 @@ Magical damage dealers with diverse casting styles. Their power comes from spell
     - **Leveling:** Fast  
     - **Strengths:** PvE beast, great sustain due to Vampiric Claw in trains
 
-- **Dominator**  
-  Clan support mage that shines in group play. Not ideal for solo players.  
-    - **Leveling:** Slow  
-    - **Strengths:** Clan Buffs, Ally Support, Mass PvP Utility
 
 ---
 
@@ -126,3 +122,9 @@ Essential in parties and sieges. Focused on healing or utility.
   Stunner / Stop party for PvP and Sieges.  
     - **Leveling:** Medium  
     - **Strengths:** Stun, High HP
+
+- **Dominator**  
+  Clan support mage that shines in group play. Not ideal for solo players.  
+    - **Leveling:** Slow  
+    - **Strengths:** Clan Buffs, Ally Support, Mass PvP Utility: Debuffs
+
