@@ -2,9 +2,31 @@
 icon: simple/magic
 ---
 
-# Buffs Overview
+## Basic Information
+- **Buffs**: Temporary beneficial effects (e.g., increased stats)
+- **Debuffs**: Temporary harmful effects (e.g., slows, poison)
 
-## Movement Speed Buffs
+---
+
+## Buff Limits
+- **Base Limit**: 20 buff slots
+- **Divine Inspiration Bonus**: +4 slots (unlockable)
+- **Total Possible**: 24 buff slots
+
+---
+
+## Buff Rules
+1. **Overflow Handling**: 
+    - New buffs remove oldest ones when limit is reached
+2. **Priority System**:
+    - Higher-level buffs overwrite lower-level ones of same type
+3. **Stacking Rules**:
+    - Buffs with identical effects don't stack - they override each other
+
+---
+
+## Buff Overview
+### Movement Speed Buffs
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -15,7 +37,9 @@ icon: simple/magic
 | Haste Potion 1 | Increases Speed by 20% |
 </figure>
 
-## Shield Buffs
+---
+
+### Shield Buffs
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -26,7 +50,10 @@ icon: simple/magic
 | Earth Chant | Increases P. Def. by 15% |
 | Defense Aura | Increases P. Def. by 12% |
 </figure>
-## Magic Defense Buffs
+
+---
+
+### Magic Defense Buffs
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -35,7 +62,10 @@ icon: simple/magic
 | Chant of Fire 3 | Increases M. Def. by 30% |
 | Spirit Barrier 3 | Increases M. Def. by 30% |
 </figure>
-## Evasion Buffs
+
+---
+
+### Evasion Buffs
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -43,7 +73,10 @@ icon: simple/magic
 | Tact of Paagrio 3 | +4 Evasion |
 | Chant of Evasion 3 | +4 Evasion |
 </figure>
-## Shield Defense Buffs
+
+---
+
+### Shield Defense Buffs
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -51,21 +84,32 @@ icon: simple/magic
 | Under the Protection of Paagrio 3 | Increases Shield Defense Rate by 50% |
 | Advanced Block 3 | Increases Shield Defense Power by 100% |
 </figure>
-## Physical Critical Buffs
+
+---
+
+
+### Physical Critical Buffs
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
 | Focus 3 | Increases Critical by 30% |
 | Chant of Predator 3 | Increases Critical by 30% |
 </figure>
-## Physical Sustain Buffs
+
+---
+
+
+### Physical Sustain Buffs
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
 | Vampiric Rage 4 | Restores HP using damage inflicted by 9%<br>Skill/Ranged Atk. Excluded |
 | Chant of Vampire 4 | Restores HP using damage inflicted by 9%<br>Skill/Ranged Atk. Excluded |
 </figure>
-## Physical Attack Buffs
+
+---
+
+### Physical Attack Buffs
 <figure markdown="span" markdown>
 
 | Buff Name | Effect |
@@ -78,7 +122,10 @@ icon: simple/magic
 | War Chant 3 | Increases P. Atk. by 10% |
 </figure>
 
-## Physical Critical Damage Buffs
+---
+
+
+### Physical Critical Damage Buffs
 <figure markdown="span" markdown>
 
 | Buff Name | Effect |
@@ -88,7 +135,10 @@ icon: simple/magic
 | Chant of Rage 3 | Increases Critical Damage Amount by 35% |
 </figure>
 
-## Magic Attack Buffs
+---
+
+
+### Magic Attack Buffs
 <figure markdown="span" markdown>
 
 
@@ -98,7 +148,10 @@ icon: simple/magic
 | The Soul of Paagrio 3 | Increases M. Atk. by 75% |
 
 </figure>
-## Casting Speed Buffs
+
+---
+
+### Casting Speed Buffs
 
 <figure markdown="span" markdown>
 
@@ -111,7 +164,10 @@ icon: simple/magic
 | Magic Haste Potion 2 | Increases Cast. Speed by 23% |
 
 </figure>
-## Bard Songs
+
+---
+
+### Bard Songs
 <figure markdown="span" markdown>
 
 | Song Name | Effect |
@@ -132,7 +188,10 @@ icon: simple/magic
 | **Song of Champion** | Decreases MP Consumption by 20% and Reuse for Physical Skills by 30% |
 </figure>
 
-## Dancer Dances
+---
+
+
+### Dancer Dances
 <figure markdown="span" markdown>
 
 | Dance Name | Effect |
@@ -152,7 +211,10 @@ icon: simple/magic
 | Dance of Shadow | Decreases Speed and protected from monsters preemptive attacks |
 </figure>
 
-## Resist Effects
+---
+
+
+### Resist Effects
 <figure markdown="span" markdown>
 
 | Resist Name | Effect |
@@ -170,7 +232,10 @@ icon: simple/magic
 | Pa'agrio Emblem | Increases cancel by 30% and de-buff attack resist by 20% |
 | Arcane Protection 3 | Increases cancel by 30% and de-buff attack resist by 20% |
 </figure>
-## General Buffs
+
+---
+
+### General Buffs
 <figure markdown="span" markdown>
 
 | Buff Name | Effect |
@@ -183,8 +248,10 @@ icon: simple/magic
 | Bless the Soul 6 | Increases Max. MP by 35% |
 | Pa'agrio's Fist 1 | Increases Max. CP by +800 |
 </figure>
+---
 
-## Prophecy Buffs
+
+### Prophecy Buffs
 <figure markdown="span" markdown>
 
 | Buff Name | Effects |
@@ -196,3 +263,5 @@ icon: simple/magic
 | **Victory of Paagrio (IL)** | - Max HP +20%<br>- Speed -20%<br>- Accuracy +4<br>- P.Def. +20%<br>- P.Atk. +10%<br>- Atk. Spd. +20%<br>- Crit. Rate/Power +20%<br>- M.Def. +20%<br>- M.Atk. +20%<br>- Cast. Speed +20%<br>- Debuff Resist +20% |
 | **Chant of Victory** | - Max HP +20%<br>- Speed -20%<br>- Accuracy +4<br>- P.Def. +20%<br>- P.Atk. +10%<br>- Atk. Spd. +20%<br>- Crit. Rate/Power +20%<br>- M.Def. +20%<br>- M.Atk. +20%<br>- Cast. Speed +20%<br>- Debuff Resist +20% 
 </figure>
+
+---
