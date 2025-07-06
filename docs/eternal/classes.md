@@ -212,18 +212,18 @@ Other classes that I haven't mentioned are not here because I think they have ni
 <div class="class-card" markdown>
 
 ### Spellsinger  
-  Fast-casting water magic specialist. Effective in both PvP and PvP. Sustains HP by Battle Heal.  
+  Fast-casting water magic specialist. Effective in both PvE and PvP. Sustains HP by Battle Healing themselves.  
     - **Leveling:** Fast   
-    - **Strengths:** <span class="strengths">Casting Speed, access to AoE</span>
+    - **Strengths:** <span class="strengths">Casting Speed, access to AoE and Cancel (removes buffs)</span>
 
 </div>
 
 <div class="class-card" markdown>
 
 ### Sorcerer
-  Fire mage with balanced casting speed and powerful AoE spells. Sustains HP by Battle Heal. Spellsinger/Spellhowler more preferable.  
+  Fire mage with balanced casting speed and powerful AoE spells. Sustains HP by Battle Healing themselves. Spellsinger/Spellhowler more preferable.  
     - **Leveling:** Fast  
-    - **Strengths:** <span class="strengths">access to AoE, Versatility</span>
+    - **Strengths:** <span class="strengths">access to AoE and Cancel (removes buffs), Versatility</span>
 
 </div>
 
