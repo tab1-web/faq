@@ -87,6 +87,8 @@ icon: octicons/people-16
 
 Below you'll find detailed descriptions of all major meta classes, categorized by role. Each class includes key traits to help guide your choice based on playstyle and leveling experience.
 
+Other classes that I haven't mentioned are not here because I think they have niche uses or I wouldn't recommend them to a new player.
+
 <hr class="role-divider">
 
 <div class="meta-classes-section" markdown>
