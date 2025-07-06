@@ -2,92 +2,119 @@
 icon: material/sword
 ---
 
-# Leveling Guide
+<style>
+.quick-tip {
+  background: rgba(25,25,35,0.8);
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 4px 4px 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.tip-title {
+    color: #ff8a00;
+    margin-top: 0;
+}
+.tip-content {
+  flex: 1;
+}
 
-## 🚀 Quick Tips
+.tip-image {
+  align-self: center;
+}
+.tip-image img {
+  max-width: 150px;
+  border-radius: 4px;
+}
+  
+</style>
 
+# Levelling Guide
 
-<div class="grid cards" markdown>
+<div class="quick-tip" markdown>
+  <div class="tip-content" markdown>
+### GM Shop & Buffer
 
-- ### 🛒 GM Shop & Buffer <br>
-    Locate Maria in towns: `/target Maria` <br> <br>
-    Custom server NPC with buffs & gear <br> <br>
-    Offers consumables, exchanges, and services <br>
-    ### 🎒 Essentials to Carry
-    Scroll of Escape <br> <br>
-    HP/MP Potions <br> <br>
-    Soulshots/Blessed Spiritshots <br> <br>
-    *Available at Maria's Shop* <br>
+**Locate Maria:** `/target Maria` and `/attack`
 
-- <figure markdown="span">
-    <a href="https://postimg.cc/bSQBGM0r">
-    ![Maria](https://i.postimg.cc/WzKLychG/B42-C14-D0-37-AA-4548-BB3-C-18-BF21-ADD3-A3.png){ .lightbox width=70%}
-    </a>
-    <figcaption>Maria, GM Shop</figcaption>
-</figure>
+- Provides buffs, gear, consumables  
+
+### Essential Items
+- Scroll of Escape  
+- HP/MP Potions  
+- Soulshots/Blessed Spiritshots  
+
+</div>
+<div class="tip-image" markdown>
+<a href="https://postimg.cc/bSQBGM0r">
+![Maria](https://i.postimg.cc/WzKLychG/B42-C14-D0-37-AA-4548-BB3-C-18-BF21-ADD3-A3.png){.lightbox }
+</a>
+</div>
 
 </div>
 
-<hr class="role-divider">
 
-## 🔄 Class Changes
-- **Free** 1st & 2nd class changes
-- Access via medal icon (bottom-right corner)
+<hr class="divider">
 
-<hr class="role-divider">
+## Class Changes
+- **Free** 1st & 2nd class changes  
+- Access via medal icon (bottom-right corner)  
 
-## ⚡ Efficiency Tips
-<div class="grid cards" markdown>
+<hr class="divider">
 
-- ### 🎯 Early Game
-    - Skip quests → focus on mob grinding
-    - Conserve Mana Potions (expensive)
+## Levelling Tips
 
-- ### 🏆 Mid Game
-    - Lv20/40: Redeem **Shadow Weapons** (Maria/Giran)
-    - Lv52: Rent B-Grade (Giran Weapons Trader)
+- Skip quests → focus on mob grinding  
+- Save Mana Potions (expensive early)  
 
-</div>
+- Redeem **Shadow Weapons** at Lv20/40 (Maria/Giran)  
+- Rent B-Grade at Lv52 (Giran Weapons Trader)  
 
-<hr class="role-divider">
+<hr class="divider">
 
-## 🔮 Buff System
-<figure markdown="span" markdown>
+## Max Buff Slot Book Strategy
 
-| Book Required | Level | Cost | Max Slots |
-|-----------|-------|------|-----------|
-| Modern (Lv52) | 52 | 400K Adena | +1 |
-| Original (Lv62) | 62 | 7 Medals | +1 |
-| Manuscript (Lv76) | 76 | 10 Medals | +1 |
-| Original Ver. (Lv76) | 76 | 15 Medals | +1 |
+<figure markdown>
+
+| Book          | Level | Cost        | Max Buff Slots |
+|---------------|-------|-------------|-----------|
+| Modern        | 52    | 400K Adena  | +1        |
+| Original      | 62    | 7 Glittering Medals    | +1        |
+| Manuscript    | 76    | 10 Glittering Medals   | +1        |
+| Original Ver. | 76    | 15 Glittering Medals   | +1        |
 
 </figure>
-> Learn them at your class trainer
 
-<hr class="role-divider">
+> Learn at your class trainer, unlock them in order (Original needs Modern)
 
-## 💰 Spending Priority
-1. **Weapons** (highest priority)
+<hr class="divider">
+
+## Spending Priority
+1. **Weapons** (highest impact)  
 2. Armor/Gear  
-3. Dyes (Maria's Shop)
+3. Dyes (Maria's Shop)  
 
-<hr class="role-divider">
+<hr class="divider">
 
-## 🎁 Progression Boosters
-- Vote for server rewards → [Voting Guide](/faq/getting-started/welcome/#you-are-all-set)
-- Avoid pet leveling (inefficient)
-- Buy **Strider** if you need mobility (Maria → Event Items)
+## Progression Boosters
+- Vote for higher rates → [Voting Guide](#)  
+- Avoid pet leveling ( inefficient )  
+    - Buy **Strider** for mobility ( if you really need it )
 
-<hr class="role-divider">
+<hr class="divider">
 
-## 🤖 Maria Macro
+## Maria Macro
 ```bash
 /target Maria  
 /attack
 ```
+Comfy way of finding Maria with a click of a Button.
+
 [:material-arrow-right: Macro Tutorial](/faq/gameplay/macro/)
 
-<hr class="role-divider">
+<hr class="divider">
 
 ## Leveling Zones
 
@@ -98,7 +125,7 @@ icon: material/sword
     - Kill outside, inside, or on mountain lines
     - ⚠️ Might be crowded on launch
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 23-33
 - **23-30**: Partisan's Hideaway - Dion
@@ -110,7 +137,7 @@ icon: material/sword
     - Higher HP mobs deeper inside
     - ⚠️ Tough & crowded area
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 38-51
 - **38-40**: Alligator Island - Heine
@@ -119,7 +146,7 @@ icon: material/sword
     - Sea of Spores - Oren
     - Higher HP mobs in Cruma Tower
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 46-55
 - **46-50**: Tanor Canyon - Dion
@@ -129,21 +156,21 @@ icon: material/sword
     - Great AoE place inside the towers
 - **50-55**: Cemetary - Aden
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 53-63
 - **53-63**: Frozen Labyrinth - Schuttgart
     - [:fontawesome-solid-scroll: An Ice Merchant's Dream Quest](https://lineage2wiki.org/interlude/quest/648/an-ice-merchants-dream/)
     - Great for Adena + Materials farming
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 54-60
 - **54-60**: Skyshadow Meadow - Oren
     - Grouped mobs
     - [:fontawesome-solid-scroll: Warehouse Keeper's Pastime Quest](https://lineage2wiki.org/interlude/quest/384/warehouse-keepers-pastime/)
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 55-70
 - **55-70**: Giant's Cave - Aden
@@ -152,7 +179,7 @@ icon: material/sword
 - **55-66**: Forsaken Plains - Aden
 - **55-64**: Fields of Massacre - Aden
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 60-75
 - **60-75**: 
@@ -160,7 +187,7 @@ icon: material/sword
     - Tower of Insolence - Aden
     - Higher HP mobs
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 60-67
 - **60-67**: Valley of Saints - Rune
@@ -173,7 +200,7 @@ icon: material/sword
         - Alliance Of Splendor: DC Robe (Spoil 0.3%)
         - Judge Of Splendor: DC Gloves (0.07%)
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 63-69
 - **63-69**: Beast Farm - Rune
@@ -202,21 +229,21 @@ icon: material/sword
 
     - [:fontawesome-solid-scroll: Necromancer's Request Quest](https://lineage2wiki.org/interlude/quest/632/necromancers-request/)
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 64-70
 - **64-70**: Ancient Battleground - Aden
     - [:fontawesome-solid-scroll: Seductive Whispers Quest](https://lineage2wiki.org/interlude/quest/663/seductive-whispers/)
         - Gambling-style quest (requires 50 beads to play)
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 65-75
 - **65-75**: Blazing Swamp - Rune
     - [:fontawesome-solid-scroll: Supplier of Reagents Quest](https://lineage2wiki.org/interlude/quest/373/supplier-of-reagents/)
         - Required for Subclass + Noblesse advancement
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 66-74
 - **66-74**: Swamp of Screams - Rune
@@ -224,12 +251,13 @@ icon: material/sword
         - Only Part 1 required
     - [:fontawesome-solid-scroll: The Zero Hour Quest](https://lineage2wiki.org/interlude/quest/640/the-zero-hour/)
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 68-75
 - **68-75**: Wall of Argos - Goddard
     - Spoils for SOP & A-Grade Key Materials
-<hr class="role-divider">
+
+<hr class="divider">
 
 ### Levels 73-76
 - **73-76**: Hot Springs - Goddard
@@ -240,7 +268,7 @@ icon: material/sword
             - Requires [1x Ice Crystal](https://lineage2wiki.org/interlude/item/7080/ice-crystal/) per 3rd class quest
             - Duelists additionally need [1x Top Quality Meat](https://lineage2wiki.org/interlude/quest/631/delicious-top-choice-meat/)
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 74-85
 - **74-85**: Silent Valley - Aden
@@ -254,7 +282,7 @@ icon: material/sword
         - [:fontawesome-solid-scroll: War with Varka Silenos](https://lineage2wiki.org/interlude/quest/606/war-with-varka-silenos/)
         - Must kill opposing faction's mobs
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Levels 78-85
 - **78-85**: Forge of the Gods - Goddard
@@ -277,7 +305,7 @@ icon: material/sword
     - [:fontawesome-solid-scroll: Rise and Fall of the Elroki Tribe Quest](https://lineage2wiki.org/interlude/quest/643/rise-and-fall-of-the-elroki-tribe/)
     - Included in the missions as well
 
-<hr class="role-divider">
+<hr class="divider">
 
 ### Quest Exchanges
 
@@ -339,7 +367,7 @@ Do [Noblesse](/faq/gameplay/progression/noblesse/) and [Subclass Quests](/faq/ga
 
 For Subclass Quest, you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon, you can skip that part for later.
 
-<hr class="role-divider">
+<hr class="divider">
 
 ## 3rd Class Quests
 

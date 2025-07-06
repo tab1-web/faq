@@ -4,8 +4,27 @@ icon: fontawesome/solid/scroll
 
 
 # Missions
+<div class="grid cards" markdown>
+
+- :material-format-font:{ .lg .middle } __Requirements__
+    
+    ---
+
+    Missions require you to be **Level 76**, if you do the given tasks, you can claim the rewards in the Daily Missions window.
+
+    You can access **Daily Missions** in the bottom right corner.
+
+- <figure markdown>
+    <a href="https://postimg.cc/F19TZCBC">
+    ![Daily](https://i.postimg.cc/v8nCGpLy/dailies.png)
+    </a>
+    </figure>
+
+</div>
 
 ## Daily Tasks
+
+<figure markdown>
 
 | Task | Reward |
 |------|--------|
@@ -17,7 +36,11 @@ icon: fontawesome/solid/scroll
 | **Participate in any Event** | 1 Glittering Medal |
 | **Play 10 Olympiad Games** | 5,000 Noble Gate Passes |
 
+</figure>
+
 ## Weekly Tasks
+
+<figure markdown>
 
 | Task | Reward |
 |------|--------|
@@ -27,3 +50,5 @@ icon: fontawesome/solid/scroll
 | **PvP** - 200 kills | 5 BSOE, 15,000 CP Potions, 50 Quick Healing Potions |
 | **Win 20 Olympiad Matches** | 25,000 Noble Gate Passes |
 | **Become Hero** | 1 Blessed Enchant Weapon Scroll (S) |
+
+</figure>

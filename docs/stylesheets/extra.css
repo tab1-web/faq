@@ -199,7 +199,7 @@
     background-color: rgba(0,0,0,0.05);
 }
 
-.md-typeset .role-divider {
+.md-typeset .role-divider, .divider {
   height: 1px;
   background: linear-gradient(90deg, transparent, var(--md-primary-fg-color), transparent);
   margin: 2rem 0;
