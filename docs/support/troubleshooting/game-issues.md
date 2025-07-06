@@ -69,8 +69,10 @@ Sadly **there are no other solutions**. On 2K the buttons are good, beyond that 
 
 <hr>
 
-## Event Code 10/5
+## Event Code 10/5 or 39/1
 This happens when there is either an interruption in your connection and/or an interruption to the SmartGuard service.
+
+Add **Reborn files (l2.exe)** and **folders** are added as **exceptions/exclusions** in your [antivirus](https://youtu.be/1r93NtwZt4o) and [firewall settings](https://youtu.be/zijsJZionv0). 
 
 **Power-cycle your Modem/Router/Switch**. If that doesn't work: **Delete the System folder** & do **Client Repair**.
 
