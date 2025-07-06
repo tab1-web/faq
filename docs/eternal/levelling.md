@@ -406,6 +406,8 @@ Do [Noblesse](/faq/gameplay/progression/noblesse/) and [Subclass Quests](/faq/ga
 
 For Subclass Quest, you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon, you can skip that part for later.
 
+For Noblesse Quest on Barakiel, you can earn fragments of the staff by hitting Barakiel once. Earn 15 fragments and turn it into the full Staff to progress the quest. 
+
 <hr class="divider">
 
 ## 3rd Class Quests
