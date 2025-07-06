@@ -123,7 +123,7 @@ Other classes that I haven't mentioned are not here because I think they have ni
 <div class="class-card" markdown>
 
 ### Tyrant  
-  Versatile PvP brawler class using fist weapons, deadliest on Low HP with Zealot. Combines range skills with powerful close-combat combos.
+  Versatile PvP brawler class using fist weapons, deadliest on Low HP with Zealot. Combines range skills with powerful close-combat combos.  
     - **Leveling:** Medium  
     - **Strengths:** <span class="strengths">HP, Burst Combos, PvE/PvP mix, Olympiad</span>
 
