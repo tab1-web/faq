@@ -131,7 +131,7 @@ Other classes that I haven't mentioned are not here because I think they have ni
 
 <div class="class-card" markdown>
 ### Titan  
-  High HP and devastating melee attacks. Performs exceptionally in boss encounters. For Solo farm mages are more preferable due to being limited to melee in a large population server with lot of mages.  
+  High HP and devastating melee attacks on low HP. Performs exceptionally in boss encounters. For Solo farm mages are more preferable due to being limited to melee in a large population server with lot of mages.  
     - **Leveling:** Medium  
     - **Strengths:** <span class="strengths">High HP, AoE Damage with Spear, Boss Killer, DM events</span>
 </div>
