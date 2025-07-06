@@ -128,6 +128,7 @@ Comfy way of finding Maria with a click of a Button.
     - (Remember `/target Dawn` or `/target Dusk` to find them)
     - Register for Dawn when castles are taken by Clans. (Castle Owners can only register to Dawn)
 - At higher catacombs expect competition, so either move or fight.
+- Merchant of Mammon and Blacksmith of Mammon can be found in Giran during Rewards week. Can be interacted with even if you didn't register.
 
 <figure markdown>
 
