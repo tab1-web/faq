@@ -12,11 +12,15 @@ icon: fontawesome/solid/scroll
 
 ### :material-robot-off-outline: **1. Botting**
 
-:material-close: The use of **automation tools** is **strictly prohibited**.  
+:material-close: The use of **automation tools** is **strictly prohibited**. 
+
+- Stucking a coin, a cup / physical objects on keys or softwares etc..
 
 :material-check: Only in-game macros (via the Macro system) are allowed.
 
-:material-close: You are not allowed to use third-party programs (e.g. L2Hub HUD)
+- Do not loop them with softwares or above mentioned methods with physical objects.
+
+:material-close: You are not allowed to use third-party programs (e.g. L2Hub HUD...)
 
 :material-check: Use files only from the folders provided in your client's plugins folder.
 
@@ -36,7 +40,7 @@ icon: fontawesome/solid/scroll
     - :material-close: This also means that you cannot use multiple devices to set up shops or send
     items to yourself.
         - :material-mail: Use the **Mail System** or **Freight Service** if on the same account, to transfer.
-- :material-wifi: Multiple people on the **same network** are permitted as long as:
+- :material-wifi: Multiple people on the **same network** are allowed as long as:
     - :material-numeric-1-circle: Each person controls **only one character**
     - :material-shield-check: Each person is **able to solve captchas**
 
