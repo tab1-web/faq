@@ -116,6 +116,41 @@ Comfy way of finding Maria with a click of a Button.
 
 <hr class="divider">
 
+## Catacombs / Necropolis levelling
+
+- Catacomb / Necropolis levelling is great: mobs are close, give a lot of EXP until 74-76-ish and a great source for making Adena. 
+- Make sure you register before hunting in these locations. Check [here](/faq/eternal/general/#time-tables) if you can register.
+    - At beginning of the dungeons, you can see an NPC named `Ziggurat` pick up both quests.
+    - [Ancient Scrolls can be exchanged.](https://lineage2wiki.org/interlude/monster/31113/merchant-of-mammon/)
+    - [Dimensional Fragments](https://lineage2wiki.org/interlude/item/7079/dimensional-fragment/) are used for getting access to hunt monsters for Lifestones in [Hero Rift](https://lineage2wiki.org/c4/patch-notes/#dimensional_rift)
+    - Half of the monsters in each room in the dungeons give [Seal Stones](https://lineage2wiki.org/interlude/item/6362/red-seal-stone/), you can exchange these at at your Priest for [Ancient Adena](https://lineage2wiki.org/interlude/item/5575/ancient-adena/) these can be sold to Players or Exchanged for Strong Dyes along with Ancient Scrolls or buying [Gemstones](https://lineage2wiki.org/interlude/item/in-recipe/2134/gemstone-s/) for crafting. 
+- You can register at Priest of Dawn or Dusk in Giran.
+    - (Remember `/target Dawn` or `/target Dusk` to find them)
+    - Register for Dawn when castles are taken by Clans. (Castle Owners can only register to Dawn)
+- At higher catacombs expect competition, so either move or fight.
+
+<figure markdown>
+
+| Dungeon Name                     | Level Range |
+|----------------------------------|-------------|
+| Necropolis of Sacrifice          | 20 - 30     |
+| Catacomb of the Heretic          | 30 - 40     |
+| The Pilgrim's Necropolis         | 32 - 40     |
+| Catacomb of the Branded          | 40 - 51     |
+| Necropolis of Worship            | 42 - 51     |
+| Catacomb of the Apostate         | 50 - 60     |
+| The Patriot's Necropolis         | 52 - 60     |
+| Necropolis of Devotion           | 60 - 67     |
+| Catacomb of the Witch            | 60 - 72     |
+| Necropolis of Martyrdom          | 65 - 72     |
+| The Saint's Necropolis           | 70 - 78     |
+| The Disciple's Necropolis        | 70 - 80     |
+| Catacomb of the Forbidden Path   | 75 - 80     |
+
+</figure>
+
+<hr class="divider">
+
 ## Leveling Zones
 
 ### Levels 12-25
