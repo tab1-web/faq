@@ -1,5 +1,7 @@
 ---
 icon: material/frequently-asked-questions
+hide:
+  - toc
 ---
 
 # FAQ

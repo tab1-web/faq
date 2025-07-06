@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/scroll
+hide:
+  - toc
 ---
 
 

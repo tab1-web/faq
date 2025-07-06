@@ -1,5 +1,7 @@
 ---
 icon: material/calendar
+hide:
+  - toc
 ---
 
 # Daily Attendance
@@ -40,9 +42,11 @@ icon: material/calendar
 
     To claim the rewards, just **left click** on the highlighted item.
 
-    Mission Rewards reset daily at exactly **6:30 AM UTC + 0**
+    Mission Rewards reset daily **6:30 AM UTC + 0**
 
     If you claimed the rewards, check back tomorrow to claim again.
+
+    Each reward requires the previous to claim.
 
 - <figure markdown>
 <a href="https://postimg.cc/HryQ9b4k">
