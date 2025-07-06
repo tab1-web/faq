@@ -241,7 +241,7 @@ Below you'll find detailed descriptions of all major meta classes, categorized b
 <div class="class-card" markdown>
 
 ### Bishop
-  The best healer class in the game. Good for group PvE & PvP content.  
+  The best healer class in the game. Good for group PvE & PvP content. Not ideal for solo players.   
     - **Leveling:** Slow  
     - **Strengths:** <span class="strengths">Healing, Resurrection, Party Support</span>
 
@@ -250,7 +250,7 @@ Below you'll find detailed descriptions of all major meta classes, categorized b
 <div class="class-card" markdown>
 
 ### Warlord  
-  Stunner / Stop party for PvP and Sieges. Good for group PvP content. 
+  Stunner / Stop party for PvP and Sieges. Good for group PvP content. Not ideal for solo players.  
     - **Leveling:** Slow  
     - **Strengths:** <span class="strengths">Stun, High HP</span>
 
