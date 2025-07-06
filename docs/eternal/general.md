@@ -11,8 +11,6 @@ icon: material/clock-time-one-outline
 
 ## Time Tables
 
-## Time Tables
-
 <div class="server-timer">
   <div class="period-header">
     <h3>Server Countdown</h3>
