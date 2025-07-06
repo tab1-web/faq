@@ -159,7 +159,7 @@ Below you'll find detailed descriptions of all major meta classes, categorized b
 ### Artisan 
   Focuses on creating gear, items, and consumables for other players. Spoiler more preferable for newer players.  
     - **Leveling:** Slow  
-    - **Strengths:** <span class="strengths">Crafting, Clan Utility, Economic Contribution</span>
+    - **Strengths:** <span class="strengths">Crafting, Clan Utility, Economy playstyle</span>
 
 </div>
 
