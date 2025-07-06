@@ -99,7 +99,7 @@ icon: material/sword
 <hr class="divider">
 
 ## Progression Boosters
-- Vote for higher rates → [Voting Guide](#)  
+- Vote for higher rates → [Voting Guide](/faq/getting-started/welcome/#you-are-all-set)  
 - Avoid pet leveling ( inefficient )  
     - Buy **Strider** for mobility ( if you really need it )
 
@@ -155,6 +155,9 @@ Comfy way of finding Maria with a click of a Button.
 ## Leveling Zones
 
 ### Levels 12-25
+
+> If you have 30k-60k, buy Wooden Set (Fighters) or Devotion Set (Mages) in Starter Villages.
+
 - **12-18**: Ruins of Despair - Gludio
 - **15-20**: Ruins of Agony - Gludio 
 - **20-25**: Abandoned Camp - Gludin

@@ -1,227 +1,106 @@
 ---
 icon: material/room-service
+hide:
+  - toc
 ---
 
 # Maria Services
 
-<style>
-  .service-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1.5rem;
-    margin: 2rem 0;
-  }
+<div class="grid cards" markdown>
+- ## Shop Menu
 
-  .service-card {
-    background: var(--md-default-bg-color);
-    border-radius: 0.5rem;
-    padding: 1.5rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1), 0 4px 8px rgba(0,0,0,0.05);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    border: 1px solid var(--md-typeset-table-color);
-  }
+    <hr class="divider">
 
-  .service-card:hover {
-    transform: translateY(-0.2rem);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1), 0 8px 16px rgba(0,0,0,0.1);
-  }
+    <figure markdown>
+    [![gmshop.png](https://i.postimg.cc/Dfj1nSNn/gmshop.png){ width=50% }](https://postimg.cc/yWRDT8Bb)
+    <figcaption>GM Shop: Arrows, HP, MP, CP, Shots, Pipette Knife, Quest Exchanges</figcaption>
+    </figure>
 
-  .service-card h3 {
-    margin-top: 0;
-    color: var(--md-primary-fg-color);
-    border-bottom: 2px solid var(--md-accent-fg-color);
-    padding-bottom: 0.5rem;
-  }
+    
 
-  .service-portrait {
-    text-align: center;
-    margin: 0;
-  }
+- ## Buff Menu
 
-  .service-portrait img {
-    max-width: 100%;
-    border-radius: 0.5rem;
-    border: 3px solid var(--md-accent-fg-color);
-  }
+    <hr class="divider">
 
-  .service-portrait figcaption {
-    margin-top: 0.5rem;
-    font-style: italic;
-    color: var(--md-typeset-color);
-  }
+    <figure markdown>
+    [![1-C20-B8-F1-74-A9-4-BA8-BEC6-7-E5851-A271-E1.png](https://i.postimg.cc/FRV30b38/1-C20-B8-F1-74-A9-4-BA8-BEC6-7-E5851-A271-E1.png){ width=50% }](https://postimg.cc/9RzDh7xY)
+    <figcaption>You can apply buffs to yourself and save it as a Scheme</figcaption>
+    </figure>
 
-  .service-list {
-    padding-left: 1.5rem;
-  }
+- ## Services Menu
 
-  .service-list li {
-    margin-bottom: 0.5rem;
-    list-style-type: none;
-    position: relative;
-    padding-left: 1.5rem;
-  }
+    <hr class="divider">
 
-  .service-list li:before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0.4em;
-    width: 0.8em;
-    height: 0.8em;
-    background-color: var(--md-accent-fg-color);
-    border-radius: 50%;
-  }
-</style>
+    <figure markdown>
+    [![services.png](https://i.postimg.cc/tRhDqPcK/services.png){ width=70% }](https://postimg.cc/hhtVMJcs)
+    <figcaption>Access Warehouse, Subclasses, Dyes...</figcaption>
+    </figure>
 
-## Service Overview
+- ## Teleport Menu
 
-<div class="service-grid">
-
-<div class="service-card">
-  <figure class="service-portrait"
-    <a href="https://postimg.cc/gX2xfsCw" class="lightbox">
-      <img src="https://i.postimg.cc/QtpcKnSq/1-C20-B8-F1-74-A9-4-BA8-BEC6-7-E5851-A271-E1.png" alt="Maria Services">
-    </a>
-    <figcaption>Maria GM Shop Window</figcaption>
-  </figure>
-</div>
-
-<div class="service-card">
-  <figure class="service-portrait">
-    <a href="https://postimg.cc/bSQBGM0r" class="lightbox">
-      <img src="https://i.postimg.cc/WzKLychG/B42-C14-D0-37-AA-4548-BB3-C-18-BF21-ADD3-A3.png" alt="Maria" style="width:70%;">
-    </a>
-    <figcaption>Maria Custom NPC</figcaption>
-  </figure>
-</div>
-
-<div class="service-card">
-  <h3>Buff, Service, Consumables Shop</h3>
-  <ul class="service-list">
-    <li>All potions (HP/MP/CP)</li>
-    <li>Shots/Arrows</li>
-    <li>Warehouse access</li>
-    <li>Augmentation services</li>
-    <li>Symbol Maker</li>
-    <li>All buffs available</li>
-    <li>Subclass Change</li>
-  </ul>
-</div>
-
-<div class="service-card">
-  <h3>Alt + B Community Board</h3>
-  <ul class="service-list">
-    <li>Rankings</li>
-    <li>Configs</li>
-    <li>Events</li>
-    <li>Boss Timers</li>
-    <li>Voucher Codes</li>
-  </ul>
-</div>
-
-<div class="service-card">
-  <h3>Quest & Exchange</h3>
-  <ul class="service-list">
-    <li>Quest item exchanges</li>
-    <li>Adena conversions</li>
-    <li>Medal trade services</li>
-  </ul>
-</div>
-
-<div class="service-card">
-  <h3>Useful Teleport Services</h3>
-  <ul class="service-list">
-    <li>Valakas → Upper FoG spawn</li>
-    <li>Frintezza → Imperial Tomb entrance</li>
-  </ul>
-</div>
-
+    <hr class="divider">
+    <figure markdown>
+    [![teleport.png](https://i.postimg.cc/HnhbZYnC/teleport.png){ width=60% }](https://postimg.cc/0K76rq7t)
+    <figcaption>Valakas: Upper FoG (Beatles) Teleport, <br> Frintezza: Imperial Tomb Entrance Teleport </figcaption>
+    </figure>
 
 </div>
 
-<hr class="role-divider">
-
-<figure markdown>
-
-## Glittering Medal Exchange
-
-| Item | Quantity | Cost  |
-|------|----------|-------------|
-| Event Medal | 50 | 1 Glittering Medal |
-| Clan Reputation | 100 | 10 Event Medals |
-| Dragon Bugle | 1 | 10 Glittering Medals |
-
-### 📜 Divine Inspiration Scrolls
-
-| Scroll Type       | Level | Cost  |
-|-------------------|-------|---------------|
-| **Modern**        | 52    | 1 Glittering Medal             |
-| **Original**      | 62    | 7 Glittering Medal            |
-| **Manuscript**    | 76    | 10 Glittering Medal           |
-| **Original Ver.** | 76    | 15 Glittering Medal          |
-
-### ✨ Blessed Enchant Scrolls
-
-| Scroll Type       | Grade | Cost  |
-|-------------------|-------|---------------|
-| **Armor**         | B     | 5 Glittering Medal            |
-| **Weapon**        | B     | 10 Glittering Medal           |
-| **Armor**         | A     | 10 Glittering Medal           |
-| **Weapon**        | A     | 20 Glittering Medal           |
-| **Armor**         | S     | 15 Glittering Medal           |
-| **Weapon**        | S     | 30 Glittering Medal          |
-
-### 💎 Other Valuables
-
-| Item                     | Cost  |
-|--------------------------|---------------|
-| Top-Grade Life Stone (L76) | 1 Glittering Medal            |
-| Secret Book of Giants      | 3 Glittering Medal            |
-| Soul Crystal Lv11          | 5 Glittering Medal           |
-| Soul Crystal Lv12          | 15 Glittering Medal           |
-| Soul Crystal Lv13          | 30 Glittering Medal           |
-
-<hr class="role-divider">
-
-## Adena Exchange Rates
 
 
-| Scroll Type | Level | Adena Cost |
-|------------|-------|------------|
-| Modern | 52 | 400,000 |
-| Original | 62 | 200,000,000 |
-| Manuscript | 76 | 300,000,000 |
-| Original Ver. | 76 | 600,000,000 |
+<hr class="divider">
+
+# GM Shop Exchanges
+
+<div class="grid cards" markdown style="grid-template-columns: 1fr 1fr; gap: 1rem;">
+
+
+- ## Medal Exchanges
+
+    | Icon | Item | Cost |
+    |------|--------------------------------|------------------|
+    | [![normal-medal.png](https://i.postimg.cc/D0PrmsT3/normal-medal.png)](https://postimg.cc/D4mJMS0x) | 50   Event Medal  | 1 Glittering Medal |
+    | [![medal-icon.png](https://i.postimg.cc/yx82n85P/medal-icon.png)](https://postimg.cc/JDSTzMRD) | 1 Glittering Medal  | 50 Event Medal |
+    | [![crp.png](https://i.postimg.cc/ZK0nWpZP/crp.png)](https://postimg.cc/RN5483Wq) | 100 Clan Reputation | 10 Event Medals |
+    | [![dragon-bugl.png](https://i.postimg.cc/DwvTWK19/dragon-bugl.png)](https://postimg.cc/xc477hx5) | Dragon Bugle | 10 Glittering Medals |
+    | [![modern.png](https://i.postimg.cc/rFgHPRtH/modern.png)](https://postimg.cc/xcJgkC5G) | Modern (Lv52) | 1 Glittering Medal |
+    | [![original.png](https://i.postimg.cc/SQdVSFN2/original.png)](https://postimg.cc/hhJVsYmc) | Original (Lv62) | 7 Glittering Medals |
+    | [![manuscript.png](https://i.postimg.cc/nhj1GXKB/manuscript.png)](https://postimg.cc/w1zJ6TGj) | Manuscript (Lv76) | 10 Glittering Medals |
+    | [![original-vers.png](https://i.postimg.cc/MTD0pVx2/original-vers.png)](https://postimg.cc/zbyHdLV0) | Original Ver. (Lv76) | 15 Glittering Medals |
+    | [![barmor.png](https://i.postimg.cc/05VdgYc7/barmor.png)](https://postimg.cc/23BBhZp5) | Blessed B Enchant Armor | 5 Glittering Medals |
+    | [![bweapon.png](https://i.postimg.cc/zB0WrNSq/bweapon.png)](https://postimg.cc/yg3WmwbG) | Blessed B Enchant Weapon | 10 Glittering Medals |
+    | [![aarmor.png](https://i.postimg.cc/50NYpGcT/aarmor.png)](https://postimg.cc/67gppMpf) | Blessed A Enchant Armor | 10 Glittering Medals |
+    | [![aweapon.png](https://i.postimg.cc/QNz9k0fY/aweapon.png)](https://postimg.cc/kDxg7F3W) | Blessed A Enchant Weapon | 20 Glittering Medals |
+    | [![sarmor.png](https://i.postimg.cc/5tf6NGty/sarmor.png)](https://postimg.cc/gxBYgg8b) | Blessed S Enchant Armor | 15 Glittering Medals |
+    | [![sweapon.png](https://i.postimg.cc/9z3f3gSW/sweapon.png)](https://postimg.cc/CnN0k7St) | Blessed S Enchant Weapon | 30 Glittering Medals |
+    | [![topls.png](https://i.postimg.cc/hGCTFg0c/topls.png)](https://postimg.cc/1gqf6kTj) | Top-Grade Life Stone (Lv76) | 1 Glittering Medal |
+    | [![bogs.png](https://i.postimg.cc/SN08bgc2/bogs.png)](https://postimg.cc/9zpzGt8C) | Secret Book of Giants | 3 Glittering Medals |
+    | [![sa.png](https://i.postimg.cc/nLL9Ggf5/sa.png)](https://postimg.cc/XrTvV2Jc) | Soul Crystal (Lv11) | 5 Glittering Medals |
+    | [![sa.png](https://i.postimg.cc/nLL9Ggf5/sa.png)](https://postimg.cc/XrTvV2Jc) | Soul Crystal (Lv12) | 15 Glittering Medals |
+    | [![sa.png](https://i.postimg.cc/nLL9Ggf5/sa.png)](https://postimg.cc/XrTvV2Jc) | Soul Crystal (Lv13) | 30 Glittering Medals |
+
+
+- ## Adena Exchanges
+
+    |Icon | Item      | Cost |
+    |-----|------------|--------------------|
+    | [![modern.png](https://i.postimg.cc/rFgHPRtH/modern.png)](https://postimg.cc/xcJgkC5G)    | Modern (Lv52) | 400,000 Adena |
+    | [![original.png](https://i.postimg.cc/SQdVSFN2/original.png)](https://postimg.cc/hhJVsYmc)  | Original (Lv62) | 200,000,000 Adena |
+    | [![manuscript.png](https://i.postimg.cc/nhj1GXKB/manuscript.png)](https://postimg.cc/w1zJ6TGj)  | Manuscript (Lv76) | 300,000,000 Adena |
+    | [![original-vers.png](https://i.postimg.cc/MTD0pVx2/original-vers.png)](https://postimg.cc/zbyHdLV0) | Original Ver. Lv(76) | 600,000,000 Adena |
+    | [![goldbar.png](https://i.postimg.cc/QdL9d1JG/goldbar.png)](https://postimg.cc/bsTN6G53)  | Gold Bar    | 500,000,000 Adena |
+    | [![adena.png](https://i.postimg.cc/0rgVByMw/adena.png)](https://postimg.cc/gLDywdKz) | 500,000,000 Adena | 1 Gold Bar |
+    | [![blooded-fabric.png](https://i.postimg.cc/J0GxMZcH/blooded-fabric.png)](https://postimg.cc/ctGwcKzd)  | Blooded Fabric | 12,000,000 Adena |
+    | [![portalstone.png](https://i.postimg.cc/PrHPzkNp/portalstone.png)](https://postimg.cc/fkHzDpcD)  | Portal Stone | 12,000,000 Adena |
+    | [![floatingstone.png](https://i.postimg.cc/Bv4gdzhX/floatingstone.png)](https://postimg.cc/k2YKSTPm)  | Floating Stone | 12,000,000 Adena |
+    | [![frint.png](https://i.postimg.cc/rwK0zNKQ/frint.png)](https://postimg.cc/PCnrRZbw)  | Frintezza QI | 23,000,000 Adena |
+    | [![dragon-bugl.png](https://i.postimg.cc/DwvTWK19/dragon-bugl.png)](https://postimg.cc/xc477hx5)  | Dragon Bugle | 250,000,000 Adema |
+    | [![nls.png](https://i.postimg.cc/vHWMh1Cb/nls.png)](https://postimg.cc/bsNKNvzB) | Regular Lifestone  | 6,000,000 Adena  |
+    | [![nls.png](https://i.postimg.cc/Nj6MKCQ8/nls.png)](https://postimg.cc/xXdY7RJq)  | Mid-Grade | 7,000,000 Adena  |
+    | [![hls.png](https://i.postimg.cc/C1mJS4ZS/hls.png)](https://postimg.cc/9RwyBZtn)  | High-Grade | 8,500,000  Adena |
+    | [![topls.png](https://i.postimg.cc/hGCTFg0c/topls.png)](https://postimg.cc/1gqf6kTj)  | Top-Grade | 12,000,000 Adena  |
+    | [![bogs.png](https://i.postimg.cc/SN08bgc2/bogs.png)](https://postimg.cc/9zpzGt8C)  | Secret Book of Giants    | 100,000,000 Adena |
 
 
 
-### 💰 Currency Values
-
-| Item            | Adena Value |
-|-----------------|-------------|
-| **Gold Bar**    | 500,000,000 |
-| **Blooded Fabric** | 12,000,000 |
-| **Portal Stone** | 12,000,000 |
-| **Floating Stone** | 12,000,000 |
-| **Frintezza QI** | 23,000,000 |
-| **Dragon Bugle** | 250,000,000 |
-
-
-### 💠 Life Stones (Lv76)
-
-
-| Grade        | Adena Value |
-|--------------|-------------|
-| **Regular**  | 6,000,000   |
-| **Mid-Grade** | 7,000,000   |
-| **High-Grade** | 8,500,000   |
-| **Top-Grade** | 12,000,000  |
-
-
-### 📦 Special Items
-
-| Item                     | Adena Value |
-|--------------------------|-------------|
-| Secret Book of Giants    | 100,000,000 |
-
-</figure>
+</div>

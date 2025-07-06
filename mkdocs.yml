@@ -39,6 +39,7 @@ nav:
     - Daily Login: eternal/dailyattendance.md
     - Classes: eternal/classes.md
     - Buffs: eternal/buffs.md
+    - FAQ: eternal/faq.md
 theme:
   name: material
   

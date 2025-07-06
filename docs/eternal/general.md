@@ -2,13 +2,6 @@
 icon: material/clock-time-one-outline
 ---
 
-## Quick Info
-
-- Beta test (OBT): **July 11th at 18:00 UTC**
-- Beta Event: **Sunday 13th** (players can earn a starter kit by participating)
-- Server Opening: **July 18th at 18:00 UTC**
-<br> <br>
-
 ## Time Tables
 
 <div class="server-timer">
@@ -24,7 +17,10 @@ icon: material/clock-time-one-outline
       <span class="period-label">Time Remaining:</span>
       <span class="countdown-timer main-countdown"></span>
     </div>
-    <hr>
+    <hr class="divider">
+    <div class="period-header">
+      <h3>OBT Opening</h3>
+    </div>
         <div class="period-row">
       <span class="period-label">OBT Start:</span>
       <span class="opening-time">July 11th at 18:00 UTC</span>
@@ -33,7 +29,10 @@ icon: material/clock-time-one-outline
       <span class="period-label">Time Remaining:</span>
       <span class="countdown-timer beta-test-countdown"></span>
     </div>
-    <hr>
+    <hr class="divider">
+      <div class="period-header">
+        <h3>OBT Event Day</h3>
+      </div>
         <div class="period-row">
       <span class="period-label">OBT Event Date:</span>
       <span class="opening-time">July 13th (Sunday)</span>
@@ -290,7 +289,7 @@ Remove buffs from your character
 
 <figure markdown="span">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1222530409&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-299123333" title="DistritoMMO" target="_blank" style="color: #cccccc; text-decoration: none;">DistritoMMO</a> · <a href="https://soundcloud.com/user-299123333/sets/lineage-2" title="Lineage 2" target="_blank" style="color: #cccccc; text-decoration: none;">Lineage 2</a></div>
-    <hr>
+    <hr class="divider">
 
     <a href="https://postimg.cc/nssvvRK0">
         ![Hero](https://i.postimg.cc/W48XcxdL/catsitting.gif){ .lightbox width=50% }

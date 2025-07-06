@@ -98,23 +98,23 @@ Other classes that I haven't mentioned are not here because I think they have ni
 
 <div class="class-card" markdown>
 ### Treasure Hunter
-  Exceptional lethal damage and evasion. Strong in ambush-style PvP.  
+  Great lethal damage, has access to Dash that can be up most of the time. Broken melee assassin.  
     - **Leveling:** Medium  
-    - **Strengths:** <span class="strengths">Evasion, Burst Damage, PvP, DM Events</span>
+    - **Strengths:** <span class="strengths">Burst Damage, close combat PvP, DM Events</span>
 </div>
 
 <div class="class-card" markdown> 
 ### Abyss Walker 
-  Focuses on assassination, low maximum HP. Balanced offensive capabilities. Treasure Hunter more preferable.  
+  Low maximum HP, Balanced offensive capabilities. Treasure Hunter more preferable.  
     - **Leveling:** Medium  
-    - **Strengths:** <span class="strengths">Critical Burst, PvP Utility</span>
+    - **Strengths:** <span class="strengths">Burst Damage, close combat PvP </span>
 </div>
 
 <div class="class-card" markdown> 
 ### Plainswalker 
-  High evasion, specializing in mobility and fast attack speed. Treasure Hunter more preferable.  
+  Bit higher evasion, specializing in mobility, Low damage. Treasure Hunter more preferable.  
     - **Leveling:** Medium  
-    - **Strengths:** <span class="strengths">Evasion, Fast Attacks, Mobility</span>
+    - **Strengths:** <span class="strengths">Evasion, Mobility</span>
 </div>
 
 <hr class="role-divider">
@@ -131,7 +131,7 @@ Other classes that I haven't mentioned are not here because I think they have ni
 
 <div class="class-card" markdown>
 ### Titan  
-  High HP and devastating melee attacks on low HP. Performs exceptionally in boss encounters. For Solo farm mages are more preferable due to being limited to melee in a large population server with lot of mages.  
+  High HP and broken melee damage on low HP. Performs exceptionally in boss encounters. For Solo farm mages are more preferable due to being limited to melee in a large population server with lot of mages.  
     - **Leveling:** Medium  
     - **Strengths:** <span class="strengths">High HP, AoE Damage with Spear, Boss Killer, DM events</span>
 </div>
@@ -140,7 +140,7 @@ Other classes that I haven't mentioned are not here because I think they have ni
 ### Gladiator
   Skilled dual-sword fighter more effective in PvP. Strong late-game scaling with balanced melee and ranged abilities.  
     - **Leveling:** Slow  
-    - **Strengths:** <span class="strengths">Excellent 1v1 combat, ranged attack options, high defenses, Olympiad</span>
+    - **Strengths:** <span class="strengths">Great 1v1 combat, ranged attack options, high defenses, Olympiad</span>
 </div>
 
 <hr class="role-divider">
@@ -150,7 +150,7 @@ Other classes that I haven't mentioned are not here because I think they have ni
 <div class="class-card" markdown>
 
 ### Spoiler  
-  Specialist in spoiling monsters for rare items and adena. A must for players looking to fund crafting or economy roles.  
+  Specialist in spoiling monsters for materials. A must for players looking to fund crafting or economy roles.  
     - **Leveling:** Slow  
     - **Strengths:** <span class="strengths">Economy, Item Farming, PvE Utility</span>
 
@@ -159,9 +159,9 @@ Other classes that I haven't mentioned are not here because I think they have ni
 <div class="class-card" markdown>
 
 ### Artisan 
-  Focuses on creating gear, items, and consumables for other players. Spoiler more preferable for newer players.  
+  Focuses on creating gear, items, and consumables for other players and himself. Spoiler more preferable for newer players.  
     - **Leveling:** Slow  
-    - **Strengths:** <span class="strengths">Crafting, Clan Utility, Economy playstyle</span>
+    - **Strengths:** <span class="strengths">Crafting, Economy playstyle</span>
 
 </div>
 
@@ -190,9 +190,9 @@ Other classes that I haven't mentioned are not here because I think they have ni
 <div class="class-card" markdown>
 
 ### Silver Ranger 
-  Fast attack speed with balanced HP and excellent movement speed. Hawkeye more preferable.  
+  Fast attack speed with balanced HP and good movement speed. Hawkeye more preferable.  
     - **Leveling:** Slower  
-    - **Strengths:** <span class="strengths">Attack Speed, Mobility, Kiting</span>
+    - **Strengths:** <span class="strengths">Attack Speed, Mobility</span>
 
 </div>
 
@@ -265,6 +265,5 @@ Other classes that I haven't mentioned are not here because I think they have ni
     - **Leveling:** Slow   
     - **Strengths:** <span class="strengths">Clan Buffs, Ally Support, Mass PvP Utility: Debuffs, Olympiad</span>
 </div>
-
 </div>
 </div>
