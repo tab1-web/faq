@@ -96,21 +96,21 @@ Below you'll find detailed descriptions of all major meta classes, categorized b
 
 <div class="class-card" markdown>
 ### Treasure Hunter
-  Exceptional lethal damage and evasion. Strong in PvE and ambush-style PvP.  
+  Exceptional lethal damage and evasion. Strong in ambush-style PvP.  
     - **Leveling:** Medium  
     - **Strengths:** <span class="strengths">Evasion, Burst Damage, PvP, DM Events</span>
 </div>
 
 <div class="class-card" markdown> 
 ### Abyss Walker 
-  Focuses on stealth and assassination. Balanced offensive capabilities. Treasure Hunter more preferable.  
+  Focuses on assassination, low maximum HP. Balanced offensive capabilities. Treasure Hunter more preferable.  
     - **Leveling:** Medium  
     - **Strengths:** <span class="strengths">Critical Burst, PvP Utility</span>
 </div>
 
 <div class="class-card" markdown> 
 ### Plainswalker 
-  Agile and evasive, specializing in mobility and fast attack speed. Treasure Hunter more preferable.  
+  High evasion, specializing in mobility and fast attack speed. Treasure Hunter more preferable.  
     - **Leveling:** Medium  
     - **Strengths:** <span class="strengths">Evasion, Fast Attacks, Mobility</span>
 </div>
@@ -121,7 +121,7 @@ Below you'll find detailed descriptions of all major meta classes, categorized b
 <div class="class-card" markdown>
 
 ### Tyrant  
-  Versatile brawler class using fist weapons. Combines range skills with powerful close-combat combos.  
+  Versatile PvP brawler class using fist weapons, deadliest on Low HP with Zealot. Combines range skills with powerful close-combat combos.
     - **Leveling:** Medium  
     - **Strengths:** <span class="strengths">HP, Burst Combos, PvE/PvP mix, Olympiad</span>
 
@@ -129,14 +129,14 @@ Below you'll find detailed descriptions of all major meta classes, categorized b
 
 <div class="class-card" markdown>
 ### Titan  
-  High HP and devastating melee attacks. Performs exceptionally in PvE and boss encounters.  
+  High HP and devastating melee attacks. Performs exceptionally in boss encounters. For Solo farm mages are more preferable due to being limited to melee in a large population server with lot of mages.  
     - **Leveling:** Medium  
     - **Strengths:** <span class="strengths">High HP, AoE Damage with Spear, Boss Killer, DM events</span>
 </div>
 
 <div class="class-card" markdown>
 ### Gladiator
-  Skilled dual-sword fighter effective in both PvE and PvP. Strong late-game scaling with balanced melee and ranged abilities.  
+  Skilled dual-sword fighter more effective in PvP. Strong late-game scaling with balanced melee and ranged abilities.  
     - **Leveling:** Slow  
     - **Strengths:** <span class="strengths">Excellent 1v1 combat, ranged attack options, high defenses, Olympiad</span>
 </div>
@@ -188,7 +188,7 @@ Below you'll find detailed descriptions of all major meta classes, categorized b
 <div class="class-card" markdown>
 
 ### Silver Ranger 
-  Agile and fast-shooting, with balanced HP and excellent speed. Hawkeye more preferable.  
+  Fast attack speed with balanced HP and excellent movement speed. Hawkeye more preferable.  
     - **Leveling:** Slower  
     - **Strengths:** <span class="strengths">Attack Speed, Mobility, Kiting</span>
 
@@ -212,25 +212,25 @@ Below you'll find detailed descriptions of all major meta classes, categorized b
 ### Spellsinger  
   Fast-casting water magic specialist. Effective in both PvP and PvP. Sustains HP by Battle Heal.  
     - **Leveling:** Fast   
-    - **Strengths:** <span class="strengths">Casting Speed, PvE Efficiency</span>
+    - **Strengths:** <span class="strengths">Casting Speed, access to AoE</span>
 
 </div>
 
 <div class="class-card" markdown>
 
 ### Sorcerer
-  Fire mage with balanced casting speed and powerful AoE spells. Sustains HP by Battle Heal. Spellsinger more preferable.  
+  Fire mage with balanced casting speed and powerful AoE spells. Sustains HP by Battle Heal. Spellsinger/Spellhowler more preferable.  
     - **Leveling:** Fast  
-    - **Strengths:** <span class="strengths">AoE Damage, Versatility</span>
+    - **Strengths:** <span class="strengths">access to AoE, Versatility</span>
 
 </div>
 
 <div class="class-card" markdown>
 
 ### Spellhowler
-  Dark magic user with slow casting but high magical damage potential. Low Maximum HP.  
+  Dark magic user with slow casting but high magical damage. Low Maximum HP.  
     - **Leveling:** Fast  
-    - **Strengths:** <span class="strengths">PvE beast, great sustain due to Vampiric Claw in trains, Curse Death Link</span>
+    - **Strengths:** <span class="strengths">PvE beast, great sustain due to Vampiric Claw in trains, Curse Death Link, access to AoE</span>
 
 </div>
 
@@ -250,7 +250,7 @@ Below you'll find detailed descriptions of all major meta classes, categorized b
 <div class="class-card" markdown>
 
 ### Warlord  
-  Stunner / Stop party for PvP and Sieges.   
+  Stunner / Stop party for PvP and Sieges. Good for group PvP content. 
     - **Leveling:** Slow  
     - **Strengths:** <span class="strengths">Stun, High HP</span>
 
@@ -259,7 +259,7 @@ Below you'll find detailed descriptions of all major meta classes, categorized b
 <div class="class-card" markdown>
 
 ### Dominator
-  Clan support mage that shines in group play. Not ideal for solo players.   
+  Clan support mage that shines in group play. Not ideal for solo players. Good for group PvP content.   
     - **Leveling:** Slow   
     - **Strengths:** <span class="strengths">Clan Buffs, Ally Support, Mass PvP Utility: Debuffs, Olympiad</span>
 </div>
