@@ -11,6 +11,8 @@ icon: material/clock-time-one-outline
 
 ## Time Tables
 
+## Time Tables
+
 <div class="server-timer">
   <div class="period-header">
     <h3>Server Countdown</h3>
@@ -22,7 +24,25 @@ icon: material/clock-time-one-outline
     </div>
     <div class="period-row">
       <span class="period-label">Time Remaining:</span>
-      <span class="countdown-timer"></span>
+      <span class="countdown-timer main-countdown"></span>
+    </div>
+    <hr>
+        <div class="period-row">
+      <span class="period-label">OBT Start:</span>
+      <span class="opening-time">July 11th at 18:00 UTC</span>
+    </div>
+    <div class="period-row">
+      <span class="period-label">Time Remaining:</span>
+      <span class="countdown-timer beta-test-countdown"></span>
+    </div>
+    <hr>
+        <div class="period-row">
+      <span class="period-label">OBT Event Date:</span>
+      <span class="opening-time">July 13th (Sunday)</span>
+    </div>
+    <div class="period-row">
+      <span class="period-label">Starts In:</span>
+      <span class="countdown-timer beta-event-countdown"></span>
     </div>
   </div>
 </div>
