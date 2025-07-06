@@ -1,7 +1,7 @@
 (function() {
   const OPENING_TIME = new Date(Date.UTC(2025, 6, 18, 18, 0, 0));
   const BETA_TEST_TIME = new Date(Date.UTC(2025, 6, 11, 18, 0, 0));
-  const BETA_EVENT_TIME = new Date(Date.UTC(2025, 6, 13, 0, 0, 0)); // Starts at midnight UTC on the 13th
+  const BETA_EVENT_TIME = new Date(Date.UTC(2025, 6, 13, 0, 0, 0));
   
   function updateTimer() {
     const now = new Date();
@@ -9,7 +9,6 @@
     const betaTestTimeLeft = BETA_TEST_TIME - now;
     const betaEventTimeLeft = BETA_EVENT_TIME - now;
     
-    // Update main server countdown
     if (timeLeft <= 0) {
       document.querySelectorAll('.main-countdown').forEach(el => {
         el.textContent = "SERVER IS ONLINE!";
@@ -33,8 +32,7 @@
         el.textContent = countdownText;
       });
     }
-    
-    // Update beta test countdown
+
     if (betaTestTimeLeft <= 0) {
       document.querySelectorAll('.beta-test-countdown').forEach(el => {
         el.textContent = "BETA TEST IS LIVE!";
@@ -51,7 +49,6 @@
       });
     }
     
-    // Update beta event countdown
     if (betaEventTimeLeft <= 0) {
       document.querySelectorAll('.beta-event-countdown').forEach(el => {
         el.textContent = "BETA EVENT IS LIVE!";

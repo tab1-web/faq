@@ -46,7 +46,7 @@ icon: material/clock-time-one-outline
 </div>
 
 <div class="events-widget">
-    <h3 class="events-title">Event Schedule</h3>
+    <h3 class="events-title">Event Schedules</h3>
     <ul class="events-list">
     </ul>
 </div>
