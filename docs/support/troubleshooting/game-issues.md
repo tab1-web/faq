@@ -85,10 +85,11 @@ Add **Reborn files (l2.exe)** and **folders** are added as **exceptions/exclusio
 <hr>
 
 ## smrt64.exe Error
-Restart your PC.
+Restart your PC. `Error hooking at API ...`
 <figure markdown="span">
 <a href="https://postimg.cc/CB7drC4k">
 ![Smartguard error 10/5](https://i.postimg.cc/L5KfXNYC/dump.png){.lightbox width=80%  }
 </a>
 </figure>
+
 <hr>
