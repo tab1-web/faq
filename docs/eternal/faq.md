@@ -1,10 +1,18 @@
 ---
 icon: material/frequently-asked-questions
-hide:
-  - toc
 ---
 
 # FAQ
+
+## What is a Seasonal Server?
+
+There are 2 servers on Eternal: Main and Seasonal.
+
+Every 6 months (July & January) a new server opens: Seasonal.
+
+After 3 months into the Season, all the characters go to the Main Server.
+
+<hr class="divider">  
 
 ## What is the Adena limit?
 

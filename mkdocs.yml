@@ -49,9 +49,8 @@ theme:
     logo: material/frequently-asked-questions
 
   
-
   font:
-    text: Poppins   
+    text: Poppins
     code: Red Hat Mono
 
   features:
