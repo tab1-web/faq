@@ -5,6 +5,8 @@ search:
 
 ---
 
+
+
 # L2Calc Interlude
 
 <style>
@@ -3778,9 +3780,9 @@ HP:<br>
 
 </table>
 
-<script src='../js/rawdata.js'></script>
-<script src='../js/block.js'></script>
-<script src='../js/disable.js'></script>
-<script src='../js/calculator.js'></script>
-<script src='../js/cookie.js'></script>
-<script src='../js/start.js'></script>
+<script src='/faq/features/js/rawdata.js' defer></script>
+<script src='/faq/features/js/block.js' defer></script>
+<script src='/faq/features/js/disable.js' defer></script>
+<script src='/faq/features/js/calculator.js' defer></script>
+<script src='/faq/features/js/cookie.js' defer></script>
+<script src='/faq/features/js/start.js' defer></script>
