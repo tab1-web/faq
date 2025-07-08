@@ -2,29 +2,33 @@
 icon: material/frequently-asked-questions
 ---
 
+<style>
+h2 {
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+</style>
+
 # FAQ
 
 ## What is a Seasonal Server?
 
-There are 2 servers on Eternal: Main and Seasonal.
+- There are 2 servers on Eternal: **Main** and **Seasonal**.
 
-Every 6 months (July & January) a new server opens: Seasonal.
+- Every 6 months (July & January) a new server opens: Seasonal.
 
-After 3 months into the Season, all the characters go to the Main Server.
-
-<hr class="divider">  
+- After 3 months into the Season, all the characters go to the Main Server.
 
 ## What is the Adena limit?
 
-Around ~2,147,483,647, you can use Gold Bars that are worth 500m Adena.
+- Around ~2,147,483,647, you can use Gold Bars that are worth 500m Adena.
 
-Make sure to be a lot under that number at all times.
+- Make sure to be a lot under that number at all times.
 
-<hr class="divider">
 
 ## Any offline shop infos?
 
-Requirements: **Level 40**.
+- Requirements: **Level 40**.
 
 - You can have unlimited offline shops.
 
@@ -32,5 +36,4 @@ Requirements: **Level 40**.
 
 - Set up an offline shop in a peace zone and **Exit the game**.
 
-<hr class="divider">
 
