@@ -68,22 +68,9 @@ theme:
     - navigation.indexes
     
   palette:
-
-    # Dark Mode
     - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark Mode
       primary: deep purple
-      accent: purple
-
-    # Light Mode
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Light Mode
-      primary: indigo
-      accent: blue
+      accent: deep purple
 
 markdown_extensions:
   - attr_list
