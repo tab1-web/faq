@@ -16,11 +16,9 @@ icon: material/sword
 
 In Lineage 2, combat is between Player vs Environment, (PVE) or Player vs Player (PvP).
 
-When attacking a player while pressing CTRL, or casting good magic on a monster or a Purple Player, your name becomes Purple, which means they can cast de-buffs on you and kill you without becoming a Player Killer.
+When **attacking** a player while pressing **CTRL**, or **casting good magic** on a monster or a **Purple Player**{style="color: purple;"}, your name becomes **Purple**{style="color: purple;"}, which means they can cast de-buffs on you and kill you without becoming a **Player Killer**{style="color: red;"}.
 
-Most people use “flagged” instead of purple naming.
-
-Player Killers or PK-ers, are who kill a “white” named players and will drop items on death from their inventory or equipment when they have 6 or more PK counts. Other players can attack PKers without becoming Purple or PK.
+Most people use **“flagged”**{style="color: purple;"}. instead of **purple naming**{style="color: purple;"}.
 
 ### **Drop Penalty**
 - When you reach a certain PK count, on death you can drop your items while being **Red**{: style="color:red;"}.
