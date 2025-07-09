@@ -25,7 +25,7 @@ So if you were on Account A and wish to log Account B, you must first log-in wit
 </figure>
 </div>
 
-<hr class="divider">
+
 
 ## Server Selection Stuck
 
@@ -35,19 +35,19 @@ So if you were on Account A and wish to log Account B, you must first log-in wit
 ![Server Selection Stuck GIF](https://i.postimg.cc/xjJBW1wK/proxystuck.gif){ width=60% .lightbox }
 </a>
 </figure>
-<hr class="divider">
+
 
 ## Camera Sensitivity
 
 Fine-tune your DPI in your mouse software.
 
-<hr class="divider">
+
 
 ## Tree Flickering
 Put shader to `off` and reflections to sky instead of all.
 Thanks @Csilk 
 
-<hr class="divider">
+
 
 ## Unresponsive Buttons Fix
 This solution fixes the buttons not working for Monster Data / Spoil / Reborn Store etc..
@@ -60,14 +60,14 @@ They're found in: `\Reborn\games\signature\system\`
 ![Buttons Fix Video](https://i.postimg.cc/2SZBt3nb/13Jl6Qc.gif){ width=50% .lightbox }
 </a>
 </figure>
-<hr class="divider">
+
 
 ## Small Texts and Buttons on 4k Monitor
 Enter fullscreen mode, and **lower resolution**.
 
 Sadly **there are no other solutions**. On 2K the buttons are good, beyond that unuseable.
 
-<hr class="divider">
+
 
 ## Event Code 10/5 or 39/1
 This happens when there is either an interruption in your connection and/or an interruption to the SmartGuard service.
@@ -82,7 +82,7 @@ Add **Reborn files (l2.exe)** and **folders** are added as **exceptions/exclusio
 </a>
 </figure>
 
-<hr class="divider">
+
 
 ## smrt64.exe Error
 Restart your PC. `Error hooking at API ...`
@@ -92,4 +92,3 @@ Restart your PC. `Error hooking at API ...`
 </a>
 </figure>
 
-<hr class="divider">

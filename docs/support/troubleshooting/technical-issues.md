@@ -4,7 +4,7 @@ icon: material/monitor-arrow-down
 
 ## General
 
-### Ultimate Fix Summary 
+## Ultimate Fix Summary 
 Try all steps, :white_check_mark: what you've tested, and share your results in [Discord](https://discord.com/invite/l2reborn) if the issue continues :slight_smile:
 
 Please make sure that:
@@ -32,37 +32,37 @@ Additionally try:
 - [ ] Updating your Windows.
 
 
-<hr class="divider">
 
-### Do Linux & MacOS operating systems work?
+
+## Do Linux & MacOS operating systems work?
 :material-close: **Does not work on Reborn servers** – SmartGuard (anti-cheat) only supports Windows 10/11.
 
 :material-close: **M1/M2 Macs (Apple Silicon) are NOT supported.**
 
 :material-check: Only works on **Intel-based Macs** with a Windows partition (via Boot Camp).
 
-<hr class="divider"> 
+ 
 
-### Does Cloud Gaming work?
+## Does Cloud Gaming work?
 **No**, keyboard presses through streaming software don't work.
 
-<hr class="divider">
 
-### Do virtual systems work?
+
+## Do virtual systems work?
 **No**, SmartGuard (anti-cheat) prevents this.
 
-<hr class="divider">
 
-### Does Steam Deck work?
+
+## Does Steam Deck work?
 [Yes, it does.](https://imgur.com/a/fl2vN55) You need to download Windows: [tutorial.](https://youtu.be/yBHzVSDVEqw?si=dX0EqR_q8-1_svqu)
 
 Key remap softwares: [reWASD](https://www.rewasd.com/) or [SWICD](https://youtu.be/07sP60nivXE?si=i2xpPtBbf_f3wIC8)
 
 Thanks for the video @royce6735 !
 
-<hr class="divider">
 
-### Launcher doesn't load
+
+## Launcher doesn't load
 - Upgrade your graphic drivers and restart your computer.
 - If that does not work: **restart your router and computer.**
 
@@ -72,9 +72,9 @@ Thanks for the video @royce6735 !
     </a>
 </figure>
 
-<hr class="divider">
 
-### Discord Permissions Fix
+
+## Discord Permissions Fix
 If you can't see certain discord channels, assign yourself the Origins role.
 
 <figure markdown="span">
@@ -83,16 +83,16 @@ If you can't see certain discord channels, assign yourself the Origins role.
     </a>
 </figure>
 
-<hr class="divider">
 
-### Missing Account on Website
+
+## Missing Account on Website
 Make sure that you are not on the correct Master Account.
 
 - If you are: **Exit the Account** and **clear the cookies** and **refresh**.
 
-<hr class="divider">
 
-### Setup / Windows Installer Fail
+
+## Setup / Windows Installer Fail
 
 [Reinstall .NET frameworks](https://youtu.be/57HbrVq6Ej0?si=uUNFievc5M00opIf&t=105), or enable them in `Turn Windows features on or off`.
 
@@ -102,25 +102,25 @@ Make sure that you are not on the correct Master Account.
     </a>
 </figure>
 
-<hr class="divider">
 
-### How to play Riot's games?
+
+## How to play Riot's games?
 1. Open L2.
 2. Open Riot Launcher.
 3. Exit Vanguard
 4. Click Start on Riot Launcher.
 
-<hr class="divider">
 
-### VPN Recommendation
+
+## VPN Recommendation
 
 [Cloudflare Warp](https://one.one.one.one/)
 
-<hr class="divider">
+
 
 ## SmartGuard fixes
 
-### Invalid SafeAuth
+## Invalid SafeAuth
 
 Save `l2reborn_easylogin.ini` file to Desktop, it contains your passwords.
 
@@ -134,9 +134,9 @@ Save `l2reborn_easylogin.ini` file to Desktop, it contains your passwords.
     </a>
 </figure>
 
-<hr class="divider">
 
-### Client Red Error
+
+## Client Red Error
 Close Updater, delete that file that has problem, re-launch Updater.
 
 <figure markdown="span">
@@ -145,9 +145,9 @@ Close Updater, delete that file that has problem, re-launch Updater.
     </a>
 </figure>
 
-<hr class="divider">
 
-### 0301 CDEF0007
+
+## 0301 CDEF0007
 1. Method 1: Uninstall the Latest Update (for Minor Updates)
 
 2. Open Settings → Press Win + I
@@ -170,9 +170,9 @@ Close Updater, delete that file that has problem, re-launch Updater.
 
 Credit: @mefox_ @abeisede 
 
-<hr class="divider">
 
-### 0301 CDEF0002
+
+## 0301 CDEF0002
 Make sure you have Windows 10/11 and no '[Insider Mode](https://www.microsoft.com/en-us/windowsinsider/leave-program)' or other Beta/[Debug](https://youtu.be/RwwULJe8QNE?si=Hp1c4G2bY8RwDGu-) features enabled.
 [Might require fresh Windows install with formatting PC.](https://youtu.be/OtHZueEZe9s?si=g9VtoAPseIRzo-S1&t=101)
 
@@ -182,28 +182,28 @@ Make sure you have Windows 10/11 and no '[Insider Mode](https://www.microsoft.co
 ![Smartguard error 002](https://i.postimg.cc/KcQMfkKZ/1uweBrL.png){.lightbox width=60%  }
 </a>
 </figure>
-<hr class="divider">
 
-### 0301 0000135 / 0xc0000135
+
+## 0301 0000135 / 0xc0000135
 
 - [ ] Download and Run: [All in One VC Redistributables](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 - [ ] Latest Windows 11 version might not be supported by SmartGuard, wait ~3 days for SmartGuard to catch up or [revert the update.](https://support.microsoft.com/en-us/windows/how-to-uninstall-a-windows-update-c77b8f9b-e4dc-4e9f-a803-fdec12e59fb0#ID0EBF=Windows_11)
 - [ ] You are not missing a file.
 
-<hr class="divider">
 
-### 0301 CDEF001
+
+## 0301 CDEF001
 Disable system's debug mode: [here](https://smart-guard.eu/en/support/game-client/debugger-detected)
 
-<hr class="divider">
 
-### 0301 000001B1
+
+## 0301 000001B1
 
 Try everything from [here](#ultimate-fix-summary)
 
-<hr class="divider">
 
-### 0xc000041d
+
+## 0xc000041d
 Anti-virus is blocking Smartguard
 
 Uninstall the anti-virus (AVG, ESET ...) or add L2Reborn/Smartguard files/folders as Anti-virus Exceptions.
@@ -215,18 +215,18 @@ Antiviruses can disregard exceptions, uninstalling is recommended.
 </a>
 </figure>
 
-<hr class="divider">
 
-### 0xC0000005
+
+## 0xC0000005
 Restart your computer.
 <figure markdown="span">
 <a href="https://postimg.cc/GHTQmBFB">
 ![Smartguard error 05](https://i.postimg.cc/tC2mDW7z/05.png){.lightbox width=90%  }
 </a>
 </figure>
-<hr class="divider">
 
-### 0301 CDEF000 / 0301 C000007B
+
+## 0301 CDEF000 / 0301 C000007B
 
 [Turn Core Isolation off](https://discord.com/channels/622089207028121602/1307133204854997032/1318727734398156810) and restart your PC. 
 
@@ -236,14 +236,14 @@ Restart your computer.
 </a>
 </figure>
 
-<hr class="divider">
 
-### 0301 0000041D
+
+## 0301 0000041D
 It seems like this error comes from new AMI BIOS + Driver updates, roll them back.
 
-<hr class="divider">
 
-### SmartGuard stuck loading
+
+## SmartGuard stuck loading
 Reboot your PC and Router.
 
 - Temporary fix: Use a [VPN](#vpn-recommendation) or Mobile Data to connect. 
@@ -254,12 +254,12 @@ Reboot your PC and Router.
 </a>
 </figure>
 
-<hr class="divider">
 
-# I tried everything from above 
+
+## I tried everything from above 
 
 If you are still having issues after [Ultimate Fix Summary](#ultimate-fix-summary) and the above posts, check out this [page](https://smart-guard.eu/ru/support/game-client) or let us know in the Discord.
 
-<hr class="divider">
+
 
 
