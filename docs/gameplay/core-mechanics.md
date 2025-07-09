@@ -7,22 +7,16 @@ icon: material/nintendo-game-boy
 
 **Lineage II** is a high-fantasy MMORPG where players battle for dominance in a chaotic, war-torn world. Your character is a weapon—forge their strength, ally with clans, and shape history through conquest, politics, and siege warfare.  
 
----
-
 ### :material-sword-cross: **Key Features**  
 - **Class-Driven Combat**: Choose from 5-7 races (Humans, Elves, Orcs, etc.) and 30+ classes with unique skill trees.  
 - **Real-Time PvP & PK System**: Fight players or monsters in fast-paced combat with consequences for aggression.  
 - **Clan Sieges**: Lead epic castle battles for territory control, taxes, and exclusive rewards  
 - **Group-Centric Gameplay**: Buffs and class roles make teamwork essential for survival.  
 
----
-
 ### :material-castle: **Clan Sieges**  
 - **Goal**: Capture castles to control territories, impose taxes, and unlock rare perks.  
 - **Dynamics**: Real-time strategy with siege weapons, clan alliances, and evolving tactics.  
 - **Rewards**: Castle Lords gain Wyvern mounts, crafting monopolies, and political influence.  
-
----
 
 > Your choices write history - conquer alone or rally a clan to dominance.  
 
