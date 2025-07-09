@@ -62,14 +62,26 @@ icon: material/sword
 
 
 ## Levelling Tips
+<div class="grid cards" markdown>
 
 - Skip quests → focus on mob grinding  
 - Save Mana Potions (expensive early)  
 
-- Redeem **Shadow Weapons** at Lv20/40 (Maria/Giran)  
-- Rent B-Grade at Lv52 (Giran Weapons Trader)  
+- At level 20 and 40 class change, go to Maria and redeem your shadow tickets
 
+- At level 52, rent out Shadow B Grade at Weapons Trader
 
+- <figure>
+    [![shadow-b-grade.png](https://i.postimg.cc/4NkMcX5v/shadow-b-grade.png)](https://postimg.cc/Cd7mTT9d)
+    <figcaption>Level 52 Shadow Weapons, and also some higher D and C weapons for Adena</figcaption>
+    </figure>
+
+- <figure>
+    [![shadow-c.png](https://i.postimg.cc/XvB7swZB/shadow-c.png)](https://postimg.cc/gwdWJLHG)
+    <figcaption>Level 20-40 Shadow Weapons</figcaption>
+    </figure>
+
+</div>
 
 ## Max Buff Slot Book Strategy
 
@@ -110,7 +122,6 @@ icon: material/sword
 Comfy way of finding Maria with a click of a Button.
 
 [:material-arrow-right: Macro Tutorial](/faq/gameplay/macro/)
-
 
 
 ## Catacombs / Necropolis levelling
