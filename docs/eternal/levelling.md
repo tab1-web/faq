@@ -35,32 +35,29 @@ h3 {
 }
 </style>
 
+
+
 # Levelling Guide
 
-<div class="quick-tip" markdown>
-  <div class="tip-content" markdown>
+<div class="grid cards" markdown>
+- ### GM Shop & Buffer
 
-### GM Shop & Buffer
+    - **Locate Maria** with these: 
+        - `/target Maria` and `/attack`
+    - Provides buffs, gear, consumables  
 
-- **Locate Maria:** `/target Maria` and `/attack`
+    ### Essential Items
+    - Scroll of Escape  
+    - HP/MP Potions  
+    - Soulshots/Blessed Spiritshots  
 
-- Provides buffs, gear, consumables  
 
-### Essential Items
-- Scroll of Escape  
-- HP/MP Potions  
-- Soulshots/Blessed Spiritshots  
+-    <a href="https://postimg.cc/bSQBGM0r">
+    ![Maria](https://i.postimg.cc/WzKLychG/B42-C14-D0-37-AA-4548-BB3-C-18-BF21-ADD3-A3.png){ .lightbox }
+    </a>
+
 
 </div>
-<div class="tip-image" markdown>
-<a href="https://postimg.cc/bSQBGM0r">
-![Maria](https://i.postimg.cc/WzKLychG/B42-C14-D0-37-AA-4548-BB3-C-18-BF21-ADD3-A3.png){.lightbox }
-</a>
-</div>
-
-</div>
-
-
 
 
 ## Class Changes

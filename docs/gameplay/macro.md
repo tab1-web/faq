@@ -1,6 +1,7 @@
 ---
 icon: material/pen
 ---
+
 # Macros System
 
 ## Overview
@@ -20,7 +21,7 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 <figure markdown>
 
 | Variable       | Description                          |
-|----------------|--------------------------------------|
+|-|--|
 | `%target`      | Displays name of current target      |
 | `%self`        | Displays your character's name       |
 | `%pet`         | Displays your pet's name             |
@@ -52,7 +53,7 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 <figure markdown="span" markdown>
 
 | Prefix | Channel       |
-|--------|---------------|
+|--||
 | `#`    | Party chat    |
 | `@`    | Clan chat     |
 | `$`    | Alliance chat |
@@ -69,7 +70,7 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 
 - Example: `/useshortcut 1 3` uses slot 3 in container 1
 
----
+
 
 **Forced Shortcut:**
 
@@ -77,7 +78,7 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 
 - Equivalent to Ctrl+Click on the shortcut
 
----
+
 
 ## Skill Commands
 
@@ -87,7 +88,7 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 
 - Example: `/useskill Windstrike`
 
----
+
 
 **Forced Skill Use:**
 
@@ -95,7 +96,7 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 
 - Equivalent to Ctrl+Click on the skill
 
----
+
 
 <figure markdown="span">
     <a href="https://postimg.cc/XZzyMJ5K">
