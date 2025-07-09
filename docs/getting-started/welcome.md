@@ -13,7 +13,6 @@ It started in 2019 October 31 by a group of enthusiasts with the goal of providi
 
 **First time playing?** Here's everything you need to get started:
 
-<hr>
 
 ## :material-download: Install
 1. [Install the Launcher](https://l2reborn.org/installer)
@@ -30,7 +29,6 @@ If there's an issue during the Download, try restarting your Router, or use Mobi
 
 For any other issue, please refer to the [Help & Support page](/faq/General/TechnicalIssues/outside/#general).
 
-<hr>
 
 ## :fontawesome-solid-user: Account Registration
 
@@ -50,7 +48,6 @@ Referral codes **are not implemented** at the moment.
     </a>
 </figure>
 
-<hr>
 
 ## :material-login: Login
 
@@ -83,8 +80,6 @@ If nothing happens after you pressed **“OK”**, you might have taken too long
 
 - Try another proxy by going into the login menu again.
 
-<hr>
-
 
 ## :material-sword-cross: You are all set!
 
@@ -107,7 +102,6 @@ Check out my other guides and [rules](../support/rules.md) for navigating around
 
 **Good luck & have fun!**
 
-<hr>
 
 
 

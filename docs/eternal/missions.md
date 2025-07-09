@@ -4,13 +4,19 @@ hide:
   - toc
 ---
 
-
+<style>
+hr {
+    border-bottom: 2px solid var(--md-primary-fg-color);
+    border-top: 2px solid var(--md-primary-fg-color);
+    background-color: var(--md-primary-fg-color);
+}
+</style>
 # Missions
 <div class="grid cards" markdown>
 
 - :material-format-font:{ .lg .middle } __Requirements__
     
-    <hr class="divider">
+    <hr>
 
     Missions require you to be **Level 76**, if you do the given tasks, you can claim the rewards in the Daily Missions window.
 
@@ -26,7 +32,7 @@ hide:
 
 - :octicons-sun-16: __Daily Tasks__{ .lg .middle }
 
-    <hr class="divider">
+    <hr>
 
     | Task | Reward |
     |------|--------|
@@ -40,7 +46,7 @@ hide:
 
 - :simple-task: __Weekly Tasks__{ .lg .middle }
 
-    <hr class="divider">
+    <hr>
 
     | Task | Reward |
     |------|--------|

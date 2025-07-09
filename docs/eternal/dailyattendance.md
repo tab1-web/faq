@@ -5,7 +5,9 @@ hide:
 ---
 <style>
 hr {
-    background-color: var(--md-primary-fg-color)
+    border-bottom: 2px solid var(--md-primary-fg-color);
+    border-top: 2px solid var(--md-primary-fg-color);
+    background-color: var(--md-primary-fg-color);
 }
 </style>
 # Daily Attendance

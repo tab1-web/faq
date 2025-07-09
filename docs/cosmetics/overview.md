@@ -29,20 +29,17 @@ icon: octicons/info-16
         - Time & Date of payment
         - Full donation description (*e.g., "Purchased Bounty Hunter items for character 'Bob'"*)
 
----
 
 ## Common Mistakes
 - Incorrect server/character details → [open a support ticket.]((https://l2reborn.org/support/))
 - Missing transaction info → delays in resolving issues.
 - Logged in to the wrong master account.
 
-<hr>
 
 ## :material-eye-off: Hide Cosmetics
 - To turn off suits: `.visualequip`
 
 - To turn off cloaks: Go into **Gameplay Settings** and **Do not show cloaks**.
-<hr>
 
 ## :fontawesome-solid-money-bills: Payment Methods
 Paypal is not available, you can pay with [(here)](https://l2reborn.org/balance/):
@@ -54,7 +51,6 @@ Paypal is not available, you can pay with [(here)](https://l2reborn.org/balance/
 ![Payment Methods](https://i.postimg.cc/DfQ2BPVt/payment-methods.png){: style="transform: scale(0.8);" .lightbox }
 </a>
 
-<hr>
 
 ## Hair & Color / Face Change
 
@@ -64,7 +60,6 @@ You can either buy it from the [Website's Shop](https://l2reborn.org/reborn-shop
   [Images](https://legacy-lineage2.com/guide/appearance_hair_colors.html){.md-button}
 </figure>
 
-<hr>
 
 ## :material-glass-wine: 1 Year Package VIP
 The Package includes:
@@ -85,6 +80,5 @@ The Package includes:
 </a>
 </figure>
 
-<hr>
 
 

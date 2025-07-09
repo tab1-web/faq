@@ -19,7 +19,6 @@ Unable to login after too many tries / not getting e-mail for authentication. (c
 Thank you.
 ```
 
-<hr>
 
 ## Forgot Password
 
@@ -43,7 +42,6 @@ Or
 
 - Send an e-mail to **info@l2reborn.org**, include all **identifiable information & issue**.
 
-<hr>
 
 ### Forgot In-Game Account Password
 
@@ -58,7 +56,6 @@ Or
     </a>
 </figure>
 
-<hr>
 
 ## Recent Installation
 
@@ -79,5 +76,5 @@ If you have downloaded from **MEGA, Google Drive, Medafire etc...**
 </figure>
 
 
-<hr>
+
 
