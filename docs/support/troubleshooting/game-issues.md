@@ -82,7 +82,18 @@ Add **Reborn files (l2.exe)** and **folders** are added as **exceptions/exclusio
 </a>
 </figure>
 
+## Critical Error on Server Selection
 
+1. Your game is outdated → **Run the "Repair" option** in your game launcher.
+2. Server is slow to update → If others on Discord report the same issue, wait for the GMs to fix it.
+
+### Still having Trouble?
+- Check the Discord for updates.
+- If only you are affected, repairing the client should help!
+
+<figure markdown="span">
+[![crit-error-server-select.png](https://i.postimg.cc/wjrBdqSm/crit-error-server-select.png){ .lightbox width=50% }](https://postimg.cc/PCmHWjfX)
+</figure>
 
 ## smrt64.exe Error
 Restart your PC. `Error at hooking API ...`
