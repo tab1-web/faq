@@ -12,8 +12,6 @@ Below you'll find descriptions of all major meta classes, categorized by role. E
 
 Other classes that I haven't mentioned are not here because I think they have niche uses or I wouldn't recommend them to a new player.
 
-<hr class="role-divider">
-
 <div class="meta-classes-section" markdown>
 
 ## :material-knife: Daggers

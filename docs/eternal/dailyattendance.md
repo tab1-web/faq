@@ -3,7 +3,11 @@ icon: material/calendar
 hide:
   - toc
 ---
-
+<style>
+hr {
+    background-color: var(--md-primary-fg-color)
+}
+</style>
 # Daily Attendance
 
 <div class="grid cards" markdown>

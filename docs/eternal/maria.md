@@ -9,7 +9,7 @@ hide:
 <div class="grid cards" markdown>
 - ## Shop Menu
 
-    <hr class="divider">
+    
 
     <figure markdown>
     [![gmshop.png](https://i.postimg.cc/Dfj1nSNn/gmshop.png){ width=50% }](https://postimg.cc/yWRDT8Bb)
@@ -20,7 +20,7 @@ hide:
 
 - ## Buff Menu
 
-    <hr class="divider">
+    
 
     <figure markdown>
     [![1-C20-B8-F1-74-A9-4-BA8-BEC6-7-E5851-A271-E1.png](https://i.postimg.cc/FRV30b38/1-C20-B8-F1-74-A9-4-BA8-BEC6-7-E5851-A271-E1.png){ width=50% }](https://postimg.cc/9RzDh7xY)
@@ -29,7 +29,7 @@ hide:
 
 - ## Services Menu
 
-    <hr class="divider">
+    
 
     <figure markdown>
     [![services.png](https://i.postimg.cc/tRhDqPcK/services.png){ width=70% }](https://postimg.cc/hhtVMJcs)
@@ -38,7 +38,7 @@ hide:
 
 - ## Teleport Menu
 
-    <hr class="divider">
+    
     <figure markdown>
     [![teleport.png](https://i.postimg.cc/HnhbZYnC/teleport.png){ width=60% }](https://postimg.cc/0K76rq7t)
     <figcaption>Valakas: Upper FoG (Beatles) Teleport, <br> Frintezza: Imperial Tomb Entrance Teleport </figcaption>
@@ -48,7 +48,7 @@ hide:
 
 
 
-<hr class="divider">
+
 
 # GM Shop Exchanges
 
