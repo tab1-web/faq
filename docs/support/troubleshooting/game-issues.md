@@ -91,9 +91,17 @@ Add **Reborn files (l2.exe)** and **folders** are added as **exceptions/exclusio
 - Check the Discord for updates.
 - If only you are affected, repairing the client should help!
 
-<figure markdown="span">
-[![crit-error-server-select.png](https://i.postimg.cc/wjrBdqSm/crit-error-server-select.png){ .lightbox width=50% }](https://postimg.cc/PCmHWjfX)
-</figure>
+<div class="grid cards" markdown>
+- <figure markdown="span">
+    [![crit-error-server-select.png](https://i.postimg.cc/wjrBdqSm/crit-error-server-select.png){ .lightbox }](https://postimg.cc/PCmHWjfX)
+    </figure>
+
+- <figure markdown="span">
+    [![updateclient.png](https://i.postimg.cc/6Qjk5Y0y/updateclient.png){ .lightbox }](https://postimg.cc/cK39F7PS)
+    <figcaption>Repairing the Game</figcaption>
+    </figure>
+</div>
+
 
 ## smrt64.exe Error
 Restart your PC. `Error at hooking API ...`
