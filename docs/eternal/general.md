@@ -467,6 +467,8 @@ Remove buffs from your character
 <figure markdown="span">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1222530409&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-299123333" title="DistritoMMO" target="_blank" style="color: #cccccc; text-decoration: none;">DistritoMMO</a> · <a href="https://soundcloud.com/user-299123333/sets/lineage-2" title="Lineage 2" target="_blank" style="color: #cccccc; text-decoration: none;">Lineage 2</a></div>
 
+    <hr class="divider">
+
     <a href="https://postimg.cc/nssvvRK0">
         ![Hero](https://i.postimg.cc/W48XcxdL/catsitting.gif){ .lightbox width=50% }
     </a> 
