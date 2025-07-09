@@ -13,10 +13,6 @@ hide:
 
 # Reborn Server List
 
-<figure markdown="span">
-<h2>No P2W - No Dualbox - No Wipes</h2>
-</figure>
-
 <div class="grid cards" markdown>
 - ## :material-server: Signature x1 (C4 - IL)
     **Progressive Server (Older Chronicles)**
@@ -123,7 +119,7 @@ hide:
     </figure>
 
 - <figure markdown="span">
-    <h2 style="padding: 0; margin: 9px 0;">Soon :material-trademark:</h2> <br> <br> <br> <br> <br> <br>
+    <h2 style="padding: 0; margin: 0 0 9px 0;">Soon :material-trademark:</h2> <br> <br> <br> <br> <br> <br>
     </figure>
     <a href="https://postimg.cc/MXnQWZL4">
     ![banner8](https://i.postimg.cc/593qS6Sx/banner8pvp.png){ .lightbox }

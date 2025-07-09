@@ -29,6 +29,7 @@ Additionally try:
     - [Here's how to play League with L2](https://postimg.cc/9whF6rPR)
 - [ ] Deleting your **system folder** and **repairing your files**.
 - [ ] **Disabling all overlay extensions**: Discord, Overwolf etc..
+- [ ] Updating your Windows.
 
 
 <hr>

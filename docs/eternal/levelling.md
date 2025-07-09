@@ -28,7 +28,11 @@ icon: material/sword
   max-width: 150px;
   border-radius: 4px;
 }
-  
+h2, h3 {
+    background: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    text-align: center;
+}
 </style>
 
 # Levelling Guide
@@ -56,13 +60,13 @@ icon: material/sword
 </div>
 
 
-<hr class="divider">
+
 
 ## Class Changes
 - **Free** 1st & 2nd class changes  
 - Access via medal icon (bottom-right corner)  
 
-<hr class="divider">
+
 
 ## Levelling Tips
 
@@ -72,7 +76,7 @@ icon: material/sword
 - Redeem **Shadow Weapons** at Lv20/40 (Maria/Giran)  
 - Rent B-Grade at Lv52 (Giran Weapons Trader)  
 
-<hr class="divider">
+
 
 ## Max Buff Slot Book Strategy
 
@@ -89,21 +93,21 @@ icon: material/sword
 
 > Learn at your class trainer, unlock them in order (Original needs Modern)
 
-<hr class="divider">
+
 
 ## Spending Priority
 1. **Weapons** (highest impact)  
 2. Armor/Gear  
 3. Dyes (Maria's Shop)  
 
-<hr class="divider">
+
 
 ## Progression Boosters
 - Vote for higher rates → [Voting Guide](/faq/getting-started/welcome/#you-are-all-set)  
 - Avoid pet leveling ( inefficient )  
     - Buy **Strider** for mobility ( if you really need it )
 
-<hr class="divider">
+
 
 ## Maria Macro
 ```bash
@@ -114,7 +118,7 @@ Comfy way of finding Maria with a click of a Button.
 
 [:material-arrow-right: Macro Tutorial](/faq/gameplay/macro/)
 
-<hr class="divider">
+
 
 ## Catacombs / Necropolis levelling
 
@@ -123,7 +127,7 @@ Comfy way of finding Maria with a click of a Button.
     - At beginning of the dungeons, you can see an NPC named `Ziggurat` pick up both quests.
     - [Ancient Scrolls can be exchanged.](https://lineage2wiki.org/interlude/monster/31113/merchant-of-mammon/)
     - [Dimensional Fragments](https://lineage2wiki.org/interlude/item/7079/dimensional-fragment/) are used for getting access to hunt monsters for Lifestones in [Hero Rift](https://lineage2wiki.org/c4/patch-notes/#dimensional_rift)
-    - Half of the monsters in each room in the dungeons give [Seal Stones](https://lineage2wiki.org/interlude/item/6362/red-seal-stone/), you can exchange these at at your Priest for [Ancient Adena](https://lineage2wiki.org/interlude/item/5575/ancient-adena/) these can be sold to Players or Exchanged for Strong Dyes along with Ancient Scrolls or buying [Gemstones](https://lineage2wiki.org/interlude/item/in-recipe/2134/gemstone-s/) for crafting. 
+    - Half of the monsters in each room in the dungeons give [:material-gold: Seal Stones](https://lineage2wiki.org/interlude/item/6362/red-seal-stone/), you can exchange these at at your Priest for [:material-gold: Ancient Adena](https://lineage2wiki.org/interlude/item/5575/ancient-adena/) these can be sold to Players or Exchanged for Strong Dyes along with Ancient Scrolls or buying [:material-gold: Gemstones](https://lineage2wiki.org/interlude/item/in-recipe/2134/gemstone-s/) for crafting. 
 - You can register at Priest of Dawn or Dusk in Giran.
     - (Remember `/target Dawn` or `/target Dusk` to find them)
     - Register for Dawn when castles are taken by Clans. (Castle Owners can only register to Dawn)
@@ -150,7 +154,7 @@ Comfy way of finding Maria with a click of a Button.
 
 </figure>
 
-<hr class="divider">
+
 
 ## Leveling Zones
 
@@ -164,7 +168,7 @@ Comfy way of finding Maria with a click of a Button.
     - Kill outside, inside, or on mountain lines
     - ⚠️ Might be crowded on launch
 
-<hr class="divider">
+
 
 ### Levels 23-33
 - **23-30**: Partisan's Hideaway - Dion
@@ -176,7 +180,7 @@ Comfy way of finding Maria with a click of a Button.
     - Higher HP mobs deeper inside
     - ⚠️ Tough & crowded area
 
-<hr class="divider">
+
 
 ### Levels 38-51
 - **38-40**: Alligator Island - Heine
@@ -185,7 +189,7 @@ Comfy way of finding Maria with a click of a Button.
     - Sea of Spores - Oren
     - Higher HP mobs in Cruma Tower
 
-<hr class="divider">
+
 
 ### Levels 46-55
 - **46-50**: Tanor Canyon - Dion
@@ -195,21 +199,21 @@ Comfy way of finding Maria with a click of a Button.
     - Great AoE place inside the towers
 - **50-55**: Cemetary - Aden
 
-<hr class="divider">
+
 
 ### Levels 53-63
 - **53-63**: Frozen Labyrinth - Schuttgart
     - [:fontawesome-solid-scroll: An Ice Merchant's Dream Quest](https://lineage2wiki.org/interlude/quest/648/an-ice-merchants-dream/)
     - Great for Adena + Materials farming
 
-<hr class="divider">
+
 
 ### Levels 54-60
 - **54-60**: Skyshadow Meadow - Oren
     - Grouped mobs
     - [:fontawesome-solid-scroll: Warehouse Keeper's Pastime Quest](https://lineage2wiki.org/interlude/quest/384/warehouse-keepers-pastime/)
 
-<hr class="divider">
+
 
 ### Levels 55-70
 - **55-70**: Giant's Cave - Aden
@@ -218,7 +222,7 @@ Comfy way of finding Maria with a click of a Button.
 - **55-66**: Forsaken Plains - Aden
 - **55-64**: Fields of Massacre - Aden
 
-<hr class="divider">
+
 
 ### Levels 60-75
 - **60-75**: 
@@ -226,30 +230,30 @@ Comfy way of finding Maria with a click of a Button.
     - Tower of Insolence - Aden
     - Higher HP mobs
 
-<hr class="divider">
+
 
 ### Levels 60-67
 - **60-67**: Valley of Saints - Rune
     - [:fontawesome-solid-scroll: Heart in Search of Power Quest](https://lineage2wiki.org/interlude/quest/627/heart-in-search-of-power/)
     - ⚠️ Might be crowded
     - **Recipe Drops**:
-        - Punishment Of Splendor: DC Gloves (0.05%)
-        - Pilgrim Of Splendor: DC Gloves (0.05%)
-        - Wailing Of Splendor: TL Gloves (0.07%)
-        - Alliance Of Splendor: DC Robe (Spoil 0.3%)
-        - Judge Of Splendor: DC Gloves (0.07%)
+        - [:material-drama-masks: Punishment Of Splendor](https://lineage2wiki.org/interlude/monster/21531/punishment-of-splendor/): DC Gloves (0.05%)
+        - [:material-drama-masks: Pilgrim Of Splendor](https://lineage2wiki.org/interlude/monster/21541/pilgrim-of-splendor/): DC Gloves (0.05%)
+        - [:material-drama-masks: Wailing Of Splendor](https://lineage2wiki.org/interlude/monster/21539/wailing-of-splendor/): TL Gloves (0.07%)
+        - [:material-drama-masks: Alliance Of Splendor](https://lineage2wiki.org/interlude/monster/21533/alliance-of-splendor/#spoils): DC Robe (Spoil 0.3%)
+        - [:material-drama-masks: Judge Of Splendor](https://lineage2wiki.org/interlude/monster/21544/judge-of-splendor/): DC Gloves (0.07%)
 
-<hr class="divider">
+
 
 ### Levels 63-69
 - **63-69**: Beast Farm - Rune
     - Good A-grade recipe spoils
     - Feed animals with food from nearby NPCs to evolve them
     - **Recipe Locations**:
-        - DC Helmet: [Alpen Buffalo](https://lineage2wiki.org/interlude/monster/21488/alpen-buffalo/#spoils)
-        - DC Boots: [Alpen Buffalo](https://lineage2wiki.org/interlude/item/spoil/5368/recipe-sealed-dark-crystal-boots-60/)
-        - Tallum Helmet: [Alpen Buffalo](https://lineage2wiki.org/interlude/monster/21487/alpen-buffalo/)
-        - Tallum Boots: [Alpen Kookaburra](https://lineage2wiki.org/interlude/monster/21468/alpen-kookaburra/)
+        - DC Helmet: [:material-drama-masks: Alpen Buffalo](https://lineage2wiki.org/interlude/monster/21488/alpen-buffalo/#spoils)
+        - DC Boots: [:material-drama-masks: Alpen Buffalo](https://lineage2wiki.org/interlude/item/spoil/5368/recipe-sealed-dark-crystal-boots-60/)
+        - Tallum Helmet: [:material-drama-masks: Alpen Buffalo](https://lineage2wiki.org/interlude/monster/21487/alpen-buffalo/)
+        - Tallum Boots: [:material-drama-masks: Alpen Kookaburra](https://lineage2wiki.org/interlude/monster/21468/alpen-kookaburra/)
 
 - **63-69**: Forest of the Dead - Rune
     - **Hiding Behind the Truth Quest Chain** (B Grade Jewels):
@@ -268,21 +272,21 @@ Comfy way of finding Maria with a click of a Button.
 
     - [:fontawesome-solid-scroll: Necromancer's Request Quest](https://lineage2wiki.org/interlude/quest/632/necromancers-request/)
 
-<hr class="divider">
+
 
 ### Levels 64-70
 - **64-70**: Ancient Battleground - Aden
     - [:fontawesome-solid-scroll: Seductive Whispers Quest](https://lineage2wiki.org/interlude/quest/663/seductive-whispers/)
         - Gambling-style quest (requires 50 beads to play)
 
-<hr class="divider">
+
 
 ### Levels 65-75
 - **65-75**: Blazing Swamp - Rune
     - [:fontawesome-solid-scroll: Supplier of Reagents Quest](https://lineage2wiki.org/interlude/quest/373/supplier-of-reagents/)
         - Required for Subclass + Noblesse advancement
 
-<hr class="divider">
+
 
 ### Levels 66-74
 - **66-74**: Swamp of Screams - Rune
@@ -290,13 +294,13 @@ Comfy way of finding Maria with a click of a Button.
         - Only Part 1 required
     - [:fontawesome-solid-scroll: The Zero Hour Quest](https://lineage2wiki.org/interlude/quest/640/the-zero-hour/)
 
-<hr class="divider">
+
 
 ### Levels 68-75
 - **68-75**: Wall of Argos - Goddard
     - Spoils for SOP & A-Grade Key Materials
 
-<hr class="divider">
+
 
 ### Levels 73-76
 - **73-76**: Hot Springs - Goddard
@@ -304,10 +308,10 @@ Comfy way of finding Maria with a click of a Button.
         - [:fontawesome-solid-scroll: Egg Delivery](https://lineage2wiki.org/interlude/quest/621/egg-delivery/)
         - [:fontawesome-solid-scroll: Special Liquor Delivery](https://lineage2wiki.org/interlude/quest/622/specialty-liquor-delivery/)
         - [:fontawesome-solid-scroll: The Finest Ingredients - Part 1](https://lineage2wiki.org/interlude/quest/624/the-finest-ingredients-part-1/)
-            - Requires [1x Ice Crystal](https://lineage2wiki.org/interlude/item/7080/ice-crystal/) per 3rd class quest
-            - Duelists additionally need [1x Top Quality Meat](https://lineage2wiki.org/interlude/quest/631/delicious-top-choice-meat/)
+            - Requires [:material-gold: 1x Ice Crystal](https://lineage2wiki.org/interlude/item/7080/ice-crystal/) per 3rd class quest
+            - Duelists additionally need [:material-gold: 1x Top Quality Meat](https://lineage2wiki.org/interlude/quest/631/delicious-top-choice-meat/)
 
-<hr class="divider">
+
 
 ### Levels 74-85
 - **74-85**: Silent Valley - Aden
@@ -321,7 +325,7 @@ Comfy way of finding Maria with a click of a Button.
         - [:fontawesome-solid-scroll: War with Varka Silenos](https://lineage2wiki.org/interlude/quest/606/war-with-varka-silenos/)
         - Must kill opposing faction's mobs
 
-<hr class="divider">
+
 
 ### Levels 78-85
 - **78-85**: Forge of the Gods - Goddard
@@ -344,7 +348,7 @@ Comfy way of finding Maria with a click of a Button.
     - [:fontawesome-solid-scroll: Rise and Fall of the Elroki Tribe Quest](https://lineage2wiki.org/interlude/quest/643/rise-and-fall-of-the-elroki-tribe/)
     - Included in the missions as well
 
-<hr class="divider">
+
 
 ### Quest Exchanges
 
@@ -402,13 +406,13 @@ Comfy way of finding Maria with a click of a Button.
 
 </div>
 
-Do [Noblesse](/faq/gameplay/progression/noblesse/) and [Subclass Quests](/faq/gameplay/progression/subclasses/) as soon as possible, they are major milestones in your character's progression. Common misconception is that subclass quests give some sort of passive or active skills for Main Class, they don't in Interlude.
+Do [:fontawesome-solid-scroll: Noblesse Quest](/faq/gameplay/progression/noblesse/) and [:fontawesome-solid-scroll: Subclass Quests](/faq/gameplay/progression/subclasses/) as soon as possible, they are major milestones in your character's progression. Common misconception is that subclass quests give some sort of passive or active skills for Main Class, they don't in Interlude.
 
 For Subclass Quest, you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon, you can skip that part for later.
 
 For Noblesse Quest on Barakiel, you can earn fragments of the staff by hitting Barakiel once. Earn 15 fragments and turn it into the full Staff to progress the quest. Make sure to not die and be close to the boss. 
 
-<hr class="divider">
+
 
 ## 3rd Class Quests
 
