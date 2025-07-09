@@ -95,3 +95,18 @@ icon: fontawesome/regular/chess-knight
 | Atk. Range    | Attack Range    |
 
 </figure>
+
+## Character Progression
+
+As you level up you unlock better skills and equipment. Class changes are important, and you should do them when you can. It enables you to essentially specialize your skills and role.
+
+<figure markdown>
+| Level  | Grade  | Notes                          |
+|--------|--------|--------------------------------|
+| 0+     |No-Grade| Basic starter equipment        |
+| 20+    | D      | Low-tier equipment, <br> **First Class Change**{style="color:rgb(107, 103, 223); font-weight: bold;"}             |
+| 40+    | C      | Mid-tier equipment, <br> **Second Class Change**{style="color:rgb(107, 103, 223); font-weight: bold;"}             |
+| 52+    | B      | Advanced equipment             |
+| 61+    | A      | High-end gear                  |
+| 76+    | S      | Endgame gear, <br> **Third Class Change**{style="color:rgb(107, 103, 223); font-weight: bold;"}          |
+</figure>
