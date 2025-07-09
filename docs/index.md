@@ -31,6 +31,11 @@ You can search on the website in the top right corner and you can also search th
 </div>
 
 ## Credits
+- **:material-crown: Tabi**{style="color:rgb(107, 103, 223); font-weight: bold;"} 
+
+    Website Design & Development
+
+
 - **:material-crown: Jade Ink**{style="color: #00bb77; font-weight: bold;"}
     
     Thanks to Jade Ink for simplifying and enhancing portions of the document. :slight_smile:
