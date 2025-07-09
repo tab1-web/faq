@@ -28,11 +28,6 @@ icon: material/sword
   max-width: 150px;
   border-radius: 4px;
 }
-h3 {
-    background: rgba(0, 0, 0, 0.2);
-    padding: 10px;
-    text-align: center;
-}
 </style>
 
 
