@@ -1,43 +1,132 @@
-.md-top {
-    background-color: var(--md-primary-fg-color);
-    color: white;
-}
-.task-list-indicator:hover {
-    cursor: pointer;
+:root {
+    /* Custom color variables */
+    --md-primary-fg-color: #3f51b5;
+    --md-primary-fg-color--light: #757de8;
+    --md-primary-fg-color--dark: #002984;
+    --md-accent-fg-color: #ff4081;
+    --md-accent-fg-color--transparent: rgba(255, 64, 129, 0.1);
 }
 
+/* Header styles */
+.md-header {
+}
 
+/* Table styles */
 .md-typeset table:not([class]) {
-    font-size: 0.8rem;
-    line-height: 1.4;
+    font-size: 0.75rem;
+    line-height: 1.6;
+    border-radius: 0.25rem;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+    margin: 1.5em auto;
+    width: 95%;
 }
 
 .md-typeset table:not([class]) th {
     background-color: rgba(0,0,0,0.2);
+    color: white;
     font-weight: 600;
+    padding: 0.75em 1em;
 }
 
 .md-typeset table:not([class]) td {
     vertical-align: middle;
-    padding: 0.5em 1em;
+    padding: 0.6em 1em;
+    border-bottom: 1px solid rgba(0,0,0,0.07);
 }
 
-.md-typeset table:not([class]) tr:nth-child(odd) {
+.md-typeset table:not([class]) tr:nth-child(even) {
+    background-color: rgba(0,0,0,0.03);
+}
+
+.md-typeset table:not([class]) tr:hover {
     background-color: rgba(0,0,0,0.05);
 }
 
-.md-typeset .role-divider, .divider {
-  height: 1px;
-  background: linear-gradient(90deg, transparent, var(--md-primary-fg-color), transparent);
-  margin: 2rem 0;
-  border: none;
+/* Heading styles */
+.md-typeset h1 {
+    display: block;
+    color: var(--md-primary-fg-color);
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--md-primary-fg-color);
 }
 
-h2, h3 {
-    background: rgba(0, 0, 0, 0.4) !important;
-    padding: 10px !important;
+.md-typeset h2 {
+    background: linear-gradient(90deg, var(--md-primary-fg-color), transparent);
+    color: white;
+    padding: 0.75rem 1rem;
+    border-radius: 0.25rem;
+    margin: 2rem 0 1.5rem 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-h1 {
-  display: none;
+.md-typeset h3 {
+    color: var(--md-primary-fg-color);
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    margin: 1.75rem 0 1rem 0;
+}
+
+.md-typeset h4 {
+    color: var(--md-primary-fg-color--dark);
+    font-weight: 500;
+    margin: 1.5rem 0 0.75rem 0;
+}
+
+/* Divider styles */
+.md-typeset .role-divider, 
+.md-typeset .divider {
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--md-primary-fg-color), transparent);
+    margin: 2.5rem 0;
+    border: none;
+}
+
+/* Code block styles */
+.md-typeset pre {
+    border-radius: 0.25rem;
+    border-left: 4px solid var(--md-primary-fg-color);
+}
+
+.md-typeset code {
+    border-radius: 0.15rem;
+    padding: 0.1em 0.2em;
+    background-color: var(--md-accent-fg-color--transparent);
+}
+
+/* Link styles */
+.md-typeset a {
+    color: var(--md-primary-fg-color);
+    text-decoration: underline;
+}
+
+.md-typeset a:hover {
+    color: var(--md-accent-fg-color);
+    text-decoration: underline;
+}
+
+/* Button styles */
+.md-typeset .task-list-indicator:hover {
+    cursor: pointer;
+    color: var(--md-accent-fg-color);
+}
+
+/* Navigation styles */
+.md-nav__link--active {
+    color: var(--md-accent-fg-color);
+    font-weight: 600;
+}
+
+.md-nav__link:hover {
+    color: var(--md-primary-fg-color--light);
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 76.1875em) {
+    .md-nav--primary .md-nav__title {
+        background-color: var(--md-primary-fg-color);
+        color: white;
+    }
 }
