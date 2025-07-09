@@ -28,6 +28,9 @@ icon: fontawesome/regular/chess-knight
     </figure>
 
 </div>
+<figure markdown>
+[![0-Q1v-F8x-Imgur.gif](https://i.postimg.cc/8C5NZRrR/0-Q1v-F8x-Imgur.gif)](https://postimg.cc/PCBgx8yJ)
+</figure>
 
 ## Monster and Character Stats
 
@@ -98,7 +101,7 @@ icon: fontawesome/regular/chess-knight
 
 ## Character Progression
 
-As you level up you unlock better skills and equipment. Class changes are important, and you should do them when you can. It enables you to essentially specialize your skills and role.
+As you level up you are able to get **better skills** and **equipment**. **Class changes are important**{style="color: red;"}, and you should do them when you can. It enables you to essentially **specialize your skills**{style="color: blue;"} and role.
 
 <figure markdown>
 | Level  | Grade  | Notes                          |
@@ -110,3 +113,45 @@ As you level up you unlock better skills and equipment. Class changes are import
 | 61+    | A      | High-end gear                  |
 | 76+    | S      | Endgame gear, <br> **Third Class Change**{style="color:rgb(107, 103, 223); font-weight: bold;"}          |
 </figure>
+
+<figure markdown>
+
+You can look up on the <a href="https://www.lineage2wiki.com/">wiki</a> certain items, materials, monsters, classes. 
+
+For Eternal choose Interlude or (IL), For Signature use (C4)
+
+[![LWUpb-DZ-Imgur.gif](https://i.postimg.cc/7ZHBzXpN/LWUpb-DZ-Imgur.gif){width=70%}](https://postimg.cc/qzFXVcBt)
+<figcaption>Small Video of the Wiki</figcaption>
+</figure>
+
+## Soulshots
+
+Spiritshots are consumables used mostly by Wizards and Soulshots used mostly by Fighters. They give you effects based on what you enable for your weapon. 
+
+**"Right click"** on hotbar to automatically enable. On **Eternal**, you don't have to drag it onto your inventory, just right click it above the hotbar in the top left corner.
+
+| Name                | Condition | Effect                                                                 |
+|---------------------|-----------|-----------------------------------------------------------------------|
+| Blessed Spiritshots | Spell     | 2x damage – Higher chance for successful debuff. Increased casting speed. |
+| Spiritshots         | Spell     | 1.4x damage – Bit lower chance for debuff. Increased casting speed.      |
+| Soulshots           | Attack    | 2x damage on melee hits.                                               |
+
+To get them you can acquire no grade [soulshots](https://lineage2wiki.com/c4/item/quest/5789/soulshot-no-grade-for-novices/) / [spiritshots](https://lineage2wiki.org/c4/item/quest/5790/spiritshot-no-grade-for-novices/) in the early game from your quests or you can buy from Grocery Shop as well. On **Eternal**, all of this is available on Maria GM Shop.
+
+They are important for progressing, but also cost **Adena**. For D-Grade and up, they are available through crafting or buying from players’ shops in MDT for example.
+
+## Equipment Examples
+
+<div class="grid cards" markdown>
+
+- <figure markdown>
+    [![draco-bow.png](https://i.postimg.cc/3J6D2Ffv/draco-bow.png)](https://postimg.cc/LntXpLp9)
+    </figure>
+
+- <figure markdown>
+    [![armor.png](https://i.postimg.cc/kGLXRfMM/armor.png)](https://postimg.cc/T5qXZjWB)
+    </figure>
+
+</div>
+
+
