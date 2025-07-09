@@ -2,7 +2,8 @@
 icon: material/dog
 search:
   exclude: true
-
+hide:
+  - toc
 ---
 
 <style>
@@ -49,7 +50,7 @@ legend {
 	font-family: var(--md-text-font-family);
 }
 </style>
-
+# L2Calc for Summons (Interlude)
 <table class="statcalc">
 <form id="statcalculator">
 <tr>

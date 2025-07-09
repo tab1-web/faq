@@ -23,7 +23,7 @@ icon: octicons/report-16
 
 
 Auto Hunting Report is **not a live report**, it sends the report to database for checking it out later.
-<hr>
+<hr class="divider">
 
 <figure markdown="span">
     <a href="https://postimg.cc/1f326tfK">
@@ -32,7 +32,7 @@ Auto Hunting Report is **not a live report**, it sends the report to database fo
     <figcaption>Mention nicknames and server name.</figcaption>
 </figure>
 
-<hr>
+<hr class="divider">
 
 
 

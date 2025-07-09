@@ -3,83 +3,6 @@ icon: octicons/people-16
 
 ---
 
-<style>
-.md-typeset .meta-classes-section {
-  margin: 2rem 0;
-}
-
-.md-typeset h2.material-knife,
-.md-typeset h2.material-sword,
-.md-typeset h2.material-bank,
-.md-typeset h2.material-bow-arrow,
-.md-typeset h2.material-magic-staff,
-.md-typeset h2.simple-codemagic {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  margin: 2.5rem 0 1rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid var(--md-primary-fg-color);
-  color: var(--md-primary-fg-color);
-}
-
-.md-typeset .class-card {
-  background: var(--md-default-bg-color);
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  padding: 1.25rem;
-  margin: 1rem 0;
-  border-left: 4px solid var(--md-primary-fg-color);
-  transition: transform 0.2s, box-shadow 0.2s;
-}
-
-.md-typeset .class-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-.md-typeset .class-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.75rem;
-  color: var(--md-primary-fg-color);
-  font-size: 1.2em;
-}
-
-.md-typeset .class-attributes {
-  padding-left: 1rem;
-  margin: 0.5rem 0;
-}
-
-.md-typeset .class-attributes li {
-  margin: 0.25rem 0;
-  list-style-type: none;
-  position: relative;
-  padding-left: 1.25rem;
-}
-
-.md-typeset .class-attributes li::before {
-  content: "•";
-  color: var(--md-accent-fg-color);
-  position: absolute;
-  left: 0;
-  font-weight: bold;
-}
-
-.md-typeset .strengths {
-  font-weight: 600;
-  color: var(--md-accent-fg-color);
-}
-
-@media screen and (min-width: 768px) {
-  .md-typeset .class-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-    gap: 1.5rem;
-  }
-}
-
-
-</style>
 
 # Classes
 
@@ -117,7 +40,6 @@ Other classes that I haven't mentioned are not here because I think they have ni
     - **Strengths:** <span class="strengths">Evasion, Mobility</span>
 </div>
 
-<hr class="role-divider">
 
 ## :material-sword: Other Fighters
 <div class="class-card" markdown>

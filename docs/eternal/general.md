@@ -194,7 +194,6 @@ icon: material/clock-time-one-outline
       <span class="period-label">Time Remaining:</span>
       <span class="countdown-timer main-countdown"></span>
     </div>
-    <hr class="divider">
     <div class="period-header">
       <h3>OBT Opening</h3>
     </div>
@@ -206,7 +205,6 @@ icon: material/clock-time-one-outline
       <span class="period-label">Time Remaining:</span>
       <span class="countdown-timer beta-test-countdown"></span>
     </div>
-    <hr class="divider">
       <div class="period-header">
         <h3>OBT Event Day</h3>
       </div>

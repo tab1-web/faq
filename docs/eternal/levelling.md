@@ -39,9 +39,10 @@ h3 {
 
 <div class="quick-tip" markdown>
   <div class="tip-content" markdown>
+
 ### GM Shop & Buffer
 
-**Locate Maria:** `/target Maria` and `/attack`
+- **Locate Maria:** `/target Maria` and `/attack`
 
 - Provides buffs, gear, consumables  
 

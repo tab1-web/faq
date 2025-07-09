@@ -12,20 +12,20 @@ If you have a problem related to **bans**, **account**, **game**, **donations**,
 
 - [You will get a response here](https://l2reborn.org/my-support-tickets/) and **click on the appropriate ticket**.
 
-<hr>
+<hr class="divider">
 <figure markdown="span" markdown>
 
 | Category | What to Provide |
 |---|---|
-| :material-ticket-account: **All Tickets** | - Account + Character Name(s) |
-| :fontawesome-regular-money-bill-1: **Donation Issues** | - Payment Method (CC/FreeKassa/Crypto)<br>**- Transaction ID (Hash for crypto)**<br> - Payment Email + Date/Time<br>- Full details (Bought 1st class for "Bob) |
-| :simple-twitch: **Twitch** | - Twitch Username + Stream Schedule |
-| :material-share-variant: **IP Sharing** | - No ticket needed — Just play and [follow server rules](https://tab1-web.github.io/faq/General/Security/UserSafety/rules/). |
+| :material-ticket-account: **All Tickets** | Account + Character Name(s) |
+| :fontawesome-regular-money-bill-1: **Donation Issues** | Payment Method (CC/FreeKassa/Crypto)<br>**Transaction ID (Hash for crypto)**<br>  Payment Email + Date/Time<br> Full details (Bought 1st class for "Bob) |
+| :simple-twitch: **Twitch** | Twitch Username + Stream Schedule |
+| :material-share-variant: **IP Sharing** | No ticket needed — Just play and [follow server rules](https://tab1-web.github.io/faq/General/Security/UserSafety/rules/). |
 </figure>
 !!! warning
     Tickets that do not include all the necessary information may be closed without further notice. 
 
-<hr>
+<hr class="divider">
 
 ## :material-email-fast: Ticket Response Times
 

@@ -3,6 +3,8 @@ icon: material/incognito
 
 ---
 
+
+
 ## :octicons-question-16: Why do I have to worry about Account Security?
 
 Reborn sets up systems and rules to protect players, but we're not responsible for players' 
@@ -22,6 +24,7 @@ actions in or out of the game.
     [:octicons-arrow-right-24: Link](https://l2reborn.org/setting/)
 
 - ### :octicons-question-24: About 2FA
+
     2FA generates a temporary code from your phone when logging into the website.
     
     **Essential** for account security.
@@ -85,7 +88,7 @@ actions in or out of the game.
 - No one, not friends or staff, needs your password.
 - Stay skeptical, if something feels off, it probably is.
 
-<hr>
+<hr class="divider">
 
 <div class="grid cards" markdown>
 
@@ -105,7 +108,7 @@ actions in or out of the game.
 
 </div>
 
-<hr>
+<hr class="divider">
 
 
 ## :octicons-bookmark-16: Resources
