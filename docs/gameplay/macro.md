@@ -31,16 +31,14 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 
 ## Macro Commands
 
-### Basic Commands
-
-**Delay Command:**
+### **Delay Command:**
 
 `/delay [time_in_seconds]`
 
 - Pauses macro execution for specified duration
 - Example: `/delay 2` waits 2 seconds
 
-**Character Actions:**
+### **Character Actions:**
 
 - `/sit` - Sit down
 - `/stand` - Stand up  
@@ -48,7 +46,7 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 
 *Tip:* Drag action icons directly into the macro editor instead of typing commands.
 
-### Chat Commands
+## Channel Prefixes
 
 <figure markdown="span" markdown>
 
@@ -64,7 +62,7 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 
 ## Shortcut Commands
 
-**Regular Shortcut:**
+### **Regular Shortcut:**
 
 `/useshortcut [container] [slot]`
 
@@ -72,7 +70,7 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 
 
 
-**Forced Shortcut:**
+### **Forced Shortcut:**
 
 `/useshortcutforce [container] [slot]`
 
@@ -82,7 +80,7 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 
 ## Skill Commands
 
-**Regular Skill Use:**
+### **Regular Skill Use:**
 
 `/useskill [skillName]`
 
@@ -90,7 +88,7 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 
 
 
-**Forced Skill Use:**
+### **Forced Skill Use:**
 
 `/useskillforce [skillName]`
 
