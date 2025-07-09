@@ -7,7 +7,7 @@ search:
 
 
 
-# L2Calc Interlude
+# L2Calc for Characters (Interlude)
 
 <style>
 fieldset {
