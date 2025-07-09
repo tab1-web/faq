@@ -12,9 +12,12 @@ nav:
     - Core Mechanics: gameplay/core-mechanics.md
     - Controls: gameplay/controls.md
     - PvP System: gameplay/pvp-system.md
-    - L2Calc (Character): features/l2calcinterlude.md
-    - L2Calc (Summons): features/l2calcsum.md
+    - Monsters: gameplay/monsters.md
+    - Buffs: gameplay/buffs.md
     - Macro: gameplay/macro.md
+    - Tools:
+      - L2Calc (Character): features/l2calcinterlude.md
+      - L2Calc (Summons): features/l2calcsum.md
     - Character Progression:
       - Subclasses: gameplay/progression/subclasses.md
       - Noblesse: gameplay/progression/noblesse.md
@@ -40,7 +43,6 @@ nav:
     - Missions: eternal/missions.md
     - Daily Login: eternal/dailyattendance.md
     - Classes: eternal/classes.md
-    - Buffs: eternal/buffs.md
     - FAQ: eternal/faq.md
 theme:
   name: material
