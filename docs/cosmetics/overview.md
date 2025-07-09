@@ -31,9 +31,10 @@ icon: octicons/info-16
 
 ---
 
-### Common Mistakes
+## Common Mistakes
 - Incorrect server/character details → [open a support ticket.]((https://l2reborn.org/support/))
 - Missing transaction info → delays in resolving issues.
+- Logged in to the wrong master account.
 
 <hr>
 

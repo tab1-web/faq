@@ -118,13 +118,6 @@ hide:
     
     </figure>
 
-- <figure markdown="span">
-    <h2 style="padding: 0; margin: 0 0 9px 0;">Soon :material-trademark:</h2> <br> <br> <br> <br> <br> <br>
-    </figure>
-    <a href="https://postimg.cc/MXnQWZL4">
-    ![banner8](https://i.postimg.cc/593qS6Sx/banner8pvp.png){ .lightbox }
-    </a>
-    <hr>
 </div>
 
 

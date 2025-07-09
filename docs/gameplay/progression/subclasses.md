@@ -42,7 +42,7 @@ To unlock your subclass, complete the following quests:
     - [:material-skull: Golkonda](https://lineage2wiki.com/c4/monster/10126/longhorn-golkonda-raid-boss/) - Tower of Insolence - ([11th floor](https://postimg.cc/d3tp31fw))
 - :material-flask-outline: [**Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/)
 
-### :material-book: Subclass Mechanics
+## :material-book: Subclass Mechanics
 
 - Switching classes **removes active buffs and symbol skills**.
 - The following information is **retained** between main and subclass:
@@ -60,7 +60,7 @@ To unlock your subclass, complete the following quests:
 
 ---
 
-### :octicons-sliders-16: Subclass Limits
+## :octicons-sliders-16: Subclass Limits
 
 - Level up a subclass to **75** to unlock **two more**.
 - There’s **no cooldown** or limit on how often you can switch.
@@ -87,9 +87,17 @@ Your **main class is the selected one**, the cell turns `grey` if you can't have
 | Gladiator       |                    |                  |           |               |
 | Bishop          |                    |                  |           |               |
 
-## For Origins & Forever H5 Kamael Tables:
+## For Origins & Forever H5 Kamael Tables
 
-<table>
+<style>
+.td-off {
+    width: 100%;
+}
+
+
+</style>
+
+<table style="width: 100%;">
     <tbody>
     <tr>
         <td style="font-weight: bold; border-right: .05rem solid var(--md-typeset-table-color);">Kamael:</td>
