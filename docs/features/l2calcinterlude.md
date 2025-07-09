@@ -2,7 +2,8 @@
 icon: material/calculator
 search:
   exclude: true
-
+hide:
+  - toc
 ---
 
 
