@@ -23,7 +23,7 @@
     document.querySelectorAll('.period-description').forEach(el => {
       el.innerHTML = isRewardPeriod 
         ? `Blacksmith of Mammon and Merchant of Mammon are available in Giran <br> <span style="color: #ff4444">You cannot register to fight in the catacombs</span> <br> <span style="color: #FF6347">Lasts until Monday 18:00 UTC</span>`
-        : `Blacksmith of Mammon and Merchant of Mammon are not available <br> <span style="color: #44ff44">You can register to fight in the catacombs</span> <br> <span style="color: #FF6347">Lasts until Friday 18:00 UTC</span>`;
+        : `Blacksmith of Mammon and Merchant of Mammon are not available <br> <span style="color: #44ff44">Players with 1st class can register to fight in the catacombs</span> <br> <span style="color: #FF6347">Lasts until Friday 18:00 UTC</span>`;
     });
 
     document.querySelectorAll('.current-utctime').forEach(el => {
