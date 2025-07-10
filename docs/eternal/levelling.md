@@ -421,7 +421,7 @@ For Noblesse Quest on Barakiel, you can earn fragments of the staff by hitting B
 ## 3rd Class Quests
 
 ### Human Classes
-| Base Class | 2nd Class | 3rd Class | Quest |
+| 1st Class | 2nd Class | 3rd Class | Quest |
 |------------|-----------|-----------|-------|
 | **Knight** | Paladin | [Phoenix Knight](https://lineage2wiki.org/interlude/class/phoenix_knight/) | [Saga of the Phoenix Knight](https://lineage2wiki.org/interlude/quest/70/saga-of-the-phoenix-knight/) |
 | **Knight** | Dark Avenger | [Hell Knight](https://lineage2wiki.org/interlude/class/hell_knight/) | [Saga of the Hell Knight](https://lineage2wiki.org/interlude/quest/95/saga-of-the-hell-knight/) |
@@ -437,7 +437,7 @@ For Noblesse Quest on Barakiel, you can earn fragments of the staff by hitting B
 
 
 ### Elf Classes
-| Base Class | 2nd Class | 3rd Class | Quest |
+| 1st Class | 2nd Class | 3rd Class | Quest |
 |------------|-----------|-----------|-------|
 | **Elven Knight** | Temple Knight | [Eva's Templar](https://lineage2wiki.org/interlude/class/evas_templar/) | [Saga of Eva's Templar](https://lineage2wiki.org/interlude/quest/71/saga-of-evas-templar/) |
 | **Elven Knight** | Swordsinger | [Swordmuse](https://lineage2wiki.org/interlude/class/sword_muse/) | [Saga of the Sword Muse](https://lineage2wiki.org/interlude/quest/72/saga-of-the-sword-muse/) |
@@ -447,7 +447,7 @@ For Noblesse Quest on Barakiel, you can earn fragments of the staff by hitting B
 | **Elven Wizard** | Elemental Summoner | [Elemental Master](https://lineage2wiki.org/interlude/class/elemental_master/) | [Saga of the Elemental Master](https://lineage2wiki.org/interlude/quest/92/saga-of-the-elemental_master/) |
 
 ### Dark Elf Classes
-| Base Class | 2nd Class | 3rd Class | Quest |
+| 1st Class | 2nd Class | 3rd Class | Quest |
 |------------|-----------|-----------|-------|
 | **Assassin** | Abyss Walker | [Ghost Hunter](https://lineage2wiki.org/interlude/class/ghost_hunter/) | [Saga of the Ghost Hunter](https://lineage2wiki.org/interlude/quest/81/saga-of-the-ghost-hunter/) |
 | **Assassin** | Phantom Ranger | [Ghost Sentinel](https://lineage2wiki.org/interlude/class/ghost_sentinel/) | [Saga of the Ghost Sentinel](https://lineage2wiki.org/interlude/quest/84/saga-of-the-ghost-sentinel/) |
@@ -458,7 +458,7 @@ For Noblesse Quest on Barakiel, you can earn fragments of the staff by hitting B
 | **Shillien Oracle** | Shillien Elder | [Shillien Saint](https://lineage2wiki.org/interlude/class/shillien_saint/) | [Saga of the Shillien Saint](https://lineage2wiki.org/interlude/quest/98/saga-of-the-shillien-saint/) |
 
 ### Orc Classes
-| Base Class | 2nd Class | 3rd Class | Quest |
+| 1st Class | 2nd Class | 3rd Class | Quest |
 |------------|-----------|-----------|-------|
 | **Orc Raider** | Destroyer | [Titan](https://lineage2wiki.org/interlude/class/titan/) | [Saga of the Titan](https://lineage2wiki.org/interlude/quest/75/saga-of-the-titan/) |
 | **Orc Monk** | Tyrant | [Grand Khavatari](https://lineage2wiki.org/interlude/class/grand_khavatari/) | [Saga of the Grand Khavatari](https://lineage2wiki.org/interlude/quest/76/saga-of-the-grand-khavatari/) |
@@ -466,7 +466,7 @@ For Noblesse Quest on Barakiel, you can earn fragments of the staff by hitting B
 | **Orc Shaman** | Warcryer | [Doomcryer](https://lineage2wiki.org/interlude/class/doomcryer/) | [Saga of the Doomcryer](https://lineage2wiki.org/interlude/quest/78/saga-of-the-doomcryer/) |
 
 ### Dwarf Classes
-| Base Class | 2nd Class | 3rd Class | Quest |
+| 1st Class | 2nd Class | 3rd Class | Quest |
 |------------|-----------|-----------|-------|
 | **Scavenger** | Bounty Hunter | [Fortune Seeker](https://lineage2wiki.org/interlude/class/fortune_seeker/) | [Saga of the Fortune Seeker](https://lineage2wiki.org/interlude/quest/99/saga-of-the-fortune-seeker/) |
 | **Artisan** | Warsmith | [Maestro](https://lineage2wiki.org/interlude/class/maestro/) | [Saga of the Maestro](https://lineage2wiki.org/interlude/quest/100/saga-of-the-maestro/) |
