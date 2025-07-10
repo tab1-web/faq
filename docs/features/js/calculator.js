@@ -1007,7 +1007,9 @@ if (!calcForm) return;
     if (calcForm.WPNSA) {
 		var weaponsa=document.forms['statcalculator'].WPNSA;
 }
-weaponsa.length=5
+if (weaponsa) { // for checking out later, weaponsa is one sturdy mf
+	weaponsa.length=5
+}
 for (i=0;i<5;i++)
 	{
 	var p=i*2+4

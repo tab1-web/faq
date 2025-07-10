@@ -83,19 +83,19 @@ icon: fontawesome/regular/chess-knight
 <figure markdown>
 
 | Name    | Description    |
-|---|---|
-| P. Atk    | Physical damage    |
-| P. Def    | Defense against physical hit    |
-| Accuracy    | Accuracy during physical hit    |
-| Critical    | Critical chance on physical hit    |
-| Atk. Speed   | Attack speed    |
+|---------|----------------|
+| P. Atk    | Higher P.Atk. means you deal more Physical Damage    |
+| P. Def    | Higher P.Def means less Physical Damage taken   |
+| Accuracy    | Higher Accuracy means you have more chance to deal physical damage.    |
+| Critical    | Higher Critical means more chance to deal critical physical damage on hit   |
+| Atk. Speed   | Higher Attack speed means you deal physical damage faster    |
 | Atk. Type    | **Blunt** – High accuracy, Low Critical <br> **Sword** – Mid accuracy, Mid Critical <br> **Dagger** – Low accuracy, High Critical <br> **Bow** – Low Accuracy, High Critical <br> **Pole** – Low Accuracy, Mid Critical <br> **Fist** – High Accuracy, Low Critical |
 | M. Atk    | Magic Damage, affects Curse Success Probability    |
-| M. Def    | Defense against magic and Curse RES.    |
-| Evasion    | Evading against physical hits chance    |
-| Speed    | Movement Speed    |
-| Cast. Speed   | Magic Casting Speed    |
-| Atk. Range    | Attack Range    |
+| M. Def    | Higher M. Def. means less damage taken against magical attacks and less prone to magical debuffs    |
+| Evasion    | Higher Evasion means more chance to dodge physical attacks.    |
+| Speed    | Higher Speed means more Movement Speed   |
+| Cast. Speed   | Higher Casting Speed means less time to cast magic.    |
+| Atk. Range    | Imagine a circle around the character in which it can still do a physical attack, higher Atk. Range means the Radius is bigger.    |
 
 </figure>
 
@@ -136,7 +136,7 @@ Spiritshots are consumables used mostly by Wizards and Soulshots used mostly by 
 | Spiritshots         | Spell     | 1.4x damage – Bit lower chance for debuff. Increased casting speed.      |
 | Soulshots           | Attack    | 2x damage on melee hits.                                               |
 
-To get them you can acquire no grade [soulshots](https://lineage2wiki.com/c4/item/quest/5789/soulshot-no-grade-for-novices/) / [spiritshots](https://lineage2wiki.org/c4/item/quest/5790/spiritshot-no-grade-for-novices/) in the early game from your quests or you can buy from Grocery Shop as well. On **Eternal**, all of this is available on Maria GM Shop.
+To get them you can acquire no grade [soulshots](https://lineage2wiki.com/c4/item/quest/5789/soulshot-no-grade-for-novices/) / [spiritshots](https://lineage2wiki.org/c4/item/quest/5790/spiritshot-no-grade-for-novices/) in the early game from your quests or you can buy from Grocery Shop as well. On **Eternal**, all of this is available on [Maria GM Shop](/faq/eternal/maria/).
 
 They are important for progressing, but also cost **Adena**. For D-Grade and up, they are available through crafting or buying from players’ shops in MDT for example.
 

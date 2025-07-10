@@ -45,13 +45,17 @@ You may __drag windows around__ by grabbing the side or the top of the windows' 
 
 - <figure markdown>
     [![new-hotbar.png](https://i.postimg.cc/3RqMZyXw/new-hotbar.png)](https://postimg.cc/TLnHd3H8)
-    <figcaption>You can drag items, gears, skills as you wish onto your hotbars.</figcaption>
+    <figcaption>You can drag items, gears, skills as you wish onto your hotbars. </figcaption>
+    <figcaption>1st row: F1-F12 keys <br> 2nd row: 1-2-3-...-0 keys</figcaption>
+    <figcaption>Soulshots and Spiritshots on Eternal can be activated by "Right Click"-ing above the hotbar in the top left corner <br> On Other Servers you have to drag it onto your hotbar. [Soulshots/Spiritshots](/faq/gameplay/monsters/#soulshots) increase your damage.</figcaption>
     </figure>
 
 
 - <figure markdown>
     [![L2-bin-Wo-Zl-UXY0jh-ezgif-com-optimize-1.gif](https://i.postimg.cc/qMDXRJML/L2-bin-Wo-Zl-UXY0jh-ezgif-com-optimize-1.gif){.lightbox width=70%}](https://postimg.cc/TpmWNXbL)
-    <figcaption>"Right Click" to move Camera <br> "Left Click" to Move Character</figcaption>
+    <figcaption>"Right Click" to move Camera <br> "Left Click" to Move Character <br> </figcaption>
+    <figcaption>Double "Left Click" to do Physical Attack or Interact with an NPC</figcaption>
+    <figcaption>"Scroll Wheel Up/Down" to Zoom out/Zoom in </figcaption>
     </figure>
 
 </div>
@@ -96,8 +100,18 @@ You may __drag windows around__ by grabbing the side or the top of the windows' 
 
 - **"Alt + Shift + M"**{style="color:rgb(107, 103, 223); font-weight: bold;"} brings up whisper to that targeted player.
 
-<figure markdown>
-[![window.png](https://i.postimg.cc/dtZbFmdQ/window.png)](https://postimg.cc/ppxGYjq3)
-<figcaption><strong>Chat Window</strong>: you can write messages here to others <br> 
-<strong>System Message window</strong>: certain actions you do are shown here as text.</figcaption>
+<div class="grid cards" markdown>
+
+- <figure markdown>
+    [![window.png](https://i.postimg.cc/dtZbFmdQ/window.png)](https://postimg.cc/ppxGYjq3)
+    <figcaption><strong>Chat Window</strong>: you can write messages here to others <br> 
+    <strong>System Message window</strong>: certain actions you do are shown here as text.</figcaption>
+- <figure markdown>
+    [![hpbar.png](https://i.postimg.cc/3R16vS2n/hpbar.png)](https://postimg.cc/dk74M9Hy)
+    <figcaption>**CP**{style="color:yellow;"}: Combat Points, an additional reserve like HP but only for PvP mode, you don't die if this depletes.</figcaption>
+    <figcaption>**HP**{style="color:red;"}: Health Points, on reaching 0, your character dies.</figcaption>
+    <figcaption>**MP**{style="color:blue;"}: Mana Points, skills and toggles (self buffs until turned off) cost Mana to use.</figcaption>
+    </figure>
 </figure>
+
+</div>

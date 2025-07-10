@@ -15,6 +15,7 @@ nav:
     - Monsters: gameplay/monsters.md
     - Buffs: gameplay/buffs.md
     - Macro: gameplay/macro.md
+    - Abbrevations: gameplay/abbreviations.md
     - Tools:
       - L2Calc (Character): features/l2calcinterlude.md
       - L2Calc (Summons): features/l2calcsum.md
