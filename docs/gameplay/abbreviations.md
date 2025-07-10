@@ -75,6 +75,7 @@ icon: material/alphabet-latin
 - Craft: Create items with special skill (only dwarfs can create items from recipes - artisan and warsmiths, the spoiler dwarfs have only create item level 1)
 - Create item level: Skill level of creating an item (between 1-8), higher skill level, better recipes can be used.
 - Clan: group related by common interests or characteristics. Similar a guild.
+- CP: Constant Party, people who gather at a set time and play for a set duration, most times an organized group playing efficiently, sharing accounts.
 - Crystals: Crystals usually needed for buying certain items and summoning pets. crystals also have grades (d,c,b,a and s). only artisan/warsmith dwarfs with the appropriate level can get them by breaking items, c items can be break into c crystals etc...
 - cSS: C-grade souls shots.
 - CON: Constitution effects a characters HP etc..
