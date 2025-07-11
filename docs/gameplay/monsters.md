@@ -10,7 +10,7 @@ icon: fontawesome/regular/chess-knight
 
     In Lineage 2 you always roll the dice twice. Once for which Item Group you get, secondly which item you get from the Item Group.
 
-    On Eternal, this is simplified, the combined chance is next to the Item Chance.
+    > On Eternal, this is simplified, the combined chance is next to the Item Chance.
 
     You can get materials (less rare) to craft items, equipment (more rare) from Monsters as drops. 
 
@@ -43,7 +43,7 @@ icon: fontawesome/regular/chess-knight
 
 - **Experience**{style="color:rgb(107, 103, 223); font-weight: bold;"} is needed to level up, and **SP**{style="color:rgb(197, 223, 103); font-weight: bold;"} is needed to learn and upgrade your skills at your Class Trainer.
 
-    On Eternal, you don't have to bother with levelling up your skills.
+    > On Eternal, skill learns are automatic.
 
 - **“Aggro”**{style="color:rgb(255, 0, 0); font-weight: bold;"} is no, that means when you are near the monster, it will not attack you immediately.
 
@@ -101,7 +101,9 @@ icon: fontawesome/regular/chess-knight
 
 ## Character Progression
 
-As you level up you are able to get **better skills** and **equipment**. **Class changes are important**{style="color: red;"}, and you should do them when you can. It enables you to essentially **specialize your skills**{style="color: blue;"} and role.
+As you level up you are able to get **better skills** and **equipment**. **Class changes are important**{style="color: red;"}, and you should do them when you can. It enables you to essentially **specialize your skills**{style="color: blue;"} and role. 
+
+> On Eternal 1st and 2nd class transfers are free, access the class transfer menu in the right left corner on the appropriate level.
 
 In Lineage II, weapons and armor are divided into different grades **(D, C, B, A, S)**{style="color:rgb(228, 152, 52);"}. Each grade has a **minimum level requirement**{style="color:rgb(228, 152, 52);"}, you can still use them, but with **penalty**{style="color:rgb(107, 103, 223);"}.
 
