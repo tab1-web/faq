@@ -68,7 +68,7 @@ Thanks for the video @royce6735 !
 
 <figure markdown="span">
     <a href="https://postimg.cc/HcgP7hZ4">
-    ![Launcher Buttons Not Loading](https://i.postimg.cc/LXYdGdj7/image-16.png){.lightbox width=40% }
+    ![Launcher Buttons Not Loading](https://i.postimg.cc/LXYdGdj7/image-16.png){.lightbox width=50% }
     </a>
 </figure>
 
@@ -98,18 +98,16 @@ Make sure that you are not on the correct Master Account.
 
 <figure markdown="span">
     <a href="https://postimg.cc/mPsVKt4C">
-    ![Setup Fail Image](https://i.postimg.cc/jSW9w7kg/setup-fail.png){.lightbox width=40% }
+    ![Setup Fail Image](https://i.postimg.cc/jSW9w7kg/setup-fail.png){.lightbox width=60% }
     </a>
 </figure>
 
 
 
 ## How to play Riot's games?
-1. Open L2.
-2. Open Riot Launcher.
-3. Exit Vanguard
-4. Click Start on Riot Launcher.
-
+<figure>
+<blockquote class="imgur-embed-pub" lang="en" data-id="gRNgSl3" data-context="false" ><a href="//imgur.com/gRNgSl3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</figure>
 
 
 ## VPN Recommendation

@@ -100,6 +100,8 @@ You may __drag windows around__ by grabbing the side or the top of the windows' 
 
 - **"Alt + Shift + M"**{style="color:rgb(107, 103, 223); font-weight: bold;"} brings up whisper to that targeted player.
 
+## Windows
+
 <div class="grid cards" markdown>
 
 - <figure markdown>

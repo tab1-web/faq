@@ -84,24 +84,26 @@ icon: fontawesome/regular/chess-knight
 
 | Name    | Description    |
 |---------|----------------|
-| P. Atk    | Higher P.Atk. means you deal more Physical Damage    |
-| P. Def    | Higher P.Def means less Physical Damage taken   |
-| Accuracy    | Higher Accuracy means you have more chance to deal physical damage.    |
-| Critical    | Higher Critical means more chance to deal critical physical damage on hit   |
-| Atk. Speed   | Higher Attack speed means you deal physical damage faster    |
-| Atk. Type    | **Blunt** – High accuracy, Low Critical <br> **Sword** – Mid accuracy, Mid Critical <br> **Dagger** – Low accuracy, High Critical <br> **Bow** – Low Accuracy, High Critical <br> **Pole** – Low Accuracy, Mid Critical <br> **Fist** – High Accuracy, Low Critical |
-| M. Atk    | Magic Damage, affects Curse Success Probability    |
-| M. Def    | Higher M. Def. means less damage taken against magical attacks and less prone to magical debuffs    |
-| Evasion    | Higher Evasion means more chance to dodge physical attacks.    |
-| Speed    | Higher Speed means more Movement Speed   |
-| Cast. Speed   | Higher Casting Speed means less time to cast magic.    |
-| Atk. Range    | Imagine a circle around the character in which it can still do a physical attack, higher Atk. Range means the Radius is bigger.    |
+| **P. Atk**{style="color:purple;"}    | Higher P.Atk. means you deal more Physical Damage    |
+| **P. Def**{style="color:red;"}    | Higher P.Def means less Physical Damage taken   |
+| **Accuracy**{style="color:olive;"}    | Higher Accuracy means you have more chance to deal physical damage.    |
+| **Critical**{style="color:darkred;"}    | Higher Critical means more chance to deal critical physical damage on hit   |
+| **Atk. Speed**{style="color:yellow;"}   | Higher Attack speed means you deal physical damage faster    |
+| **Atk. Type**{style="color:gray;"}    | **Blunt** – High accuracy, Low Critical <br> **Sword** – Mid accuracy, Mid Critical <br> **Dagger** – Low accuracy, High Critical <br> **Bow** – Low Accuracy, High Critical <br> **Pole** – Low Accuracy, Mid Critical <br> **Fist** – High Accuracy, Low Critical |
+| **M. Atk**{style="color:blue;"}    | Magic Damage, affects Curse Success Probability    |
+| **M. Def**{style="color:aqua;"}    | Higher M. Def. means less damage taken against magical attacks and less prone to magical debuffs    |
+| **Evasion**{style="color:lime;"}    | Higher Evasion means more chance to dodge physical attacks.    |
+| **Speed**{style="color:navy;"}    | Higher Speed means more Movement Speed   |
+| **Cast. Speed**{style="color:green;"}   | Higher Casting Speed means less time to cast magic.    |
+| **Atk. Range**{style="color:fuchsia;"}    | Imagine a circle around the character in which it can still do a physical attack, higher Atk. Range means the Radius is bigger.    |
 
 </figure>
 
 ## Character Progression
 
 As you level up you are able to get **better skills** and **equipment**. **Class changes are important**{style="color: red;"}, and you should do them when you can. It enables you to essentially **specialize your skills**{style="color: blue;"} and role.
+
+In Lineage II, weapons and armor are divided into different grades **(D, C, B, A, S)**{style="color:rgb(228, 152, 52);"}. Each grade has a **minimum level requirement**{style="color:rgb(228, 152, 52);"}, you can still use them, but with **penalty**{style="color:rgb(107, 103, 223);"}.
 
 <figure markdown>
 | Level  | Grade  | Notes                          |
@@ -114,21 +116,47 @@ As you level up you are able to get **better skills** and **equipment**. **Class
 | 76+    | S      | Endgame gear, <br> **Third Class Change**{style="color:rgb(107, 103, 223); font-weight: bold;"}          |
 </figure>
 
+### Weapon Grade Penalties
+
+Further you are from the Grade, heavier the **Penalty**{style="color:red";} becomes. Note that the values might not be entirely correct, but are close enough.
+
 <figure markdown>
+| Level | Accuracy | Critical Rate | Critical Damage | Atk. Spd. | P. Atk. |
+|-------|----------|---------------|------------------|----------|---------|
+| 1     | -16      | -10%          | -10%             | -10%     | -10%    |
+| 2     | -16      | -20%          | -20%             | -10%     | -10%    |
+| 3     | -16      | -30%          | -30%             | -10%     | -10%    |
+| 4     | -16      | -40%          | -40%             | -10%     | -10%    |
+</figure>
+
+### Armor Grade Penalties
+
+<figure markdown>
+| Level | Evasion | Atk. Spd./Casting Spd./Speed |
+|-------|---------|-------------------------------|
+| 1     | -2.5    | -16.67%                       |
+| 2     | -5      | -30.56%                       |
+| 3     | -7.5    | -42.13%                       |
+| 4     | -10     | -51.77%                       |
+</figure>
+
+## L2Reborn Wikipedia
 
 You can look up on the <a href="https://www.lineage2wiki.com/">wiki</a> certain items, materials, monsters, classes. 
 
-For Eternal choose Interlude or (IL), For Signature use (C4)
+- Eternal: (IL) - Interlude Chronicle
+- Signature: (C4) - Chronicle 4 
 
+<figure markdown>
 [![LWUpb-DZ-Imgur.gif](https://i.postimg.cc/7ZHBzXpN/LWUpb-DZ-Imgur.gif){width=70%}](https://postimg.cc/qzFXVcBt)
 <figcaption>Small Video of the Wiki</figcaption>
 </figure>
 
 ## Soulshots
 
-Spiritshots are consumables used mostly by Wizards and Soulshots used mostly by Fighters. They give you effects based on what you enable for your weapon. 
+**Spiritshots**{style="color:blue;"} are consumables used mostly by **Wizards**{style="color:blue;"} and **Soulshots**{style="color:red;"} used mostly by **Fighters**{style="color:red;"}. They give you effects based on what you enable for your weapon. 
 
-**"Right click"** on hotbar to automatically enable. On **Eternal**, you don't have to drag it onto your inventory, just right click it above the hotbar in the top left corner.
+**"Right click"**{style="color:rgb(107, 103, 223);"} on hotbar to automatically enable. On **Eternal**{style="color:rgb(107, 103, 223);"}, you don't have to drag it onto your inventory, just right click it above the hotbar in the top left corner.
 
 | Name                | Condition | Effect                                                                 |
 |---------------------|-----------|-----------------------------------------------------------------------|
@@ -138,7 +166,7 @@ Spiritshots are consumables used mostly by Wizards and Soulshots used mostly by 
 
 To get them you can acquire no grade [soulshots](https://lineage2wiki.com/c4/item/quest/5789/soulshot-no-grade-for-novices/) / [spiritshots](https://lineage2wiki.org/c4/item/quest/5790/spiritshot-no-grade-for-novices/) in the early game from your quests or you can buy from Grocery Shop as well. On **Eternal**, all of this is available on [Maria GM Shop](/faq/eternal/maria/).
 
-They are important for progressing, but also cost **Adena**. For D-Grade and up, they are available through crafting or buying from players’ shops in MDT for example.
+They are important for progressing, but also cost **Adena**{style="color:yellow;"}. For D-Grade and up, they are available through crafting or buying from players’ shops in MDT for example.
 
 ## Equipment Examples
 

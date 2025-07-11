@@ -38,6 +38,7 @@ Other classes that I haven't mentioned are not here because I think they have ni
     - **Strengths:** <span class="strengths">Evasion, Mobility</span>
 </div>
 
+<hr class="divider">
 
 ## :material-sword: Other Fighters
 <div class="class-card" markdown>

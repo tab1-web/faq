@@ -11,6 +11,11 @@ h2 {
 
 # FAQ
 
+## Is it legal to trade Store Bought / Fortune Wheel skins for Items?
+
+- **No.** Store bought items or items from the Fortune Wheel are not legal to trade.
+- Anything that costs Coins or Real World Currency is illegal to trade with.
+
 ## What is a Seasonal Server?
 
 - There are 2 servers on Eternal: **Main** and **Seasonal**.

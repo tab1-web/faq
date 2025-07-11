@@ -25,7 +25,7 @@ hide:
     <a href="https://postimg.cc/zLKY8hr7">
     ![banner2](https://i.postimg.cc/k5hJNNY0/banner2.png){ .lightbox }
     </a>
-    ---
+    <hr class="divider">
 
     <figure markdown="span">
     [Info](https://l2reborn.org/news/reborn-signature-features/){ .md-button .lightbox  }
@@ -45,7 +45,7 @@ hide:
     <a href="https://postimg.cc/QVTDqvPw">
     ![banner4](https://i.postimg.cc/y6fN7HT1/banner4.png){ .lightbox }
     </a>
-    ---
+    <hr class="divider">
 
     <figure markdown="span">
     [Info](https://l2reborn.org/origins/full-description/){ .md-button .lightbox } 
@@ -66,7 +66,7 @@ hide:
     ![banner6](https://i.postimg.cc/4NQyj9F0/banner6.png){ .lightbox }
     </a>
 
-    ---
+    <hr class="divider">
 
     <figure markdown="span">
     [Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button .lightbox }
@@ -87,7 +87,7 @@ hide:
     ![banner5](https://i.postimg.cc/bYL4MY9T/banner7.png){ .lightbox }
     </a>
 
-    ---
+    <hr class="divider">
 
     <figure markdown="span">
     [Info](https://l2reborn.org/forever-h5/full-description/){ .md-button .lightbox }
@@ -109,7 +109,7 @@ hide:
     ![banner3](https://i.postimg.cc/br4S6cCj/banner3.png){ .lightbox }
     </a>
 
-    ---
+    <hr class="divider">
 
     <figure markdown="span">
     [Class Balance](https://l2reborn.org/news/class-balance-v2-5/){ .md-button .lightbox }

@@ -11,7 +11,9 @@ hr {
     background-color: var(--md-primary-fg-color);
 }
 </style>
+
 # Missions
+
 <div class="grid cards" markdown>
 
 - :material-format-font:{ .lg .middle } __Requirements__

@@ -32,8 +32,7 @@ Most people use **“flagged”**{style="color: purple;"}. instead of **purple n
 
 ### **Reducing PK**
 - [**:fontawesome-solid-scroll: Repent Your Sins Quest**](https://lineage2wiki.com/c4/quest/422/repent-your-sins/)
-    - When you level up Sin Eater Pet and hand it to Black Judge, 
-it will reduce your PK points, allowing you to kill again up to a certain point without drop penalty.
+    - When you level up Sin Eater Pet and hand it to [:material-drama-masks: Black Judge](https://lineage2wiki.org/c4/monster/7981/black-judge/), it will reduce your PK points, allowing you to kill again up to a certain point without drop penalty.
 
 
 > **Tip**: Avoid unnecessary PKing unless you’re prepared for consequences!  

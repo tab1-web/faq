@@ -5,7 +5,10 @@ icon: simple/magic
 ## Basic Information
 - **Buffs**: Temporary beneficial effects (e.g., increased stats)
 - **Debuffs**: Temporary harmful effects (e.g., slows, poison)
-
+- **Duration**: Most buffs are for 20 minutes.
+    - **Prophecies**: 5 minutes
+    - **Songs/Dances**: 2 minutes
+    - **Gifts/
 
 
 ## Buff Limits
@@ -249,8 +252,18 @@ icon: simple/magic
 | Pa'agrio's Fist 1 | Increases Max. CP by +800 |
 </figure>
 
+### Warlock Summoner Buffs
+| Buff Name               | Effect                          | Value  | Target |
+|-------------------------|---------------------------------|--------|--------|
+| Gift of Queen Lv.3      | Increased Physical Attack <br> <br> Increased Accuracy      | +10% <br> <br> +3 | Party <br> <br> Party |
+| Blessing of Queen Lv.3  | Increased Critical Rate <br> <br> Increased Critical Damage        | +30% <br> <br> +25%   | Party <br> <br> Party  |
 
+### Elemental Summoner Buffs
 
+| Buff Name                | Effect                          | Value  | Target |
+|--------------------------|---------------------------------|--------|--------|
+| Gift of Seraphim Lv.3    | Decreased Magic Skill Reuse Time| -35%   | Party  |
+| Blessing of Seraphim Lv.3 | Increased MP Regeneration       | +35%   | Party  |
 
 ### Prophecy Buffs
 <figure markdown="span" markdown>

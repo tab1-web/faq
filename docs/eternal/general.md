@@ -325,149 +325,96 @@ icon: material/clock-time-one-outline
 }
 </style>
 
-Most commands are also available in `ALT + B`, but you can take a look here.
+Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you can take a look here.
 
----
+<div class="grid cards" markdown>
 
-<div class="command-grid" markdown>
+- ### .cfg
 
-<div class="command-card" markdown>
+    Opens advanced game settings menu
 
-### .cfg
+- ### .exp
 
-Opens advanced game settings menu
-<span class="command-category">Configuration</span>
-</div>
-
-<div class="command-card" markdown>
-
-### .exp
-
-Toggle experience gain on/off
-<span class="command-category">Gameplay</span>
-<span class="warning-note">Useful for controlling leveling</span>
-</div>
+    Toggle experience gain on/off
 
 </div>
+
 
 ## :material-gamepad: Performance Commands
 
-<div class="command-grid" markdown>
+<div class="grid cards" markdown>
 
-<div class="command-card" markdown>
+- ### .aoe
 
-### .aoe
+    Toggle AOE skill animations
 
-Toggle AOE skill animations
-<span class="command-category">Performance</span>
-<span class="warning-note">Recommended for PvP</span>
-</div>
+- ### .shots
 
-<div class="command-card" markdown>
+    Toggle projectile animations
 
-### .shots
+- ### .fastload
 
-Toggle projectile animations
-<span class="command-category">Performance</span>
-</div>
-
-<div class="command-card" markdown>
-
-### .fastload
-
-Toggle faster character loading
-<span class="command-category">Performance</span>
-<span class="warning-note">May decrease FPS</span>
-</div>
+    Toggle faster character loading
 
 </div>
 
 ## :material-shield: Security & UI
 
-<div class="command-grid" markdown>
+<div class="grid cards" markdown>
 
-<div class="command-card" markdown>
+- ### .lock/.unlock
 
-### .lock/.unlock
+    Toggle trade/combat restrictions
 
-Toggle trade/combat restrictions
-<span class="command-category">Security</span>
-</div>
+- ### .castbar
 
-<div class="command-card" markdown>
+    Toggle skill cast bar visibility
 
-### .castbar
+- ### .chances
 
-Toggle skill cast bar visibility
-<span class="command-category">UI</span>
-</div>
-
-<div class="command-card" markdown>
-
-### .chances
-
-Show debuff success rates
-<span class="command-category">Combat Info</span>
-</div>
+    Show debuff success rates
 
 </div>
 
 ## :material-tshirt-crew: Cosmetic Commands
 
-<div class="command-grid" markdown>
+<div class="grid cards" markdown>
 
-<div class="command-card" markdown>
+- ### .suits
 
-### .suits
+    Toggle suit cosmetics
 
-Toggle suit cosmetics
-<span class="command-category">Appearance</span>
-</div>
+- ### .agats
 
-<div class="command-card" markdown>
+    Toggle agathion effects
 
-### .agats
+- ### .cloaks
 
-Toggle agathion effects
-<span class="command-category">Appearance</span>
-</div>
+    Toggle cloak visibility
 
-<div class="command-card" markdown>
+- ### .trycosmetic
 
-### .cloaks
-
-Toggle cloak visibility
-<span class="command-category">Appearance</span>
-</div>
-
-<div class="command-card" markdown>
-
-### .trycosmetic
-
-Preview shop cosmetics
-<span class="command-category">Appearance</span>
-</div>
+    Preview shop cosmetics
 
 </div>
 
 ## :material-heart-remove: Buff Management
+<div class="grid cards" markdown>
 
-<div class="command-card" markdown>
+- ### alt+click
 
-### alt+click
+    Remove buffs from your character
 
-Remove buffs from your character
-<span class="command-category">Quick Action</span>
 </div>
 
----
 
+<hr class="divider" >
 
 
 <figure markdown="span">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1222530409&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-299123333" title="DistritoMMO" target="_blank" style="color: #cccccc; text-decoration: none;">DistritoMMO</a> · <a href="https://soundcloud.com/user-299123333/sets/lineage-2" title="Lineage 2" target="_blank" style="color: #cccccc; text-decoration: none;">Lineage 2</a></div>
 
-    <hr class="divider">
+<br> <br>
 
     <a href="https://postimg.cc/nssvvRK0">
         ![Hero](https://i.postimg.cc/W48XcxdL/catsitting.gif){ .lightbox width=50% }
@@ -475,7 +422,7 @@ Remove buffs from your character
 
 </figure>
 
-<br>
+<hr class="divider">
 
 <figure markdown="span">
   [Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button .lightbox }
