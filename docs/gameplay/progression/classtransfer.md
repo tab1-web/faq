@@ -14,6 +14,10 @@ icon: material/comment-question
 
 All of the Quests are set to Chronicle 4. If you are playing a different version, set it to the one you are playing on. **(WIP)**{style="color:red;"}
 
+[![change-chronicle.gif](https://i.postimg.cc/prP4fjnD/change-chronicle.gif){.lightbox}](https://postimg.cc/Kks0FRfz)
+
+2nd class transfer quest **step can be saved** if you click on the desired row, so you can continue where you left off.
+
 ## Human
 
 ### Tanks
