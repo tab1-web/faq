@@ -179,6 +179,15 @@ icon: material/clock-time-one-outline
 }
 </style>
 
+## Quick Links
+
+<figure markdown="span">
+  [Features Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button .lightbox }
+  [Reborn Guide](https://l2reborn.org/news/adventure-guide/){ .md-button .lightbox }
+  [PvP Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button .lightbox }
+  [Reborn News](https://l2reborn.org/latest-news/){ .md-button .lightbox }
+</figure>
+
 ## Time Tables
 
 <div class="server-timer">
@@ -422,14 +431,7 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 
 </figure>
 
-<hr class="divider">
 
-<figure markdown="span">
-  [Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button .lightbox }
-  [Guide](https://l2reborn.org/news/adventure-guide/){ .md-button .lightbox }
-  [Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button .lightbox }
-  [News](https://l2reborn.org/latest-news/){ .md-button .lightbox }
-</figure>
 
 
 <script src='../js/general.js'></script>

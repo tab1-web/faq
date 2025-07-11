@@ -135,6 +135,7 @@ Comfy way of finding Maria with a click of a Button.
 - You can register at Priest of Dawn or Dusk in Giran.
     - (Remember `/target Dawn` or `/target Dusk` to find them)
     - Register for Dawn when castles are taken by Clans. (Castle Owners can only register to Dawn)
+    - Choosing a Seal (`e.g. Seal of Avarice`) does not *really* matter, choose either `Avarice or Gnosis`.
 - At higher catacombs expect competition, so either move or fight.
 - Merchant of Mammon and Blacksmith of Mammon can be found in Giran during Rewards week. Can be interacted with even if you didn't register.
 
@@ -357,7 +358,7 @@ Comfy way of finding Maria with a click of a Button.
 ### Quest Exchanges
 
 <div class="grid cards" markdown>
-- The Zero Hour Quest
+- ### The Zero Hour Quest
 
     | Item                   | Fangs of Stakato |
     |------------------------|-----------------:|

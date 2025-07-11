@@ -46,16 +46,16 @@ You may __drag windows around__ by grabbing the side or the top of the windows' 
 - <figure markdown>
     [![new-hotbar.png](https://i.postimg.cc/3RqMZyXw/new-hotbar.png)](https://postimg.cc/TLnHd3H8)
     <figcaption>You can drag items, gears, skills as you wish onto your hotbars. </figcaption>
-    <figcaption>1st row: F1-F12 keys <br> 2nd row: 1-2-3-...-0 keys</figcaption>
+    <figcaption>**1st row**: F1-F12 keys <br> **2nd row**: 1-2-3-...-0 keys</figcaption>
     <figcaption>Soulshots and Spiritshots on Eternal can be activated by "Right Click"-ing above the hotbar in the top left corner <br> On Other Servers you have to drag it onto your hotbar. [Soulshots/Spiritshots](/faq/gameplay/monsters/#soulshots) increase your damage.</figcaption>
     </figure>
 
 
 - <figure markdown>
     [![L2-bin-Wo-Zl-UXY0jh-ezgif-com-optimize-1.gif](https://i.postimg.cc/qMDXRJML/L2-bin-Wo-Zl-UXY0jh-ezgif-com-optimize-1.gif){.lightbox width=70%}](https://postimg.cc/TpmWNXbL)
-    <figcaption>"Right Click" to move Camera <br> "Left Click" to Move Character <br> </figcaption>
-    <figcaption>Double "Left Click" to do Physical Attack or Interact with an NPC</figcaption>
-    <figcaption>"Scroll Wheel Up/Down" to Zoom out/Zoom in </figcaption>
+    <figcaption>**"Right Click"** to move Camera <br> **"Left Click"** to Move Character <br> </figcaption>
+    <figcaption>Double **"Left Click"** to do Physical Attack or Interact with an NPC</figcaption>
+    <figcaption>**"Scroll Wheel Up/Down"** to Zoom out/Zoom in </figcaption>
     </figure>
 
 </div>
