@@ -18,7 +18,7 @@ All of the Quests are set to Chronicle 4. If you are playing a different version
 
 ### Tanks
 
-- [Human Knight](https://lineage2wiki.org/c4/quest/402/path-to-a-human-knight/) :material-arrow-right: :material-arrow-right: [Phoenix Knight](https://lineage2wiki.org/c4/quest/70/succession-to-the-legend-phoenix-knight/)
+- [Human Knight](https://lineage2wiki.org/c4/quest/402/path-to-a-human-knight/) :material-arrow-right: [Paladin](/faq/classtransfers/paladin) :material-arrow-right: [Phoenix Knight](https://lineage2wiki.org/c4/quest/70/succession-to-the-legend-phoenix-knight/)
 - [Human Knight](https://lineage2wiki.org/c4/quest/402/path-to-a-human-knight/) :material-arrow-right: [Dark Avenger](/faq/classtransfers/dark_avenger) :material-arrow-right: [Hell Knight](https://lineage2wiki.org/c4/quest/95/succession-to-the-legend-hell-knight/)
 
 ### Warriors

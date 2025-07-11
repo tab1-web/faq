@@ -46,6 +46,9 @@
      "text":"Actea","url":"https://lineage2wiki.org/c4/monster/5121/actea-of-verdant-wilds-quest-monster/"
   },
   {
+     "text":"Actea of Verdant Wilds","url":"https://lineage2wiki.org/c4/monster/5121/actea-of-verdant-wilds-quest-monster/"
+  },
+  {
      "text":"Lirein","url":"https://lineage2wiki.org/c4/monster/36/lirein/"
   },
   {
@@ -53,6 +56,9 @@
   },
   {
      "text":"Luell","url":"https://lineage2wiki.org/c4/monster/5120/luell-of-zephyr-winds-quest-monster/"
+  },
+  {
+     "text":"Luell of Zephyr Winds","url":"https://lineage2wiki.org/c4/monster/5120/luell-of-zephyr-winds-quest-monster/"
   },
   {
      "text":"Tetrarch Thifiel","url":"https://lineage2wiki.org/c4/monster/7358/thifiell-tetrarch/"
@@ -118,7 +124,7 @@
      "text":"Hangman Tree","url":"https://lineage2wiki.org/c4/monster/144/hangman-tree/"
   },
   {
-    "text":"Guardian Basilisk","url":"https://lineage2wiki.org/c4/monster/550/guardian-basilisk/"
+     "text":"Guardian Basilisk","url":"https://lineage2wiki.org/c4/monster/550/guardian-basilisk/"
   },
   {
      "text":"Spirit of Sir Talianus","url":"https://lineage2wiki.org/c4/monster/7656/spirit-of-sir-talianus/"
@@ -176,6 +182,51 @@
   },
   {
      "text":"Grand Master Angus","url":"https://lineage2wiki.org/c4/monster/7474/angus-grand-master/"
+  },
+  {
+     "text":"Perrin","url":"https://lineage2wiki.org/c4/monster/7428/perrin/"
+  },
+  {
+     "text":"Tatoma","url":"https://lineage2wiki.org/c4/monster/5134/tatoma-quest-monster/"
+  },
+  {
+     "text":"Allana","url":"https://lineage2wiki.org/c4/monster/7424/allana/"
+  },
+  {
+     "text":"Father Gupu","url":"https://lineage2wiki.org/c4/monster/7658/gupu-father/"
+  },
+  {
+     "text":"Windy Shaoring","url":"https://lineage2wiki.org/c4/monster/7660/windy-shaoring/"
+  },
+  {
+     "text":"Master Sorius","url":"https://lineage2wiki.org/c4/monster/7327/sorius-master/"
+  },
+  {
+     "text":"Any Marsh Stakato","url":"https://lineage2wiki.org/c4/monster/157/marsh-stakato/"
+  },
+  {
+     "text":"Daurin Hammercrush","url":"https://lineage2wiki.org/c4/monster/7674/daurin-hammercrush/"
+  },
+  {
+     "text":"Lizardman Agent","url":"https://lineage2wiki.org/c4/monster/5122/leto-lizardman-agent-quest-monster/"
+  },
+  {
+     "text":"Lizardman Lord","url":"https://lineage2wiki.org/c4/monster/5127/leto-lizardman-lord-quest-monster/"
+  },
+  {
+     "text":"Slein Shining Blade","url":"https://lineage2wiki.org/c4/monster/7663/slein-shining-blade/"
+  },
+  {
+     "text":"Piper Longbow","url":"https://lineage2wiki.org/c4/monster/7662/piper-longbow/"
+  },
+  {
+     "text":"Mysterious Dark Elf","url":"https://lineage2wiki.org/c4/monster/7661/mysterious-dark-elf/"
+  },
+  {
+     "text":"Saint Kristina","url":"https://lineage2wiki.org/c4/monster/7665/kristina-saint/"
+  },
+  {
+     "text":"Priest Bandellos","url":"https://lineage2wiki.org/c4/monster/7473/bandellos-priest/"
   }
- ] 
+] 
  }

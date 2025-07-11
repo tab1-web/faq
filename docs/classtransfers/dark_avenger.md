@@ -1,6 +1,7 @@
 ---
 icon: material/server
 hide:
+  - navigation
   - toc
 
 ---
@@ -9,10 +10,11 @@ hide:
 <script src="../js/checkbox.js"></script>
 
 <style>
-.md-typeset__table {
-    max-width: 100%;
+table tr {
+    cursor: pointer;
 }
 </style>
+
 # Dark Avenger
 
 | Step | Location                     | Target/NPC                     | Action                                                                 | Rewards/Items Obtained                     |
