@@ -108,6 +108,7 @@ Your **main class is the selected one**, the cell turns `grey` if you can't have
     </tr>
     </tbody>
 </table>
+
 !!! warning
     You must **subclass twice** before subclassing Kamael Inspector.
 

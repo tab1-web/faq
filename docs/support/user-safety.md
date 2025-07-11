@@ -3,8 +3,6 @@ icon: material/incognito
 
 ---
 
-
-
 ## :octicons-question-16: Why do I have to worry about Account Security?
 
 Reborn sets up systems and rules to protect players, but we're not responsible for players' 

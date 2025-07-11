@@ -1,0 +1,178 @@
+{ 
+ "mappings": [ 
+  {
+     "text":"Shadow Orim","url":"https://lineage2wiki.org/c4/monster/7630/orim-of-the-shadow/"
+  },
+  {
+     "text":"Magister Iker","url":"https://lineage2wiki.org/c4/monster/7110/iker-magister/"
+  },
+  {
+     "text":"Trader Alexandria","url":"https://lineage2wiki.org/c4/monster/7098/alexandria-trader/"
+  },
+  {
+     "text":"Enchanted Stone Golem","url":"https://lineage2wiki.org/c4/monster/565/enchanted-stone-golem/"
+  },
+  {
+     "text":"Leto Lizardman","url":"https://lineage2wiki.org/c4/monster/577/leto-lizardman/"
+  },
+  {
+     "text":"Wyrm","url":"https://lineage2wiki.org/c4/monster/557/dire-wyrm/"
+  },
+  {
+     "text":"High Priest Hollint","url":"https://lineage2wiki.org/c4/monster/7191/hollint-high-priest/"
+  },
+  {
+     "text":"Grand Master Hannavalt","url":"https://lineage2wiki.org/c4/monster/7109/hannavalt-grand-master/"
+  },
+  {
+     "text":"Magister Kaira","url":"https://lineage2wiki.org/c4/monster/7476/kaira-magister/"
+  },
+  {
+     "text":"Trader Lara","url":"https://lineage2wiki.org/c4/monster/7063/lara-trader/"
+  },
+  {
+     "text":"Nameless Revenant","url":"https://lineage2wiki.org/c4/monster/5099/nameless-revenant-quest-monster/"
+  },
+  {
+     "text":"Hierarch Asterios","url":"https://lineage2wiki.org/c4/monster/7154/asterios-hierarch/"
+  },
+  {
+     "text":"Dryad Elder","url":"https://lineage2wiki.org/c4/monster/19/dryad-elder/"
+  },
+  {
+     "text":"Dryad","url":"https://lineage2wiki.org/c4/monster/13/dryad/"
+  },
+  {
+     "text":"Actea","url":"https://lineage2wiki.org/c4/monster/5121/actea-of-verdant-wilds-quest-monster/"
+  },
+  {
+     "text":"Lirein","url":"https://lineage2wiki.org/c4/monster/36/lirein/"
+  },
+  {
+     "text":"Lirein Elder","url":"https://lineage2wiki.org/c4/monster/44/lirein-elder/"
+  },
+  {
+     "text":"Luell","url":"https://lineage2wiki.org/c4/monster/5120/luell-of-zephyr-winds-quest-monster/"
+  },
+  {
+     "text":"Tetrarch Thifiel","url":"https://lineage2wiki.org/c4/monster/7358/thifiell-tetrarch/"
+  },
+  {
+     "text":"Trader Nestle","url":"https://lineage2wiki.org/c4/monster/7314/nestle-trader/"
+  },
+  {
+     "text":"Leopold","url":"https://lineage2wiki.org/c4/monster/7435/leopold/"
+  },
+  {
+     "text":"Sir Aron Tanford","url":"https://lineage2wiki.org/c4/monster/7653/sir-aron-tanford/"
+  },
+  {
+     "text":"Skeletal Mercenary","url":"https://lineage2wiki.org/c4/monster/5100/skeletal-mercenary-quest-monster/"
+  },
+  {
+     "text":"Magister Clayton","url":"https://lineage2wiki.org/c4/monster/7464/clayton-magister/"
+  },
+  {
+     "text":"Zeruel","url":"https://lineage2wiki.org/c4/monster/5101/drevanul-prince-zeruel-quest-monster/"
+  },
+  {
+     "text":"Sir Klaus Vasper","url":"https://lineage2wiki.org/c4/monster/7417/sir-klaus-vasper/"
+  },
+  {
+     "text":"Skeleton Marauder","url":"https://lineage2wiki.org/c4/monster/190/skeleton-marauder/"
+  },
+  {
+     "text":"Skeleton Raider","url":"https://lineage2wiki.org/c4/monster/191/skeleton-raider/"
+  },
+  {
+     "text":"Spirit of Sir Herod","url":"https://lineage2wiki.org/c4/monster/5119/spirit-of-sir-herod-quest-monster/"
+  },
+  {
+     "text":"Ant Recruit","url":"https://lineage2wiki.org/c4/monster/82/ant-recruit/"
+  },
+  {
+     "text":"Ant Patrol","url":"https://lineage2wiki.org/c4/monster/84/ant-patrol/"
+  },
+  {
+     "text":"Ant Soldier","url":"https://lineage2wiki.org/c4/monster/87/ant-soldier/"
+  },
+  {
+     "text":"Ant Guard","url":"https://lineage2wiki.org/c4/monster/86/ant-guard/"
+  },
+  {
+     "text":"Ant Warrior Captain","url":"https://lineage2wiki.org/c4/monster/88/ant-warrior-captain/"
+  },
+  {
+     "text":"Marsh Stakato","url":"https://lineage2wiki.org/c4/monster/157/marsh-stakato/"
+  },
+  {
+     "text":"Sir Kiel Nighthawk","url":"https://lineage2wiki.org/c4/monster/7654/sir-kiel-nighthawk/"
+  },
+  {
+     "text":"Ghoul","url":"https://lineage2wiki.org/c4/monster/201/ghoul/"
+  },
+  {
+     "text":"Strain","url":"https://lineage2wiki.org/c4/monster/200/strain/"
+  },
+  {
+     "text":"Hangman Tree","url":"https://lineage2wiki.org/c4/monster/550/guardian-basilisk/"
+  },
+  {
+     "text":"Spirit of Sir Talianus","url":"https://lineage2wiki.org/c4/monster/7656/spirit-of-sir-talianus/"
+  },
+  {
+     "text":"Isael Silvershadow","url":"https://lineage2wiki.org/c4/monster/7655/isael-silvershadow/"
+  },
+  {
+     "text":"Priest Vadin","url":"https://lineage2wiki.org/c4/monster/7188/vadin-priest/"
+  },
+  {
+     "text":"Tamlin Orc","url":"https://lineage2wiki.org/c4/monster/601/tamlin-orc/"
+  },
+  {
+     "text":"Tamlin Orc Archer","url":"https://lineage2wiki.org/c4/monster/602/tamlin-orc-archer/"
+  },
+  {
+     "text":"Cardinal Seresin","url":"https://lineage2wiki.org/c4/monster/7657/seresin-cardinal/"
+  },
+  {
+     "text":"Priest Dustin","url":"https://lineage2wiki.org/c4/monster/7116/dustin-priest/"
+  },
+  {
+     "text":"Breka Orc Overlord","url":"https://lineage2wiki.org/c4/monster/270/breka-orc-overlord/"
+  },
+  {
+     "text":"Seer Manakia","url":"https://lineage2wiki.org/c4/monster/7515/manakia-seer/"
+  },
+  {
+     "text":"Windsus","url":"https://lineage2wiki.org/c4/monster/553/windsus/"
+  },
+  {
+     "text":"Flame Lord Kakai","url":"https://lineage2wiki.org/c4/monster/7565/kakai-flame-lord/"
+  },
+  {
+     "text":"Iron Gate's Lockirin","url":"https://lineage2wiki.org/c4/monster/7531/lockirin-iron-gates/"
+  },
+  {
+     "text":"Maestro Nikola","url":"https://lineage2wiki.org/c4/monster/7621/nikola-maestro/"
+  },
+  {
+     "text":"Porta","url":"https://lineage2wiki.org/c4/monster/213/porta/"
+  },
+  {
+     "text":"Fisherman Evert","url":"https://lineage2wiki.org/c4/monster/7633/evert-fisher/"
+  },
+  {
+     "text":"Drevanul Prince Zeruel","url":"https://lineage2wiki.org/c4/monster/5101/drevanul-prince-zeruel-quest-monster/"
+  },
+  {
+     "text":"Sir Collin Windawood","url":"Sir Collin Windawood"
+  },
+  {
+     "text":"High Priest Biotin","url":"https://lineage2wiki.org/c4/monster/7031/biotin-high-priest/"
+  },
+  {
+     "text":"Grand Master Angus","url":"https://lineage2wiki.org/c4/monster/7474/angus-grand-master/"
+  }
+ ] 
+ }
