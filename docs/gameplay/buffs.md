@@ -8,7 +8,8 @@ icon: simple/magic
 - **Duration**: Most buffs are for 20 minutes.
     - **Prophecies**: 5 minutes
     - **Songs/Dances**: 2 minutes
-    - **Gifts/
+    - **Gifts/Blessings**: 2 minutes
+> On Eternal all buffs given from Maria are for 3 hours.
 
 
 ## Buff Limits
