@@ -20,6 +20,7 @@ nav:
       - L2Calc (Character): features/l2calcinterlude.md
       - L2Calc (Summons): features/l2calcsum.md
     - Character Progression:
+      - Class Transfers: gameplay/progression/classtransfer.md
       - Subclasses: gameplay/progression/subclasses.md
       - Noblesse: gameplay/progression/noblesse.md
       - Heroes & Olympiad: gameplay/progression/heroes.md
