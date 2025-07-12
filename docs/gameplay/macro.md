@@ -49,14 +49,23 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 ## Channel Prefixes
 
 <figure markdown="span" markdown>
+<div class="grid cards" markdown>
+- | Prefix | Channel       |
+        |--||
+        | `#`    | Party chat    |
+        | `@`    | Clan chat     |
+        | `$`    | Alliance chat |
+        | `!`    | Area chat     |
+        | `+`    | Buy/Sell chat <br> (not really used on Reborn) |
 
-| Prefix | Channel       |
-|--||
-| `#`    | Party chat    |
-| `@`    | Clan chat     |
-| `$`    | Alliance chat |
-| `!`    | Area chat     |
-| `+`    | Buy/Sell chat |
+    <figcaption>Example: !WTS Arcana Mace 250m</figcaption>
+
+- <figure markdown="span">
+            <a href="https://postimg.cc/XZzyMJ5K">
+            ![Macro](https://i.postimg.cc/W32mkqby/macro.jpg){ .lightbox }
+            </a>
+            <figcaption>Macro Menu using `%self` substitution</figcaption>
+        </figure>
 
 </figure>
 
@@ -96,8 +105,4 @@ Access your macros by pressing the **R** key. Macros enable you to create and ex
 
 
 
-<figure markdown="span">
-    <a href="https://postimg.cc/XZzyMJ5K">
-    ![Macro](https://i.postimg.cc/W32mkqby/macro.jpg){ .lightbox width=80% }
-    </a>
-</figure>
+
