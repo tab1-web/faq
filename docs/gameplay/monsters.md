@@ -3,9 +3,10 @@ icon: fontawesome/regular/chess-knight
 ---
 
 # Monsters and your Character
+
 <div class="grid cards" markdown>
 
-- ### Monster Loot
+- ## Monster Loot
     All monsters in Lineage 2 have a unique set of skills, stats, drop tables and interactions.
 
     In Lineage 2 you always roll the dice twice. Once for which Item Group you get, secondly which item you get from the Item Group.
@@ -169,6 +170,22 @@ You can look up on the <a href="https://www.lineage2wiki.com/">wiki</a> certain 
 To get them you can acquire no grade [soulshots](https://lineage2wiki.com/c4/item/quest/5789/soulshot-no-grade-for-novices/) / [spiritshots](https://lineage2wiki.org/c4/item/quest/5790/spiritshot-no-grade-for-novices/) in the early game from your quests or you can buy from Grocery Shop as well. On **Eternal**, all of this is available on [Maria GM Shop](/faq/eternal/maria/).
 
 They are important for progressing, but also cost **Adena**{style="color:yellow;"}. For D-Grade and up, they are available through crafting or buying from players’ shops in MDT for example.
+
+## Weaknesses
+
+Monsters can have weaknesses and strengths to a type of damage. There are a lot of monsters that have **Blunt Weak Point**{style="color:rgb(196, 40, 82);"} and **Sacred Attack Weak Point**{style="color:rgb(255, 255, 255);"}.
+
+You can equip a **Blunt**{style="color:rgb(196, 40, 82);"} and get **Holy Weapon**{style="color:rgb(255, 255, 255);"} buff to deal extra damage. This [Monster](https://lineage2wiki.org/interlude/monster/21799/ghost-of-a-gatekeeper/) also deals in **Dark Attacks**{style="color:rgb(102, 102, 102);"}. You can defend against it with multiple Unholy Resistance buffs to take less damage.
+
+[![weaknesses.png](https://i.postimg.cc/hvVtxy2j/weaknesses.png)](https://postimg.cc/Lg6SFTKK)
+
+## Character & Mob Level Difference Penalties
+
+As your **character level increases**, you get further away from the Mob's Level giving you penalty for Experience and Drop Chance. There are no penalties if you go higher level than the mob.
+
+**Avoid buffing near the Raid Boss as a higher level character**, because you can get Raid Curse which will silence you for 60 minutes. If you did get it, you can die in Giran/Gludin/MDT Arena to avoid losing experience and lose the debuff.
+
+[![lvl-diff.png](https://i.postimg.cc/63Mph4Ks/lvl-diff.png)](https://postimg.cc/vg6yYBDX)
 
 ## Equipment Examples
 
