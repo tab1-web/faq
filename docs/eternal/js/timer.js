@@ -1,82 +1,97 @@
 (function() {
-  const OPENING_TIME = new Date(Date.UTC(2025, 6, 18, 18, 0, 0));
-  const BETA_TEST_TIME = new Date(Date.UTC(2025, 6, 11, 18, 0, 0));
-  const BETA_EVENT_TIME = new Date(Date.UTC(2025, 6, 13, 0, 0, 0));
-  
-  function updateTimer() {
+  const eventConfigs = [
+    {
+      selector: '[data-target="2025-07-18T18:00:00Z"] .countdown-display',
+      pastText: "SERVER IS ONLINE!",
+      showSeconds: false
+    },
+    {
+      selector: '[data-target="2025-07-11T18:00:00Z"] .countdown-display',
+      pastText: "BETA TEST IS LIVE!",
+      showSeconds: false
+    },
+    {
+      selector: '[data-target="2025-07-13T00:00:00Z"] .countdown-display',
+      pastText: "EVENT IS ON!",
+      showSeconds: false
+    },
+    {
+      selector: '[data-target="2025-07-19T00:00:00Z"] .countdown-display',
+      pastText: "SUBCLASS & NOBLESSE DONATION IS ON!",
+      showSeconds: false
+    },
+    {
+      selector: '[data-target="2025-07-25T00:00:00Z"] .countdown-display',
+      pastText: "FIRST MAMMON ON! (NO A/S GRADE SERVICES)",
+      showSeconds: false
+    },
+    {
+      selector: '[data-target="2025-08-01T00:00:00Z"] .countdown-display',
+      pastText: "A GRADE MAMMON SERVICES ON!",
+      showSeconds: false
+    },
+    {
+      selector: '[data-target="2025-08-15T00:00:00Z"] .countdown-display',
+      pastText: "S GRADE MAMMON SERVICES ON!",
+      showSeconds: false
+    },
+    {
+      selector: '[data-target="2025-08-11T00:00:00Z"] .countdown-display',
+      pastText: "FIRST CYCLE OF OLYMPIAD IS ON!",
+      showSeconds: false
+    }
+  ];
+  function updateAllCountdowns() {
     const now = new Date();
-    const timeLeft = OPENING_TIME - now;
-    const betaTestTimeLeft = BETA_TEST_TIME - now;
-    const betaEventTimeLeft = BETA_EVENT_TIME - now;
     
-    if (timeLeft <= 0) {
-      document.querySelectorAll('.main-countdown').forEach(el => {
-        el.textContent = "SERVER IS ONLINE!";
-        el.style.color = "#4CAF50";
-      });
-    } else {
-      const daysLeft = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
-      const hoursLeft = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-      const minutesLeft = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+    document.querySelectorAll('.countdown-card').forEach(card => {
+      const targetDate = new Date(card.dataset.target);
+      const displayEl = card.querySelector('.countdown-display');
+      const timeLeft = targetDate - now;
+      const config = eventConfigs.find(c => c.selector === `[data-target="${card.dataset.target}"] .countdown-display`);
       
-      let countdownText;
-      if (daysLeft > 0) {
-        countdownText = `${daysLeft}d ${hoursLeft}h ${minutesLeft}m`;
-      } else if (hoursLeft > 0) {
-        countdownText = `${hoursLeft}h ${minutesLeft}m`;
-      } else {
-        countdownText = `${minutesLeft}m`;
+      if (!displayEl || !config) return;
+      
+      if (timeLeft <= 0) {
+        displayEl.textContent = config.pastText;
+        displayEl.style.color = "#4CAF50";
+        card.classList.add('active-event');
+        return;
       }
       
-      document.querySelectorAll('.main-countdown').forEach(el => {
-        el.textContent = countdownText;
-      });
-    }
+      const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+      
+      let countdownText;
+      if (days > 0) {
+        countdownText = `${days}d ${hours}h ${minutes}m`;
+      } else if (hours > 0) {
+        countdownText = `${hours}h ${minutes}m`;
+      } else {
+        countdownText = `${minutes}m`;
+      }
+      
+      if (config.showSeconds) {
+        countdownText += ` ${seconds}s`;
+      }
+      
+      displayEl.textContent = countdownText;
+      displayEl.style.color = "";
+      card.classList.remove('active-event');
+    });
+  }
 
-    if (betaTestTimeLeft <= 0) {
-      document.querySelectorAll('.beta-test-countdown').forEach(el => {
-        el.textContent = "BETA TEST IS LIVE!";
-        el.style.color = "#4CAF50";
-      });
-    } else {
-      const daysLeft = Math.floor(betaTestTimeLeft / (1000 * 60 * 60 * 24));
-      const hoursLeft = Math.floor((betaTestTimeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-      const minutesLeft = Math.floor((betaTestTimeLeft % (1000 * 60 * 60)) / (1000 * 60));
-      
-      let countdownText = `${daysLeft}d ${hoursLeft}h ${minutesLeft}m`;
-      document.querySelectorAll('.beta-test-countdown').forEach(el => {
-        el.textContent = countdownText;
-      });
-    }
-    
-    if (betaEventTimeLeft <= 0) {
-      document.querySelectorAll('.beta-event-countdown').forEach(el => {
-        el.textContent = "BETA EVENT IS LIVE!";
-        el.style.color = "#4CAF50";
-      });
-    } else {
-      const daysLeft = Math.floor(betaEventTimeLeft / (1000 * 60 * 60 * 24));
-      const hoursLeft = Math.floor((betaEventTimeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-      const minutesLeft = Math.floor((betaEventTimeLeft % (1000 * 60 * 60)) / (1000 * 60));
-      
-      let countdownText = `${daysLeft}d ${hoursLeft}h ${minutesLeft}m`;
-      document.querySelectorAll('.beta-event-countdown').forEach(el => {
-        el.textContent = countdownText;
-      });
-    }
-    
-    setTimeout(updateTimer, 60000 - (now.getUTCSeconds() * 1000 + now.getUTCMilliseconds()));
+  if (document.readyState === 'complete') {
+    updateAllCountdowns();
+  } else {
+    document.addEventListener('DOMContentLoaded', updateAllCountdowns);
   }
   
-  if (document.readyState === 'complete') {
-    updateTimer();
-  } else {
-    document.addEventListener('DOMContentLoaded', updateTimer);
-  }
+  setInterval(updateAllCountdowns, 60000);
   
   if (typeof document$ !== 'undefined') {
-    document$.subscribe(function() {
-      setTimeout(updateTimer, 100);
-    });
+    document$.subscribe(updateAllCountdowns);
   }
 })();

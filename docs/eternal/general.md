@@ -6,8 +6,6 @@ icon: material/clock-time-one-outline
 
 .period-widget {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  background: rgba(0, 0, 0, 0.2);
-  border-radius: 8px;
   padding: 1rem;
   margin: 1.5rem 0;
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -67,11 +65,18 @@ icon: material/clock-time-one-outline
 
 .events-widget {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  background: rgba(0, 0, 0, 0.2);
-  border-radius: 8px;
   padding: 1rem;
   margin: 1.5rem 0;
   border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.events-widget:hover {
+  border-color: #0000;
+  box-shadow: var(--md-shadow-z2);
+}
+.period-widget:hover {
+  border-color: #0000;
+  box-shadow: var(--md-shadow-z2);
 }
 
 .events-title {
@@ -189,50 +194,73 @@ icon: material/clock-time-one-outline
 </figure>
 
 ## Time Tables
-
-<div class="server-timer">
-  <div class="period-header">
+<div class="grid cards">
+  <div class="md-typeset card countdown-card" data-target="2025-07-18T18:00:00Z">
     <h3>Server Countdown</h3>
+    <p><strong>Opening Time:</strong> July 18th at 18:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
-  <div class="period-content">
-    <div class="period-row">
-      <span class="period-label">Opening Time:</span>
-      <span class="opening-time">July 18th at 18:00 UTC</span>
-    </div>
-    <div class="period-row">
-      <span class="period-label">Time Remaining:</span>
-      <span class="countdown-timer main-countdown"></span>
-    </div>
-    <div class="period-header">
-      <h3>OBT Opening</h3>
-    </div>
-        <div class="period-row">
-      <span class="period-label">OBT Start:</span>
-      <span class="opening-time">July 11th at 18:00 UTC</span>
-    </div>
-    <div class="period-row">
-      <span class="period-label">Time Remaining:</span>
-      <span class="countdown-timer beta-test-countdown"></span>
-    </div>
-      <div class="period-header">
-        <h3>OBT Event Day</h3>
-      </div>
-        <div class="period-row">
-      <span class="period-label">OBT Event Date:</span>
-      <span class="opening-time">July 13th (Sunday)</span>
-    </div>
-    <div class="period-row">
-      <span class="period-label">Starts In:</span>
-      <span class="countdown-timer beta-event-countdown"></span>
-    </div>
+
+  <!-- OBT Opening -->
+  <div class="md-typeset card countdown-card" data-target="2025-07-11T18:00:00Z">
+    <h3>OBT Opening</h3>
+    <p><strong>OBT Start:</strong> July 11th at 18:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <!-- OBT Event Day -->
+  <div class="md-typeset card countdown-card" data-target="2025-07-13T00:00:00Z">
+    <h3>OBT Event Day</h3>
+    <p><strong>Event Date:</strong> July 13th (Sunday)</p>
+    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <!-- Subclass & Noblesse Donation -->
+  <div class="md-typeset card countdown-card" data-target="2025-07-19T00:00:00Z">
+    <h3>Subclass & Noblesse Donation</h3>
+    <p><strong>Start Date:</strong> July 19th</p>
+    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <!-- First Mammon (No A/S Grade) -->
+  <div class="md-typeset card countdown-card" data-target="2025-07-25T00:00:00Z">
+    <h3>First Mammon</h3>
+    <p><strong>Start Date:</strong> July 25th</p>
+    <p><strong>Note:</strong> No A/S Grade Services</p>
+    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <!-- A Grade Mammon Services -->
+  <div class="md-typeset card countdown-card" data-target="2025-08-01T00:00:00Z">
+    <h3>A Grade Mammon Services</h3>
+    <p><strong>Start Date:</strong> August 1st</p>
+    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <!-- S Grade Mammon Services -->
+  <div class="md-typeset card countdown-card" data-target="2025-08-15T00:00:00Z">
+    <h3>S Grade Mammon Services</h3>
+    <p><strong>Start Date:</strong> August 15th</p>
+    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <!-- First Cycle of Olympiad -->
+  <div class="md-typeset card countdown-card" data-target="2025-08-11T00:00:00Z">
+    <h3>First Olympiad Cycle</h3>
+    <p><strong>Start Date:</strong> August 11th</p>
+    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
   </div>
 </div>
+
+## Event Schedules
 
 <div class="events-widget">
     <h3 class="events-title">Event Schedules</h3>
     <ul class="events-list">
     </ul>
 </div>
+
+## Seven Sign Status
 
 <div class="period-widget">
     <div class="period-header">
