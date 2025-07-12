@@ -7,7 +7,7 @@ icon: octicons/people-16
 # Classes
 
 ## Meta Classes
-Below, you’ll find an overview of the top meta classes, organized by role. Each entry highlights key traits to help you choose based on playstyle and leveling experience. I’ve also included embedded videos for each class to give you a visual feel for how they play.
+**Below, you’ll find an overview of the top meta classes, organized by role**{style="color:rgb(198, 59, 161);"}. Each post highlights key traits to help you choose based on playstyle and leveling experience. I’ve also included embedded videos for each class to give you a visual feel for how they play, **support the original creators.** ☺️
 
 ### Why These Classes?
 I’ve focused on the most versatile and beginner-friendly options—classes that perform well in most content. Some niche or highly specialized picks aren’t listed here, as they’re less ideal for newcomers.
