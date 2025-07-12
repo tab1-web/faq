@@ -159,7 +159,8 @@ You can look up on the <a href="https://www.lineage2wiki.com/">wiki</a> certain 
 
 **Spiritshots**{style="color:blue;"} are consumables used mostly by **Wizards**{style="color:blue;"} and **Soulshots**{style="color:red;"} used mostly by **Fighters**{style="color:red;"}. They give you effects based on what you enable for your weapon. 
 
-**"Right click"**{style="color:rgb(107, 103, 223);"} on hotbar to automatically enable. On **Eternal**{style="color:rgb(107, 103, 223);"}, you don't have to drag it onto your inventory, just right click it above the hotbar in the top left corner.
+**"Right click"**{style="color:rgb(107, 103, 223);"} on hotbar to automatically enable. 
+> On **Eternal**{style="color:rgb(107, 103, 223);"}, you don't have to drag it onto your inventory, just right click it above the hotbar in the top left corner.
 
 | Name                | Condition | Effect                                                                 |
 |---------------------|-----------|-----------------------------------------------------------------------|
@@ -167,7 +168,9 @@ You can look up on the <a href="https://www.lineage2wiki.com/">wiki</a> certain 
 | Spiritshots         | Spell     | 1.4x damage – Bit lower chance for debuff. Increased casting speed.      |
 | Soulshots           | Attack    | 2x damage on melee hits.                                               |
 
-To get them you can acquire no grade [soulshots](https://lineage2wiki.com/c4/item/quest/5789/soulshot-no-grade-for-novices/) / [spiritshots](https://lineage2wiki.org/c4/item/quest/5790/spiritshot-no-grade-for-novices/) in the early game from your quests or you can buy from Grocery Shop as well. On **Eternal**, all of this is available on [Maria GM Shop](/faq/eternal/maria/).
+To get them you can acquire no grade [soulshots](https://lineage2wiki.com/c4/item/quest/5789/soulshot-no-grade-for-novices/) / [spiritshots](https://lineage2wiki.org/c4/item/quest/5790/spiritshot-no-grade-for-novices/) in the early game from your quests or you can buy from Grocery Shop as well. 
+
+> On **Eternal**, all of this is available on [Maria GM Shop > Consumables](/faq/eternal/maria/).
 
 They are important for progressing, but also cost **Adena**{style="color:yellow;"}. For D-Grade and up, they are available through crafting or buying from players’ shops in MDT for example.
 
