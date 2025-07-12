@@ -3,6 +3,7 @@ icon: octicons/report-16
 
 ---
 
+
 # How to report Dual-Box / Bot?
 
 !!! warning
@@ -11,7 +12,10 @@ icon: octicons/report-16
 1. Target the player, in `ALT + C` select **"Auto Hunting Report"** (If available)
 2. **Contact Staff on Discord** and **include** the suspects' **nicknames** and **server name**.  
     - **EU Daytime**: Message [@ginreborn](https://discord.com/users/917729115770073119) or [@astarothreborn](https://discord.com/users/1067169953683349577)  
-    - **EU Late Night**: Message [@serielreborn](https://discord.com/users/1139948642166394920) **(Times based on [Germany time-zone](https://time.is/Germany))**
+    - **EU Late Night**: Message [@serielreborn](https://discord.com/users/1139948642166394920).
+
+    <span style="color:red;">Current UTC Time:</span>
+    <span id="utc-time"></span>
 
     ```
     Hello! "Thomas and "Charles might be dualboxing on Main Eternal. 
@@ -19,7 +23,7 @@ icon: octicons/report-16
 
 3. If they don't respond, [**open a ticket**](https://l2reborn.org/support/)
     - **Include**: Time & time zone, server, nicknames. 
-        - Upload images and videos with [imgur.com](https://imgur.com/upload) + [streamable.com](https://streamable.com/) and [share the public link](https://help.imgur.com/hc/article_attachments/26512938185243).
+        - Upload images, videos with [imgur.com](https://imgur.com/upload) and [share the public link](https://help.imgur.com/hc/article_attachments/26512938185243).
 
 
 Auto Hunting Report is **not a live report**, it sends the report to database for checking it out later.
@@ -36,3 +40,14 @@ Auto Hunting Report is **not a live report**, it sends the report to database fo
 
 
 
+<script>
+function updateUTCTime() {
+    const now = new Date();
+    const utcHours = now.getUTCHours().toString().padStart(2, '0');
+    const utcMinutes = now.getUTCMinutes().toString().padStart(2, '0');
+    document.getElementById('utc-time').textContent = `${utcHours}:${utcMinutes}`;
+}
+
+updateUTCTime();
+setInterval(updateUTCTime, 1000);
+</script>

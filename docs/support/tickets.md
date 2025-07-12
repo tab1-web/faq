@@ -8,7 +8,7 @@ If you have a problem related to **bans**, **account**, **game**, **donations**,
 
 - You can [open a ticket by clicking this link](https://l2reborn.org/support/)
 
-- Upload images, videos with [imgur.com](https://imgur.com/upload) + [streamable.com](https://streamable.com/) and [share the public link](https://help.imgur.com/hc/article_attachments/26512938185243)
+- Upload images, videos with [imgur.com](https://imgur.com/upload) and [share the public link](https://help.imgur.com/hc/article_attachments/26512938185243)
 
 - [You will get a response here](https://l2reborn.org/my-support-tickets/) and **click on the appropriate ticket**.
 
