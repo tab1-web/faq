@@ -13,11 +13,20 @@ icon: material/pillar
 
 ## :octicons-rocket-24: How to Become a Hero
 
-1. Compete in monthly PvP events (Olympiad)
-2. Earn the **most points** in your class
-3. Ties go to the most active fighter
-  
----
+<div class="grid cards" markdown>
+- 1. Compete in monthly PvP events (Olympiad)
+    2. Earn the **most points** in your class
+    3. Ties go to the most active fighter
+    
+    <br>
+    > On Eternal, if you get the same points, fighter with most wins gets Hero.
+
+- <figure markdown="span">
+    <a href="https://postimg.cc/zvBSFcZC">
+    ![Hero](https://i.postimg.cc/zvBSFcZC/hero.png){ .lightbox width=60% }
+    </a>
+    <figcaption>Phantom Ranger Hero</figcaption>
+</div>  
 
 ## :fontawesome-solid-scroll: Grand Olympiad Rules
 
@@ -39,7 +48,6 @@ icon: material/pillar
     - Disconnection = **automatic loss**  
     - Server crash = **null match**  
 
----
 
 ## :material-podium: Olympiad Points System
 
@@ -65,10 +73,5 @@ icon: material/pillar
 [C5 Patch Notes](https://lineage2wiki.com/c5/patch-notes/#heroes_and_olympiad){ .md-button .lightbox }
 </figure>
 
-<figure markdown="span">
-<a href="https://postimg.cc/zvBSFcZC">
-![Hero](https://i.postimg.cc/zvBSFcZC/hero.png){ .lightbox width=50% }
-</a>
 
-<figcaption>Hero</figcaption>
-</figure>
+
