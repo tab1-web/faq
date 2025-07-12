@@ -183,7 +183,7 @@ You can equip a **Blunt**{style="color:rgb(196, 40, 82);"} and get **Holy Weapon
 
 As your **character level increases**, you get further away from the Mob's Level giving you penalty for Experience and Drop Chance. There are no penalties if you go higher level than the mob.
 
-**Avoid buffing near the Raid Boss as a higher level character**, because you can get Raid Curse which will silence you for 60 minutes. If you did get it, you can die in Giran/Gludin/MDT Arena to avoid losing experience and lose the debuff.
+**Avoid buffing/casting magic/attacking near the Raid Boss as a higher level character**, because you can get Raid Curse which will silence you for 60 minutes. If you did get it, you can die in Giran/Gludin/MDT Arena to avoid losing experience and lose the debuff.
 
 [![lvl-diff.png](https://i.postimg.cc/63Mph4Ks/lvl-diff.png)](https://postimg.cc/vg6yYBDX)
 
