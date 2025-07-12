@@ -19,6 +19,7 @@
       className: "event-dm"
     }
   ];
+  const REGISTRATION_DURATION = 5;
 
   function initWidget() {
     const container = document.querySelector('.events-widget');
@@ -44,15 +45,15 @@
 
   function createEventItem(event, currentMinutes) {
     const nextTime = getNextEventTime(event.times, currentMinutes);
-    const isActive = nextTime.minutesUntil === 0;
+    const isRegistrationWindow = nextTime.minutesUntil <= REGISTRATION_DURATION;
     
     return `
       <li class="event-item ${event.className}">
         <span class="event-icon">${event.icon}</span>
         <span class="event-name">${event.name}</span>
-        <span class="event-time ${isActive ? 'active' : ''}">
-          ${isActive ? 'HAPPENING NOW!' : `Next: ${nextTime.time} (in ${nextTime.minutesUntil} min)`}
-          ${isActive ? '<span class="event-blink">🔥</span>' : ''}
+        <span class="event-time ${isRegistrationWindow ? 'active' : ''}">
+          ${isRegistrationWindow ? 'REGISTER NOW!' : `Next: ${nextTime.time} (<strong>in ${nextTime.minutesUntil} min</strong>)`}
+          ${isRegistrationWindow ? '<span class="event-blink">🔥</span>' : ''}
         </span>
       </li>
     `;
@@ -62,6 +63,12 @@
     for (const time of times) {
       const [h, m] = time.split(':').map(Number);
       const eventMinutes = h * 60 + m;
+      if (eventMinutes <= currentMinutes && currentMinutes < eventMinutes + REGISTRATION_DURATION) {
+        return {
+          time: time,
+          minutesUntil: 0 
+        };
+      }
       if (eventMinutes > currentMinutes) {
         return {
           time: time,
