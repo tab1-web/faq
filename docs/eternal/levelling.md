@@ -373,7 +373,7 @@ Comfy way of finding Maria with a click of a Button.
     | 5 Oriharukon           |              123 |
 
 
-- Seductive Whispers Quest
+- ### Seductive Whispers Quest
 
     | Winning Rounds - Adena Reward      | Additional Rewards                          |
     |-----------------------------------:|--------------------------------------------|
@@ -386,7 +386,7 @@ Comfy way of finding Maria with a click of a Button.
     | 7 -                   1.284.000    | 2x B-Grade Enchant Weapon Scrolls,<br>2x B-Grade Enchant Armor Scrolls |
     | 8 -                   2.384.000    | 1x A-Grade Enchant Weapon Scroll,<br>2x A-Grade Enchant Armor Scrolls  |
 
-- Ice Merchant Quest
+- ### Ice Merchant Quest
 
     | Material            | Cost (Crystals)          |
     |---------------------|--------------------------|
@@ -398,7 +398,7 @@ Comfy way of finding Maria with a click of a Button.
     | EWB Scroll          | 500 Black Ice Crystals   |
     | EAB Scroll          | 80 Black Ice Crystals    |
 
-- Necromancer’s Request Quest
+- ### Necromancer’s Request Quest
 
     | Material          | Zombie Brains Required |
     |-------------------|-----------------------|
