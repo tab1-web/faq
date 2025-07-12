@@ -87,12 +87,12 @@ icon: material/sword
 
 <figure markdown>
 
-| Book          | Level | Cost        | Max Buff Slots |
-|---------------|-------|-------------|-----------|
-| Modern        | 52    | 400K Adena  | +1        |
-| Original      | 62    | 7 Glittering Medals    | +1        |
-| Manuscript    | 76    | 10 Glittering Medals   | +1        |
-| Original Ver. | 76    | 15 Glittering Medals   | +1        |
+| Icon      | Book          | Level | Cost        | Max Buff Slots |
+|-----------|---------------|-------|-------------|-----------|
+| [![modern.png](https://i.postimg.cc/rFgHPRtH/modern.png)](https://postimg.cc/xcJgkC5G)          | Modern        | 52    | 400K Adena  | +1        |
+| [![original.png](https://i.postimg.cc/SQdVSFN2/original.png)](https://postimg.cc/hhJVsYmc)          | Original      | 62    | 7 Glittering Medals    | +1        |
+| [![manuscript.png](https://i.postimg.cc/nhj1GXKB/manuscript.png)](https://postimg.cc/w1zJ6TGj)          | Manuscript    | 76    | 10 Glittering Medals   | +1        |
+| [![original-vers.png](https://i.postimg.cc/MTD0pVx2/original-vers.png)](https://postimg.cc/zbyHdLV0)          | Original Ver. | 76    | 15 Glittering Medals   | +1        |
 
 </figure>
 
@@ -209,6 +209,7 @@ Comfy way of finding Maria with a click of a Button.
 ### Levels 53-63
 - **53-63**: Frozen Labyrinth - Schuttgart
     - [:fontawesome-solid-scroll: An Ice Merchant's Dream Quest](https://lineage2wiki.org/interlude/quest/648/an-ice-merchants-dream/)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](/faq/eternal/questexchanges/icemerchant)
     - Great for Adena + Materials farming
 
 
@@ -276,6 +277,7 @@ Comfy way of finding Maria with a click of a Button.
             - 1x [:material-ear-hearing: Earring of Blessing](https://lineage2wiki.org/interlude/item/874/earring-of-blessing/)
 
     - [:fontawesome-solid-scroll: Necromancer's Request Quest](https://lineage2wiki.org/interlude/quest/632/necromancers-request/)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](/faq/eternal/questexchanges/necromancer)
 
 
 
@@ -283,6 +285,7 @@ Comfy way of finding Maria with a click of a Button.
 - **64-70**: Ancient Battleground - Aden
     - [:fontawesome-solid-scroll: Seductive Whispers Quest](https://lineage2wiki.org/interlude/quest/663/seductive-whispers/)
         - Gambling-style quest (requires 50 beads to play)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](/faq/eternal/questexchanges/seductive)
 
 
 
@@ -298,6 +301,8 @@ Comfy way of finding Maria with a click of a Button.
     - [:fontawesome-solid-scroll: Hunt of the Golden Ram Mercenary Force (Part I)](https://lineage2wiki.org/c4/quest/628/hunt-of-the-golden-ram-mercenary-force/)
         - Only Part 1 required
     - [:fontawesome-solid-scroll: The Zero Hour Quest](https://lineage2wiki.org/interlude/quest/640/the-zero-hour/)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](/faq/eternal/questexchanges/zerohour)
+
 
 
 
@@ -353,69 +358,13 @@ Comfy way of finding Maria with a click of a Button.
     - [:fontawesome-solid-scroll: Rise and Fall of the Elroki Tribe Quest](https://lineage2wiki.org/interlude/quest/643/rise-and-fall-of-the-elroki-tribe/)
     - Included in the missions as well
 
-
-
-### Quest Exchanges
-
-<div class="grid cards" markdown>
-- ### The Zero Hour Quest
-
-    | Item                   | Fangs of Stakato |
-    |------------------------|-----------------:|
-    | 1 Enria                |               12 |
-    | 1 Asofe                |                6 |
-    | 1 Thons                |                6 |
-    | 10 Varnish of Purity   |               81 |
-    | 5 Synthetic Cokes      |               33 |
-    | 10 Compound Braids     |               30 |
-    | 10 Durable Metal Plate |              150 |
-    | 10 Mithril Alloy       |              131 |
-    | 5 Oriharukon           |              123 |
-
-
-- ### Seductive Whispers Quest
-
-    | Winning Rounds - Adena Reward      | Additional Rewards                          |
-    |-----------------------------------:|--------------------------------------------|
-    | 1 -                      40.000    | -                                          |
-    | 2 -                      80.000    | -                                          |
-    | 3 -                     110.000    | D-Grade Enchant Weapon Scroll              |
-    | 4 -                     199.000    | C-Grade Enchant Weapon Scroll              |
-    | 5 -                     388.000    | B-Grade Recipe                             |
-    | 6 -                     675.000    | B-Grade Weapon Key Material                |
-    | 7 -                   1.284.000    | 2x B-Grade Enchant Weapon Scrolls,<br>2x B-Grade Enchant Armor Scrolls |
-    | 8 -                   2.384.000    | 1x A-Grade Enchant Weapon Scroll,<br>2x A-Grade Enchant Armor Scrolls  |
-
-- ### Ice Merchant Quest
-
-    | Material            | Cost (Crystals)          |
-    |---------------------|--------------------------|
-    | Crafted Leather     | 23 Silver Ice Crystals   |
-    | Coarse Bone Powder  | 6 Silver Ice Crystals    |
-    | Steel               | 8 Silver Ice Crystals    |
-    | EWA Scroll          | 18 Black Ice Crystals    |
-    | EAA Scroll          | 240 Black Ice Crystals   |
-    | EWB Scroll          | 500 Black Ice Crystals   |
-    | EAB Scroll          | 80 Black Ice Crystals    |
-
-- ### Necromancer’s Request Quest
-
-    | Material          | Zombie Brains Required |
-    |-------------------|-----------------------|
-    | Mold Lubricant    | 42                    |
-    | Enria             | 32                    |
-    | Mold Hardener     | 62                    |
-    | Adamantite Nugget | 13                    |
-
-
-
-</div>
+## Important Quests
 
 Do [:fontawesome-solid-scroll: Noblesse Quest](/faq/gameplay/progression/noblesse/) and [:fontawesome-solid-scroll: Subclass Quests](/faq/gameplay/progression/subclasses/) as soon as possible, they are major milestones in your character's progression. Common misconception is that subclass quests give some sort of passive or active skills for Main Class, they don't in Interlude.
 
-For Subclass Quest, you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon, you can skip that part for later.
+For [:fontawesome-solid-scroll: Subclass Quests](/faq/gameplay/progression/subclasses/), you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon, you can skip that part for later.
 
-For Noblesse Quest on Barakiel, you can earn fragments of the staff by hitting Barakiel once. Earn 15 fragments and turn it into the full Staff to progress the quest. Make sure to not die and be close to the boss. 
+For [:fontawesome-solid-scroll: Noblesse Quest](/faq/gameplay/progression/noblesse/) on Barakiel, you can earn fragments of the staff by hitting Barakiel once. Earn 15 fragments and turn it into the full Staff to progress the quest. Make sure to not die and be close to the boss. 
 
 
 
