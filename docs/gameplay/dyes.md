@@ -142,6 +142,14 @@ You can check below what dye combinations you can put on your character.
     </figure>
 </div>
 
+!!! warning "1st Class Only Dyes"
+    There are some Dyes that are only for 1st class and won't be applied on 2nd class transfer. **Example:**<br>
+
+    <figure markdown>
+    [![184-AB0-B9-0-C30-41-A0-A347-F35-D808-E1-CB9.png](https://i.postimg.cc/RFzbs1t3/184-AB0-B9-0-C30-41-A0-A347-F35-D808-E1-CB9.png){width=40%}](https://postimg.cc/CZmNdqmY)
+    </figure>
+
+
 ## Dyes Calculator
 
 <figure>
