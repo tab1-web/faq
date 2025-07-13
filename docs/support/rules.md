@@ -129,12 +129,11 @@ Use of generic auto-clickers or random macro software is not permitted.
 
 ### **3. Griefing is Prohibited**
 
-Any actions considered "griefing" are **not allowed**.
+**Any actions considered "griefing" are not allowed (FOR ESSENCE SERVER ONLY)**{style="color:red;"} 
 
 See: [Changelog Essence-66](https://l2reborn.org/news/changelog-essence-66/) for more details.
 
 
-
-**Resources**
+## Resources
 
 - [Server Rules](https://l2reborn.org/server-rules/)
