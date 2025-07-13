@@ -123,7 +123,7 @@ icon: material/flask
     }
 </style>
 
-Each base class (Fighter & Wizard) starts with different stats that come from **"Dye"** differences.
+Each base class starts with different stats that come from **"Dye"** differences.
 
 You can check below what dye combinations you can put on your character.
 
