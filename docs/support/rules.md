@@ -46,7 +46,7 @@ icon: fontawesome/solid/scroll
 Exchanging in-game items, services, characters, or accounts for **real money** is strictly **prohibited**.  
 
 !!! warning
-    You are not allowed to use **Reborn Coins** either for any exchange.
+    You are not allowed to use **Reborn Coins** or **Suits/Skins/Cosmetics** either for any exchange.
 
 
 
