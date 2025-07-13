@@ -236,6 +236,7 @@ You can check below what dye combinations you can put on your character.
 </figure>
 
 <script>
+(function() {
     const baseStats = {
         "fighter": {
             "human": { STR: 40, CON: 43, DEX: 30, WIT: 11, INT: 21, MEN: 25 },
@@ -389,5 +390,25 @@ You can check below what dye combinations you can put on your character.
         });
     }
 
-    updateTables();
+    function initStatsWidget() {
+        updateTables();
+        
+        const select = document.getElementById("class-select");
+        if (select) {
+            select.addEventListener("change", updateTables);
+        }
+    }
+
+    if (document.readyState === 'complete') {
+        initStatsWidget();
+    } else {
+        document.addEventListener('DOMContentLoaded', initStatsWidget);
+    }
+
+    if (typeof document$ !== 'undefined') {
+        document$.subscribe(() => {
+            setTimeout(initStatsWidget, 100);
+        });
+    }
+})();
 </script>
