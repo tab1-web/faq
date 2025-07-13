@@ -19,6 +19,7 @@ nav:
     - Tools:
       - L2Calc (Character): features/l2calcinterlude.md
       - L2Calc (Summons): features/l2calcsum.md
+      - C5+ Map: features/c5map.md
     - Character Progression:
       - Class Transfers: gameplay/progression/classtransfer.md
       - Subclasses: gameplay/progression/subclasses.md
