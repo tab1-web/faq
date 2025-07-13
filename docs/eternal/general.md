@@ -440,6 +440,22 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 
 </div>
 
+## :material-heart-remove: Event Commands
+<div class="grid cards" markdown>
+
+- ### .ctfreg
+
+    Capture the Flag Registration
+
+- ### .dmreg
+
+    Deathmatch Registration
+
+- ### .tvtreg
+
+    Team vs Team Registration
+
+</div>
 
 <hr class="divider" >
 
