@@ -19,6 +19,12 @@ h2 {
 
 - After 3 months into the Season, all the characters go to the Main Server.
 
+- After merge there is decent amount of people playing still, can be up to ~1k.
+
+## Why can't I chat?
+
+- When you reach `Level 40` you are able to chat, it's to prevent people from advertising.
+
 ## What is the Adena limit?
 
 - Around ~2,147,483,647, you can use Gold Bars that are worth 500m Adena.
