@@ -250,4 +250,4 @@ You can check below what dye combinations you can put on your character.
 
 </figure>
 
-<script src="../js/dyes.js"></script>
+<script defer src="../js/dyes.js"></script>
