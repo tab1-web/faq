@@ -117,3 +117,5 @@ You may __drag windows around__ by grabbing the side or the top of the windows' 
 </figure>
 
 </div>
+
+> You might not be able to chat immediately to prevent other people advertising, **on Eternal you can chat on Level 40**{style="color:rgb(5,120,30);"}.   
