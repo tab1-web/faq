@@ -11,7 +11,7 @@
       showSeconds: false
     },
     {
-      selector: '[data-target="2025-07-13T00:00:00Z"] .countdown-display',
+      selector: '[data-target="2025-07-13T18:00:00Z"] .countdown-display',
       pastText: "EVENT IS ON!",
       showSeconds: false
     },

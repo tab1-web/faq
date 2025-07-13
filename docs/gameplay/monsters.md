@@ -79,6 +79,8 @@ icon: fontawesome/regular/chess-knight
 
 </figure>
 
+For more information about dyes, [click here](/faq/gameplay/dyes).
+
 ### Stats and what they increase
 
 <figure markdown>

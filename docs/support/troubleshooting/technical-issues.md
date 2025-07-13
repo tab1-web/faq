@@ -5,7 +5,7 @@ icon: material/monitor-arrow-down
 ## General
 
 ## Ultimate Fix Summary 
-Try all steps, :white_check_mark: what you've tested, and share your results in [Discord](https://discord.com/invite/l2reborn) if the issue continues :slight_smile:
+Try all steps, :white_check_mark: what you've tested, and share your results in [Discord](https://discord.com/invite/l2reborn) or [write a support ticket.](https://l2reborn.org/support/) :slight_smile: 
 
 Please make sure that:
 
@@ -256,7 +256,7 @@ Reboot your PC and Router.
 
 ## I tried everything from above 
 
-If you are still having issues after [Ultimate Fix Summary](#ultimate-fix-summary) and the above posts, check out this [page](https://smart-guard.eu/ru/support/game-client) or let us know in the Discord.
+If you are still having issues after [Ultimate Fix Summary](#ultimate-fix-summary) and the above posts, check out this [page](https://smart-guard.eu/ru/support/game-client), let us know in the Discord or [write a support ticket.](https://l2reborn.org/support/).
 
 
 

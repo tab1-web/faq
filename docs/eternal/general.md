@@ -209,9 +209,10 @@ icon: material/clock-time-one-outline
   </div>
 
   <!-- OBT Event Day -->
-  <div class="md-typeset card countdown-card" data-target="2025-07-13T00:00:00Z">
+  <div class="md-typeset card countdown-card" data-target="2025-07-13T18:00:00Z">
     <h3>OBT Event Day</h3>
     <p><strong>Event Date:</strong> July 13th (Sunday)</p>
+    <p><strong>Note:</strong> 3 events one after the other.</p>
     <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
   </div>
 
