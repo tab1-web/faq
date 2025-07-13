@@ -19,7 +19,7 @@
       className: "event-dm"
     }
   ];
-  const REGISTRATION_DURATION = 5;
+  const REGISTRATION_DURATION = 5; // 5 minutes after event start
 
   function initWidget() {
     const container = document.querySelector('.events-widget');
@@ -45,14 +45,14 @@
 
   function createEventItem(event, currentMinutes) {
     const nextTime = getNextEventTime(event.times, currentMinutes);
-    const isRegistrationWindow = nextTime.minutesUntil <= REGISTRATION_DURATION;
+    const isRegistrationWindow = nextTime.isActive;
     
     return `
       <li class="event-item ${event.className}">
         <span class="event-icon">${event.icon}</span>
         <span class="event-name">${event.name}</span>
         <span class="event-time ${isRegistrationWindow ? 'active' : ''}">
-          ${isRegistrationWindow ? 'REGISTER NOW!' : `Next: ${nextTime.time} (<strong>in ${nextTime.minutesUntil} min</strong>)`}
+          ${isRegistrationWindow ? 'REGISTER NOW!' : `Next: ${nextTime.time} (in ${nextTime.minutesUntil} min)`}
           ${isRegistrationWindow ? '<span class="event-blink">🔥</span>' : ''}
         </span>
       </li>
@@ -60,27 +60,60 @@
   }
 
   function getNextEventTime(times, currentMinutes) {
-    for (const time of times) {
+    let nextEvent = null;
+    let activeEvent = null;
+    
+    // Convert all times to minutes
+    const eventMinutes = times.map(time => {
       const [h, m] = time.split(':').map(Number);
-      const eventMinutes = h * 60 + m;
-      if (eventMinutes <= currentMinutes && currentMinutes < eventMinutes + REGISTRATION_DURATION) {
-        return {
-          time: time,
-          minutesUntil: 0 
+      return h * 60 + m;
+    });
+    
+    // Check if we're in any active event window
+    for (const minutes of eventMinutes) {
+      if (currentMinutes >= minutes && currentMinutes < minutes + REGISTRATION_DURATION) {
+        activeEvent = {
+          time: formatMinutesToTime(minutes),
+          minutesUntil: 0,
+          isActive: true
         };
-      }
-      if (eventMinutes > currentMinutes) {
-        return {
-          time: time,
-          minutesUntil: eventMinutes - currentMinutes
-        };
+        break;
       }
     }
-    const [h, m] = times[0].split(':').map(Number);
-    return {
-      time: times[0],
-      minutesUntil: (1440 - currentMinutes) + (h * 60 + m)
-    };
+    
+    if (activeEvent) return activeEvent;
+    
+    // Find next upcoming event
+    for (const minutes of eventMinutes) {
+      if (minutes > currentMinutes) {
+        if (!nextEvent || minutes < nextEvent.minutes) {
+          nextEvent = {
+            minutes: minutes,
+            time: formatMinutesToTime(minutes),
+            minutesUntil: minutes - currentMinutes,
+            isActive: false
+          };
+        }
+      }
+    }
+    
+    // If no more events today, use first event tomorrow
+    if (!nextEvent) {
+      const firstEvent = Math.min(...eventMinutes);
+      nextEvent = {
+        time: formatMinutesToTime(firstEvent),
+        minutesUntil: (1440 - currentMinutes) + firstEvent,
+        isActive: false
+      };
+    }
+    
+    return nextEvent;
+  }
+
+  function formatMinutesToTime(totalMinutes) {
+    const h = Math.floor(totalMinutes / 60);
+    const m = totalMinutes % 60;
+    return `${h.toString().padStart(2, '0')}:${m.toString().padStart(2, '0')}`;
   }
 
   function updateRefreshTimer() {
