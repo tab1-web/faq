@@ -3,7 +3,8 @@ icon: material/server
 hide:
   - navigation
   - toc
-
+search:
+  exclude: true
 ---
 
 <script src="../js/links.js"></script>
