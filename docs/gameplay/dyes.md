@@ -147,7 +147,7 @@ You can check below what dye combinations you can put on your character.
 <figure>
     <div>
         <label for="class-select">Select Class:</label>
-        <select id="class-select" onchange="updateTables()">
+        <select id="class-select">
             <optgroup label="= Human Fighter =">
                 <option value="human-fighter-gladiator">Gladiator</option>
                 <option value="human-fighter-warlord">Warlord</option>
