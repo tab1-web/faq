@@ -194,6 +194,9 @@ icon: material/clock-time-one-outline
 </figure>
 
 ## Time Tables
+<figure><h4 style="margin-top:10px;">Timers might change with new information being put out in 
+<a href="https://discord.com/channels/622089207028121602/1091647392836767864">📢│eternal-il-news</a>, check back frequently! </h4></figure>
+
 <div class="grid cards">
   <div class="md-typeset card countdown-card" data-target="2025-07-18T18:00:00Z">
     <h3>Server Countdown</h3>
