@@ -11,11 +11,6 @@
       showSeconds: false
     },
     {
-      selector: '[data-target="2025-07-13T18:00:00Z"] .countdown-display',
-      pastText: "EVENT IS ON!",
-      showSeconds: false
-    },
-    {
       selector: '[data-target="2025-07-19T00:00:00Z"] .countdown-display',
       pastText: "SUBCLASS & NOBLESSE DONATION IS ON!",
       showSeconds: false
