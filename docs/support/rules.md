@@ -111,6 +111,8 @@ Sharing your account is at your own risk. It is **highly discouraged**.
 
 ## **Essence-Specific Rules**
 
+**These rules are for Essence SERVER only!!! The above rules still apply.**{style="color:red;"}
+
 ### **1. Offline Farming**
 
 Offline farming is allowed via the in-game system. 
