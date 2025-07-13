@@ -317,7 +317,7 @@ You can check below what dye combinations you can put on your character.
         "dwarf-mage-warsmith": "fighter",
         
         "kamael-male": "fighter",
-        "kamael-female": "fighter"
+        "kamael-female": "mage"
     };
 
     function updateTables() {
