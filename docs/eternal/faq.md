@@ -42,6 +42,15 @@ h2 {
 
 - Set up an offline shop in a peace zone and **Exit the game**.
 
+## How to raise my VIP Level?
+
+- You cannot raise it higher than level 1, if it's level 1, that means the VIP/Rune is activated.
+
+## How can I vote?
+
+- Vote for the server at: [l2reborn/reborn-shop](https://l2reborn.org/reborn-shop/#eternal-il-x10)
+- Vote Tutorial is [here](/faq/getting-started/welcome/#you-are-all-set).
+
 ## Is it legal to trade Store Bought / Fortune Wheel skins for Items?
 
 - **No.** Store bought items or items from the Fortune Wheel are not legal to trade.

@@ -69,7 +69,13 @@ icon: material/sword
 
 - At level 20 and 40 class change, go to Maria and redeem your shadow tickets
 
-- At level 52, rent out Shadow B Grade at Weapons Trader
+    At level 52, rent out Shadow B Grade at Weapons Trader and find someone selling B Grade Spiritshots
+
+- Vote for the server at: <br> - [l2reborn/reborn-shop](https://l2reborn.org/reborn-shop/#eternal-il-x10)
+
+    You can't raise VIP Level higher than 1, if it's 1, it means your VIP/Rune is activated.
+
+    [:octicons-arrow-right-24: Vote Tutorial](/faq/getting-started/welcome/#you-are-all-set)
 
 - <figure>
     [![shadow-b-grade.png](https://i.postimg.cc/4NkMcX5v/shadow-b-grade.png)](https://postimg.cc/Cd7mTT9d)
