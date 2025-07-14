@@ -63,10 +63,16 @@ They're found in: `\Reborn\games\signature\system\`
 
 
 ## Small Texts and Buttons on 4k Monitor
-Enter fullscreen mode, and **lower resolution**.
 
-Sadly **there are no other solutions**. On 2K the buttons are good, beyond that unuseable.
+### 1st option:
+Enter fullscreen mode, and lower resolution.
 
+### 2nd option
+You will have to download and extract [NirCMD](https://www.nirsoft.net/utils/nircmd.zip).
+
+Make sure to adjust the path of your executable and path to **nircmd.exe** in the notepad. Save it as `.bat file` and run it.
+
+[**Copy paste the example .bat file**](https://pastebin.com/raw/TgFE05vg)
 
 
 ## Event Code 10/5 or 39/1
