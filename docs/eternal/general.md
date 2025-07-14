@@ -440,7 +440,7 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 
 </div>
 
-## :material-heart-remove: Event Commands
+## :material-medal: Event Commands
 <div class="grid cards" markdown>
 
 - ### .ctfreg
