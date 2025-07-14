@@ -24,11 +24,13 @@ hr {
 
         - `.tvtreg`: Registers for TVT
 
-    - You have 5 minutes to register, counting from the start of the event in `ALT + B`.
+    - You have **5 minutes to register**, counting from the start of the event in `ALT + B`.
 
     - Check the [General](/faq/eternal/general) page to see timers.
 
     - The events last 10 minutes. 
+
+    - In the event you can resurrect by clicking **"Use Feather"**{style="color:rgb(195, 46, 173);"}
 
 
 
