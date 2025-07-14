@@ -44,10 +44,11 @@ nav:
     - General: eternal/general.md
     - Maria: eternal/maria.md
     - Levelling: eternal/levelling.md
+    - Classes: eternal/classes.md
+    - Events: eternal/events.md
     - Missions: eternal/missions.md
     - Daily Login: eternal/dailyattendance.md
-    - Events: eternal/events.md
-    - Classes: eternal/classes.md
+    - Augmenting: eternal/augmenting.md
     - FAQ: eternal/faq.md
 theme:
   name: material
