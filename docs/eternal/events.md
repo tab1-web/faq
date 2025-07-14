@@ -49,4 +49,9 @@ hr {
 
 </div>
 
+## Event Videos
+<div class="grid cards" markdown>
+- <iframe width="399" height="226" src="https://www.youtube.com/embed/M4CdQ4fXow0?si=poTu-3H7TjE_4zNS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- Soon :material-trademark: 
+</div>
