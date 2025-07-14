@@ -64,7 +64,7 @@ They're found in: `\Reborn\games\signature\system\`
 
 ## Small Texts and Buttons on 4k Monitor
 
-### 1st option:
+### 1st option
 Enter fullscreen mode, and lower resolution.
 
 ### 2nd option
