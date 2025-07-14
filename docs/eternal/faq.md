@@ -51,6 +51,10 @@ h2 {
 - Vote for the server at: [l2reborn/reborn-shop](https://l2reborn.org/reborn-shop/#eternal-il-x10)
 - Vote Tutorial is [here](/faq/getting-started/welcome/#you-are-all-set).
 
+## Does Noblesse take a buff slot?
+
+- No, Noblesse does not take a buff slot.
+
 ## Is it legal to trade Store Bought / Fortune Wheel skins for Items?
 
 - **No.** Store bought items or items from the Fortune Wheel are not legal to trade.
