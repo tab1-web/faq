@@ -3,6 +3,7 @@ icon: octicons/report-16
 
 ---
 
+<script src="../js/utctime.js" defer></script>
 
 # How to report Dual-Box / Bot?
 
@@ -40,14 +41,3 @@ Auto Hunting Report is **not a live report**, it sends the report to database fo
 
 
 
-<script>
-function updateUTCTime() {
-    const now = new Date();
-    const utcHours = now.getUTCHours().toString().padStart(2, '0');
-    const utcMinutes = now.getUTCMinutes().toString().padStart(2, '0');
-    document.getElementById('utc-time').textContent = `${utcHours}:${utcMinutes}`;
-}
-
-updateUTCTime();
-setInterval(updateUTCTime, 1000);
-</script>
