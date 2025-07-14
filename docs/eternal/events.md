@@ -28,6 +28,9 @@ hr {
 
     - Check the [General](/faq/eternal/general) page to see timers.
 
+    - The events last 10 minutes. 
+
+
 
 - ## :material-medal:{ .lg .middle } __Events__
 
