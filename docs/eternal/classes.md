@@ -12,6 +12,7 @@ icon: octicons/people-16
 ### Why These Classes?
 I’ve focused on the most versatile and beginner-friendly options—classes that perform well in most content. Some niche or highly specialized picks aren’t listed here, as they’re less ideal for newcomers.
 
+As starter, I would choose a farm character like a Spellsinger/Spellhowler.
 <div class="meta-classes-section" markdown>
 
 ## :material-knife: Daggers

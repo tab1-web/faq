@@ -96,7 +96,7 @@ icon: material/sword
 
 </figure>
 
-> Learn at your class trainer, unlock them in order (Original needs Modern)
+> Learn at your class trainer, unlock them in order (Original needs Modern) <br> **Mages**: Magic Guild, **Fighters**: Fighter Guild, **Dark Elf**: Dark Elf Guild etc..
 
 
 
