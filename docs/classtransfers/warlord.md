@@ -64,7 +64,7 @@ search:
 | - | Use SoE | - | - | - |
 | 33 | Giran, near eastern bridge | Martien | Talk to Martien | - |
 | - | Teleport to Giran Harbor, run west to cave | - | - | - |
-| 34 | Cave under hill | Cave Basilisk, Baramham | Kill Cave Basilisk bodyguards and Baramham | Watchers Eye2 |
+| 34 | Cave under hill | Cave Basilisk, Baraham | Kill Cave Basilisk bodyguards and Baramham | Watchers Eye2 |
 | 35 | Same cave | Raldo | Talk to Raldo (spawns after killing Baramham) | - |
 | - | Use SoE, go to Dion, then Gludio, then Orc Village | - | - | - |
 | 36 | Orc Village, 2nd floor main building | Flame Lord Kakai | Talk to Flame Lord Kakai | Letter to Manakia |
@@ -78,7 +78,7 @@ search:
 | 40 | Orc Village | Flame Lord Kakai | Talk to Flame Lord Kakai | Scroll of Orc Trust |
 | - | Teleport to Gludin, then Dwarf Village | - | - | - |
 | 41 | Dwarf Village | Iron Gate's Lockirin | Talk to Iron Gate's Lockirin | - |
-| 42 | Dwarf Village | Gray Pillar's Fileur | Talk to Gray Pillar's Fileur | - |
+| 42 | Dwarf Village | Gray Pillar's Filaur | Talk to Gray Pillar's Filaur | - |
 | - | Teleport to Northern Coast, run to Mithril Mines | - | - | - |
 | 43 | Underground island in Mithril Mines | Queen of Succubus, bodyguards | Kill bodyguards, then Queen of Succubus | - |
 | 44 | Same location | Raldo | Talk to Raldo (spawns after killing Queen of Succubus) | Mark of Challenger |
@@ -101,6 +101,20 @@ search:
 | - | Teleport to Gludin, then Gludio, then Dion, then Giran | - | - | - |
 | 54 | Giran, fighters guild | Grand Master Hannavalt | Talk to Grand Master Hannavalt | Become Warlord |
 | - | Quest Completed | - | - | - |
+
+
+<style>
+.highlighted-row {
+  background-color: rgba(0, 243, 8, 0.2) !important;
+  font-weight: bold;
+}
+
+table tr {
+    cursor: pointer;
+}
+
+</style>
+
 
 <script src="../js/links.js" defer></script>
 <script src="../js/checkbox.js" defer></script>
