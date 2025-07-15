@@ -65,6 +65,19 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 [![consumables.png](https://i.postimg.cc/RF3nzGn4/consumables.png){width=60%}](https://postimg.cc/dkY022Bx)
 </figure>
 
+## How can I switch sets?
+
+1. **Locate the Circle** icon at the bottom left of the hotbar.
+2. **Tick the armor sets panel.**
+3. **Equip your desired armor set.**
+4. **Click the plus icon** (+) to save the configuration.
+
+<figure markdown>
+[![switching-sets.png](https://i.postimg.cc/BQwY6355/switching-sets.png){width=60%}](https://postimg.cc/SJC7Twvj)
+<figcaption>Switching Armor Sets Panel</figcaption>
+</figure>
+
+
 ## What plugins, programs, files, patches can I use?
 
 None, all is available in `ALT + B`, by default you have a colored system message.
