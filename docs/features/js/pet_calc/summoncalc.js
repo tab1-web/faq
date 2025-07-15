@@ -852,7 +852,7 @@ var BaseRun=0
 //Weapon SAs//Weapon SAs
 let weaponSAsInitialized = false;
 
-function initializeWeaponSAs() {
+window.initializeWeaponSAs = function () {
     if (weaponSAsInitialized) {
         console.log('WeaponSAs already initialized, skipping...');
         return;

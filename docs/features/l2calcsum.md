@@ -6,6 +6,15 @@ hide:
   - toc
 ---
 
+<script>
+if (!sessionStorage.getItem('hasReloaded')) {
+    sessionStorage.setItem('hasReloaded', 'true');
+    setTimeout(function() {
+        window.location.reload();
+    }, 300);
+}
+</script>
+
 <style>
 fieldset {
 	border-color: grey;
@@ -1032,13 +1041,18 @@ Summoner Lv
 </table>
 </form>
 
-<script src="/faq/features/js/pet_calc/summoncalc.js"> </script>
-<script src="/faq/features/js/pet_calc/rawdata.js"> </script>
+
+<script src="/faq/features/js/pet_calc/rawdata.js"></script>
+<script src="/faq/features/js/pet_calc/summoncalc.js"></script>
+
 <script>
-window.onload=function() {
-buffs();
-debuffs();
-edebuffs();
-calc();
-boxgoaway()}
+window.addEventListener('load', function() {
+    buffs();
+    debuffs();
+    edebuffs();
+    calc();
+    boxgoaway();
+
+    setTimeout(initializeWeaponSAs, 100);
+});
 </script>
