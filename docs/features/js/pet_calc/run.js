@@ -1,5 +1,9 @@
-
 (function() {
+    if (!sessionStorage.getItem('reloaded')) {
+        sessionStorage.setItem('reloaded', 'true'); 
+        window.location.reload(); 
+    }
+
     function initializeAll() {
         if (typeof buffs !== 'function' || 
             typeof debuffs !== 'function' ||

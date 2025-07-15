@@ -1,4 +1,10 @@
 (function() {
+    if (!sessionStorage.getItem('hasReloaded')) {
+        sessionStorage.setItem('hasReloaded', 'true');
+        setTimeout(() => window.location.reload(), 50);
+        return;
+    }
+
     function initializeAll() {
         if (typeof classskills !== 'function' || 
             typeof equipmentgrade !== 'function' ||
