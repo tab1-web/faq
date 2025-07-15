@@ -412,8 +412,9 @@ else if (ring2grade=="N")
 function classskills()
 {
 //Racial Stats
-var JOB=d.gI("job").value
-JOB=PROFESSIONS[JOB]
+if (d.gI("job") && d.gI("job").value) {
+  var JOB = d.gI("job").value;
+  JOB = PROFESSIONS[JOB];
 if (JOB=="DA"||JOB=="GL"||JOB=="HE"||JOB=="HF"||JOB=="HK"||JOB=="PA"||JOB=="RO"||JOB=="TH"||JOB=="WD"||JOB=="WA")
 	{race="HF"}
 else if (JOB=="BI"||JOB=="CL"||JOB=="HM"||JOB=="NE"||JOB=="PP"||JOB=="SOR"||JOB=="WL"||JOB=="WI")
@@ -432,7 +433,7 @@ else if (JOB=="OM"||JOB=="OS"||JOB=="OL"||JOB=="WC")
 	{race="OM"}
 else if (JOB=="AR"||JOB=="BH"||JOB=="DO"||JOB=="SC"||JOB=="WS")
 	{race="DW"}
-
+}
 //Buff Hide/Unhide stuff
 if (JOB=="GL"||JOB=="OR"||JOB=="WA")
 	{
