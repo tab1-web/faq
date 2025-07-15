@@ -850,17 +850,17 @@ var MENMOD=1.28
 var BaseRun=0
 
 //Weapon SAs
-var summonerlvl = document.forms['statcalculator']?.LV;
+function initializeWeaponSAs() {
+    var summonerlvl = document.forms['statcalculator']?.LV;
 
-// Check if the form and element exist
-if (!summonerlvl) {
-    console.warn('Summoner level element not found');
-    return; // Exit early if element doesn't exist
-}
+    if (!summonerlvl) {
+        console.warn('Summoner level element not found');
+        return;
+    }
 
-summonerlvl.length = 20;
+    summonerlvl.length = 20;
 
-for (i = 0; i < 20; i++) {
+    for (i = 0; i < 20; i++) {
     let shouldBreak = false;
     
     if (JOB == "BB") {
@@ -959,6 +959,14 @@ for (i = 0; i < 20; i++) {
         summonerlvl.length = i;
         break;
     }
+}
+}
+
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initializeWeaponSAs);
+} else {
+    initializeWeaponSAs();
 }
 
 //Level Modifier
