@@ -13,17 +13,17 @@ h2 {
 
 ## What is a Seasonal Server?
 
-- There are 2 servers on Eternal: **Main** and **Seasonal**.
+- There are 2 servers on Eternal: **Main**{style="color:red;"} and **Seasonal**{style="color:red;"}.
 
 - Every 6 months (July & January) a new server opens: Seasonal.
 
 - After 3 months into the Season, all the characters go to the Main Server.
 
-- After merge there is decent amount of people playing still, can be up to ~1k.
+- **After merge** there is decent amount of people playing still, **can be up to ~1k**.
 
 ## Why can't I chat?
 
-- When you reach `Level 40` you are able to chat, it's to prevent people from advertising.
+- When you reach **Level 40**{style="color:red;"}  you are able to chat, it's to prevent people from advertising.
 
 ## What is the Adena limit?
 
@@ -31,16 +31,15 @@ h2 {
 
 - Make sure to be a lot under that number at all times.
 
-
 ## Any offline shop infos?
 
-- Requirements: **Level 40**.
+- Requirements: **Level 40**{style="color:red;"} .
 
 - You can have unlimited offline shops.
 
 - Make sure to only have 1 offline shop per account.
 
-- Set up an offline shop in a peace zone and **Exit the game**.
+- **Set up an offline shop** in a peace zone and **Exit the game**.
 
 ## How to raise my VIP Level?
 
@@ -53,9 +52,21 @@ h2 {
 
 ## Does Noblesse take a buff slot?
 
-- No, Noblesse does not take a buff slot.
+- **No**{style="color:red;"} , Noblesse does not take a buff slot.
 
 ## Is it legal to trade Store Bought / Fortune Wheel skins for Items?
 
-- **No.** Store bought items or items from the Fortune Wheel are not legal to trade.
+- **No.**{style="color:red;"}  Store bought items or items from the Fortune Wheel are not legal to trade.
 - Anything that costs Coins or Real World Currency is illegal to trade with.
+
+## I can't see adena, drops, consumables, how to fix it?
+Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{style="color:yellow;"} in **Chat Common Options**
+<figure markdown>
+[![consumables.png](https://i.postimg.cc/RF3nzGn4/consumables.png){width=60%}](https://postimg.cc/dkY022Bx)
+</figure>
+
+## What plugins, programs, files, patches can I use?
+
+None, all is available in `ALT + B`, by default you have a colored system message.
+
+
