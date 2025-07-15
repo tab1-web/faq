@@ -1,7 +1,14 @@
 (function() {
-    if (!sessionStorage.getItem('reloaded')) {
-        sessionStorage.setItem('reloaded', 'true'); 
-        window.location.reload(); 
+    var shouldReload = !sessionStorage.getItem('reloaded') && !window.location.hash.includes('reloaded');
+    
+    if (shouldReload) {
+        sessionStorage.setItem('reloaded', 'true');
+        window.location.hash = 'reloaded';
+        
+        setTimeout(function() {
+            window.location.reload(true);
+        }, 200);
+        return;
     }
 
     function initializeAll() {
@@ -34,5 +41,5 @@
         }
     }
 
-    setTimeout(init, 50);
+    setTimeout(init, 100);
 })();

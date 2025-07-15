@@ -851,13 +851,8 @@ var BaseRun=0
 
 //Weapon SAs
 if (!document.forms['statcalculator']) return;
-var summonerlvl = document.forms['statcalculator'].elements['LV'];
-if (!summonerlvl) {
-    console.error("Could not find 'LV' in the form");
-    return;
-}
-
-summonerlvl.length = 20;
+var summonerlvl=document.forms['statcalculator'].LV;
+summonerlvl.length=20
 for (i=0;i<20;i++){
 	if (JOB=="BB") {
 		if (BIGBOOMBLVL[i]>=0) {
