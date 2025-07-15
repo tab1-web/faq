@@ -7,20 +7,12 @@ search:
   exclude: true
 ---
 
-<script src="../js/links.js"></script>
-<script src="../js/checkbox.js"></script>
-
-<style>
-table tr {
-    cursor: pointer;
-}
-</style>
 
 # Dark Avenger
 | Step | Location | Target/NPC | Action | Rewards/Items Obtained |
 |------|----------|------------|--------|-------------------------|
 | 1 | Giran, Death Pass | Shadow Orim | Talk to him | Orim's Diagram |
-|  |  |  | Use Scroll of Escape (SoE) |  |
+|  |  | Use Scroll of Escape (SoE) |  |  |
 | 2 | Dive (Crystal Shop) | Trader Alexandria | Talk to her | Alexandria's Book |
 | 3 | Wizard Guild | Magister Iker | Talk to him | Iker's List |
 |  |  | Teleport to Oren → Ivory Tower |  |  |
@@ -55,7 +47,7 @@ table tr {
 |  |  | Teleport to South Entrance to Wasteland → Run to Floran |  |  |
 | 20 | Off the Road (Floran) | Sir Aron Tanford | Talk to him | Old Knight Sword |
 |  |  | Go to Wasteland |  |  |
-| 21 | Wasteland | Skyletal Mercenary | Hunt until Aklantoth Gem 4, 5, and 6 are obtained | Aklantoth Gem 4, 5, 6 |
+| 21 | Wasteland | Skeletal Mercenary | Hunt until Aklantoth Gem 4, 5, and 6 are obtained | Aklantoth Gem 4, 5, 6 |
 |  |  | Use Scroll of Escape (SoE) → Teleport to Gludio → Teleport to Dion |  |  |
 | 22 | Dark Elf Guild (Dion) | Magister Clayton | Talk to him | Order of Clayton |
 |  |  | Teleport to Giran → Go to Death Pass |  |  |
@@ -145,3 +137,19 @@ table tr {
 | 71 | Church (Giran) | Priest Dustin | Talk to him | Letter of Dustin |
 | 72 | Grand Master Hannavalt's Guild (Giran) | Grand Master Hannavalt | Talk to him | Mark of Duty |
 | 73 | Dark Elf Guild (Giran) | Grand Master Angus | Talk to him | Class Change to Dark Avenger |
+
+<style>
+.highlighted-row {
+  background-color: rgba(0, 243, 8, 0.2) !important;
+  font-weight: bold;
+}
+
+table tr {
+    cursor: pointer;
+}
+
+</style>
+
+
+<script src="../js/links.js"></script>
+<script src="../js/checkbox.js"></script>

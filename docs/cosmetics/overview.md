@@ -14,14 +14,14 @@ icon: octicons/info-16
 ## How to Buy Coins
 
 **Exchange Rate**: 1 Coin = 1 €  
-**Purchase Link**: [Buy Coins Here](https://l2reborn.org/balance/)
+**Purchase Link**: [Buy Coins Here](https://www.l2reborn.org/balance)
 
 ---
 
 ## Donation Guidelines
 1. **Send coins to the correct target**:
     - Specify the **server**, **account**, and **character** name.
-2. **Payment issues?** [Open a support ticket](https://l2reborn.org/support/) with:
+2. **Payment issues?** [Open a support ticket](https://www.l2reborn.org/support) with:
     - **Payment Method**: Credit Card / FreeKassa / Crypto  
     - **Transaction Details**:
         - Transaction ID (*and Hash for crypto payments*)
@@ -31,7 +31,7 @@ icon: octicons/info-16
 
 
 ## Common Mistakes
-- Incorrect server/character details → [open a support ticket.]((https://l2reborn.org/support/))
+- Incorrect server/character details → [open a support ticket.](https://www.l2reborn.org/support)
 - Missing transaction info → delays in resolving issues.
 - Logged in to the wrong master account.
 
@@ -42,7 +42,7 @@ icon: octicons/info-16
 - To turn off cloaks: Go into **Gameplay Settings** and **Do not show cloaks**.
 
 ## :fontawesome-solid-money-bills: Payment Methods
-Paypal is not available, you can pay with [(here)](https://l2reborn.org/balance/):
+Paypal is not available, you can pay with [(here)](https://www.l2reborn.org/balance):
 
 - [Card (Stripe)](https://stripe.com/)
 - [Card / Crypto (FreeKassa.ru)](https://freekassa.ru/)
@@ -54,7 +54,7 @@ Paypal is not available, you can pay with [(here)](https://l2reborn.org/balance/
 
 ## Hair & Color / Face Change
 
-You can either buy it from the [Website's Shop](https://l2reborn.org/reborn-shop/) or buy it from Dawn/Dusk Priest for 24k Ancient Adena each.
+You can either buy it from the [Website's Shop](https://www.l2reborn.org/reborn-shop) or buy it from Dawn/Dusk Priest for 24k Ancient Adena each.
 
 <figure markdown="span">
   [Images](https://legacy-lineage2.com/guide/appearance_hair_colors.html){.md-button}

@@ -5,5 +5,5 @@ hide:
 ---
 
 <figure markdown>
-![C5 Map](../features/img/map.png)
+[![Lineage-II-c5-Map-Plus-v2-min.png](https://i.postimg.cc/cHXC2nSc/Lineage-II-c5-Map-Plus-v2-min.png)](https://postimg.cc/k6R7tDDV)
 </figure>

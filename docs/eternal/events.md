@@ -26,7 +26,7 @@ hr {
 
     - You have **5 minutes to register**, counting from the start of the event in `ALT + B`.
 
-    - Check the [General](/faq/eternal/general) page to see timers.
+    - Check the [General](../eternal/general.md) page to see timers.
 
     - The events last 10 minutes. 
 

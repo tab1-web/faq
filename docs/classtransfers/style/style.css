@@ -1,0 +1,8 @@
+.highlighted-row {
+  background-color: rgba(0, 243, 8, 0.2) !important;
+  font-weight: bold;
+}
+
+table tr {
+    cursor: pointer;
+}

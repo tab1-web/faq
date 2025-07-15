@@ -7,15 +7,8 @@ search:
   exclude: true
 ---
 
-<script src="../js/links.js"></script>
-<script src="../js/checkbox.js"></script>
 
 
-<style>
-table tr {
-    cursor: pointer;
-}
-</style>
 
 | Step | Location                     | Target/NPC                     | Action                                                                 | Rewards/Items Obtained                     |
 |------|------------------------------|---------------------------------|-----------------------------------------------------------------------|--------------------------------------------|
@@ -122,3 +115,28 @@ table tr {
 | 63   | Giran (Church)                | Priest Dustin                  | Talk to him                                                        | Letter of Dustin                           |
 | 64   | Giran (Guild)                 | Grand Master Hannavalt           | Talk to him                                                        | Mark of Duty                               |
 | 65   | Giran (Fighter Guild)         | Grand Master Hannavalt         | Talk to him                                                        | Paladin class promotion                    |
+
+<style>
+.highlighted-row {
+  background-color: rgba(0, 243, 8, 0.2) !important;
+  font-weight: bold;
+}
+
+table tr {
+    cursor: pointer;
+}
+
+</style>
+
+
+<script src="../js/links.js"></script>
+<script src="../js/checkbox.js"></script>
+
+
+
+
+
+
+
+
+

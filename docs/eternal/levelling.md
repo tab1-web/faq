@@ -75,7 +75,7 @@ icon: material/sword
 
     You can't raise VIP Level higher than 1, if it's 1, it means your VIP/Rune is activated.
 
-    [:octicons-arrow-right-24: Vote Tutorial](/faq/getting-started/welcome/#you-are-all-set)
+    [:octicons-arrow-right-24: Vote Tutorial](../getting-started/welcome.md#you-are-all-set)
 
 - <figure>
     [![shadow-b-grade.png](https://i.postimg.cc/4NkMcX5v/shadow-b-grade.png)](https://postimg.cc/Cd7mTT9d)
@@ -114,7 +114,7 @@ icon: material/sword
 
 
 ## Progression Boosters
-- Vote for higher rates → [Voting Guide](/faq/getting-started/welcome/#you-are-all-set)  
+- Vote for higher rates → [Voting Guide](../getting-started/welcome.md#you-are-all-set)  
 - Avoid pet leveling ( inefficient )  
     - Buy **Strider** for mobility ( if you really need it )
 
@@ -127,13 +127,13 @@ icon: material/sword
 ```
 Comfy way of finding Maria with a click of a Button.
 
-[:material-arrow-right: Macro Tutorial](/faq/gameplay/macro/)
+[:material-arrow-right: Macro Tutorial](../gameplay/macro.md)
 
 
 ## Catacombs / Necropolis levelling
 
 - Catacomb / Necropolis levelling is great: mobs are close, give a lot of EXP until 74-76-ish and a great source for making Adena. 
-- Make sure you register before hunting in these locations. Check [here](/faq/eternal/general/#time-tables) if you can register.
+- Make sure you register before hunting in these locations. Check [here](https://tab1-web.github.io/faq/eternal/general/#time-tables) if you can register.
     - At beginning of the dungeons, you can see an NPC named `Ziggurat` pick up both quests.
     - [Ancient Scrolls can be exchanged.](https://lineage2wiki.org/interlude/monster/31113/merchant-of-mammon/)
     - [Dimensional Fragments](https://lineage2wiki.org/interlude/item/7079/dimensional-fragment/) are used for getting access to hunt monsters for Lifestones in [Hero Rift](https://lineage2wiki.org/c4/patch-notes/#dimensional_rift)
@@ -215,7 +215,7 @@ Comfy way of finding Maria with a click of a Button.
 ### Levels 53-63
 - **53-63**: Frozen Labyrinth - Schuttgart
     - [:fontawesome-solid-scroll: An Ice Merchant's Dream Quest](https://lineage2wiki.org/interlude/quest/648/an-ice-merchants-dream/)
-        - [:fontawesome-solid-handshake: Quest Item Exchange](/faq/eternal/questexchanges/icemerchant)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/icemerchant/)
     - Great for Adena + Materials farming
 
 
@@ -283,7 +283,7 @@ Comfy way of finding Maria with a click of a Button.
             - 1x [:material-ear-hearing: Earring of Blessing](https://lineage2wiki.org/interlude/item/874/earring-of-blessing/)
 
     - [:fontawesome-solid-scroll: Necromancer's Request Quest](https://lineage2wiki.org/interlude/quest/632/necromancers-request/)
-        - [:fontawesome-solid-handshake: Quest Item Exchange](/faq/eternal/questexchanges/necromancer)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/necromancer/)
 
 
 
@@ -291,7 +291,7 @@ Comfy way of finding Maria with a click of a Button.
 - **64-70**: Ancient Battleground - Aden
     - [:fontawesome-solid-scroll: Seductive Whispers Quest](https://lineage2wiki.org/interlude/quest/663/seductive-whispers/)
         - Gambling-style quest (requires 50 beads to play)
-        - [:fontawesome-solid-handshake: Quest Item Exchange](/faq/eternal/questexchanges/seductive)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/seductive/)
 
 
 
@@ -307,7 +307,7 @@ Comfy way of finding Maria with a click of a Button.
     - [:fontawesome-solid-scroll: Hunt of the Golden Ram Mercenary Force (Part I)](https://lineage2wiki.org/c4/quest/628/hunt-of-the-golden-ram-mercenary-force/)
         - Only Part 1 required
     - [:fontawesome-solid-scroll: The Zero Hour Quest](https://lineage2wiki.org/interlude/quest/640/the-zero-hour/)
-        - [:fontawesome-solid-handshake: Quest Item Exchange](/faq/eternal/questexchanges/zerohour)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/zerohour/)
 
 
 
@@ -366,11 +366,11 @@ Comfy way of finding Maria with a click of a Button.
 
 ## Important Quests
 
-Do [:fontawesome-solid-scroll: Noblesse Quest](/faq/gameplay/progression/noblesse/) and [:fontawesome-solid-scroll: Subclass Quests](/faq/gameplay/progression/subclasses/) as soon as possible, they are major milestones in your character's progression. Common misconception is that subclass quests give some sort of passive or active skills for Main Class, they don't in Interlude.
+Do [:fontawesome-solid-scroll: Noblesse Quest](../gameplay/progression/noblesse.md) and [:fontawesome-solid-scroll: Subclass Quests](../gameplay/progression/subclasses.md) as soon as possible, they are major milestones in your character's progression. Common misconception is that subclass quests give some sort of passive or active skills for Main Class, they don't in Interlude.
 
-For [:fontawesome-solid-scroll: Subclass Quests](/faq/gameplay/progression/subclasses/), you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon, you can skip that part for later.
+For [:fontawesome-solid-scroll: Subclass Quests](../gameplay/progression/subclasses.md), you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon, you can skip that part for later.
 
-For [:fontawesome-solid-scroll: Noblesse Quest](/faq/gameplay/progression/noblesse/) on Barakiel, you can earn fragments of the staff by hitting Barakiel once. Earn 15 fragments and turn it into the full Staff to progress the quest. Make sure to not die and be close to the boss. 
+For [:fontawesome-solid-scroll: Noblesse Quest](../gameplay/progression/noblesse.md) on Barakiel, you can earn fragments of the staff by hitting Barakiel once. Earn 15 fragments and turn it into the full Staff to progress the quest. Make sure to not die and be close to the boss. 
 
 
 

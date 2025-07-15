@@ -49,7 +49,7 @@ h2 {
 ## How can I vote?
 
 - Vote for the server at: [l2reborn/reborn-shop](https://l2reborn.org/reborn-shop/#eternal-il-x10)
-- Vote Tutorial is [here](/faq/getting-started/welcome/#you-are-all-set).
+- Vote Tutorial is [here](../getting-started/welcome.md#you-are-all-set).
 
 ## Does Noblesse take a buff slot?
 

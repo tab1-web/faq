@@ -79,7 +79,7 @@ icon: fontawesome/regular/chess-knight
 
 </figure>
 
-For more information about dyes, [click here](/faq/gameplay/dyes).
+For more information about dyes, [click here](../gameplay/dyes.md).
 
 ### Stats and what they increase
 
@@ -172,7 +172,7 @@ You can look up on the <a href="https://www.lineage2wiki.com/">wiki</a> certain 
 
 To get them you can acquire no grade [soulshots](https://lineage2wiki.com/c4/item/quest/5789/soulshot-no-grade-for-novices/) / [spiritshots](https://lineage2wiki.org/c4/item/quest/5790/spiritshot-no-grade-for-novices/) in the early game from your quests or you can buy from Grocery Shop as well. 
 
-> On **Eternal**, all of this is available on [Maria GM Shop > Consumables](/faq/eternal/maria/).
+> On **Eternal**, all of this is available on [Maria GM Shop > Consumables](../eternal/maria.md).
 
 They are important for progressing, but also cost **Adena**{style="color:yellow;"}. For D-Grade and up, they are available through crafting or buying from players’ shops in MDT for example.
 

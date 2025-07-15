@@ -35,13 +35,4 @@ function setupTableRowHighlighting() {
   });
 }
 
-const style = document.createElement('style');
-style.textContent = `
-  .highlighted-row {
-    background-color: rgba(0, 243, 8, 0.2) !important;
-    font-weight: bold;
-  }
-`;
-document.head.appendChild(style);
-
 document.addEventListener('DOMContentLoaded', setupTableRowHighlighting);

@@ -27,7 +27,7 @@ It started in 2019 October 31 by a group of enthusiasts with the goal of providi
 
 If there's an issue during the Download, try restarting your Router, or use Mobile Data / VPN.
 
-For any other issue, please refer to the [Help & Support page](/faq/General/TechnicalIssues/outside/#general).
+For any other issue, please refer to the [Help & Support page](https://tab1-web.github.io/faq/support/troubleshooting/technical-issues/).
 
 
 ## :fontawesome-solid-user: Account Registration

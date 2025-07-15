@@ -9,7 +9,7 @@ icon: material/pen
 Access your macros by pressing the **R** key. Macros enable you to create and execute predefined sequences of actions.
 
 !!! warning
-    Do not automate the macros with coins/physical objects or other software, [it can lead to a ban](/faq/support/rules/#1-botting).
+    Do not automate the macros with coins/physical objects or other software, [it can lead to a ban](../support/rules.md#1-botting).
 
 **Supported Content:**
 
