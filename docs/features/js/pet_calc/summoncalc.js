@@ -850,101 +850,116 @@ var MENMOD=1.28
 var BaseRun=0
 
 //Weapon SAs
-var summonerlvl=document.forms['statcalculator'].LV;
-summonerlvl.length=20
-for (i=0;i<20;i++){
-	if (JOB=="BB") {
-		if (BIGBOOMBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(BIGBOOMSLVL[i],BIGBOOMBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="CO") {
-		if (CORRUPTEDMANBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(CORRUPTEDMANSLVL[i],CORRUPTEDMANBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="CU") {
-		if (CURSEDMANBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(CURSEDMANSLVL[i],CURSEDMANBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="DP") {
-		if (DARKPANTHERBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(DARKPANTHERSLVL[i],DARKPANTHERBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="KAI"||JOB=="SL"||JOB=="MER") {
-		if (KAITHECATBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(KAITHECATSLVL[i],KAITHECATBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="KAT"||JOB=="MEW"||JOB=="SH"||JOB=="SI"||JOB=="BOX"||JOB=="MIR") {
-		if (KATTHECATBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(KATTHECATSLVL[i],KATTHECATBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="MG") {
-		if (MECHANICGOLEMBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(MECHANICGOLEMSLVL[i],MECHANICGOLEMBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="NS"||JOB=="QC"||JOB=="SER") {
-		if (NIGHTSHADEBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(NIGHTSHADESLVL[i],NIGHTSHADEBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="RM") {
-		if (REANIMATEDMANBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(REANIMATEDMANSLVL[i],REANIMATEDMANBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="SG") {
-		if (SIEGEGOLEMBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(SIEGEGOLEMSLVL[i],SIEGEGOLEMBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="SP"||JOB=="FK"||JOB=="MU") {
-		if (SPECTRALLORDBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(SPECTRALLORDSLVL[i],SPECTRALLORDBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="SW") {
-		if (SWOOPCANNONBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(SWOOPCANNONSLVL[i],SWOOPCANNONBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	else if (JOB=="WHC") {
-		if (WILDHOGCANNONBLVL[i]>=0) {
-			summonerlvl.options[i] = new Option(WILDHOGCANNONSLVL[i],WILDHOGCANNONBLVL[i],false,summonerlvl.options[i].selected);}
-		else {
-			summonerlvl.length=i
-			break}
-	}
-	}
+var summonerlvl = document.forms['statcalculator']?.LV;
+
+// Check if the form and element exist
+if (!summonerlvl) {
+    console.warn('Summoner level element not found');
+    return; // Exit early if element doesn't exist
+}
+
+summonerlvl.length = 20;
+
+for (i = 0; i < 20; i++) {
+    let shouldBreak = false;
+    
+    if (JOB == "BB") {
+        if (BIGBOOMBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(BIGBOOMSLVL[i], BIGBOOMBLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "CO") {
+        if (CORRUPTEDMANBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(CORRUPTEDMANSLVL[i], CORRUPTEDMANBLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "CU") {
+        if (CURSEDMANBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(CURSEDMANSLVL[i], CURSEDMANBLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "DP") {
+        if (DARKPANTHERBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(DARKPANTHERSLVL[i], DARKPANTHERBLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "KAI" || JOB == "SL" || JOB == "MER") {
+        if (KAITHECATBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(KAITHECATSLVL[i], KAITHECATBLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "KAT" || JOB == "MEW" || JOB == "SH" || JOB == "SI" || JOB == "BOX" || JOB == "MIR") {
+        if (KATTHECATBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(KATTHECATSLVL[i], KATTHECATBLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "MG") {
+        if (MECHANICGOLEMBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(MECHANICGOLEMSLVL[i], MECHANICGOLEMBLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "NS" || JOB == "QC" || JOB == "SER") {
+        if (NIGHTSHADEBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(NIGHTSHADESLVL[i], NIGHTSHADESLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "RM") {
+        if (REANIMATEDMANBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(REANIMATEDMANSLVL[i], REANIMATEDMANBLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "SG") {
+        if (SIEGEGOLEMBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(SIEGEGOLEMSLVL[i], SIEGEGOLEMBLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "SP" || JOB == "FK" || JOB == "MU") {
+        if (SPECTRALLORDBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(SPECTRALLORDSLVL[i], SPECTRALLORDSLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "SW") {
+        if (SWOOPCANNONBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(SWOOPCANNONSLVL[i], SWOOPCANNONSLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    else if (JOB == "WHC") {
+        if (WILDHOGCANNONBLVL[i] >= 0) {
+            summonerlvl.options[i] = new Option(WILDHOGCANNONSLVL[i], WILDHOGCANNONSLVL[i], false, summonerlvl.options[i]?.selected);
+        } else {
+            shouldBreak = true;
+        }
+    }
+    
+    if (shouldBreak) {
+        summonerlvl.length = i;
+        break;
+    }
+}
 
 //Level Modifier
 var LVL = + pet_calc.gI("LV").value
