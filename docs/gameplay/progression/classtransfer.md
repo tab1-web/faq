@@ -27,7 +27,7 @@ All of the Quests are set to Chronicle 4. If you are playing a different version
 
 ### Warriors
 
-- [Warrior](https://lineage2wiki.org/c4/quest/401/path-to-a-warrior/) :material-arrow-right: [Warlord](/faq/classtransfers/dark_avenger) :material-arrow-right: [Dreadnoughts](https://lineage2wiki.org/c4/quest/74/succession-to-the-legend-dreadnoughts/)
+- [Warrior](https://lineage2wiki.org/c4/quest/401/path-to-a-warrior/) :material-arrow-right: [Warlord](/faq/classtransfers/paladin) :material-arrow-right: [Dreadnoughts](https://lineage2wiki.org/c4/quest/74/succession-to-the-legend-dreadnoughts/)
 - [Warrior](https://lineage2wiki.org/c4/quest/401/path-to-a-warrior/) :material-arrow-right: :material-arrow-right: [Duelist](https://lineage2wiki.org/c4/quest/73/succession-to-the-legend-duelist/)
 
 ### Wizards
