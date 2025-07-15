@@ -1034,4 +1034,11 @@ Summoner Lv
 
 <script src="/faq/features/js/pet_calc/summoncalc.js"> </script>
 <script src="/faq/features/js/pet_calc/rawdata.js"> </script>
-<script src="/faq/features/js/pet_calc/run.js" defer ></script>
+<script>
+window.onload=function() {
+buffs();
+debuffs();
+edebuffs();
+calc();
+boxgoaway()}
+</script>
