@@ -223,6 +223,7 @@ icon: material/alphabet-latin
 - `Noob` Newbie. new players, new on business.(new or low level player).
 - `Ninja Looting` robbing drops and loot from players who have killed mobs.
 - `ngSS` no-grade souls shots
+- `Nuker` mage damage dealer.
 
 ## O
 
