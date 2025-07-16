@@ -247,6 +247,8 @@ Comfy way of finding Maria with a click of a Button.
 ### Levels 60-67
 - **60-67**: Valley of Saints - Rune
     - [:fontawesome-solid-scroll: Heart in Search of Power Quest](https://lineage2wiki.org/interlude/quest/627/heart-in-search-of-power/)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](../eternal//questexchanges/heart.md)
+
     - ⚠️ Might be crowded
     - **Recipe Drops**:
         - [:material-drama-masks: Punishment Of Splendor](https://lineage2wiki.org/interlude/monster/21531/punishment-of-splendor/): DC Gloves (0.05%)
