@@ -317,16 +317,15 @@ Comfy way of finding Maria with a click of a Button.
     - Spoils for SOP & A-Grade Key Materials
 
 
-
 ### Levels 73-76
 - **73-76**: Hot Springs - Goddard
     - **Key Quests**:
         - [:fontawesome-solid-scroll: Egg Delivery](https://lineage2wiki.org/interlude/quest/621/egg-delivery/)
         - [:fontawesome-solid-scroll: Special Liquor Delivery](https://lineage2wiki.org/interlude/quest/622/specialty-liquor-delivery/)
+            - Above quests are for getting Tatteosian Recipes, doesn't require killing.
         - [:fontawesome-solid-scroll: The Finest Ingredients - Part 1](https://lineage2wiki.org/interlude/quest/624/the-finest-ingredients-part-1/)
             - Requires [:material-gold: 1x Ice Crystal](https://lineage2wiki.org/interlude/item/7080/ice-crystal/) per 3rd class quest
             - Duelists additionally need [:material-gold: 1x Top Quality Meat](https://lineage2wiki.org/interlude/quest/631/delicious-top-choice-meat/)
-
 
 
 ### Levels 74-85
@@ -338,10 +337,9 @@ Comfy way of finding Maria with a click of a Button.
     - Ketra Orc Outpost - Goddard
     - **Faction Quests** (Choose One):
         - [:fontawesome-solid-scroll: Alliance with Ketra Orcs](https://lineage2wiki.org/interlude/quest/605/alliance-with-ketra-orcs/)
-        - [:fontawesome-solid-scroll: War with Varka Silenos](https://lineage2wiki.org/interlude/quest/606/war-with-varka-silenos/)
+        - [:fontawesome-solid-scroll: Alliance with Varka Silenos](https://lineage2wiki.org/interlude/quest/611/alliance-with-varka-silenos/)
         - Must kill opposing faction's mobs
-
-
+        - Important for 3rd class quests
 
 ### Levels 78-85
 - **78-85**: Forge of the Gods - Goddard
@@ -353,15 +351,19 @@ Comfy way of finding Maria with a click of a Button.
     - **Quest Chain**:
         1. [:fontawesome-solid-scroll: Hiding Behind the Truth](https://lineage2wiki.org/interlude/quest/25/hiding-behind-the-truth/)
         2. [:fontawesome-solid-scroll: Through the Gate Once More](https://lineage2wiki.org/interlude/quest/637/through-the-gate-once-more/)
+            - Important for Accessing Pagan
     - [:fontawesome-solid-scroll: Seekers of the Holy Grail](https://lineage2wiki.org/interlude/quest/638/seekers-of-the-holy-grail/)
+        - S Grade Enchant Armor/Weapon
     - Included in the missions as well
 
 - **78-85**: Monastery of Silence - Goddard/Rune
     - [:fontawesome-solid-scroll: Guardians of the Holy Grail Quest](https://lineage2wiki.org/interlude/quest/639/guardians-of-the-holy-grail/)
+        - S Grade Enchant Armor/Weapon
     - Included in the missions as well
 
 - **78-85**: Primeval Isle - Rune
     - [:fontawesome-solid-scroll: Rise and Fall of the Elroki Tribe Quest](https://lineage2wiki.org/interlude/quest/643/rise-and-fall-of-the-elroki-tribe/)
+        - Random Top A Grade Weapon Keys
     - Included in the missions as well
 
 ## Important Quests
