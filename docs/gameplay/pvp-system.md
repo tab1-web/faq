@@ -21,6 +21,8 @@ When **attacking** a player while pressing **CTRL**, or **casting good magic** o
 
 Most people use **“flagged”**{style="color: purple;"}. instead of **purple naming**{style="color: purple;"}.
 
+> Overbuffing people, buffing mobs, taking over spots are not against the rules. <br> Check rules [here](../support/rules.md) <br> Griefing is only not allowed on Essence Servers.
+
 ### **Drop Penalty**
 - When you reach a certain PK count, on death you can drop your items while being **Red**{: style="color:red;"}.
     - On Signature, this is 6.
