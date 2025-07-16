@@ -37,9 +37,16 @@ icon: octicons/info-16
 
 
 ## :material-eye-off: Hide Cosmetics
+### For Signature:
 - To turn off suits: `.visualequip`
-
+- To turn off agathions: `.agathion off`
 - To turn off cloaks: Go into **Gameplay Settings** and **Do not show cloaks**.
+
+### For Eternal:
+- To turn off suits: `.suits`
+- To turn off agathions: `.agats`
+- To turn off cloaks: `.cloaks` or go into **Gameplay Settings** and **Do not show cloaks**.
+
 
 ## :fontawesome-solid-money-bills: Payment Methods
 Paypal is not available, you can pay with [(here)](https://www.l2reborn.org/balance):
