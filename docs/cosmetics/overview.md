@@ -39,7 +39,7 @@ icon: octicons/info-16
 ## :material-eye-off: Hide Cosmetics
 ### For Signature:
 - To turn off suits: `.visualequip`
-- To turn off agathions: `.agathion off`
+- To turn off agathions: `you can't yet`
 - To turn off cloaks: Go into **Gameplay Settings** and **Do not show cloaks**.
 
 ### For Eternal:
