@@ -370,6 +370,10 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 
     Toggle experience gain on/off
 
+- ### .invites
+
+    Toggle invite on/off for events
+
 </div>
 
 
@@ -388,6 +392,10 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 - ### .fastload
 
     Toggle faster character loading
+
+- ### .traders
+
+    Toggle to hide traders
 
 </div>
 
