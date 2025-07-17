@@ -86,6 +86,7 @@ None, all is available in `ALT + B`, by default you have a colored system messag
 
 Locate your buffs and on the left side click the circle, when you are done hit Save.
 
+<figure markdown>
 [![effect-to-debuff.png](https://i.postimg.cc/NM2JyBhr/effect-to-debuff.png)](https://postimg.cc/xJYyhr10)
-
+</figure>
 
