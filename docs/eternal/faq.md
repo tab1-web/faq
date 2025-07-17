@@ -23,7 +23,7 @@ h2 {
 
 ## Why can't I chat?
 
-- When you reach **Level 40**{style="color:red;"}  you are able to chat, it's to prevent people from advertising.
+- When you reach **Level 40**{style="color:red;"} and class change you are able to chat, it's to prevent people from advertising.
 
 ## What is the Adena limit?
 
@@ -33,7 +33,7 @@ h2 {
 
 ## Any offline shop infos?
 
-- Requirements: **Level 40**{style="color:red;"} .
+- Requirements: **Level 20**{style="color:red;"} .
 
 - You can have unlimited offline shops.
 

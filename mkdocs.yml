@@ -26,6 +26,10 @@ nav:
       - Subclasses: gameplay/progression/subclasses.md
       - Noblesse: gameplay/progression/noblesse.md
       - Heroes & Olympiad: gameplay/progression/heroes.md
+    - Interface:
+      - Shops: interface/shops.md
+      - Colorful Chat: interface/systemmessage.md
+      - Transferring Items: interface/transferring.md
   - Cosmetics:
     - Overview: cosmetics/overview.md
     - Hats: cosmetics/hats.md
