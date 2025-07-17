@@ -75,7 +75,7 @@ icon: material/sword
 
     You can't raise VIP Level higher than 1, if it's 1, it means your VIP/Rune is activated.
 
-    [:octicons-arrow-right-24: Vote Tutorial](../getting-started/welcome.md#you-are-all-set)
+    [:octicons-arrow-right-24: Vote Tutorial](../gameplay/progression/voting.md)
 
 - <figure>
     [![shadow-b-grade.png](https://i.postimg.cc/4NkMcX5v/shadow-b-grade.png)](https://postimg.cc/Cd7mTT9d)
@@ -114,7 +114,7 @@ icon: material/sword
 
 
 ## Progression Boosters
-- Vote for higher rates → [Voting Guide](../getting-started/welcome.md#you-are-all-set)  
+- Vote for higher rates → [Voting Guide](../gameplay/progression/voting.md)  
 - Avoid pet leveling ( inefficient )  
     - Buy **Strider** for mobility ( if you really need it )
 
