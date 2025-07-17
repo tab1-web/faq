@@ -82,6 +82,10 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 None, all is available in `ALT + B`, by default you have a colored system message.
 
+## What happens with nicknames on server merge on Eternal?
+
+The seasonal character will get a 1 next to their name, like: `nickname1` and will be given a free rename service as well.
+
 ## How to add buffs as debuffs visually?
 
 Locate your buffs and on the left side click the circle, when you are done hit Save.
