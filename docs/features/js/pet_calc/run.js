@@ -1,22 +1,43 @@
 (function() {
+    if (!sessionStorage.getItem('hasReloaded')) {
+        sessionStorage.setItem('hasReloaded', 'true');
+        setTimeout(function() {
+            window.location.reload();
+        }, 300);
+        return;
+    }
+
     function initializeAll() {
         if (typeof buffs !== 'function' || 
             typeof debuffs !== 'function' ||
-            typeof calc !== 'function') {
-            console.error('Missing required functions!');
+            typeof edebuffs !== 'function' ||
+            typeof calc !== 'function' ||
+            typeof boxgoaway !== 'function') {
+            console.warn('Missing required functions, retrying in 100ms...');
             setTimeout(initializeAll, 100);
             return;
         }
+
+        const form = document.forms['statcalculator'];
+        if (!form) {
+            console.warn('Form not found, retrying in 100ms...');
+            setTimeout(initializeAll, 100);
+            return;
+        }
+
+        console.log('Initializing calculator functions...');
         
         buffs();
         debuffs();
         edebuffs();
         calc();
         boxgoaway();
-    }
 
-    function reloadPage() {
-        window.location.reload();
+        setTimeout(function() {
+            if (typeof initializeWeaponSAs === 'function') {
+                initializeWeaponSAs();
+            }
+        }, 100);
     }
 
     function init() {
@@ -28,12 +49,11 @@
         
         if (typeof document$ !== 'undefined') {
             document$.subscribe(function() {
+                console.log('Material navigation detected, reinitializing...');
                 setTimeout(initializeAll, 100);
             });
         }
     }
 
     setTimeout(init, 50);
-    
-    window.reloadPage = reloadPage;
 })();

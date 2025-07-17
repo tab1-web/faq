@@ -849,8 +849,31 @@ var WITMOD=0.64
 var MENMOD=1.28
 var BaseRun=0
 
-//Weapon SAs
+// WEAPONSA
 let weaponSAsInitialized = false;
+
+const weaponSAData = {
+    BB: { base: 'BIGBOOMBLVL', suffix: 'BIGBOOMSLVL' },
+    CO: { base: 'CORRUPTEDMANBLVL', suffix: 'CORRUPTEDMANSLVL' },
+    CU: { base: 'CURSEDMANBLVL', suffix: 'CURSEDMANSLVL' },
+    DP: { base: 'DARKPANTHERBLVL', suffix: 'DARKPANTHERSLVL' },
+    KAI: { base: 'KAITHECATBLVL', suffix: 'KAITHECATSLVL' }, // Also SL, MER
+    KAT: { base: 'KATTHECATBLVL', suffix: 'KATTHECATSLVL' }, // Also MEW, SH, SI, BOX, MIR
+    MG: { base: 'MECHANICGOLEMBLVL', suffix: 'MECHANICGOLEMSLVL' },
+    NS: { base: 'NIGHTSHADEBLVL', suffix: 'NIGHTSHADESLVL' }, // Also QC, SER
+    RM: { base: 'REANIMATEDMANBLVL', suffix: 'REANIMATEDMANSLVL' },
+    SG: { base: 'SIEGEGOLEMBLVL', suffix: 'SIEGEGOLEMSLVL' },
+    SP: { base: 'SPECTRALLORDBLVL', suffix: 'SPECTRALLORDSLVL' }, // Also FK, MU
+    SW: { base: 'SWOOPCANNONBLVL', suffix: 'SWOOPCANNONSLVL' },
+    WHC: { base: 'WILDHOGCANNONBLVL', suffix: 'WILDHOGCANNONSLVL' }
+};
+
+const jobGroups = {
+    KAI: ['KAI', 'SL', 'MER'],
+    KAT: ['KAT', 'MEW', 'SH', 'SI', 'BOX', 'MIR'],
+    NS: ['NS', 'QC', 'SER'],
+    SP: ['SP', 'FK', 'MU']
+};
 
 window.initializeWeaponSAs = function () {
     if (weaponSAsInitialized) {
@@ -858,7 +881,22 @@ window.initializeWeaponSAs = function () {
         return;
     }
 
-    console.log('Initializing WeaponSAs...');
+    try {
+        if (typeof JOB === 'undefined') {
+            JOB = pet_calc.gI("class").value;
+            console.log('Retrieved JOB from pet_calc:', JOB);
+        }
+    } catch (e) {
+        console.warn('Could not get JOB from pet_calc:', e);
+    }
+
+    if (typeof JOB === 'undefined') {
+        console.warn('JOB variable not defined, retrying in 200ms...');
+        setTimeout(initializeWeaponSAs, 200);
+        return;
+    }
+
+    console.log('Initializing WeaponSAs for JOB:', JOB);
     
     const form = document.forms['statcalculator'];
     if (!form) {
@@ -867,169 +905,64 @@ window.initializeWeaponSAs = function () {
     }
     
     const summonerlvl = form.elements['LV'] || document.getElementById('LV');
-
     if (!summonerlvl) {
         console.warn('Summoner level element "LV" not found in form');
         return;
     }
 
-    console.log('Found summonerlvl element:', summonerlvl);
-    
-    if (typeof JOB === 'undefined') {
-        console.warn('JOB variable not defined, cannot populate weapon SAs');
-        return;
-    }
-        
-    console.log('Current JOB:', JOB);
-    
-    let dataArrays = [];
-    if (JOB == "BB") {
-        dataArrays = ['BIGBOOMBLVL', 'BIGBOOMSLVL'];
-    } else if (JOB == "CO") {
-        dataArrays = ['CORRUPTEDMANBLVL', 'CORRUPTEDMANSLVL'];
-    } else if (JOB == "CU") {
-        dataArrays = ['CURSEDMANBLVL', 'CURSEDMANSLVL'];
-    } else if (JOB == "DP") {
-        dataArrays = ['DARKPANTHERBLVL', 'DARKPANTHERSLVL'];
-    } else if (JOB == "KAI" || JOB == "SL" || JOB == "MER") {
-        dataArrays = ['KAITHECATBLVL', 'KAITHECATSLVL'];
-    } else if (JOB == "KAT" || JOB == "MEW" || JOB == "SH" || JOB == "SI" || JOB == "BOX" || JOB == "MIR" || JOB == "QC") {
-        dataArrays = ['KATTHECATBLVL', 'KATTHECATSLVL'];
-    } else if (JOB == "MG") {
-        dataArrays = ['MECHANICGOLEMBLVL', 'MECHANICGOLEMSLVL'];
-    } else if (JOB == "NS" || JOB == "SER") {
-        dataArrays = ['NIGHTSHADEBLVL', 'NIGHTSHADESLVL'];
-    } else if (JOB == "RM") {
-        dataArrays = ['REANIMATEDMANBLVL', 'REANIMATEDMANSLVL'];
-    } else if (JOB == "SG") {
-        dataArrays = ['SIEGEGOLEMBLVL', 'SIEGEGOLEMSLVL'];
-    } else if (JOB == "SP" || JOB == "FK" || JOB == "MU") {
-        dataArrays = ['SPECTRALLORDBLVL', 'SPECTRALLORDSLVL'];
-    } else if (JOB == "SW") {
-        dataArrays = ['SWOOPCANNONBLVL', 'SWOOPCANNONSLVL'];
-    } else if (JOB == "WHC") {
-        dataArrays = ['WILDHOGCANNONBLVL', 'WILDHOGCANNONSLVL'];
-    }
-    
-    for (let arrayName of dataArrays) {
-        if (typeof window[arrayName] === 'undefined') {
-            console.warn(`Data array ${arrayName} not loaded yet, retrying in 200ms...`);
-            setTimeout(initializeWeaponSAs, 200);
-            return;
-        }
-    }
-    
-    console.log('All required data arrays loaded, proceeding...');
-    weaponSAsInitialized = true;
-
-    summonerlvl.length = 20;
-
-    for (let i = 0; i < 20; i++) {
-        let shouldBreak = false;
-        
-        if (JOB == "BB") {
-            if (BIGBOOMBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(BIGBOOMSLVL[i], BIGBOOMBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "CO") {
-            if (CORRUPTEDMANBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(CORRUPTEDMANSLVL[i], CORRUPTEDMANBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "CU") {
-            if (CURSEDMANBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(CURSEDMANSLVL[i], CURSEDMANBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "DP") {
-            if (DARKPANTHERBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(DARKPANTHERSLVL[i], DARKPANTHERBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "KAI" || JOB == "SL" || JOB == "MER") {
-            if (KAITHECATBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(KAITHECATSLVL[i], KAITHECATBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "KAT" || JOB == "MEW" || JOB == "SH" || JOB == "SI" || JOB == "BOX" || JOB == "MIR" || JOB == "QC") {
-            if (KATTHECATBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(KATTHECATSLVL[i], KATTHECATBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "MG") {
-            if (MECHANICGOLEMBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(MECHANICGOLEMSLVL[i], MECHANICGOLEMBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "NS" || JOB == "SER") {
-            if (NIGHTSHADEBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(NIGHTSHADESLVL[i], NIGHTSHADEBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "RM") {
-            if (REANIMATEDMANBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(REANIMATEDMANSLVL[i], REANIMATEDMANBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "SG") {
-            if (SIEGEGOLEMBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(SIEGEGOLEMSLVL[i], SIEGEGOLEMBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "SP" || JOB == "FK" || JOB == "MU") {
-            if (SPECTRALLORDBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(SPECTRALLORDSLVL[i], SPECTRALLORDBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "SW") {
-            if (SWOOPCANNONBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(SWOOPCANNONSLVL[i], SWOOPCANNONBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        else if (JOB == "WHC") {
-            if (WILDHOGCANNONBLVL[i] >= 0) {
-                summonerlvl.options[i] = new Option(WILDHOGCANNONSLVL[i], WILDHOGCANNONBLVL[i], false, summonerlvl.options[i]?.selected);
-            } else {
-                shouldBreak = true;
-            }
-        }
-        
-        if (shouldBreak) {
-            summonerlvl.length = i;
+    let actualJob = JOB;
+    for (const [group, jobs] of Object.entries(jobGroups)) {
+        if (jobs.includes(JOB)) {
+            actualJob = group;
             break;
         }
     }
-}
 
-if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initializeWeaponSAs, { once: true });
+    const saData = weaponSAData[actualJob];
+    if (!saData) {
+        console.warn('No weapon SA data found for JOB:', JOB);
+        return;
+    }
+
+    if (typeof window[saData.base] === 'undefined' || typeof window[saData.suffix] === 'undefined') {
+        console.warn(`Weapon SA arrays not loaded yet (${saData.base}, ${saData.suffix}), retrying in 200ms...`);
+        setTimeout(initializeWeaponSAs, 200);
+        return;
+    }
+
+    const baseArray = window[saData.base];
+    const suffixArray = window[saData.suffix];
+
+    console.log(`Using arrays: ${saData.base} and ${saData.suffix}`);
+
+    summonerlvl.length = 0;
+    
+    for (let i = 0; i < baseArray.length; i++) {
+        if (baseArray[i] >= 0) {
+            summonerlvl.add(new Option(suffixArray[i], baseArray[i]));
+        } else {
+            break;
+        }
+    }
+
+    console.log(`Initialized Weapon SA options with ${summonerlvl.length} levels`);
+    weaponSAsInitialized = true;
+};
+
+window.resetWeaponSAsInitialization = function() {
+    weaponSAsInitialized = false;
+};
+
+if (typeof document$ !== 'undefined') {
+    document$.subscribe(function() {
+        resetWeaponSAsInitialization();
+        initializeWeaponSAs();
+    });
 } else {
-    initializeWeaponSAs();
+    document.addEventListener('DOMContentLoaded', function() {
+        resetWeaponSAsInitialization();
+        initializeWeaponSAs();
+    });
 }
 
 //Level Modifier
