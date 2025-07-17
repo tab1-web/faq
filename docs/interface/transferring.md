@@ -9,6 +9,8 @@ icon: material/select-place
 
 **Requirements**: Lvl 20. To recieve mail, you can be Lvl 1.
 
+> On Eternal you can be Level 1 to send a mail.
+
 Click on the mail icon in the left bottom corner.
 
 <figure markdown>
