@@ -86,6 +86,15 @@ None, all is available in `ALT + B`, by default you have a colored system messag
 
 The seasonal character will get a 1 next to their name, like: `nickname1` and will be given a free rename service as well.
 
+## What happens to characters on server merge?
+
+- Clan halls will be reset and placed in auction.
+- Castles will return to NPC.
+- Heroes, Olympiad matches and Olympiad points will be reset.
+- Pending freights will be deleted
+- Alliances will be disolved
+- Declared clan wars will be deleted
+
 ## How to add buffs as debuffs visually?
 
 Locate your buffs and on the left side click the circle, when you are done hit Save.
