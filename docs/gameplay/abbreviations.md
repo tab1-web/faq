@@ -325,7 +325,7 @@ Q - no Q words.
 - `SpS` SpellSinger. can also be SpiritShot.
 - `SoDA` School of Dark Arts.
 
-T
+## T
 
 - `Tank` Player with high diffence (and usually heavy armor) that allows him to recieve most of the party's damage from the mobs.
 - `Thx` Thanks.
