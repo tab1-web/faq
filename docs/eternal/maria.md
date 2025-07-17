@@ -7,6 +7,23 @@ hide:
 # Maria Services
 
 <div class="grid cards" markdown>
+- ### GM Shop & Buffer
+
+    - **Locate Maria** with these: 
+        - `/target Maria` and `/attack`
+    - Provides buffs, gear, consumables  
+    - Always keep on yourself HP pots, MP pots, CP pots, Scroll of Escapes (to go back to village)
+
+- <figure markdown>
+    <a href="https://postimg.cc/bSQBGM0r">
+    ![Maria](https://i.postimg.cc/WzKLychG/B42-C14-D0-37-AA-4548-BB3-C-18-BF21-ADD3-A3.png){ width=40% .lightbox }
+    </a>
+    </figure>
+
+
+</div>
+
+<div class="grid cards" markdown>
 - ## Shop Menu
 
     
