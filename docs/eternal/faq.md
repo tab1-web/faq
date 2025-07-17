@@ -82,7 +82,7 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 None, all is available in `ALT + B`, by default you have a colored system message.
 
-## How to add buffs as debuffs?
+## How to add buffs as debuffs visually?
 
 Locate your buffs and on the left side click the circle, when you are done hit Save.
 
