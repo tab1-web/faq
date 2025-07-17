@@ -1,6 +1,6 @@
 (function() {
-    if (!sessionStorage.getItem('hasReloaded')) {
-        sessionStorage.setItem('hasReloaded', 'true');
+    if (!sessionStorage.getItem('hasReloadedSum')) {
+        sessionStorage.setItem('hasReloadedSum', 'true');
         setTimeout(function() {
             window.location.reload();
         }, 300);

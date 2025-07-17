@@ -1,6 +1,6 @@
 (function() {
-    if (!sessionStorage.getItem('hasReloaded')) {
-        sessionStorage.setItem('hasReloaded', 'true');
+    if (!sessionStorage.getItem('hasReloadedChar')) {
+        sessionStorage.setItem('hasReloadedChar', 'true');
         setTimeout(() => window.location.reload(), 50);
         return;
     }
