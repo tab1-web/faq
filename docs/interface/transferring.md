@@ -5,27 +5,32 @@ icon: material/select-place
 
 # Transferring Items
 
-## How to send mail?
+<div class="grid cards" markdown>
 
-**Requirements**: Lvl 20. To recieve mail, you can be Lvl 1.
+- ## How to send mail?
 
-> On Eternal you can be Level 1 to send a mail.
+    **Requirements**: Lvl 20. To recieve mail, you can be Lvl 1.
 
-Click on the mail icon in the left bottom corner.
+    > On Eternal you can be Level 1 to send a mail.
 
-<figure markdown>
+    Click on the mail icon in the left bottom corner.
 
-[![Video](https://i.postimg.cc/XvRCCwdj/undefined-Imgur-2.gif)](https://postimg.cc/Y4x0cLdZ)
+- <figure markdown>
 
-</figure>
+    [![Video](https://i.postimg.cc/XvRCCwdj/undefined-Imgur-2.gif)](https://postimg.cc/Y4x0cLdZ)
 
-## Freight info
-You can **freight items**{style="color:purple;"} to another character **in the same game account**{style="color:purple;"}.
+    </figure>
 
-You can pick it up anywhere, freight is account wide.
+- ## Freight info
 
-Starting villages offer freight service.
+    You can **freight items**{style="color:purple;"} to another character **in the same game account**{style="color:purple;"}.
 
-__Fee: 1k adena/item__
+    You can pick it up anywhere, freight is account wide.
 
+    Starting villages offer freight service as well.
 
+    __Fee: 1k adena/item__
+
+- <figure markdown>
+    [![freight-service.png](https://i.postimg.cc/jjv8xt5T/freight-service.png)](https://postimg.cc/7CG1Xv0t)
+    </figure>

@@ -204,13 +204,6 @@ icon: material/clock-time-one-outline
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
-  <!-- OBT Opening -->
-  <div class="md-typeset card countdown-card" data-target="2025-07-11T18:00:00Z">
-    <h3>OBT Opening</h3>
-    <p><strong>OBT Start:</strong> July 11th at 18:00 UTC</p>
-    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
-  </div>
-
   <!-- Subclass & Noblesse Donation -->
   <div class="md-typeset card countdown-card" data-target="2025-07-19T00:00:00Z">
     <h3>Subclass & Noblesse Donation</h3>
