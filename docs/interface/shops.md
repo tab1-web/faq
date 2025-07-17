@@ -10,6 +10,8 @@ icon: material/shopping
 
     Offline Shop is when you leave your character in a peace zone to sell items while you are offline.
 
+    You need to be Level 20 and type `.offline`
+
 - [![undefined-Imgur.gif](https://i.postimg.cc/K89jnnSX/undefined-Imgur.gif)](https://postimg.cc/gxZGpL24)
 
 - ### How to search private shops?
