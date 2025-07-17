@@ -1,6 +1,9 @@
 (function() {
+    sessionStorage.removeItem('hasReloadedSum');
+    
     if (!sessionStorage.getItem('hasReloadedChar')) {
         sessionStorage.setItem('hasReloadedChar', 'true');
+        sessionStorage.setItem('activeCalculator', 'char');
         setTimeout(() => window.location.reload(), 50);
         return;
     }
@@ -14,6 +17,12 @@
             return;
         }
         
+        const form = document.forms['statcalculator'];
+        if (form && sessionStorage.getItem('lastCalculator') === 'sum') {
+            form.reset();
+        }
+        sessionStorage.setItem('lastCalculator', 'char');
+
         classskills();
         equipmentgrade();
         buffs();

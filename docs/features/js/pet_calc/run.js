@@ -1,6 +1,9 @@
 (function() {
+    sessionStorage.removeItem('hasReloadedChar');
+    
     if (!sessionStorage.getItem('hasReloadedSum')) {
         sessionStorage.setItem('hasReloadedSum', 'true');
+        sessionStorage.setItem('activeCalculator', 'sum');
         setTimeout(function() {
             window.location.reload();
         }, 300);
@@ -25,8 +28,13 @@
             return;
         }
 
-        console.log('Initializing calculator functions...');
+        console.log('Initializing sum calculator...');
         
+        if (sessionStorage.getItem('lastCalculator') === 'char') {
+            form.reset();
+        }
+        sessionStorage.setItem('lastCalculator', 'sum');
+
         buffs();
         debuffs();
         edebuffs();
