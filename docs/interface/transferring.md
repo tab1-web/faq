@@ -5,6 +5,10 @@ icon: material/select-place
 
 # Transferring Items
 
+!!! warning
+    You cannot log 2 characters to transfer items. 
+    It counts as dualbox and against [server rules.](../support/rules.md)
+
 <div class="grid cards" markdown>
 
 - ## How to send mail?
