@@ -106,7 +106,7 @@ For more information about dyes, [click here](../gameplay/dyes.md).
 
 As you level up you are able to get **better skills** and **equipment**. **Class changes are important**{style="color: red;"}, and you should do them when you can. It enables you to essentially **specialize your skills**{style="color: blue;"} and role. 
 
-> On Eternal 1st and 2nd class transfers are free, access the class transfer menu in the right left corner on the appropriate level.
+> On Eternal 1st and 2nd class transfers are free, access the class transfer menu in the right bottom corner on the appropriate level.
 
 In Lineage II, weapons and armor are divided into different grades **(D, C, B, A, S)**{style="color:rgb(228, 152, 52);"}. Each grade has a **minimum level requirement**{style="color:rgb(228, 152, 52);"}, you can still use them, but with **penalty**{style="color:rgb(107, 103, 223);"}.
 
