@@ -198,6 +198,7 @@ icon: material/alphabet-latin
 
 ## M
 
+- `MDT` Monster Derby Track, players gather here to sell their items with private shops and buff other players for adena. 
 - `Mob` It is the general term to call to any being of a game that is not a player or npc (usually monsters).
 - `M8` Mate.
 - `MP/Mana` The element that is used and consumed to send spells and use skills. magic points that a character have (Mana Points determine how much mana you have to use skills and cast spells).
