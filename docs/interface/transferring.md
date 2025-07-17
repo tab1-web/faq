@@ -11,7 +11,7 @@ icon: material/select-place
 
 <div class="grid cards" markdown>
 
-- ## How to send mail?
+- ### How to send mail?
 
     **Requirements**: Lvl 20. To recieve mail, you can be Lvl 1.
 
@@ -25,7 +25,7 @@ icon: material/select-place
 
     </figure>
 
-- ## Freight info
+- ### Freight info
 
     You can **freight items**{style="color:purple;"} to another character **in the same game account**{style="color:purple;"}.
 
