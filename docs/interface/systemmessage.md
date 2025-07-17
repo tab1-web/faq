@@ -29,6 +29,8 @@ Save it as a `.bat` file, close the game, edit paths if needed and run it.
 
 Thanks **@Evan**{style="color:red;"} for the suggestion
 
+> On Eternal you have a custom system message by default, this script will not work.
+
 </figure>
     
 ```bash
