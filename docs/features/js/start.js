@@ -1,5 +1,6 @@
 (function() {
     sessionStorage.removeItem('hasReloadedSum');
+    sessionStorage.removeItem('sumFormState');
     
     if (!sessionStorage.getItem('hasReloadedChar')) {
         sessionStorage.setItem('hasReloadedChar', 'true');
@@ -8,18 +9,24 @@
         return;
     }
 
+    function resetForm() {
+        const form = document.forms['statcalculator'];
+        if (!form) return;
+        
+        form.reset();
+        
+    }
+
     function initializeAll() {
         if (typeof classskills !== 'function' || 
             typeof equipmentgrade !== 'function' ||
             typeof calc !== 'function') {
-            console.error('Missing required functions!');
             setTimeout(initializeAll, 100);
             return;
         }
-        
-        const form = document.forms['statcalculator'];
-        if (form && sessionStorage.getItem('lastCalculator') === 'sum') {
-            form.reset();
+
+        if (sessionStorage.getItem('lastCalculator') === 'sum') {
+            resetForm();
         }
         sessionStorage.setItem('lastCalculator', 'char');
 
