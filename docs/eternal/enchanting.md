@@ -39,7 +39,7 @@ icon: material/mushroom-outline
     **Press Enchant Skill** after you selected the Enchant Option.
 
 - <figure markdown>
-    [![enchanting.png](https://i.postimg.cc/6309w5Pw/enchanting.png)](https://postimg.cc/tZs0Nyym)
+    [![enchanting-skills.png](https://i.postimg.cc/Z5GjKhWM/enchanting-skills.png)](https://postimg.cc/zykT06SC)
     </figure>
 
 </div>
