@@ -39,6 +39,11 @@
       selector: '[data-target="2025-08-11T00:00:00Z"] .countdown-display',
       pastText: "FIRST CYCLE OF OLYMPIAD IS ON!",
       showSeconds: false
+    },
+    {
+      selector: '[data-target="2025-08-18T00:00:00Z"] .countdown-display',
+      pastText: "X30 RATES & YOU CAN BUY B-GRADE AT MARIA!",
+      showSeconds: false
     }
   ];
   function updateAllCountdowns() {
