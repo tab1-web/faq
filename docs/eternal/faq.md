@@ -84,7 +84,7 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 None, all is available in `ALT + B`, by default you have a colored system message.
 
-## What happens with nicknames on server merge on Eternal?
+## What happens with nicknames on server merge on Eternal if duplicate?
 
 The seasonal character will get a 1 next to their name, like: `nickname1` and will be given a free rename service as well.
 

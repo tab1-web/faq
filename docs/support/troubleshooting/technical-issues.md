@@ -215,7 +215,7 @@ Antiviruses can disregard exceptions, uninstalling is recommended.
 
 
 
-## 0xC0000005
+## 0xC0000005 / 0401 00000005
 Restart your computer.
 <figure markdown="span">
 <a href="https://postimg.cc/GHTQmBFB">
