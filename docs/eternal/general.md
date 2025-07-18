@@ -198,8 +198,17 @@ icon: material/clock-time-one-outline
 <a href="https://discord.com/channels/622089207028121602/1091647392836767864">📢│eternal-il-news</a>, check back frequently! <br> These are not all the timers, check the <a href="https://l2reborn.org/eternal-interlude/full-description/">features page</a> to view the others</h4></figure>
 
 <div class="grid cards">
+  
+  <!-- Server without NPC Opening -->
+  <div class="md-typeset card countdown-card" data-target="2025-07-18T17:00:00Z">
+    <h3>Server without NPC Countdown</h3>
+    <p><strong>Start Time:</strong> July 18th at 17:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <!-- Server with NPC Opening -->
   <div class="md-typeset card countdown-card" data-target="2025-07-18T18:00:00Z">
-    <h3>Server Countdown</h3>
+    <h3>Server with NPC Countdown</h3>
     <p><strong>Opening Time:</strong> July 18th at 18:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>

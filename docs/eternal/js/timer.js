@@ -2,7 +2,12 @@
   const eventConfigs = [
     {
       selector: '[data-target="2025-07-18T18:00:00Z"] .countdown-display',
-      pastText: "SERVER IS ONLINE!",
+      pastText: "SERVER IS ONLINE! NPCs ARE UP!",
+      showSeconds: false
+    },
+    {
+      selector: '[data-target="2025-07-18T17:00:00Z"] .countdown-display',
+      pastText: "SERVER IS ONLINE! NPCs ARE NOT!",
       showSeconds: false
     },
     {
