@@ -103,6 +103,16 @@ The seasonal character will get a 1 next to their name, like: `nickname1` and wi
 [![effect-to-debuff.png](https://i.postimg.cc/NM2JyBhr/effect-to-debuff.png)](https://postimg.cc/xJYyhr10)
 </figure>
 
+## When is the daily restart?
+
+- Everyday at 8.30 am UTC + 0.
+<ul>
+<li id="utc-time"></li>
+</ul>
+
 ## How long do buffs last? <br> What's the buff duration on Eternal?
 
 - Buffs last for **2 hours**.
+
+
+<script src="../js/utctime.js" defer>
