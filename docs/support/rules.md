@@ -38,8 +38,7 @@ icon: fontawesome/solid/scroll
 - Multiple people on the **same network** are allowed as long as:
     - Each person controls **only one character**
     - Each person is **able to solve captchas**
-
-
+    - When you need to AFK: **Relog**.
 
 ## :material-currency-usd-off: **4. Real Money Trading (RMT)**
 
