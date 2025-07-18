@@ -217,6 +217,7 @@ icon: material/clock-time-one-outline
   <div class="md-typeset card countdown-card" data-target="2025-07-19T00:00:00Z">
     <h3>Subclass & Noblesse Donation</h3>
     <p><strong>Start Date:</strong> July 19th</p>
+    <p><strong>Note:</strong> Might be available on Server Daily Restart</p>
     <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
   </div>
 
