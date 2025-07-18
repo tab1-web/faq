@@ -15,6 +15,8 @@ h2 {
 
 - There are 2 servers on Eternal: **Main**{style="color:red;"} and **Seasonal**{style="color:red;"}.
 
+- **Main Server**{style="color:red;"} is always Online.
+
 - Every 6 months (July & January) a new server opens: Seasonal.
 
 - After 3 months into the Season, all the characters go to the Main Server.
