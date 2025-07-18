@@ -97,9 +97,12 @@ The seasonal character will get a 1 next to their name, like: `nickname1` and wi
 
 ## How to add buffs as debuffs visually?
 
-Locate your buffs and on the left side click the circle, when you are done hit Save.
+- Locate your buffs and on the left side click the circle, when you are done hit Save.
 
 <figure markdown>
 [![effect-to-debuff.png](https://i.postimg.cc/NM2JyBhr/effect-to-debuff.png)](https://postimg.cc/xJYyhr10)
 </figure>
 
+## How long do buffs last? <br> What's the buff duration on Eternal?
+
+- Buffs last for **2 hours**.
