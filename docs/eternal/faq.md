@@ -137,6 +137,16 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 - You cannot have the same name as an NPC. Try a new name.
 
-<script src="../js/utctime.js" defer>
+## Why don't I see the drops?
+
+- Enable Consumables and Standard System Messages
+
+<figure markdown>
+[![option-consumables.png](https://i.postimg.cc/CxqJHgJC/option-consumables.png){width=50%}](https://postimg.cc/ZWJr4XG0)
+<figcaption>Enable these settings to see drops.</figcaption>
+</figure>
+
+<script src="../js/utctime.js" defer></script>
+
 
 
