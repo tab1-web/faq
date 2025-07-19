@@ -82,11 +82,11 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 ## What plugins, programs, files, patches can I use?
 
-None, all is available in `ALT + B`, by default you have a colored system message.
+- None, all is available in `ALT + B`, by default you have a colored system message.
 
 ## What happens with nicknames on server merge on Eternal if duplicate?
 
-The seasonal character will get a 1 next to their name, like: `nickname1` and will be given a free rename service as well.
+- The seasonal character will get a 1 next to their name, like: `nickname1` and will be given a free rename service as well.
 
 ## What happens to characters on server merge?
 
