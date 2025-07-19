@@ -42,8 +42,8 @@ nav:
     - Reporting: support/reporting.md
     - Creating Tickets: support/tickets.md
     - Troubleshooting:
-      - Game Issues: support/troubleshooting/game-issues.md
-      - Technical Issues: support/troubleshooting/technical-issues.md
+      - In-Game Issues: support/troubleshooting/game-issues.md
+      - Out-of-Game Issues: support/troubleshooting/technical-issues.md
       - Account & Login Issues: support/login-issues.md
   - Eternal:
     - General: eternal/general.md
