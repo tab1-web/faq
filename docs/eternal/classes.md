@@ -74,7 +74,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
 
 <div class="class-card" markdown>
 ### Gladiator
-  Skilled dual-sword fighter more effective in PvP. Strong late-game scaling with balanced melee and ranged abilities.  
+  Skilled dual-sword fighter more effective in Olympiad. Balanced melee and ranged abilities.  
     - **Leveling:** Slow  
     - **Strengths:** <span class="strengths">Great 1v1 combat, ranged attack options, high defenses, Olympiad</span>
 <figure markdown>
