@@ -112,6 +112,10 @@ The seasonal character will get a 1 next to their name, like: `nickname1` and wi
 <li id="utc-time"></li>
 </ul>
 
+## What is the max level difference for parties?
+
+- Level 19 is the max party difference for still getting experience.
+
 ## How long do buffs last? <br> What's the buff duration on Eternal?
 
 - Buffs last for **2 hours**.
