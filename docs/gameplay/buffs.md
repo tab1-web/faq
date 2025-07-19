@@ -15,8 +15,22 @@ icon: simple/magic
 
 ## Buff Limits
 - **Base Limit**: 20 buff slots
-- **Divine Inspiration Bonus**: +4 slots (unlockable)
+- **Divine Inspiration Books**: +4 slots (unlockable)
 - **Total Possible**: 24 buff slots
+
+<figure markdown>
+
+| Icon      | Book          | Level  | Max Buff Slots |
+|-----------|---------------|----------------|-----------|
+| [![modern.png](https://i.postimg.cc/rFgHPRtH/modern.png)](https://postimg.cc/xcJgkC5G)          | Modern        | 52     | +1        |
+| [![original.png](https://i.postimg.cc/SQdVSFN2/original.png)](https://postimg.cc/hhJVsYmc)          | Original      | 62       | +1        |
+| [![manuscript.png](https://i.postimg.cc/nhj1GXKB/manuscript.png)](https://postimg.cc/w1zJ6TGj)          | Manuscript    | 76      | +1        |
+| [![original-vers.png](https://i.postimg.cc/MTD0pVx2/original-vers.png)](https://postimg.cc/zbyHdLV0)          | Original Ver. | 76    |  +1        |
+
+</figure>
+
+> Learn at your class trainer, unlock them in order (Original needs Modern) <br> **Mages**: Magic Guild, **Fighters**: Fighter Guild, **Dark Elf**: Dark Elf Guild etc..
+
 
 
 
