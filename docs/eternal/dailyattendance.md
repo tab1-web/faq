@@ -14,9 +14,7 @@ hr {
 
 <div class="grid cards" markdown>
 
-- :material-format-font:{ .lg .middle } __Requirements__
-    
-    ---
+- ### :material-format-font:{ .lg .middle } __Requirements__
 
     Daily Attendance requires you to be **Level 76**, **3rd class** and **Noblesse**.
     
@@ -30,9 +28,7 @@ hr {
     </a>
     </figure>
 
-- :material-bell:{ .lg .middle } __Notification__
-
-    ---
+-  ### :material-bell:{ .lg .middle } __Notification__
 
     When you played for **30 minutes**, you will be given a notification to claim your rewards.
 
@@ -42,9 +38,7 @@ hr {
     </a>
     <figcaption>Notification given on center of the screen</figure>
     </figure>
-- :octicons-info-16:{ .lg .middle } __Example__
-
-    ---
+- ### :octicons-info-16:{ .lg .middle } __Example__
 
     To claim the rewards, just **left click** on the highlighted item.
 

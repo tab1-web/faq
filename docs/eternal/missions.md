@@ -16,10 +16,8 @@ hr {
 
 <div class="grid cards" markdown>
 
-- :material-format-font:{ .lg .middle } __Requirements__
+- ### :material-format-font:{ .lg .middle } __Requirements__
     
-    <hr>
-
     Missions require you to be **Level 76**, if you do the given tasks, you can claim the rewards in the Daily Missions window.
 
     You can access **Daily Missions** in the bottom right corner.
@@ -32,9 +30,7 @@ hr {
     </a>
     </figure>
 
-- :octicons-sun-16: __Daily Tasks__{ .lg .middle }
-
-    <hr>
+- ### :octicons-sun-16: __Daily Tasks__{ .lg .middle }
 
     | Task | Reward |
     |------|--------|
@@ -46,9 +42,7 @@ hr {
     | **Participate in any Event** | 1 Glittering Medal |
     | **Play 10 Olympiad Games** | 5,000 Noble Gate Passes |
 
-- :simple-task: __Weekly Tasks__{ .lg .middle }
-
-    <hr>
+- ### :simple-task: __Weekly Tasks__{ .lg .middle }
 
     | Task | Reward |
     |------|--------|
