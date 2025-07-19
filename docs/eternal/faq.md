@@ -138,7 +138,7 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 - You cannot have the same name as an NPC. Try a new name.
 
-## Why don't I see the drops?
+## Why don't I see the drops / spoils?
 
 - Enable Consumables and Standard System Messages
 
