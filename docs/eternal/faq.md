@@ -129,6 +129,10 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 <figcaption markdown>Click on all **"Validates"** wait a bit and **"Get Reward"** <br>if YouTube is red for long time, try clicking on **"Get Reward"**</figcaption>
 </figure>
 
+## Do Characters get Wiped?
+
+- No, characters don't get wiped when the season ends, they just go to the **Main Server of Eternal**{style="color:red;"}
+
 ## Incorrect Name on Character Creation?
 
 - You cannot have the same name as an NPC. Try a new name.

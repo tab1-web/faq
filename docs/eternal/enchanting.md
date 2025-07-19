@@ -7,6 +7,8 @@ icon: material/mushroom-outline
 <div class="grid cards" markdown>
 - ### Enchanting Items
 
+    It increases the stats of your weapon.
+
     Blessed Enchants chances are the same as normal enchants.
     
     Blessed Enchants on fail make your weapon +0 instead of breaking.

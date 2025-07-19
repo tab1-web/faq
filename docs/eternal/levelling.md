@@ -169,6 +169,10 @@ Comfy way of finding Maria with a click of a Button.
 
 ## Leveling Zones
 
+Below you will see Hunting Zone and it's corresponding Territory.
+
+Access Maria for Teleport > Town and Villages > Select the Corresponding Territory you want to farm in.
+
 ### Levels 12-25
 
 > If you have 30k-60k, buy Wooden Set (Fighters) or Devotion Set (Mages) in Starter Villages.

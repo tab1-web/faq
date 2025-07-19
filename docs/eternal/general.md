@@ -288,7 +288,6 @@ icon: material/clock-time-one-outline
     </div>
 </div>
 
-## Commands
 
 <style>
 
@@ -368,6 +367,8 @@ icon: material/clock-time-one-outline
 }
 </style>
 
+## Commands
+
 Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you can take a look here.
 
 <div class="grid cards" markdown>
@@ -383,6 +384,10 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 - ### .invites
 
     Toggle invite on/off for events
+
+- ### .jumps
+
+    Toggle visibility for jumping animations
 
 </div>
 
