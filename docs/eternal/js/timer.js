@@ -26,12 +26,12 @@
       showSeconds: false
     },
     {
-      selector: '[data-target="2025-08-01T00:00:00Z"] .countdown-display',
+      selector: '[data-target="2025-08-01T18:00:00Z"] .countdown-display',
       pastText: "A GRADE MAMMON SERVICES ON!",
       showSeconds: false
     },
     {
-      selector: '[data-target="2025-08-15T00:00:00Z"] .countdown-display',
+      selector: '[data-target="2025-08-15T18:00:00Z"] .countdown-display',
       pastText: "S GRADE MAMMON SERVICES ON!",
       showSeconds: false
     },

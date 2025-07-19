@@ -224,22 +224,22 @@ icon: material/clock-time-one-outline
   <!-- First Mammon (No A/S Grade) -->
   <div class="md-typeset card countdown-card" data-target="2025-07-25T18:00:00Z">
     <h3>First Mammon</h3>
-    <p><strong>Start Date:</strong> July 25th</p>
+    <p><strong>Start Date:</strong> July 25th at 18:00 UTC</p>
     <p><strong>Note:</strong> No A/S Grade Services</p>
     <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
   </div>
 
   <!-- A Grade Mammon Services -->
-  <div class="md-typeset card countdown-card" data-target="2025-08-01T00:00:00Z">
+  <div class="md-typeset card countdown-card" data-target="2025-08-01T18:00:00Z">
     <h3>A Grade Mammon Services</h3>
-    <p><strong>Start Date:</strong> August 1st</p>
+    <p><strong>Start Date:</strong> August 1st at 18:00 UTC</p>
     <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
   </div>
 
   <!-- S Grade Mammon Services -->
-  <div class="md-typeset card countdown-card" data-target="2025-08-15T00:00:00Z">
+  <div class="md-typeset card countdown-card" data-target="2025-08-15T18:00:00Z">
     <h3>S Grade Mammon Services</h3>
-    <p><strong>Start Date:</strong> August 15th</p>
+    <p><strong>Start Date:</strong> August 15th at 18:00 UTC</p>
     <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
   </div>
 
