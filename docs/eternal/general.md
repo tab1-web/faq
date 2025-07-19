@@ -222,7 +222,7 @@ icon: material/clock-time-one-outline
   </div>
 
   <!-- First Mammon (No A/S Grade) -->
-  <div class="md-typeset card countdown-card" data-target="2025-07-25T00:00:00Z">
+  <div class="md-typeset card countdown-card" data-target="2025-07-25T18:00:00Z">
     <h3>First Mammon</h3>
     <p><strong>Start Date:</strong> July 25th</p>
     <p><strong>Note:</strong> No A/S Grade Services</p>

@@ -21,7 +21,7 @@
       showSeconds: false
     },
     {
-      selector: '[data-target="2025-07-25T00:00:00Z"] .countdown-display',
+      selector: '[data-target="2025-07-25T18:00:00Z"] .countdown-display',
       pastText: "FIRST MAMMON ON! (NO A/S GRADE SERVICES)",
       showSeconds: false
     },
