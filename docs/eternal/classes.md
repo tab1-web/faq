@@ -30,7 +30,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
 
 <div class="class-card" markdown> 
 ### Abyss Walker 
-  Low maximum HP, Balanced offensive capabilities. Treasure Hunter more preferable.  
+  Low maximum HP, Balanced offensive capabilities. Treasure Hunter more preferable for quick disengage and higher HP.  
     - **Leveling:** Medium  
     - **Strengths:** <span class="strengths">Burst Damage, close combat PvP </span>
 <figure markdown>
@@ -40,7 +40,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
 
 <div class="class-card" markdown> 
 ### Plainswalker 
-  Bit higher evasion, specializing in mobility, Low damage. Treasure Hunter more preferable.  
+  Bit higher evasion, specializing in mobility and using skills for damaging, low damage on hits. Skill type build requires committing to fights due to cast time. Treasure Hunter more preferable for higher HP and better damage.  
     - **Leveling:** Medium  
     - **Strengths:** <span class="strengths">Evasion, Mobility</span>
 <figure markdown>
