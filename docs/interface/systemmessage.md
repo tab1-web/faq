@@ -5,6 +5,9 @@ icon: material/message
 
 # Colorful Messages
 
+!!! warning
+    **Eternal**{style="color:red;"} has a **Custom System Message by default** and most modifications are available in `.cfg` and `ALT + B`.
+
 ## Video Tutorial
 
 <figure markdown>
