@@ -60,5 +60,7 @@ hr {
 
 - <iframe width="399" height="226" src="https://www.youtube.com/embed/rIw4V-eZiZ4?si=u561GDo8_EhLpoW9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- <iframe width="399" height="226" src="https://www.youtube.com/embed/Bn5lAnbCoEs?si=dJZIpMgNI58mxhHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - Soon :material-trademark:
 </div>
