@@ -129,6 +129,10 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 <figcaption markdown>Click on all **"Validates"** wait a bit and **"Get Reward"** <br>if YouTube is red for long time, try clicking on **"Get Reward"**</figcaption>
 </figure>
 
+## Incorrect Name on Character Creation?
+
+- You cannot have the same name as an NPC. Try a new name.
+
 <script src="../js/utctime.js" defer>
 
 
