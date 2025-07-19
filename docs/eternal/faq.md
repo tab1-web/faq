@@ -123,6 +123,7 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 ## Is it possible to re-open the welcome pack / starter window for No Grade Pack? <br> How to get the No-Grade Starter Pack?
 - If you already closed it, you cannot re-open it again:
     - Try restarting or waiting a bit, if that doesn't work: **make a new character**.
+    - On Server Launch **GMs**{style="color:rgb(232, 246, 32)"} might give a No-Grade pack.
 
 <figure markdown>
 [![rewardmenu.png](https://i.postimg.cc/xT87YzR6/rewardmenu.png)](https://postimg.cc/dLMnjDgC)
