@@ -147,6 +147,11 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 <figcaption>Enable these settings to see drops.</figcaption>
 </figure>
 
+## What are the Respawn Times of Raid Bosses?
+
+- All timers for **Raid Bosses** are available in `ALT + B` in **UTC + 0**
+- E.g. Barakiel shows 8.15 - 8.45 means during that time it can spawn randomly.
+
 <script src="../js/utctime.js" defer></script>
 
 
