@@ -158,5 +158,6 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 <script src="../js/utctime.js" defer></script>
 
+## Why am I not getting votes during a server restart?  
 
-
+- **Vote coins are delayed**: You will receive them **after the server comes back online**{style="color:red;"}.  
