@@ -161,3 +161,7 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 ## Why am I not getting votes during a server restart?  
 
 - **Vote coins are delayed**: You will receive them **after the server comes back online**{style="color:red;"}.  
+
+## Do Wolves/Baby Pets/Kookaburras evolve?
+
+- No, it is a common misconception that there are pets who evolve in Interlude or before. Baby Pets only heal a little bit, (they don't recharge mana or give buffs) wolves stay wolves even after level 55, very squishy, not worth to level up at all. The only pet that evolves is the Hatchling to Strider.
