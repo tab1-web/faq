@@ -165,3 +165,7 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 ## Do Wolves/Baby Pets/Kookaburras evolve?
 
 - No, it is a common misconception that there are pets who evolve in Interlude or before. Baby Pets only heal a little bit, (they don't recharge mana or give buffs) wolves stay wolves even after level 55, very squishy, not worth to level up at all. The only pet that evolves is the Hatchling to Strider.
+
+## What's the clan penalty? <br> How long do I have to wait to get invited back to my clan?
+
+- You have to wait 24 hours in order to join clan.
