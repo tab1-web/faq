@@ -112,9 +112,13 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 <li id="utc-time"></li>
 </ul>
 
-## What is the max level difference for parties?
+## Mage Skill Damage Based on Level Difference
 
-- Level 19 is the max party difference for still getting experience.
+- When attacking a monster, if your magic skill level is **15 or more levels higher** the monster's level, your spells will only deal **1 damage** and not land.
+
+## Party Experience Sharing Level Range
+
+- Party members can only share experience if they are within **20 levels** of each other. If the level gap exceeds 20, higher-level members will not receive experience.
 
 ## How long do buffs last? <br> What's the buff duration on Eternal?
 
