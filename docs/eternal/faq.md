@@ -35,7 +35,7 @@ h2 {
 
 ## Any offline shop infos?
 
-- Requirements: **Level 20**{style="color:red;"} .
+- Requirements: **Level 40**{style="color:red;"} .
 
 - You can have unlimited offline shops.
 
