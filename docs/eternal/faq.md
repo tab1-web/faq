@@ -169,3 +169,7 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 ## What's the clan penalty? <br> How long do I have to wait to get invited back to my clan?
 
 - You have to wait 24 hours in order to join clan.
+
+## My camera is zoomed in and I can't zoom out <br> How to fix the camera?
+
+- Press `PgUp` to zoom out.
