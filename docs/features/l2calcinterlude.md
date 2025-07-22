@@ -3781,9 +3781,9 @@ HP:<br>
 
 </table>
 
-<script src='/faq/features/js/rawdata.js' defer></script>
-<script src='/faq/features/js/block.js' defer></script>
-<script src='/faq/features/js/disable.js' defer></script>
-<script src='/faq/features/js/calculator.js' defer></script>
-<script src='/faq/features/js/cookie.js' defer></script>
-<script src='/faq/features/js/start.js' defer></script>
+<script src='/faq/features/js/char_calc/rawdata.js' defer></script>
+<script src='/faq/features/js/char_calc/block.js' defer></script>
+<script src='/faq/features/js/char_calc/disable.js' defer></script>
+<script src='/faq/features/js/char_calc/calculator.js' defer></script>
+<script src='/faq/features/js/char_calc/cookie.js' defer></script>
+<script src='/faq/features/js/char_calc/start.js' defer></script>
