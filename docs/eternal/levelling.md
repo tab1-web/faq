@@ -376,7 +376,7 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
 
 Do [:fontawesome-solid-scroll: Noblesse Quest](../gameplay/progression/noblesse.md) and [:fontawesome-solid-scroll: Subclass Quests](../gameplay/progression/subclasses.md) as soon as possible, they are major milestones in your character's progression. Common misconception is that subclass quests give some sort of passive or active skills for Main Class, they don't in Interlude.
 
-For [:fontawesome-solid-scroll: Subclass Quests](../gameplay/progression/subclasses.md), you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon, you can skip that part for later.
+For [:fontawesome-solid-scroll: Subclass Quests](../gameplay/progression/subclasses.md), you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon + B Grade Crystals, you can skip that part for later.
 
 For [:fontawesome-solid-scroll: Noblesse Quest](../gameplay/progression/noblesse.md) on Barakiel, you can earn fragments of the staff by hitting Barakiel once. Earn 15 fragments and turn it into the full Staff to progress the quest. Make sure to not die and be close to the boss. 
 
