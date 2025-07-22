@@ -172,4 +172,4 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 ## My camera is zoomed in and I can't zoom out <br> How to fix the camera?
 
-- Press `PgUp` to zoom out.
+- Press `PgDown` to zoom out.
