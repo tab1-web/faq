@@ -83,7 +83,7 @@ function boxgoaway() {
 		d.gI("SSC3").style.display='block'
 		d.gI("SSC4").style.display='block'
 		d.gI("SSC5").style.display='block'
-		d.gI("SSC6").style.display='block'}
+		d.gI("SSC6").style.display='block'};
 }
 
 function equipmentgrade(setbonus,setjewelry)

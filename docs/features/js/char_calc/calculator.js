@@ -1000,29 +1000,23 @@ else if (weapongrade=="N")
 else if (weapongrade=="H")
 	{var weapon=d.gI("WPNH").value}
 
-const calcForm = document.forms.statcalculator;
-if (!calcForm) return;
+//Weapon SAs
+var weaponsa=document.forms['statcalculator'].WPNSA;
+weaponsa.length=5
+for (i=0;i<5;i++)
+	{
+	var p=i*2+4
+	if (WEAPON[weapon][p]!="")
+		{
+		weaponsa.options[i] = new Option(WEAPON[weapon][p],WEAPON[weapon][p],false,weaponsa.options[i].selected);
+		}
+	if (WEAPON[weapon][p]==""||WEAPON[weapon][p]==null)
+		{
+		weaponsa.length=i
+		break
+		}
+	}
 
-var weaponsa = calcForm.WPNSA;
-
-if (weaponsa) {
-    weaponsa.length = 0;
-    
-    for (let i = 0; i < 5; i++) {
-        var p = i * 2 + 4;
-        if (WEAPON[weapon] && WEAPON[weapon][p]) {
-            weaponsa.options[i] = new Option(
-                WEAPON[weapon][p],
-                WEAPON[weapon][p],
-                false,
-                weaponsa.options[i] ? weaponsa.options[i].selected : false
-            );
-        } else {
-            weaponsa.length = i;
-            break;
-        }
-    }
-}
 //Weapon Enchant
 var weaponenchant=d.gI("WPNE").value
 if (weaponenchant <= 3)

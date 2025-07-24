@@ -1,13 +1,13 @@
 onerror=handleErr
 var txt=""
 
-var pet_calc=new _pdocument();
+var d=new _pdocument();
 
 function _pdocument()
 {
 	var _alldata=new Array();
 	function _getElementById(id) {
-		if (_alldata[id]) {
+		if (_alldata[id]) {			
 			return _alldata[id];
 		}
 		else {
@@ -203,526 +203,526 @@ var HELMETPDEF=new Array(12,83,83,83,69,69,69,69,73,73,69,62,66,66,62,47,54,58,5
 
 function boxgoaway() {
 //toggle display for fieldsets
-	if (pet_calc.gI("COMBATC").checked==false)
-		{pet_calc.gI("COMBAT").style.display='none'}
-	else if (pet_calc.gI("COMBATC").checked==true)
-		{pet_calc.gI("COMBAT").style.display='block'}
-	if (pet_calc.gI("EDEBUFFSC").checked==false)
-		{pet_calc.gI("EDEBUFFS").style.display='none'}
-	else if (pet_calc.gI("EDEBUFFSC").checked==true)
-		{pet_calc.gI("EDEBUFFS").style.display='block'}
-	if (pet_calc.gI("BUFFSCHECK").checked==false)
-		{pet_calc.gI("BUFFS").style.display='none'}
-	else if (pet_calc.gI("BUFFSCHECK").checked==true)
-		{pet_calc.gI("BUFFS").style.display='block'}
-	if (pet_calc.gI("DEBUFFSCHECK").checked==false)
-		{pet_calc.gI("DEBUFFS").style.display='none'}
-	else if (pet_calc.gI("DEBUFFSCHECK").checked==true)
-		{pet_calc.gI("DEBUFFS").style.display='block'}
+	if (d.gI("COMBATC").checked==false)
+		{d.gI("COMBAT").style.display='none'}
+	else if (d.gI("COMBATC").checked==true)
+		{d.gI("COMBAT").style.display='block'}
+	if (d.gI("EDEBUFFSC").checked==false)
+		{d.gI("EDEBUFFS").style.display='none'}
+	else if (d.gI("EDEBUFFSC").checked==true)
+		{d.gI("EDEBUFFS").style.display='block'}
+	if (d.gI("BUFFSCHECK").checked==false)
+		{d.gI("BUFFS").style.display='none'}
+	else if (d.gI("BUFFSCHECK").checked==true)
+		{d.gI("BUFFS").style.display='block'}
+	if (d.gI("DEBUFFSCHECK").checked==false)
+		{d.gI("DEBUFFS").style.display='none'}
+	else if (d.gI("DEBUFFSCHECK").checked==true)
+		{d.gI("DEBUFFS").style.display='block'}
 }
 
 function buffs(setbuff) {
 //Buffs Autoselect
-var setbuffs=pet_calc.gI("SETBUFFS").value
+var setbuffs=d.gI("SETBUFFS").value
 var APROPH=new Array("n",1,"n","n","n","n","n","n","n",3,"n","n","n","n","n","n","n",0,"n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n",4,6,"n","n","n","n","n",4,7,"n","n","n","n","n",4,5,"n","n","n","n","n")
 var ABTB=new Array("n",5,5,4,3,2,1,0,"n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n",5,"n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n")
 var ABTS=new Array("n",5,5,4,3,2,1,0,"n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n",5,"n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n")
 var AFCS=new Array("n",2,2,2,2,2,1,1,0,2,2,2,2,2,1,1,0,5,5,5,4,4,3,3,3,3,"n","n","n","n","n","n","n","n","n","n",0,2,"n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n")
-var AHASTE=new Array("n",1,1,1,1,1,0,0,"n","n","n","n","n","n","n","n","n",3,3,3,3,3,3,3,2,2,"n","n","n","n","n","n","n","n","n","n",1,1,8,8,8,8,7,7,"n",8,8,8,8,7,7,"n",8,8,8,8,7,7,7,"n")
-var AEMP=new Array("n","n","n","n","n","n","n","n","n",2,2,2,2,2,1,1,0,"n","n","n","n","n","n","n","n","n","n","n",4,"n","n","n","n","n","n","n",2,"n",7,7,7,6,6,5,5,"n","n","n","n","n","n","n","n","n","n","n","n","n","n")
-var AWW=new Array("n",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,"n","n","n","n","n","n","n","n","n","n","n",3,3,2,"n","n","n","n","n",1,1,"n","n","n","n","n","n","n","n","n","n","n","n","n",10,10,10,10,10,10,9,9,9)
-var AMB=new Array("n",1,1,1,1,1,0,0,"n","n","n","n","n","n","n","n","n",4,4,4,4,4,4,4,4,3,3,3,7,7,7,7,6,6,5,5,1,"n",9,9,9,9,8,8,"n",9,9,9,9,8,8,"n",9,9,9,9,8,8,8)
+var AHASTE=new Array("n",1,1,1,1,1,0,0,"n","n","n","n","n","n","n","n","n",3,3,3,3,3,3,3,2,2,"n","n","n","n","n","n","n","n","n","n",0,1,1,8,8,8,8,7,7,"n",8,8,8,8,7,7,"n",8,8,8,8,7,7,"n")
+var AEMP=new Array("n","n","n","n","n","n","n","n","n",2,2,2,2,2,1,1,0,"n","n","n","n","n","n","n","n","n","n","n",4,"n","n","n","n","n","n","n",0,2,"n",7,7,7,6,6,5,5,"n","n","n","n","n","n","n","n","n","n","n","n","n","n")
+var AWW=new Array("n",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,"n","n","n","n","n","n","n","n","n","n","n",3,3,2,"n","n","n","n","n",1,1,1,"n","n","n","n","n","n","n","n","n","n","n","n","n","n",10,10,10,10,10,9,9)
+var AMB=new Array("n",1,1,1,1,1,0,0,"n","n","n","n","n","n","n","n","n",4,4,4,4,4,4,4,4,3,3,3,7,7,7,7,6,6,5,5,1,"n","n",9,9,9,9,8,8,"n",9,9,9,9,8,8,"n",9,9,9,9,8,8,"n")
 var AAGI=new Array("n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n",5,5,5,5,5,5,5,4,4,3,3,8,8,8,8,7,7,6,6,"n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n")
 var AGUID=new Array("n",2,2,2,2,1,1,0,0,2,2,2,2,1,1,0,0,5,5,5,5,5,4,3,3,3,"n","n",8,8,8,8,7,6,6,6,2,2,"n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n")
 var AACU=new Array("n",2,2,2,2,2,2,1,1,"n","n","n","n","n","n","n","n",5,5,5,5,5,5,5,4,4,4,3,8,8,8,8,7,7,7,6,0,2,"n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n")
-var ASHIELD=new Array("n",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,8,8,8,8,8,8,8,8,8,8,5,5,5,5,5,4,4,3,2,"n",14,14,14,13,13,12,12,14,14,14,13,13,12,12,14,14,14,13,13,12,12)
+var ASHIELD=new Array("n",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,8,8,8,8,8,8,8,8,8,8,5,5,5,5,5,4,4,3,2,"n","n",14,14,14,13,13,12,12,14,14,14,13,13,12,12,14,14,14,13,13,12,12)
 var AMIGHT=new Array("n",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,6,6,6,6,6,6,6,6,6,5,9,9,9,9,9,9,8,8,2,2,0,0,0,0,0,0,0,12,12,12,11,11,10,10,0,0,0,0,0,0,0)
 var AREGENERATION=new Array("n",2,2,2,2,1,1,0,0,"n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n")
 var ADEATHWHISPER=new Array("n",2,2,2,2,1,1,0,0,2,2,2,2,1,1,0,0,5,5,5,5,5,5,5,4,3,3,"n",6,"n","n","n","n","n","n","n",0,2,"n")
 var AVAMPIRICRAGE=new Array("n","n","n","n","n","n","n","n","n",3,3,2,1,1,1,1,0,7,7,6,6,5,5,4,4,4,4,"n","n","n","n","n","n","n","n","n",3,"n","n")
 var ASKIN=new Array("n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n",2,2,1,0,0,"n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n","n")
 if (setbuff && setbuffs=="0"){
-	pet_calc.gI("BTBCHECK").checked=false
-	pet_calc.gI("VITCHECK").checked=false
-	pet_calc.gI("BTSCHECK").checked=false
-	pet_calc.gI("MIGHTCHECK").checked=false
-	pet_calc.gI("DOWACHECK").checked=false
-	pet_calc.gI("GREATERMIGHTCHECK").checked=false
-	pet_calc.gI("EMPCHECK").checked=false
-	pet_calc.gI("DOMYCHECK").checked=false
-	pet_calc.gI("SHIELDCHECK").checked=false
-	pet_calc.gI("SOECHECK").checked=false
-	pet_calc.gI("GREATERSHIELDCHECK").checked=false
-	pet_calc.gI("MBCHECK").checked=false
-	pet_calc.gI("WARDCHECK").checked=false
-	pet_calc.gI("GUIDCHECK").checked=false
-	pet_calc.gI("DOICHECK").checked=false
-	pet_calc.gI("AGICHECK").checked=false
-	pet_calc.gI("SWATCHECK").checked=false
-	pet_calc.gI("FCSCHECK").checked=false
-	pet_calc.gI("SOHCHECK").checked=false
-	pet_calc.gI("WWCHECK").checked=false
-	pet_calc.gI("SWINDCHECK").checked=false
-	pet_calc.gI("DSHCHECK").checked=false
-	pet_calc.gI("HASTECHECK").checked=false
-	pet_calc.gI("DFURYCHECK").checked=false
-	pet_calc.gI("ACUCHECK").checked=false
-	pet_calc.gI("DCONCHECK").checked=false
-	pet_calc.gI("DEWC").checked=false
-	pet_calc.gI("DOFC").checked=false
-	pet_calc.gI("VRAC").checked=false
-	pet_calc.gI("DOVC").checked=false
-	pet_calc.gI("RGNC").checked=false
-	pet_calc.gI("SOLC").checked=false
-	pet_calc.gI("SOMC").checked=false
-	pet_calc.gI("SERC").checked=false
-	pet_calc.gI("SKNC").checked=false
-	pet_calc.gI("SOVC").checked=false
-	pet_calc.gI("ZERKCHECK").checked=false
-	pet_calc.gI("QUEENCHECK").checked=false
-	pet_calc.gI("PROPHCHECK").checked=false
-	pet_calc.gI("UDCHECK").checked=false
+	d.gI("BTBCHECK").checked=false
+	d.gI("VITCHECK").checked=false
+	d.gI("BTSCHECK").checked=false
+	d.gI("MIGHTCHECK").checked=false
+	d.gI("DOWACHECK").checked=false
+	d.gI("GREATERMIGHTCHECK").checked=false
+	d.gI("EMPCHECK").checked=false
+	d.gI("DOMYCHECK").checked=false
+	d.gI("SHIELDCHECK").checked=false
+	d.gI("SOECHECK").checked=false
+	d.gI("GREATERSHIELDCHECK").checked=false
+	d.gI("MBCHECK").checked=false
+	d.gI("WARDCHECK").checked=false
+	d.gI("GUIDCHECK").checked=false
+	d.gI("DOICHECK").checked=false
+	d.gI("AGICHECK").checked=false
+	d.gI("SWATCHECK").checked=false
+	d.gI("FCSCHECK").checked=false
+	d.gI("SOHCHECK").checked=false
+	d.gI("WWCHECK").checked=false
+	d.gI("SWINDCHECK").checked=false
+	d.gI("DSHCHECK").checked=false
+	d.gI("HASTECHECK").checked=false
+	d.gI("DFURYCHECK").checked=false
+	d.gI("ACUCHECK").checked=false
+	d.gI("DCONCHECK").checked=false
+	d.gI("DEWC").checked=false
+	d.gI("DOFC").checked=false
+	d.gI("VRAC").checked=false
+	d.gI("DOVC").checked=false
+	d.gI("RGNC").checked=false
+	d.gI("SOLC").checked=false
+	d.gI("SOMC").checked=false
+	d.gI("SERC").checked=false
+	d.gI("SKNC").checked=false
+	d.gI("SOVC").checked=false
+	d.gI("ZERKCHECK").checked=false
+	d.gI("QUEENCHECK").checked=false
+	d.gI("PROPHCHECK").checked=false
+	d.gI("UDCHECK").checked=false
 	}
 else if (setbuff) {
 	var PROPH=APROPH[setbuffs]
 	if (PROPH>=0)
-		{pet_calc.gI("PROPHCHECK").checked=true
-		pet_calc.gI("PROPH").selectedIndex=PROPH}
+		{d.gI("PROPHCHECK").checked=true
+		d.gI("PROPH").selectedIndex=PROPH}
 	var BTB=ABTB[setbuffs]
 	if (BTB>=0)
-		{pet_calc.gI("BTBCHECK").checked=true
-		pet_calc.gI("BTB").selectedIndex=BTB}
+		{d.gI("BTBCHECK").checked=true
+		d.gI("BTB").selectedIndex=BTB}
 	var BTS=ABTS[setbuffs]
 	if (BTS>=0)
-		{pet_calc.gI("BTSCHECK").checked=true
-		pet_calc.gI("BTS").selectedIndex=BTS}
+		{d.gI("BTSCHECK").checked=true
+		d.gI("BTS").selectedIndex=BTS}
 	var FCS=AFCS[setbuffs]
 	if (FCS>=0)
-		{pet_calc.gI("FCSCHECK").checked=true
-		pet_calc.gI("FCS").selectedIndex=FCS}
+		{d.gI("FCSCHECK").checked=true
+		d.gI("FCS").selectedIndex=FCS}
 	var HASTE=AHASTE[setbuffs]
 	if (HASTE>=0)
-		{pet_calc.gI("HASTECHECK").checked=true
-		pet_calc.gI("HASTE").selectedIndex=HASTE}
+		{d.gI("HASTECHECK").checked=true
+		d.gI("HASTE").selectedIndex=HASTE}
 	var EMP=AEMP[setbuffs]
 	if (EMP>=0)
-		{pet_calc.gI("EMPCHECK").checked=true
-		pet_calc.gI("EMP").selectedIndex=EMP}
+		{d.gI("EMPCHECK").checked=true
+		d.gI("EMP").selectedIndex=EMP}
 	var WW=AWW[setbuffs]
 	if (WW>=0)
-		{pet_calc.gI("WWCHECK").checked=true
-		pet_calc.gI("WW").selectedIndex=WW}
+		{d.gI("WWCHECK").checked=true
+		d.gI("WW").selectedIndex=WW}
 	var MB=AMB[setbuffs]
 	if (MB>=0)
-		{pet_calc.gI("MBCHECK").checked=true
-		pet_calc.gI("MB").selectedIndex=MB}
+		{d.gI("MBCHECK").checked=true
+		d.gI("MB").selectedIndex=MB}
 	var AGI=AAGI[setbuffs]
 	if (AGI>=0)
-		{pet_calc.gI("AGICHECK").checked=true
-		pet_calc.gI("AGI").selectedIndex=AGI}
+		{d.gI("AGICHECK").checked=true
+		d.gI("AGI").selectedIndex=AGI}
 	var GUID=AGUID[setbuffs]
 	if (GUID>=0)
-		{pet_calc.gI("GUIDCHECK").checked=true
-		pet_calc.gI("GUID").selectedIndex=GUID}
+		{d.gI("GUIDCHECK").checked=true
+		d.gI("GUID").selectedIndex=GUID}
 	var ACU=AACU[setbuffs]
 	if (ACU>=0)
-		{pet_calc.gI("ACUCHECK").checked=true
-		pet_calc.gI("ACU").selectedIndex=ACU}
+		{d.gI("ACUCHECK").checked=true
+		d.gI("ACU").selectedIndex=ACU}
 	var SHIELD=ASHIELD[setbuffs]
 	if (SHIELD>=0)
-		{pet_calc.gI("SHIELDCHECK").checked=true
-		pet_calc.gI("SHIELD").selectedIndex=SHIELD}
+		{d.gI("SHIELDCHECK").checked=true
+		d.gI("SHIELD").selectedIndex=SHIELD}
 	var MIGHT=AMIGHT[setbuffs]
 	if (MIGHT>=0)
-		{pet_calc.gI("MIGHTCHECK").checked=true
-		pet_calc.gI("MIGHT").selectedIndex=MIGHT}
+		{d.gI("MIGHTCHECK").checked=true
+		d.gI("MIGHT").selectedIndex=MIGHT}
 	var REGENERATION=AREGENERATION[setbuffs]
 	if (REGENERATION>=0)
-		{pet_calc.gI("RGNC").checked=true
-		pet_calc.gI("RGN").selectedIndex=REGENERATION}
+		{d.gI("RGNC").checked=true
+		d.gI("RGN").selectedIndex=REGENERATION}
 	var DEATHWHISPER=ADEATHWHISPER[setbuffs]
 	if (DEATHWHISPER>=0)
-		{pet_calc.gI("DEWC").checked=true
-		pet_calc.gI("DEW").selectedIndex=DEATHWHISPER}
+		{d.gI("DEWC").checked=true
+		d.gI("DEW").selectedIndex=DEATHWHISPER}
 	var VAMPIRICRAGE=AVAMPIRICRAGE[setbuffs]
 	if (VAMPIRICRAGE>=0)
-		{pet_calc.gI("VRAC").checked=true
-		pet_calc.gI("VRA").selectedIndex=VAMPIRICRAGE}
+		{d.gI("VRAC").checked=true
+		d.gI("VRA").selectedIndex=VAMPIRICRAGE}
 	var SKIN=ASKIN[setbuffs]
 	if (SKIN>=0)
-		{pet_calc.gI("SKNC").checked=true
-		pet_calc.gI("SKN").selectedIndex=SKIN}
+		{d.gI("SKNC").checked=true
+		d.gI("SKN").selectedIndex=SKIN}
 }
-	if (pet_calc.gI("ACUCHECK").checked==false)
-		{pet_calc.gI("ACU").disabled=true;}
+	if (d.gI("ACUCHECK").checked==false)
+		{d.gI("ACU").disabled=true;}
 	else
-		{pet_calc.gI("ACU").disabled=false;}
-	if (pet_calc.gI("AGICHECK").checked==false)
-		{pet_calc.gI("AGI").disabled=true;}
+		{d.gI("ACU").disabled=false;}
+	if (d.gI("AGICHECK").checked==false)
+		{d.gI("AGI").disabled=true;}
 	else
-		{pet_calc.gI("AGI").disabled=false;}
-	if (pet_calc.gI("ZERKCHECK").checked==false)
-		{pet_calc.gI("ZERK").disabled=true;}
+		{d.gI("AGI").disabled=false;}
+	if (d.gI("ZERKCHECK").checked==false)
+		{d.gI("ZERK").disabled=true;}
 	else
-		{pet_calc.gI("ZERK").disabled=false;}
-	if (pet_calc.gI("BTBCHECK").checked==false)
-		{pet_calc.gI("BTB").disabled=true;}
+		{d.gI("ZERK").disabled=false;}
+	if (d.gI("BTBCHECK").checked==false)
+		{d.gI("BTB").disabled=true;}
 	else
-		{pet_calc.gI("BTB").disabled=false;}
-	if (pet_calc.gI("BTSCHECK").checked==false)
-		{pet_calc.gI("BTS").disabled=true;}
+		{d.gI("BTB").disabled=false;}
+	if (d.gI("BTSCHECK").checked==false)
+		{d.gI("BTS").disabled=true;}
 	else
-		{pet_calc.gI("BTS").disabled=false;}
-	if (pet_calc.gI("DCONCHECK").checked==false)
-		{pet_calc.gI("DCON").disabled=true;}
+		{d.gI("BTS").disabled=false;}
+	if (d.gI("DCONCHECK").checked==false)
+		{d.gI("DCON").disabled=true;}
 	else
-		{pet_calc.gI("DCON").disabled=false;}
-	if (pet_calc.gI("DOFC").checked==false)
-		{pet_calc.gI("DOF").disabled=true;}
+		{d.gI("DCON").disabled=false;}
+	if (d.gI("DOFC").checked==false)
+		{d.gI("DOF").disabled=true;}
 	else
-		{pet_calc.gI("DOF").disabled=false;}
-	if (pet_calc.gI("DFURYCHECK").checked==false)
-		{pet_calc.gI("DFURY").disabled=true;}
+		{d.gI("DOF").disabled=false;}
+	if (d.gI("DFURYCHECK").checked==false)
+		{d.gI("DFURY").disabled=true;}
 	else
-		{pet_calc.gI("DFURY").disabled=false;}
-	if (pet_calc.gI("DOICHECK").checked==false)
-		{pet_calc.gI("DOI").disabled=true;}
+		{d.gI("DFURY").disabled=false;}
+	if (d.gI("DOICHECK").checked==false)
+		{d.gI("DOI").disabled=true;}
 	else
-		{pet_calc.gI("DOI").disabled=false;}
-	if (pet_calc.gI("DOMYCHECK").checked==false)
-		{pet_calc.gI("DOMY").disabled=true;}
+		{d.gI("DOI").disabled=false;}
+	if (d.gI("DOMYCHECK").checked==false)
+		{d.gI("DOMY").disabled=true;}
 	else
-		{pet_calc.gI("DOMY").disabled=false;}
-	if (pet_calc.gI("DSHCHECK").checked==false)
-		{pet_calc.gI("DSH").disabled=true;}
+		{d.gI("DOMY").disabled=false;}
+	if (d.gI("DSHCHECK").checked==false)
+		{d.gI("DSH").disabled=true;}
 	else
-		{pet_calc.gI("DSH").disabled=false;}
-	if (pet_calc.gI("DOVC").checked==false)
-		{pet_calc.gI("DOV").disabled=true;}
+		{d.gI("DSH").disabled=false;}
+	if (d.gI("DOVC").checked==false)
+		{d.gI("DOV").disabled=true;}
 	else
-		{pet_calc.gI("DOV").disabled=false;}
-	if (pet_calc.gI("DOWACHECK").checked==false)
-		{pet_calc.gI("DOWA").disabled=true;}
+		{d.gI("DOV").disabled=false;}
+	if (d.gI("DOWACHECK").checked==false)
+		{d.gI("DOWA").disabled=true;}
 	else
-		{pet_calc.gI("DOWA").disabled=false;}
-	if (pet_calc.gI("DEWC").checked==false)
-		{pet_calc.gI("DEW").disabled=true;}
+		{d.gI("DOWA").disabled=false;}
+	if (d.gI("DEWC").checked==false)
+		{d.gI("DEW").disabled=true;}
 	else
-		{pet_calc.gI("DEW").disabled=false;}
-	if (pet_calc.gI("EMPCHECK").checked==false)
-		{pet_calc.gI("EMP").disabled=true;}
+		{d.gI("DEW").disabled=false;}
+	if (d.gI("EMPCHECK").checked==false)
+		{d.gI("EMP").disabled=true;}
 	else
-		{pet_calc.gI("EMP").disabled=false;}
-	if (pet_calc.gI("FCSCHECK").checked==false)
-		{pet_calc.gI("FCS").disabled=true;}
+		{d.gI("EMP").disabled=false;}
+	if (d.gI("FCSCHECK").checked==false)
+		{d.gI("FCS").disabled=true;}
 	else
-		{pet_calc.gI("FCS").disabled=false;}
-	if (pet_calc.gI("GREATERMIGHTCHECK").checked==true && pet_calc.gI("GREATERSHIELDCHECK").checked==false)
-		{pet_calc.gI("GREATERMIGHT").disabled=false;
-		pet_calc.gI("GREATERSHIELDCHECK").disabled=true;
-		pet_calc.gI("GREATERSHIELDCHECK").checked=false;
-		pet_calc.gI("GREATERSHIELD").disabled=true;}
-	else if (pet_calc.gI("GREATERSHIELDCHECK").checked==true && pet_calc.gI("GREATERMIGHTCHECK").checked==false)
-		{pet_calc.gI("GREATERSHIELD").disabled=false;
-		pet_calc.gI("GREATERMIGHTCHECK").disabled=true;
-		pet_calc.gI("GREATERMIGHTCHECK").checked=false;
-		pet_calc.gI("GREATERMIGHT").disabled=true;}
-	else if (pet_calc.gI("GREATERSHIELDCHECK").checked==true && pet_calc.gI("GREATERMIGHTCHECK").checked==true)
-		{pet_calc.gI("GREATERMIGHT").disabled=false;
-		pet_calc.gI("GREATERSHIELDCHECK").disabled=true;
-		pet_calc.gI("GREATERSHIELDCHECK").checked=false;
-		pet_calc.gI("GREATERSHIELD").disabled=true;}
+		{d.gI("FCS").disabled=false;}
+	if (d.gI("GREATERMIGHTCHECK").checked==true && d.gI("GREATERSHIELDCHECK").checked==false)
+		{d.gI("GREATERMIGHT").disabled=false;
+		d.gI("GREATERSHIELDCHECK").disabled=true;
+		d.gI("GREATERSHIELDCHECK").checked=false;
+		d.gI("GREATERSHIELD").disabled=true;}
+	else if (d.gI("GREATERSHIELDCHECK").checked==true && d.gI("GREATERMIGHTCHECK").checked==false)
+		{d.gI("GREATERSHIELD").disabled=false;
+		d.gI("GREATERMIGHTCHECK").disabled=true;
+		d.gI("GREATERMIGHTCHECK").checked=false;
+		d.gI("GREATERMIGHT").disabled=true;}
+	else if (d.gI("GREATERSHIELDCHECK").checked==true && d.gI("GREATERMIGHTCHECK").checked==true)
+		{d.gI("GREATERMIGHT").disabled=false;
+		d.gI("GREATERSHIELDCHECK").disabled=true;
+		d.gI("GREATERSHIELDCHECK").checked=false;
+		d.gI("GREATERSHIELD").disabled=true;}
 	else
-		{pet_calc.gI("GREATERMIGHT").disabled=true;
-		pet_calc.gI("GREATERSHIELD").disabled=true;
-		pet_calc.gI("GREATERSHIELDCHECK").disabled=false;
-		pet_calc.gI("GREATERMIGHTCHECK").disabled=false;}
-	if (pet_calc.gI("GUIDCHECK").checked==false)
-		{pet_calc.gI("GUID").disabled=true;}
+		{d.gI("GREATERMIGHT").disabled=true;
+		d.gI("GREATERSHIELD").disabled=true;
+		d.gI("GREATERSHIELDCHECK").disabled=false;
+		d.gI("GREATERMIGHTCHECK").disabled=false;}
+	if (d.gI("GUIDCHECK").checked==false)
+		{d.gI("GUID").disabled=true;}
 	else
-		{pet_calc.gI("GUID").disabled=false;}
-	if (pet_calc.gI("HASTECHECK").checked==false)
-		{pet_calc.gI("HASTE").disabled=true;}
+		{d.gI("GUID").disabled=false;}
+	if (d.gI("HASTECHECK").checked==false)
+		{d.gI("HASTE").disabled=true;}
 	else
-		{pet_calc.gI("HASTE").disabled=false;}
-	if (pet_calc.gI("MBCHECK").checked==false)
-		{pet_calc.gI("MB").disabled=true;}
+		{d.gI("HASTE").disabled=false;}
+	if (d.gI("MBCHECK").checked==false)
+		{d.gI("MB").disabled=true;}
 	else
-		{pet_calc.gI("MB").disabled=false;}
-	if (pet_calc.gI("MIGHTCHECK").checked==false)
-		{pet_calc.gI("MIGHT").disabled=true;}
+		{d.gI("MB").disabled=false;}
+	if (d.gI("MIGHTCHECK").checked==false)
+		{d.gI("MIGHT").disabled=true;}
 	else
-		{pet_calc.gI("MIGHT").disabled=false;}
-	if (pet_calc.gI("PROPHCHECK").checked==false)
-		{pet_calc.gI("PROPH").disabled=true;}
+		{d.gI("MIGHT").disabled=false;}
+	if (d.gI("PROPHCHECK").checked==false)
+		{d.gI("PROPH").disabled=true;}
 	else
-		{pet_calc.gI("PROPH").disabled=false;}
-	if (pet_calc.gI("QUEENCHECK").checked==false)
-		{pet_calc.gI("QUEEN").disabled=true;}
+		{d.gI("PROPH").disabled=false;}
+	if (d.gI("QUEENCHECK").checked==false)
+		{d.gI("QUEEN").disabled=true;}
 	else
-		{pet_calc.gI("QUEEN").disabled=false;}
-	if (pet_calc.gI("RGNC").checked==false)
-		{pet_calc.gI("RGN").disabled=true;}
+		{d.gI("QUEEN").disabled=false;}
+	if (d.gI("RGNC").checked==false)
+		{d.gI("RGN").disabled=true;}
 	else
-		{pet_calc.gI("RGN").disabled=false;}
-	if (pet_calc.gI("SERC").checked==false)
-		{pet_calc.gI("SER").disabled=true;}
+		{d.gI("RGN").disabled=false;}
+	if (d.gI("SERC").checked==false)
+		{d.gI("SER").disabled=true;}
 	else
-		{pet_calc.gI("SER").disabled=false;}
-	if (pet_calc.gI("BLKSCHECK").checked==false)
-		{pet_calc.gI("BLKS").disabled=true;
-		pet_calc.gI("SHIELDCHECK").disabled=false;}
-	else if (pet_calc.gI("BLKSCHECK").checked==true)
-		{pet_calc.gI("BLKS").disabled=false;
-		pet_calc.gI("SHIELDCHECK").disabled=true;
-		pet_calc.gI("SHIELDCHECK").checked=false;}
-	if (pet_calc.gI("SHIELDCHECK").checked==false)
-		{pet_calc.gI("SHIELD").disabled=true;}
+		{d.gI("SER").disabled=false;}
+	if (d.gI("BLKSCHECK").checked==false)
+		{d.gI("BLKS").disabled=true;
+		d.gI("SHIELDCHECK").disabled=false;}
+	else if (d.gI("BLKSCHECK").checked==true)
+		{d.gI("BLKS").disabled=false;
+		d.gI("SHIELDCHECK").disabled=true;
+		d.gI("SHIELDCHECK").checked=false;}
+	if (d.gI("SHIELDCHECK").checked==false)
+		{d.gI("SHIELD").disabled=true;}
 	else
-		{pet_calc.gI("SHIELD").disabled=false;}
-	if (pet_calc.gI("SKNC").checked==false)
-		{pet_calc.gI("SKN").disabled=true;}
+		{d.gI("SHIELD").disabled=false;}
+	if (d.gI("SKNC").checked==false)
+		{d.gI("SKN").disabled=true;}
 	else
-		{pet_calc.gI("SKN").disabled=false;}
-	if (pet_calc.gI("SOECHECK").checked==false)
-		{pet_calc.gI("SOEA").disabled=true;}
+		{d.gI("SKN").disabled=false;}
+	if (d.gI("SOECHECK").checked==false)
+		{d.gI("SOEA").disabled=true;}
 	else
-		{pet_calc.gI("SOEA").disabled=false;}
-	if (pet_calc.gI("SOHCHECK").checked==false)
-		{pet_calc.gI("SOH").disabled=true;}
+		{d.gI("SOEA").disabled=false;}
+	if (d.gI("SOHCHECK").checked==false)
+		{d.gI("SOH").disabled=true;}
 	else
-		{pet_calc.gI("SOH").disabled=false;}
-	if (pet_calc.gI("SOLC").checked==false)
-		{pet_calc.gI("SOL").disabled=true;}
+		{d.gI("SOH").disabled=false;}
+	if (d.gI("SOLC").checked==false)
+		{d.gI("SOL").disabled=true;}
 	else
-		{pet_calc.gI("SOL").disabled=false;}
-	if (pet_calc.gI("SOMC").checked==false)
-		{pet_calc.gI("SOM").disabled=true;}
+		{d.gI("SOL").disabled=false;}
+	if (d.gI("SOMC").checked==false)
+		{d.gI("SOM").disabled=true;}
 	else
-		{pet_calc.gI("SOM").disabled=false;}
-	if (pet_calc.gI("SOVC").checked==false)
-		{pet_calc.gI("SOV").disabled=true;}
+		{d.gI("SOM").disabled=false;}
+	if (d.gI("SOVC").checked==false)
+		{d.gI("SOV").disabled=true;}
 	else
-		{pet_calc.gI("SOV").disabled=false;}
-	if (pet_calc.gI("VITCHECK").checked==false)
-		{pet_calc.gI("VIT").disabled=true;}
+		{d.gI("SOV").disabled=false;}
+	if (d.gI("VITCHECK").checked==false)
+		{d.gI("VIT").disabled=true;}
 	else
-		{pet_calc.gI("VIT").disabled=false;}
-	if (pet_calc.gI("WARDCHECK").checked==false)
-		{pet_calc.gI("WARD").disabled=true;}
+		{d.gI("VIT").disabled=false;}
+	if (d.gI("WARDCHECK").checked==false)
+		{d.gI("WARD").disabled=true;}
 	else
-		{pet_calc.gI("WARD").disabled=false;}
-	if (pet_calc.gI("SWATCHECK").checked==false)
-		{pet_calc.gI("SWAT").disabled=true;}
+		{d.gI("WARD").disabled=false;}
+	if (d.gI("SWATCHECK").checked==false)
+		{d.gI("SWAT").disabled=true;}
 	else
-		{pet_calc.gI("SWAT").disabled=false;}
-	if (pet_calc.gI("SWINDCHECK").checked==false)
-		{pet_calc.gI("SWIND").disabled=true;}
+		{d.gI("SWAT").disabled=false;}
+	if (d.gI("SWINDCHECK").checked==false)
+		{d.gI("SWIND").disabled=true;}
 	else
-		{pet_calc.gI("SWIND").disabled=false;}
-	if (pet_calc.gI("UDCHECK").checked==false)
-		{pet_calc.gI("UD").disabled=true;}
+		{d.gI("SWIND").disabled=false;}
+	if (d.gI("UDCHECK").checked==false)
+		{d.gI("UD").disabled=true;}
 	else
-		{pet_calc.gI("UD").disabled=false;}
-	if (pet_calc.gI("VRAC").checked==false)
-		{pet_calc.gI("VRA").disabled=true;}
+		{d.gI("UD").disabled=false;}
+	if (d.gI("VRAC").checked==false)
+		{d.gI("VRA").disabled=true;}
 	else
-		{pet_calc.gI("VRA").disabled=false;}
-	if (pet_calc.gI("BWWCHECK").checked==false)
-		{pet_calc.gI("BWW").disabled=true;
-		pet_calc.gI("WWCHECK").disabled=false;}
+		{d.gI("VRA").disabled=false;}
+	if (d.gI("BWWCHECK").checked==false)
+		{d.gI("BWW").disabled=true;
+		d.gI("WWCHECK").disabled=false;}
 	else
-		{pet_calc.gI("BWW").disabled=false;
-		pet_calc.gI("WWCHECK").disabled=true;
-		pet_calc.gI("WWCHECK").checked=false;}
-	if (pet_calc.gI("WWCHECK").checked==false)
-		{pet_calc.gI("WW").disabled=true;}
+		{d.gI("BWW").disabled=false;
+		d.gI("WWCHECK").disabled=true;
+		d.gI("WWCHECK").checked=false;}
+	if (d.gI("WWCHECK").checked==false)
+		{d.gI("WW").disabled=true;}
 	else
-		{pet_calc.gI("WW").disabled=false;}
+		{d.gI("WW").disabled=false;}
 }
 function debuffs() {
-	if (pet_calc.gI("DEACCCHECK").checked==false)
-		{pet_calc.gI("DEACC").disabled=true;}
+	if (d.gI("DEACCCHECK").checked==false)
+		{d.gI("DEACC").disabled=true;}
 	else
-		{pet_calc.gI("DEACC").disabled=false;}
-	if (pet_calc.gI("ACCHECK").checked==false)
-		{pet_calc.gI("ARCR").disabled=true;}
+		{d.gI("DEACC").disabled=false;}
+	if (d.gI("ACCHECK").checked==false)
+		{d.gI("ARCR").disabled=true;}
 	else
-		{pet_calc.gI("ARCR").disabled=false;}
-	if (pet_calc.gI("DEASPDCHECK").checked==false)
-		{pet_calc.gI("DEASPD").disabled=true;}
+		{d.gI("ARCR").disabled=false;}
+	if (d.gI("DEASPDCHECK").checked==false)
+		{d.gI("DEASPD").disabled=true;}
 	else
-		{pet_calc.gI("DEASPD").disabled=false;}
-	if (pet_calc.gI("GLOOMCHECK").checked==false)
-		{pet_calc.gI("GLOOM").disabled=true;}
+		{d.gI("DEASPD").disabled=false;}
+	if (d.gI("GLOOMCHECK").checked==false)
+		{d.gI("GLOOM").disabled=true;}
 	else
-		{pet_calc.gI("GLOOM").disabled=false;}
-	if (pet_calc.gI("COABYSSCHECK").checked==false)
-		{pet_calc.gI("COABYSS").disabled=true;}
+		{d.gI("GLOOM").disabled=false;}
+	if (d.gI("COABYSSCHECK").checked==false)
+		{d.gI("COABYSS").disabled=true;}
 	else
-		{pet_calc.gI("COABYSS").disabled=false;}
-	if (pet_calc.gI("CODOOMCHECK").checked==false)
-		{pet_calc.gI("CODOOM").disabled=true;}
+		{d.gI("COABYSS").disabled=false;}
+	if (d.gI("CODOOMCHECK").checked==false)
+		{d.gI("CODOOM").disabled=true;}
 	else
-		{pet_calc.gI("CODOOM").disabled=false;}
-	if (pet_calc.gI("COSHADECHECK").checked==false)
-		{pet_calc.gI("COSHADE").disabled=true;}
+		{d.gI("CODOOM").disabled=false;}
+	if (d.gI("COSHADECHECK").checked==false)
+		{d.gI("COSHADE").disabled=true;}
 	else
-		{pet_calc.gI("COSHADE").disabled=false;}
-	if (pet_calc.gI("DVCHECK").checked==false)
-		{pet_calc.gI("DV").disabled=true;}
+		{d.gI("COSHADE").disabled=false;}
+	if (d.gI("DVCHECK").checked==false)
+		{d.gI("DV").disabled=true;}
 	else
-		{pet_calc.gI("DV").disabled=false;}
-	if (pet_calc.gI("DEMONICBDCHECK").checked==false)
-		{pet_calc.gI("DEMONICBD").disabled=true;}
+		{d.gI("DV").disabled=false;}
+	if (d.gI("DEMONICBDCHECK").checked==false)
+		{d.gI("DEMONICBD").disabled=true;}
 	else
-		{pet_calc.gI("DEMONICBD").disabled=false;}
-	if (pet_calc.gI("PSYCHOCHECK").checked==false)
-		{pet_calc.gI("PSYCHO").disabled=true;}
+		{d.gI("DEMONICBD").disabled=false;}
+	if (d.gI("PSYCHOCHECK").checked==false)
+		{d.gI("PSYCHO").disabled=true;}
 	else
-		{pet_calc.gI("PSYCHO").disabled=false;}
-	if (pet_calc.gI("TRIBUNALCHECK").checked==false)
-		{pet_calc.gI("TRIBUNAL").disabled=true;}
+		{d.gI("PSYCHO").disabled=false;}
+	if (d.gI("TRIBUNALCHECK").checked==false)
+		{d.gI("TRIBUNAL").disabled=true;}
 	else
-		{pet_calc.gI("TRIBUNAL").disabled=false;}
-	if (pet_calc.gI("FVCHECK").checked==false)
-		{pet_calc.gI("FV").disabled=true;}
+		{d.gI("TRIBUNAL").disabled=false;}
+	if (d.gI("FVCHECK").checked==false)
+		{d.gI("FV").disabled=true;}
 	else
-		{pet_calc.gI("FV").disabled=false;}
-	if (pet_calc.gI("CHOLCHECK").checked==false)
-		{pet_calc.gI("CHOL").disabled=true;}
+		{d.gI("FV").disabled=false;}
+	if (d.gI("CHOLCHECK").checked==false)
+		{d.gI("CHOL").disabled=true;}
 	else
-		{pet_calc.gI("CHOL").disabled=false;}
-	if (pet_calc.gI("MALCHECK").checked==false)
-		{pet_calc.gI("MAL").disabled=true;}
+		{d.gI("CHOL").disabled=false;}
+	if (d.gI("MALCHECK").checked==false)
+		{d.gI("MAL").disabled=true;}
 	else
-		{pet_calc.gI("MAL").disabled=false;}
-	if (pet_calc.gI("IVCHECK").checked==false)
-		{pet_calc.gI("IV").disabled=true;}
+		{d.gI("MAL").disabled=false;}
+	if (d.gI("IVCHECK").checked==false)
+		{d.gI("IV").disabled=true;}
 	else
-		{pet_calc.gI("IV").disabled=false;}
-	if (pet_calc.gI("LVORCHECK").checked==false)
-		{pet_calc.gI("LVOR").disabled=true;}
+		{d.gI("IV").disabled=false;}
+	if (d.gI("LVORCHECK").checked==false)
+		{d.gI("LVOR").disabled=true;}
 	else
-		{pet_calc.gI("LVOR").disabled=false;}
-	if (pet_calc.gI("DEPATKCHECK").checked==false)
-		{pet_calc.gI("DEPATK").disabled=true;}
+		{d.gI("LVOR").disabled=false;}
+	if (d.gI("DEPATKCHECK").checked==false)
+		{d.gI("DEPATK").disabled=true;}
 	else
-		{pet_calc.gI("DEPATK").disabled=false;}
-	if (pet_calc.gI("DEPDEFCHECK").checked==false)
-		{pet_calc.gI("DEPDEF").disabled=true;}
+		{d.gI("DEPATK").disabled=false;}
+	if (d.gI("DEPDEFCHECK").checked==false)
+		{d.gI("DEPDEF").disabled=true;}
 	else
-		{pet_calc.gI("DEPDEF").disabled=false;}
-	if (pet_calc.gI("SANDBOMBCHECK").checked==false)
-		{pet_calc.gI("SANDBOMB").disabled=true;}
+		{d.gI("DEPDEF").disabled=false;}
+	if (d.gI("SANDBOMBCHECK").checked==false)
+		{d.gI("SANDBOMB").disabled=true;}
 	else
-		{pet_calc.gI("SANDBOMB").disabled=false;}
-	if (pet_calc.gI("DESPAIRCHECK").checked==false)
-		{pet_calc.gI("DESPAIR").disabled=true;}
+		{d.gI("SANDBOMB").disabled=false;}
+	if (d.gI("DESPAIRCHECK").checked==false)
+		{d.gI("DESPAIR").disabled=true;}
 	else
-		{pet_calc.gI("DESPAIR").disabled=false;}
-	if (pet_calc.gI("SBCHECK").checked==false)
-		{pet_calc.gI("SB").disabled=true;}
+		{d.gI("DESPAIR").disabled=false;}
+	if (d.gI("SBCHECK").checked==false)
+		{d.gI("SB").disabled=true;}
 	else
-		{pet_calc.gI("SB").disabled=false;}
-	if (pet_calc.gI("DESPEEDCHECK").checked==false)
-		{pet_calc.gI("DESPEED").disabled=true;}
+		{d.gI("SB").disabled=false;}
+	if (d.gI("DESPEEDCHECK").checked==false)
+		{d.gI("DESPEED").disabled=true;}
 	else
-		{pet_calc.gI("DESPEED").disabled=false;}
-	if (pet_calc.gI("WVCHECK").checked==false)
-		{pet_calc.gI("WV").disabled=true;}
+		{d.gI("DESPEED").disabled=false;}
+	if (d.gI("WVCHECK").checked==false)
+		{d.gI("WV").disabled=true;}
 	else
-		{pet_calc.gI("WV").disabled=false;}
+		{d.gI("WV").disabled=false;}
 }
 function edebuffs() {
-	if (pet_calc.gI("EDEPC").checked==false)
-		{pet_calc.gI("EDEP").disabled=true;}
+	if (d.gI("EDEPC").checked==false)
+		{d.gI("EDEP").disabled=true;}
 	else
-		{pet_calc.gI("EDEP").disabled=false;}
-	if (pet_calc.gI("EDEDC").checked==false)
-		{pet_calc.gI("EDED").disabled=true;}
+		{d.gI("EDEP").disabled=false;}
+	if (d.gI("EDEDC").checked==false)
+		{d.gI("EDED").disabled=true;}
 	else
-		{pet_calc.gI("EDED").disabled=false;}
-	if (pet_calc.gI("EBLKSC").checked==false)
-		{pet_calc.gI("EBLKS").disabled=true;}
+		{d.gI("EDED").disabled=false;}
+	if (d.gI("EBLKSC").checked==false)
+		{d.gI("EBLKS").disabled=true;}
 	else
-		{pet_calc.gI("EBLKS").disabled=false;}
-	if (pet_calc.gI("EDEAC").checked==false)
-		{pet_calc.gI("EDEA").disabled=true;}
+		{d.gI("EBLKS").disabled=false;}
+	if (d.gI("EDEAC").checked==false)
+		{d.gI("EDEA").disabled=true;}
 	else
-		{pet_calc.gI("EDEA").disabled=false;}
-	if (pet_calc.gI("ESBBC").checked==false)
-		{pet_calc.gI("ESBB").disabled=true;}
+		{d.gI("EDEA").disabled=false;}
+	if (d.gI("ESBBC").checked==false)
+		{d.gI("ESBB").disabled=true;}
 	else
-		{pet_calc.gI("ESBB").disabled=false;}
-	if (pet_calc.gI("ETRBC").checked==false)
-		{pet_calc.gI("ETRB").disabled=true;}
+		{d.gI("ESBB").disabled=false;}
+	if (d.gI("ETRBC").checked==false)
+		{d.gI("ETRB").disabled=true;}
 	else
-		{pet_calc.gI("ETRB").disabled=false;}
-	if (pet_calc.gI("EDENC").checked==false)
-		{pet_calc.gI("EDEN").disabled=true;}
+		{d.gI("ETRB").disabled=false;}
+	if (d.gI("EDENC").checked==false)
+		{d.gI("EDEN").disabled=true;}
 	else
-		{pet_calc.gI("EDEN").disabled=false;}
-	if (pet_calc.gI("EJDGC").checked==false)
-		{pet_calc.gI("EJDG").disabled=true;}
+		{d.gI("EDEN").disabled=false;}
+	if (d.gI("EJDGC").checked==false)
+		{d.gI("EJDG").disabled=true;}
 	else
-		{pet_calc.gI("EJDG").disabled=false;}
-	if (pet_calc.gI("EARCRC").checked==false)
-		{pet_calc.gI("EARCR").disabled=true;}
+		{d.gI("EJDG").disabled=false;}
+	if (d.gI("EARCRC").checked==false)
+		{d.gI("EARCR").disabled=true;}
 	else
-		{pet_calc.gI("EARCR").disabled=false;}
-	if (pet_calc.gI("ECBYC").checked==false)
-		{pet_calc.gI("ECBY").disabled=true;}
+		{d.gI("EARCR").disabled=false;}
+	if (d.gI("ECBYC").checked==false)
+		{d.gI("ECBY").disabled=true;}
 	else
-		{pet_calc.gI("ECBY").disabled=false;}
-	if (pet_calc.gI("ECDMC").checked==false)
-		{pet_calc.gI("ECDM").disabled=true;}
+		{d.gI("ECBY").disabled=false;}
+	if (d.gI("ECDMC").checked==false)
+		{d.gI("ECDM").disabled=true;}
 	else
-		{pet_calc.gI("ECDM").disabled=false;}
-	if (pet_calc.gI("ECSHC").checked==false)
-		{pet_calc.gI("ECSH").disabled=true;}
+		{d.gI("ECDM").disabled=false;}
+	if (d.gI("ECSHC").checked==false)
+		{d.gI("ECSH").disabled=true;}
 	else
-		{pet_calc.gI("ECSH").disabled=false;}
-	if (pet_calc.gI("EDBDC").checked==false)
-		{pet_calc.gI("EDBD").disabled=true;}
+		{d.gI("ECSH").disabled=false;}
+	if (d.gI("EDBDC").checked==false)
+		{d.gI("EDBD").disabled=true;}
 	else
-		{pet_calc.gI("EDBD").disabled=false;}
-	if (pet_calc.gI("EFVC").checked==false)
-		{pet_calc.gI("EFV").disabled=true;}
+		{d.gI("EDBD").disabled=false;}
+	if (d.gI("EFVC").checked==false)
+		{d.gI("EFV").disabled=true;}
 	else
-		{pet_calc.gI("EFV").disabled=false;}
-	if (pet_calc.gI("EHEEC").checked==false)
-		{pet_calc.gI("EHEE").disabled=true;}
+		{d.gI("EFV").disabled=false;}
+	if (d.gI("EHEEC").checked==false)
+		{d.gI("EHEE").disabled=true;}
 	else
-		{pet_calc.gI("EHEE").disabled=false;}
-	if (pet_calc.gI("ECHOLC").checked==false)
-		{pet_calc.gI("ECHOL").disabled=true;}
+		{d.gI("EHEE").disabled=false;}
+	if (d.gI("ECHOLC").checked==false)
+		{d.gI("ECHOL").disabled=true;}
 	else
-		{pet_calc.gI("ECHOL").disabled=false;}
-	if (pet_calc.gI("EIVC").checked==false)
-		{pet_calc.gI("EIV").disabled=true;}
+		{d.gI("ECHOL").disabled=false;}
+	if (d.gI("EIVC").checked==false)
+		{d.gI("EIV").disabled=true;}
 	else
-		{pet_calc.gI("EIV").disabled=false;}
-	if (pet_calc.gI("ELVORC").checked==false)
-		{pet_calc.gI("ELVOR").disabled=true;}
+		{d.gI("EIV").disabled=false;}
+	if (d.gI("ELVORC").checked==false)
+		{d.gI("ELVOR").disabled=true;}
 	else
-		{pet_calc.gI("ELVOR").disabled=false;}
-	if (pet_calc.gI("EPSYC").checked==false)
-		{pet_calc.gI("EPSY").disabled=true;}
+		{d.gI("ELVOR").disabled=false;}
+	if (d.gI("EPSYC").checked==false)
+		{d.gI("EPSY").disabled=true;}
 	else
-		{pet_calc.gI("EPSY").disabled=false;}
-	if (pet_calc.gI("ESBC").checked==false)
-		{pet_calc.gI("ESB").disabled=true;}
+		{d.gI("EPSY").disabled=false;}
+	if (d.gI("ESBC").checked==false)
+		{d.gI("ESB").disabled=true;}
 	else
-		{pet_calc.gI("ESB").disabled=false;}
-	if (pet_calc.gI("EDERC").checked==false)
-		{pet_calc.gI("EDER").disabled=true;}
+		{d.gI("ESB").disabled=false;}
+	if (d.gI("EDERC").checked==false)
+		{d.gI("EDER").disabled=true;}
 	else
-		{pet_calc.gI("EDER").disabled=false;}
-	if (pet_calc.gI("EWVC").checked==false)
-		{pet_calc.gI("EWV").disabled=true;}
+		{d.gI("EDER").disabled=false;}
+	if (d.gI("EWVC").checked==false)
+		{d.gI("EWV").disabled=true;}
 	else
-		{pet_calc.gI("EWV").disabled=false;}
+		{d.gI("EWV").disabled=false;}
 }
 
 function calc()
@@ -818,7 +818,7 @@ var Lower=0
 var MasteryMATK=0
 var MasteryPATK=1
 var pen=0
-var position=pet_calc.gI("POS").value
+var position=d.gI("POS").value
 var randdmg=1.2
 var Shield=0
 var ShieldEvasion=0
@@ -834,7 +834,7 @@ var WpnMATK=0
 var WpnCrt=40
 var WpnType="unequipped"
 
-var JOB=pet_calc.gI("class").value
+var JOB=d.gI("class").value
 var STR=40
 var CON=43
 var DEX=30
@@ -849,126 +849,107 @@ var WITMOD=0.64
 var MENMOD=1.28
 var BaseRun=0
 
-// WEAPONSA
-let weaponSAsInitialized = false;
-
-const weaponSAData = {
-    BB: { base: 'BIGBOOMBLVL', suffix: 'BIGBOOMSLVL' },
-    CO: { base: 'CORRUPTEDMANBLVL', suffix: 'CORRUPTEDMANSLVL' },
-    CU: { base: 'CURSEDMANBLVL', suffix: 'CURSEDMANSLVL' },
-    DP: { base: 'DARKPANTHERBLVL', suffix: 'DARKPANTHERSLVL' },
-    KAI: { base: 'KAITHECATBLVL', suffix: 'KAITHECATSLVL' }, // Also SL, MER
-    KAT: { base: 'KATTHECATBLVL', suffix: 'KATTHECATSLVL' }, // Also MEW, SH, SI, BOX, MIR
-    MG: { base: 'MECHANICGOLEMBLVL', suffix: 'MECHANICGOLEMSLVL' },
-    NS: { base: 'NIGHTSHADEBLVL', suffix: 'NIGHTSHADESLVL' }, // Also QC, SER
-    RM: { base: 'REANIMATEDMANBLVL', suffix: 'REANIMATEDMANSLVL' },
-    SG: { base: 'SIEGEGOLEMBLVL', suffix: 'SIEGEGOLEMSLVL' },
-    SP: { base: 'SPECTRALLORDBLVL', suffix: 'SPECTRALLORDSLVL' }, // Also FK, MU
-    SW: { base: 'SWOOPCANNONBLVL', suffix: 'SWOOPCANNONSLVL' },
-    WHC: { base: 'WILDHOGCANNONBLVL', suffix: 'WILDHOGCANNONSLVL' }
-};
-
-const jobGroups = {
-    KAI: ['KAI', 'SL', 'MER'],
-    KAT: ['KAT', 'MEW', 'SH', 'SI', 'BOX', 'MIR'],
-    NS: ['NS', 'QC', 'SER'],
-    SP: ['SP', 'FK', 'MU']
-};
-
-window.initializeWeaponSAs = function () {
-    if (weaponSAsInitialized) {
-        console.log('WeaponSAs already initialized, skipping...');
-        return;
-    }
-
-    try {
-        if (typeof JOB === 'undefined') {
-            JOB = pet_calc.gI("class").value;
-            console.log('Retrieved JOB from pet_calc:', JOB);
-        }
-    } catch (e) {
-        console.warn('Could not get JOB from pet_calc:', e);
-    }
-
-    if (typeof JOB === 'undefined') {
-        console.warn('JOB variable not defined, retrying in 200ms...');
-        setTimeout(initializeWeaponSAs, 200);
-        return;
-    }
-
-    console.log('Initializing WeaponSAs for JOB:', JOB);
-    
-    const form = document.forms['statcalculator'];
-    if (!form) {
-        console.warn('Form "statcalculator" not found');
-        return;
-    }
-    
-    const summonerlvl = form.elements['LV'] || document.getElementById('LV');
-    if (!summonerlvl) {
-        console.warn('Summoner level element "LV" not found in form');
-        return;
-    }
-
-    let actualJob = JOB;
-    for (const [group, jobs] of Object.entries(jobGroups)) {
-        if (jobs.includes(JOB)) {
-            actualJob = group;
-            break;
-        }
-    }
-
-    const saData = weaponSAData[actualJob];
-    if (!saData) {
-        console.warn('No weapon SA data found for JOB:', JOB);
-        return;
-    }
-
-    if (typeof window[saData.base] === 'undefined' || typeof window[saData.suffix] === 'undefined') {
-        console.warn(`Weapon SA arrays not loaded yet (${saData.base}, ${saData.suffix}), retrying in 200ms...`);
-        setTimeout(initializeWeaponSAs, 200);
-        return;
-    }
-
-    const baseArray = window[saData.base];
-    const suffixArray = window[saData.suffix];
-
-    console.log(`Using arrays: ${saData.base} and ${saData.suffix}`);
-
-    summonerlvl.length = 0;
-    
-    for (let i = 0; i < baseArray.length; i++) {
-        if (baseArray[i] >= 0) {
-            summonerlvl.add(new Option(suffixArray[i], baseArray[i]));
-        } else {
-            break;
-        }
-    }
-
-    console.log(`Initialized Weapon SA options with ${summonerlvl.length} levels`);
-    weaponSAsInitialized = true;
-};
-
-window.resetWeaponSAsInitialization = function() {
-    weaponSAsInitialized = false;
-};
-
-if (typeof document$ !== 'undefined') {
-    document$.subscribe(function() {
-        resetWeaponSAsInitialization();
-        initializeWeaponSAs();
-    });
-} else {
-    document.addEventListener('DOMContentLoaded', function() {
-        resetWeaponSAsInitialization();
-        initializeWeaponSAs();
-    });
-}
+//Weapon SAs
+var summonerlvl=document.forms['statcalculator'].LV;
+summonerlvl.length=20
+for (i=0;i<20;i++){
+	if (JOB=="BB") {
+		if (BIGBOOMBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(BIGBOOMSLVL[i],BIGBOOMBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="CO") {
+		if (CORRUPTEDMANBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(CORRUPTEDMANSLVL[i],CORRUPTEDMANBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="CU") {
+		if (CURSEDMANBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(CURSEDMANSLVL[i],CURSEDMANBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="DP") {
+		if (DARKPANTHERBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(DARKPANTHERSLVL[i],DARKPANTHERBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="KAI"||JOB=="SL"||JOB=="MER") {
+		if (KAITHECATBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(KAITHECATSLVL[i],KAITHECATBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="KAT"||JOB=="MEW"||JOB=="SH"||JOB=="SI"||JOB=="BOX"||JOB=="MIR") {
+		if (KATTHECATBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(KATTHECATSLVL[i],KATTHECATBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="MG") {
+		if (MECHANICGOLEMBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(MECHANICGOLEMSLVL[i],MECHANICGOLEMBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="NS"||JOB=="QC"||JOB=="SER") {
+		if (NIGHTSHADEBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(NIGHTSHADESLVL[i],NIGHTSHADEBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="RM") {
+		if (REANIMATEDMANBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(REANIMATEDMANSLVL[i],REANIMATEDMANBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="SG") {
+		if (SIEGEGOLEMBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(SIEGEGOLEMSLVL[i],SIEGEGOLEMBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="SP"||JOB=="FK"||JOB=="MU") {
+		if (SPECTRALLORDBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(SPECTRALLORDSLVL[i],SPECTRALLORDBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="SW") {
+		if (SWOOPCANNONBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(SWOOPCANNONSLVL[i],SWOOPCANNONBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	else if (JOB=="WHC") {
+		if (WILDHOGCANNONBLVL[i]>=0) {
+			summonerlvl.options[i] = new Option(WILDHOGCANNONSLVL[i],WILDHOGCANNONBLVL[i],false,summonerlvl.options[i].selected);}
+		else {
+			summonerlvl.length=i
+			break}
+	}
+	}
 
 //Level Modifier
-var LVL = + pet_calc.gI("LV").value
+var LVL = + d.gI("LV").value
 var LVLMOD=(LVL+89)/100
-var LVLVAR=pet_calc.gI("LV").selectedIndex
+var LVLVAR=d.gI("LV").selectedIndex
 
 //////////////////Enemy Targets
 var TARGET=new Array(
@@ -987,7 +968,7 @@ new Array("clone"),
 0)
 
 //Enemy Stats
-var enemy = + pet_calc.gI("ENE").value
+var enemy = + d.gI("ENE").value
 if (enemy!=11) {
 //Enemy Base Stats
 	var ELVL=TARGET[enemy][1]
@@ -1022,7 +1003,7 @@ if (enemy!=11) {
 	var Ebasecritical=EWpnCrt*EDEXMOD
 	var EAddCRIT=TARGET[enemy][22]
 	var Esubcritical=Ebasecritical*(TARGET[enemy][23])
-//Enemy Atk. Sppet_calc.
+//Enemy Atk. Spd.
 	var EBuffASPD=TARGET[enemy][24]
 	var EAddASPD=TARGET[enemy][25]
 //Enemy Critical Damage
@@ -1030,11 +1011,11 @@ if (enemy!=11) {
 	var EAddCRITDMG=TARGET[enemy][27]
 //Enemy Reflect Damage
 	var Ebuffrd=TARGET[enemy][33]
-	pet_calc.gI("EBUFFS").disabled=false
+	d.gI("EBUFFS").disabled=false
 //Enemy Buffs
 	var EBuffShieldBlockRate=1
 	var EBuffSHIELDPDEF=TARGET[enemy][29]
-	var ebuffs=pet_calc.gI("EBUFFS").value
+	var ebuffs=d.gI("EBUFFS").value
 	if (ebuffs=="1" && enemy==2)
 		{EBuffPATK=EBuffPATK*1.12;EBuffPDEF=EBuffPDEF*1.12;}
 	if (ebuffs=="1" && (enemy==5||enemy==8))
@@ -1056,54 +1037,54 @@ if (enemy!=11) {
 	if (ebuffs=="6")
 		{EBuffPATK=EBuffPATK*1.1*1.1;EBuffPDEF=EBuffPDEF*1.2;EBuffACC=EBuffACC+8;EBuffEVA=EBuffEVA+7;Esubcritical=Esubcritical+Ebasecritical*0.5;EBuffASPD=EBuffASPD*1.2;EBuffShieldBlockRate=EBuffShieldBlockRate/1.5*1.8;EBuffCRITDMG=EBuffCRITDMG*1.25*1.2;EBuffSHIELDPDEF=EBuffSHIELDPDEF*2;Ebuffrd=Ebuffrd+0.4}
 //Enemy Debuffs
-	if (pet_calc.gI("EDEPC").checked==true)
-		{var depatk=pet_calc.gI("EDEP").value;EBuffPATK=EBuffPATK*WEAKNESS[depatk]}
-	if (pet_calc.gI("EDEDC").checked==true)
-		{var depdef=pet_calc.gI("EDED").value;EBuffPDEF=EBuffPDEF*HEX[depdef]}
-	if (pet_calc.gI("EBLKSC").checked==true && ((ebuffs=="1" && enemy==2)||(ebuffs=="1" && (enemy==5||enemy==8))))
+	if (d.gI("EDEPC").checked==true)
+		{var depatk=d.gI("EDEP").value;EBuffPATK=EBuffPATK*WEAKNESS[depatk]}
+	if (d.gI("EDEDC").checked==true)
+		{var depdef=d.gI("EDED").value;EBuffPDEF=EBuffPDEF*HEX[depdef]}
+	if (d.gI("EBLKSC").checked==true && ((ebuffs=="1" && enemy==2)||(ebuffs=="1" && (enemy==5||enemy==8))))
 		{EBuffPDEF=(EBuffPDEF/1.12)*0.9}
-	else if (pet_calc.gI("EBLKSC").checked==true && ((ebuffs=="1" && enemy==4)||(ebuffs=="1" && (enemy==7||enemy==10)||(ebuffs>=2 && ebuffs<=6 && enemy!=2 && enemy!=5 && enemy!=8))))
+	else if (d.gI("EBLKSC").checked==true && ((ebuffs=="1" && enemy==4)||(ebuffs=="1" && (enemy==7||enemy==10)||(ebuffs>=2 && ebuffs<=6 && enemy!=2 && enemy!=5 && enemy!=8))))
 		{EBuffPDEF=0.90*EBuffPDEF}
-	else if (pet_calc.gI("EBLKSC").checked==true)
+	else if (d.gI("EBLKSC").checked==true)
 		{EBuffPDEF=0.90*EBuffPDEF}
-	if (pet_calc.gI("EDEAC").checked==true)
-		{var bu=pet_calc.gI("EDEA").value;EBuffACC=EBuffACC-DEACC[bu]}
-	if (pet_calc.gI("ESBBC").checked==true)
-		{var sandbomb=pet_calc.gI("ESBB").value;EBuffACC=EBuffACC+SANDBOMB[sandbomb]}
-	if (pet_calc.gI("ETRBC").checked==true)
-		{var tribunal=pet_calc.gI("ETRB").value;Esubcritical=Esubcritical+(Ebasecritical*TRIBUNAL[tribunal])}
-	if (pet_calc.gI("EDENC").checked==true)
-		{var bu=pet_calc.gI("EDEN").value;EBuffASPD=EBuffASPD*DEASPD[bu]}
-	if (pet_calc.gI("EJDGC").checked==true)
-		{var iv=pet_calc.gI("EJDG").value;EBuffCRITDMG=EBuffCRITDMG*JUDGMENT[iv]}
-	if (pet_calc.gI("EARCRC").checked==true)
+	if (d.gI("EDEAC").checked==true)
+		{var bu=d.gI("EDEA").value;EBuffACC=EBuffACC-DEACC[bu]}
+	if (d.gI("ESBBC").checked==true)
+		{var sandbomb=d.gI("ESBB").value;EBuffACC=EBuffACC+SANDBOMB[sandbomb]}
+	if (d.gI("ETRBC").checked==true)
+		{var tribunal=d.gI("ETRB").value;Esubcritical=Esubcritical+(Ebasecritical*TRIBUNAL[tribunal])}
+	if (d.gI("EDENC").checked==true)
+		{var bu=d.gI("EDEN").value;EBuffASPD=EBuffASPD*DEASPD[bu]}
+	if (d.gI("EJDGC").checked==true)
+		{var iv=d.gI("EJDG").value;EBuffCRITDMG=EBuffCRITDMG*JUDGMENT[iv]}
+	if (d.gI("EARCRC").checked==true)
 		{EBuffPDEF=0.70*EBuffPDEF}
-	if (pet_calc.gI("ECBYC").checked==true)
+	if (d.gI("ECBYC").checked==true)
 		{EBuffEVA=EBuffEVA-6}
-	if (pet_calc.gI("ECDMC").checked==true)
+	if (d.gI("ECDMC").checked==true)
 		{EBuffPATK=0.83*EBuffPATK}
-	if (pet_calc.gI("ECSHC").checked==true)
-		{var bu=pet_calc.gI("ECSH").value;EBuffPDEF=CURSEOFSHADE[bu]*EBuffPDEF}
-	if (pet_calc.gI("EDBDC").checked==true)
-		{var bu=pet_calc.gI("EDBD").value;EBuffPATK=EBuffPATK*DEMONICBD[bu]}
-	if (pet_calc.gI("EFVC").checked==true)
+	if (d.gI("ECSHC").checked==true)
+		{var bu=d.gI("ECSH").value;EBuffPDEF=CURSEOFSHADE[bu]*EBuffPDEF}
+	if (d.gI("EDBDC").checked==true)
+		{var bu=d.gI("EDBD").value;EBuffPATK=EBuffPATK*DEMONICBD[bu]}
+	if (d.gI("EFVC").checked==true)
 		{EBuffASPD=EBuffASPD*0.7}
-	if (pet_calc.gI("EHEEC").checked==true)
-		{var bu=pet_calc.gI("HEE").value;EBuffPDEF=EBuffPDEF*0.5;EBuffEVA=EBuffEVA-16;EBuffShieldBlockRate=EBuffShieldBlockRate*0.5}
-	if (pet_calc.gI("ECHOLC").checked==true)
-		{var bu=pet_calc.gI("ECHOL").value;EBuffACC=EBuffACC+HSCHOLACC[bu];EBuffEVA=EBuffEVA+HSCHOLEVA[bu]}
-	if (pet_calc.gI("EIVC").checked==true)
-		{var iv=pet_calc.gI("EIV").value;EBuffASPD=EBuffASPD*0.9}
-	if (pet_calc.gI("ELVORC").checked==true)
-		{var bu=pet_calc.gI("ELVOR").value;EBuffACC=EBuffACC-6}
-	if (pet_calc.gI("EPSYC").checked==true)
-		{var psycho=pet_calc.gI("EPSY").value;EBuffASPD=EBuffASPD*PSYCHO[psycho]}
-	if (pet_calc.gI("ESBC").checked==true)
-		{var shockblast=pet_calc.gI("ESB").value;EBuffPDEF=0.70*EBuffPDEF}
-	if (pet_calc.gI("EDERC").checked==true)
-		{var despair=pet_calc.gI("EDER").value;EBuffACC=EBuffACC-6;Esubcritical=Esubcritical+(Ebasecritical*-0.3);EBuffASPD=EBuffASPD*0.8;EBuffCRITDMG=EBuffCRITDMG*0.7}
-	if (pet_calc.gI("EWVC").checked==true)
-		{var wv=pet_calc.gI("EWV").value;EBuffASPD=EBuffASPD*0.9}
+	if (d.gI("EHEEC").checked==true) 
+		{var bu=d.gI("HEE").value;EBuffPDEF=EBuffPDEF*0.5;EBuffEVA=EBuffEVA-16;EBuffShieldBlockRate=EBuffShieldBlockRate*0.5}
+	if (d.gI("ECHOLC").checked==true)
+		{var bu=d.gI("ECHOL").value;EBuffACC=EBuffACC+HSCHOLACC[bu];EBuffEVA=EBuffEVA+HSCHOLEVA[bu]}
+	if (d.gI("EIVC").checked==true)
+		{var iv=d.gI("EIV").value;EBuffASPD=EBuffASPD*0.9}
+	if (d.gI("ELVORC").checked==true)
+		{var bu=d.gI("ELVOR").value;EBuffACC=EBuffACC-6}
+	if (d.gI("EPSYC").checked==true)
+		{var psycho=d.gI("EPSY").value;EBuffASPD=EBuffASPD*PSYCHO[psycho]}
+	if (d.gI("ESBC").checked==true)
+		{var shockblast=d.gI("ESB").value;EBuffPDEF=0.70*EBuffPDEF}
+	if (d.gI("EDERC").checked==true)
+		{var despair=d.gI("EDER").value;EBuffACC=EBuffACC-6;Esubcritical=Esubcritical+(Ebasecritical*-0.3);EBuffASPD=EBuffASPD*0.8;EBuffCRITDMG=EBuffCRITDMG*0.7}
+	if (d.gI("EWVC").checked==true)
+		{var wv=d.gI("EWV").value;EBuffASPD=EBuffASPD*0.9}
 //Enemy final stats
 	var Ecombatpatk=EWpnPATK*ESTRMOD*ELVLMOD*EMasteryPATK*EBuffPATK+EAddPATK
 	if (((Eweapongrade=="S"||Eweapongrade=="A") && Eweapon_sa!="no SA")||Eweapongrade=="H")
@@ -1290,129 +1271,129 @@ else if (WpnType=="SG")
 	if (JOB=="KAI")
 		{BuffRD=BuffRD+0.2}
 //Accuracy Debuffs
-	if (pet_calc.gI("DEACCCHECK").checked==true)
-		{var deacc=pet_calc.gI("DEACC").value;BuffACC=BuffACC-DEACC[deacc]}
+	if (d.gI("DEACCCHECK").checked==true)
+		{var deacc=d.gI("DEACC").value;BuffACC=BuffACC-DEACC[deacc]}
 //Acumen
-	if (pet_calc.gI("ACUCHECK").checked==true)
-		{var acu=pet_calc.gI("ACU").value;BuffCAST=BuffCAST*ACUMEN[acu]}
+	if (d.gI("ACUCHECK").checked==true)
+		{var acu=d.gI("ACU").value;BuffCAST=BuffCAST*ACUMEN[acu]}
 //Agility
-	if (pet_calc.gI("AGICHECK").checked==true)
-		{var agi=pet_calc.gI("AGI").value;BuffEVA=BuffEVA+AGILITY[agi]}
+	if (d.gI("AGICHECK").checked==true)
+		{var agi=d.gI("AGI").value;BuffEVA=BuffEVA+AGILITY[agi]}
 //Armor Crush
-	if (pet_calc.gI("ACCHECK").checked==true)
-		{var armorcrush=pet_calc.gI("ARCR").value;BuffPDEF=0.70*BuffPDEF;BuffMDEF=0.70*BuffMDEF}
+	if (d.gI("ACCHECK").checked==true)
+		{var armorcrush=d.gI("ARCR").value;BuffPDEF=0.70*BuffPDEF;BuffMDEF=0.70*BuffMDEF}
 //Attack Speed Debuffs
-	if (pet_calc.gI("DEASPDCHECK").checked==true)
-		{var deaspd=pet_calc.gI("DEASPD").value;BuffASPD=BuffASPD*DEASPD[deaspd]}
+	if (d.gI("DEASPDCHECK").checked==true)
+		{var deaspd=d.gI("DEASPD").value;BuffASPD=BuffASPD*DEASPD[deaspd]}
 //Berserker Spirit
-	if (pet_calc.gI("ZERKCHECK").checked==true)
-		{var zerk=pet_calc.gI("ZERK").value;BuffPATK=BuffPATK*ZERK[zerk];BuffPDEF=BuffPDEF*ZERKPDEF[zerk];BuffMATK=BuffMATK*ZERKMATK[zerk];BuffMDEF=BuffMDEF*ZERKMDEF[zerk];BuffEVA=BuffEVA+ZERKEVA[zerk];AddSPEED=AddSPEED+ZERKSPEED[zerk];BuffASPD=BuffASPD*ZERK[zerk];BuffCAST=BuffCAST*ZERK[zerk]}
+	if (d.gI("ZERKCHECK").checked==true)
+		{var zerk=d.gI("ZERK").value;BuffPATK=BuffPATK*ZERK[zerk];BuffPDEF=BuffPDEF*ZERKPDEF[zerk];BuffMATK=BuffMATK*ZERKMATK[zerk];BuffMDEF=BuffMDEF*ZERKMDEF[zerk];BuffEVA=BuffEVA+ZERKEVA[zerk];AddSPEED=AddSPEED+ZERKSPEED[zerk];BuffASPD=BuffASPD*ZERK[zerk];BuffCAST=BuffCAST*ZERK[zerk]}
 //Bless the Body
-	if (pet_calc.gI("BTBCHECK").checked==true)
-		{var btb=pet_calc.gI("BTB").value
+	if (d.gI("BTBCHECK").checked==true)
+		{var btb=d.gI("BTB").value
 		BuffHP=BuffHP*BTB[btb]}
 //Bless the Soul
-	if (pet_calc.gI("BTSCHECK").checked==true)
-		{var bts=pet_calc.gI("BTS").value;BuffMP=BuffMP*BTS[bts]}
+	if (d.gI("BTSCHECK").checked==true)
+		{var bts=d.gI("BTS").value;BuffMP=BuffMP*BTS[bts]}
 //Blessing of Seraphim
-	if (pet_calc.gI("SERC").checked==true)
-		{var bu=pet_calc.gI("SER").value;BuffMPR=BuffMPR*SERAPHIM[bu]}
+	if (d.gI("SERC").checked==true)
+		{var bu=d.gI("SER").value;BuffMPR=BuffMPR*SERAPHIM[bu]}
 //Block Shield
-	if (pet_calc.gI("BLKSCHECK").checked==true)
-		{var blockshield=pet_calc.gI("BLKS").value;BuffPDEF=0.90*BuffPDEF}
+	if (d.gI("BLKSCHECK").checked==true)
+		{var blockshield=d.gI("BLKS").value;BuffPDEF=0.90*BuffPDEF}
 //Block Wind Walk
-	if (pet_calc.gI("BWWCHECK").checked==true)
-		{var bww=pet_calc.gI("BWW").value;BuffSPEED=BuffSPEED*0.9}
+	if (d.gI("BWWCHECK").checked==true)
+		{var bww=d.gI("BWW").value;BuffSPEED=BuffSPEED*0.9}
 //Curse Gloom
-	if (pet_calc.gI("GLOOMCHECK").checked==true)
-		{var gloom=pet_calc.gI("GLOOM").value;BuffMDEF=0.77*BuffMDEF}
+	if (d.gI("GLOOMCHECK").checked==true)
+		{var gloom=d.gI("GLOOM").value;BuffMDEF=0.77*BuffMDEF}
 //Curse of Abyss
-	if (pet_calc.gI("COABYSSCHECK").checked==true)
-		{var coabyss=pet_calc.gI("COABYSS").value;BuffMATK=0.70*BuffMATK;BuffEVA=BuffEVA-6;BuffSPEED=BuffSPEED*0.9;BuffCAST=BuffCAST*0.8}
+	if (d.gI("COABYSSCHECK").checked==true)
+		{var coabyss=d.gI("COABYSS").value;BuffMATK=0.70*BuffMATK;BuffEVA=BuffEVA-6;BuffSPEED=BuffSPEED*0.9;BuffCAST=BuffCAST*0.8}
 //Curse of Doom
-	if (pet_calc.gI("CODOOMCHECK").checked==true)
-		{var codoom=pet_calc.gI("CODOOM").value;BuffPATK=0.83*BuffPATK}
+	if (d.gI("CODOOMCHECK").checked==true)
+		{var codoom=d.gI("CODOOM").value;BuffPATK=0.83*BuffPATK}
 //Curse of Shade
-	if (pet_calc.gI("COSHADECHECK").checked==true)
-		{var coshade=pet_calc.gI("COSHADE").value;BuffPDEF=CURSEOFSHADE[coshade]*BuffPDEF;BuffMDEF=CURSEOFSHADE[coshade]*BuffMDEF}
+	if (d.gI("COSHADECHECK").checked==true)
+		{var coshade=d.gI("COSHADE").value;BuffPDEF=CURSEOFSHADE[coshade]*BuffPDEF;BuffMDEF=CURSEOFSHADE[coshade]*BuffMDEF}
 //Dance of Concentration
-	if (pet_calc.gI("DCONCHECK").checked==true)
-		{var dcon=pet_calc.gI("DCON").value;BuffCAST=BuffCAST*1.3}
+	if (d.gI("DCONCHECK").checked==true)
+		{var dcon=d.gI("DCON").value;BuffCAST=BuffCAST*1.3}
 //Dance of Fire
-	if (pet_calc.gI("DOFC").checked==true)
+	if (d.gI("DOFC").checked==true)
 		{BuffCRITDMG=BuffCRITDMG*1.35}
 //Dance of Fury
-	if (pet_calc.gI("DFURYCHECK").checked==true)
-		{var dfury=pet_calc.gI("DFURY").value;BuffASPD=BuffASPD*1.15}
+	if (d.gI("DFURYCHECK").checked==true)
+		{var dfury=d.gI("DFURY").value;BuffASPD=BuffASPD*1.15}
 //Dance of Inspiration
-	if (pet_calc.gI("DOICHECK").checked==true)
-		{var doi=pet_calc.gI("DOI").value;BuffACC=BuffACC+4}
+	if (d.gI("DOICHECK").checked==true)
+		{var doi=d.gI("DOI").value;BuffACC=BuffACC+4}
 //Dance of Mystic
-	if (pet_calc.gI("DOMYCHECK").checked==true)
-		{var domy=pet_calc.gI("DOMY").value;BuffMATK=1.2*BuffMATK}
+	if (d.gI("DOMYCHECK").checked==true)
+		{var domy=d.gI("DOMY").value;BuffMATK=1.2*BuffMATK}
 //Dance of Shadow
-	if (pet_calc.gI("DSHCHECK").checked==true)
-		{var dsh=pet_calc.gI("DSH").value;BuffSPEED=BuffSPEED*0.5}
+	if (d.gI("DSHCHECK").checked==true)
+		{var dsh=d.gI("DSH").value;BuffSPEED=BuffSPEED*0.5}
 //Dance of Vampire
-	if (pet_calc.gI("DOVC").checked==true)
+	if (d.gI("DOVC").checked==true)
 		{BuffVR=BuffVR+0.08}
 //Dance of Warrior
-	if (pet_calc.gI("DOWACHECK").checked==true)
-		{var dowa=pet_calc.gI("DOWA").value;BuffPATK=1.12*BuffPATK}
+	if (d.gI("DOWACHECK").checked==true)
+		{var dowa=d.gI("DOWA").value;BuffPATK=1.12*BuffPATK}
 //Death Whisper
-	if (pet_calc.gI("DEWC").checked==true)
-		{var bu=pet_calc.gI("DEW").value;BuffCRITDMG=BuffCRITDMG*DEATHWHISPER[bu]}
+	if (d.gI("DEWC").checked==true)
+		{var bu=d.gI("DEW").value;BuffCRITDMG=BuffCRITDMG*DEATHWHISPER[bu]}
 //Demonic Blade Dance
-	if (pet_calc.gI("DEMONICBDCHECK").checked==true)
-		{var demonicbd=pet_calc.gI("DEMONICBD").value;BuffPATK=BuffPATK*DEMONICBD[demonicbd];BuffMATK=BuffMATK*DEMONICBD[demonicbd]}
+	if (d.gI("DEMONICBDCHECK").checked==true)
+		{var demonicbd=d.gI("DEMONICBD").value;BuffPATK=BuffPATK*DEMONICBD[demonicbd];BuffMATK=BuffMATK*DEMONICBD[demonicbd]}
 //Empower
-	if (pet_calc.gI("EMPCHECK").checked==true)
-		{var emp=pet_calc.gI("EMP").value;BuffMATK=BuffMATK*EMPOWER[emp]}
+	if (d.gI("EMPCHECK").checked==true)
+		{var emp=d.gI("EMP").value;BuffMATK=BuffMATK*EMPOWER[emp]}
 //Fire Vortex
-	if (pet_calc.gI("FVCHECK").checked==true)
-		{var fv=pet_calc.gI("FV").value;BuffSPEED=BuffSPEED*0.9;BuffASPD=BuffASPD*0.7;BuffCAST=BuffCAST*0.9}
+	if (d.gI("FVCHECK").checked==true)
+		{var fv=d.gI("FV").value;BuffSPEED=BuffSPEED*0.9;BuffASPD=BuffASPD*0.7;BuffCAST=BuffCAST*0.9}
 //Focus
-	if (pet_calc.gI("FCSCHECK").checked==true)
-		{var fcs=pet_calc.gI("FCS").value;AddCRIT=AddCRIT+(critical*0.25)}
+	if (d.gI("FCSCHECK").checked==true)
+		{var fcs=d.gI("FCS").value;AddCRIT=AddCRIT+(critical*0.25)}
 //Greater Might
-	if (pet_calc.gI("GREATERMIGHTCHECK").checked==true)
-		{var greatermight=pet_calc.gI("GREATERMIGHT").value;BuffPATK=BuffPATK*GREATERMIGHT[greatermight]}
+	if (d.gI("GREATERMIGHTCHECK").checked==true)
+		{var greatermight=d.gI("GREATERMIGHT").value;BuffPATK=BuffPATK*GREATERMIGHT[greatermight]}
 //Greater Shield
-	if (pet_calc.gI("GREATERSHIELDCHECK").checked==true)
-		{var greatershield=pet_calc.gI("GREATERSHIELD").value;BuffPDEF=BuffPDEF*GREATERSHIELD[greatershield]}
+	if (d.gI("GREATERSHIELDCHECK").checked==true)
+		{var greatershield=d.gI("GREATERSHIELD").value;BuffPDEF=BuffPDEF*GREATERSHIELD[greatershield]}
 //Guidance
-	if (pet_calc.gI("GUIDCHECK").checked==true)
-		{var guid=pet_calc.gI("GUID").value;BuffACC=BuffACC+GUIDANCE[guid]}
+	if (d.gI("GUIDCHECK").checked==true)
+		{var guid=d.gI("GUID").value;BuffACC=BuffACC+GUIDANCE[guid]}
 //Haste
-	if (pet_calc.gI("HASTECHECK").checked==true)
-		{var haste=pet_calc.gI("HASTE").value;BuffASPD=BuffASPD*HASTE[haste]}
+	if (d.gI("HASTECHECK").checked==true)
+		{var haste=d.gI("HASTE").value;BuffASPD=BuffASPD*HASTE[haste]}
 //Hot Springs Cholera
-	if (pet_calc.gI("CHOLCHECK").checked==true)
-		{var chol=pet_calc.gI("CHOL").value;BuffACC=BuffACC+HSCHOLACC[chol];BuffEVA=BuffEVA+HSCHOLEVA[chol]}
+	if (d.gI("CHOLCHECK").checked==true)
+		{var chol=d.gI("CHOL").value;BuffACC=BuffACC+HSCHOLACC[chol];BuffEVA=BuffEVA+HSCHOLEVA[chol]}
 //Hot Springs Malaria
-	if (pet_calc.gI("MALCHECK").checked==true)
-		{var mal=pet_calc.gI("MAL").value;BuffCAST=BuffCAST*HSMALARIA[mal]}
+	if (d.gI("MALCHECK").checked==true)
+		{var mal=d.gI("MAL").value;BuffCAST=BuffCAST*HSMALARIA[mal]}
 //Ice Vortex
-	if (pet_calc.gI("IVCHECK").checked==true)
-		{var iv=pet_calc.gI("IV").value;BuffSPEED=BuffSPEED*0.7;BuffASPD=BuffASPD*0.9;BuffCAST=BuffCAST*0.9}
+	if (d.gI("IVCHECK").checked==true)
+		{var iv=d.gI("IV").value;BuffSPEED=BuffSPEED*0.7;BuffASPD=BuffASPD*0.9;BuffCAST=BuffCAST*0.9}
 //Light Vortex
-	if (pet_calc.gI("LVORCHECK").checked==true)
-		{var lvor=pet_calc.gI("LVOR").value;BuffACC=BuffACC-6}
+	if (d.gI("LVORCHECK").checked==true)
+		{var lvor=d.gI("LVOR").value;BuffACC=BuffACC-6}
 //Magic Barrier
-	if (pet_calc.gI("MBCHECK").checked==true)
-		{var mb=pet_calc.gI("MB").value;BuffMDEF=BuffMDEF*MAGICBARRIER[mb]}
+	if (d.gI("MBCHECK").checked==true)
+		{var mb=d.gI("MB").value;BuffMDEF=BuffMDEF*MAGICBARRIER[mb]}
 //Might
-	if (pet_calc.gI("MIGHTCHECK").checked==true)
-		{var might=pet_calc.gI("MIGHT").value;BuffPATK=BuffPATK*MIGHT[might]}
+	if (d.gI("MIGHTCHECK").checked==true)
+		{var might=d.gI("MIGHT").value;BuffPATK=BuffPATK*MIGHT[might]}
 //P.Atk. Debuffs
-	if (pet_calc.gI("DEPATKCHECK").checked==true)
-		{var depatk=pet_calc.gI("DEPATK").value;BuffPATK=BuffPATK*WEAKNESS[depatk]}
+	if (d.gI("DEPATKCHECK").checked==true)
+		{var depatk=d.gI("DEPATK").value;BuffPATK=BuffPATK*WEAKNESS[depatk]}
 //P.Def. Debuffs
-	if (pet_calc.gI("DEPDEFCHECK").checked==true)
-		{var depdef=pet_calc.gI("DEPDEF").value;BuffPDEF=BuffPDEF*HEX[depdef]}
+	if (d.gI("DEPDEFCHECK").checked==true)
+		{var depdef=d.gI("DEPDEF").value;BuffPDEF=BuffPDEF*HEX[depdef]}
 //Prophecies
-	var proph=pet_calc.gI("PROPH").value
-	if (pet_calc.gI("PROPHCHECK").checked==true)
+	var proph=d.gI("PROPH").value
+	if (d.gI("PROPHCHECK").checked==true)
 		{BuffHP=BuffHP*PROPHECYHP[proph];
 		BuffMP=BuffMP*PROPHECYMP[proph];
 		BuffPATK=BuffPATK*PROPHECYPATK[proph];
@@ -1429,138 +1410,138 @@ else if (WpnType=="SG")
 		BuffMPR=BuffMPR*PROPHECYMPR[proph];
 		BuffCRITDMG=BuffCRITDMG*PROPHECYCRITDMG[proph]
 		BuffVR=BuffVR+PROPHECYVR[proph]}
-	if (pet_calc.gI("PROPHCHECK").checked==true && proph==4 && position==3)
+	if (d.gI("PROPHCHECK").checked==true && proph==4 && position==3)
 		{BuffCRITDMG=BuffCRITDMG*1.2;BuffCOMBATCRIT=BuffCOMBATCRIT*1.2}
 //Psycho Symphony
-	if (pet_calc.gI("PSYCHOCHECK").checked==true)
-		{var psycho=pet_calc.gI("PSYCHO").value;
+	if (d.gI("PSYCHOCHECK").checked==true)
+		{var psycho=d.gI("PSYCHO").value;
 		BuffSPEED=BuffSPEED*PSYCHO[psycho];
 		BuffASPD=BuffASPD*PSYCHO[psycho];
 		BuffCAST=BuffCAST*PSYCHO[psycho];}
 //Regeneration
-	if (pet_calc.gI("RGNC").checked==true)
-		{var regeneration=pet_calc.gI("RGN").value;BuffHPR=BuffHPR*REGENERATION[regeneration]}
+	if (d.gI("RGNC").checked==true)
+		{var regeneration=d.gI("RGN").value;BuffHPR=BuffHPR*REGENERATION[regeneration]}
 //Queen Buffs
-	var queen=pet_calc.gI("QUEEN").value
-	if ((queen=="1"||queen=="2"||queen=="3") && pet_calc.gI("QUEENCHECK").checked==true)
+	var queen=d.gI("QUEEN").value
+	if ((queen=="1"||queen=="2"||queen=="3") && d.gI("QUEENCHECK").checked==true)
 		{BuffPATK=CATBUFFS[queen]*BuffPATK;BuffACC=BuffACC+2}
-	else if ((queen=="4"||queen=="5"||queen=="6") && pet_calc.gI("QUEENCHECK").checked==true)
+	else if ((queen=="4"||queen=="5"||queen=="6") && d.gI("QUEENCHECK").checked==true)
 		{AddCRIT=AddCRIT+(critical*0.25)}
 //Sand Bomb
-	if (pet_calc.gI("SANDBOMBCHECK").checked==true)
-		{var sandbomb=pet_calc.gI("SANDBOMB").value;BuffACC=BuffACC+SANDBOMB[sandbomb]}
+	if (d.gI("SANDBOMBCHECK").checked==true)
+		{var sandbomb=d.gI("SANDBOMB").value;BuffACC=BuffACC+SANDBOMB[sandbomb]}
 //Seal of Despair
-	if (pet_calc.gI("DESPAIRCHECK").checked==true)
-		{var despair=pet_calc.gI("DESPAIR").value;BuffMDEF=0.70*BuffMDEF;BuffACC=BuffACC-6;AddCRIT=AddCRIT-(critical*0.25);BuffSPEED=BuffSPEED*0.8;BuffASPD=BuffASPD*0.8}
+	if (d.gI("DESPAIRCHECK").checked==true)
+		{var despair=d.gI("DESPAIR").value;BuffMDEF=0.70*BuffMDEF;BuffACC=BuffACC-6;AddCRIT=AddCRIT-(critical*0.25);BuffSPEED=BuffSPEED*0.8;BuffASPD=BuffASPD*0.8}
 //Shield
-	if (pet_calc.gI("SHIELDCHECK").checked==true)
-		{var shield=pet_calc.gI("SHIELD").value;BuffPDEF=BuffPDEF*SHIELD[shield]}
+	if (d.gI("SHIELDCHECK").checked==true)
+		{var shield=d.gI("SHIELD").value;BuffPDEF=BuffPDEF*SHIELD[shield]}
 //Shock Blast
-	if (pet_calc.gI("SBCHECK").checked==true)
-		{var shockblast=pet_calc.gI("SB").value;BuffPDEF=0.70*BuffPDEF;BuffMDEF=0.70*BuffMDEF}
+	if (d.gI("SBCHECK").checked==true)
+		{var shockblast=d.gI("SB").value;BuffPDEF=0.70*BuffPDEF;BuffMDEF=0.70*BuffMDEF}
 //Skin
-	if (pet_calc.gI("SKNC").checked==true)
-		{var bu=pet_calc.gI("SKN").value;BuffRD=BuffRD+SKIN[bu]}
+	if (d.gI("SKNC").checked==true)
+		{var bu=d.gI("SKN").value;BuffRD=BuffRD+SKIN[bu]}
 //Slow
-	if (pet_calc.gI("DESPEEDCHECK").checked==true)
-		{var despeed=pet_calc.gI("DESPEED").value;BuffSPEED=BuffSPEED*SLOW[despeed]}
+	if (d.gI("DESPEEDCHECK").checked==true)
+		{var despeed=d.gI("DESPEED").value;BuffSPEED=BuffSPEED*SLOW[despeed]}
 //Song of Earth
-	if (pet_calc.gI("SOECHECK").checked==true)
-		{var soea=pet_calc.gI("SOEA").value;BuffPDEF=1.25*BuffPDEF}
+	if (d.gI("SOECHECK").checked==true)
+		{var soea=d.gI("SOEA").value;BuffPDEF=1.25*BuffPDEF}
 //Song of Hunter
-	if (pet_calc.gI("SOHCHECK").checked==true)
-		{var soh=pet_calc.gI("SOH").value;AddCRIT=AddCRIT+critical*1.25}
+	if (d.gI("SOHCHECK").checked==true)
+		{var soh=d.gI("SOH").value;AddCRIT=AddCRIT+critical*1.25}
 //Song of Life
-	if (pet_calc.gI("SOLC").checked==true)
+	if (d.gI("SOLC").checked==true)
 		{BuffHPR=BuffHPR*1.2}
 //Song of Meditation
-	if (pet_calc.gI("SOMC").checked==true)
+	if (d.gI("SOMC").checked==true)
 		{BuffMPR=BuffMPR*1.2}
 //Song of Vengeance
-	if (pet_calc.gI("SOVC").checked==true)
+	if (d.gI("SOVC").checked==true)
 		{BuffRD=BuffRD+0.2}
 //Song of Vitality
-	if (pet_calc.gI("VITCHECK").checked==true)
-		{var vit=pet_calc.gI("VIT").value;BuffHP=1.3*BuffHP}
+	if (d.gI("VITCHECK").checked==true)
+		{var vit=d.gI("VIT").value;BuffHP=1.3*BuffHP}
 //Song of Warding
-	if (pet_calc.gI("WARDCHECK").checked==true)
-		{var ward=pet_calc.gI("WARD").value;BuffMDEF=1.3*BuffMDEF}
+	if (d.gI("WARDCHECK").checked==true)
+		{var ward=d.gI("WARD").value;BuffMDEF=1.3*BuffMDEF}
 //Song of Water
-	if (pet_calc.gI("SWATCHECK").checked==true)
-		{var swat=pet_calc.gI("SWAT").value;BuffEVA=BuffEVA+3}
+	if (d.gI("SWATCHECK").checked==true)
+		{var swat=d.gI("SWAT").value;BuffEVA=BuffEVA+3}
 //Song of Wind
-	if (pet_calc.gI("SWINDCHECK").checked==true)
-		{var swind=pet_calc.gI("SWIND").value;AddSPEED=AddSPEED+20}
+	if (d.gI("SWINDCHECK").checked==true)
+		{var swind=d.gI("SWIND").value;AddSPEED=AddSPEED+20}
 //Tribunal
-	var tribunal=pet_calc.gI("TRIBUNAL").value
-	if (pet_calc.gI("TRIBUNALCHECK").checked==true)
-		{var tribunal=pet_calc.gI("TRIBUNAL").value;
+	var tribunal=d.gI("TRIBUNAL").value
+	if (d.gI("TRIBUNALCHECK").checked==true)
+		{var tribunal=d.gI("TRIBUNAL").value;
 		AddCRIT=AddCRIT+(critical*0.25)}
 //Ultimate Defense
-	if (pet_calc.gI("UDCHECK").checked==true)
-		{var ud=pet_calc.gI("UD").value
+	if (d.gI("UDCHECK").checked==true)
+		{var ud=d.gI("UD").value
 		AddPDEF=AddPDEF+UDPDEF[ud]
 		AddMDEF=AddMDEF+UDMDEF[ud]}
 //Vampiric Rage
-	if (pet_calc.gI("VRAC").checked==true)
-		{var bu=pet_calc.gI("VRA").value;BuffVR=BuffVR+VAMPIRICRAGE[bu]}
+	if (d.gI("VRAC").checked==true)
+		{var bu=d.gI("VRA").value;BuffVR=BuffVR+VAMPIRICRAGE[bu]}
 //Wind Vortex
-	if (pet_calc.gI("WVCHECK").checked==true)
-		{var wv=pet_calc.gI("WV").value;BuffSPEED=BuffSPEED*0.9;BuffASPD=BuffASPD*0.9;BuffCAST=BuffCAST*0.7}
+	if (d.gI("WVCHECK").checked==true)
+		{var wv=d.gI("WV").value;BuffSPEED=BuffSPEED*0.9;BuffASPD=BuffASPD*0.9;BuffCAST=BuffCAST*0.7}
 //Wind Walk
-	if (pet_calc.gI("WWCHECK").checked==true)
-		{var ww=pet_calc.gI("WW").value;AddSPEED=AddSPEED+WINDWALK[ww]}
+	if (d.gI("WWCHECK").checked==true)
+		{var ww=d.gI("WW").value;AddSPEED=AddSPEED+WINDWALK[ww]}
 
 //Lv
-pet_calc.gI("LVL").innerHTML=(LVL)
+d.gI("LVL").innerHTML=(LVL)
 
 //HP calculation
 var hp=BaseHP*CONMOD*BuffHP+AddHP
 if (hp<1)
 	{hp=1}
 var hp2=Math.floor(hp)
-pet_calc.gI("HP").innerHTML=(hp2)
+d.gI("HP").innerHTML=(hp2)
 
 //MP calculation
 var mp=BaseMP*MENMOD*BuffMP+AddMP
 var mp2=Math.floor(mp)
-pet_calc.gI("MP").innerHTML=mp2
+d.gI("MP").innerHTML=mp2
 
 //P.Atk. calculation
 var patk=WpnPATK*STRMOD*LVLMOD*BuffPATK+AddPATK
 var patk2=Math.floor(patk)
 var combatpatk=patk
-pet_calc.gI("PATK").innerHTML=patk2
+d.gI("PATK").innerHTML=patk2
 
 //M.Atk. calculation
 var matk=WpnMATK*(INTMOD*INTMOD)*(LVLMOD*LVLMOD)*BuffMATK+AddMATK
 var matk2=Math.floor(matk)
 var combatmatk=matk
-pet_calc.gI("MATK").innerHTML=matk2
+d.gI("MATK").innerHTML=matk2
 
 //P.Def. calculation
 pdef=apdef*LVLMOD*BuffPDEF+AddPDEF
 pdef2=Math.floor(pdef)
 var combatpdef=pdef
-pet_calc.gI("PDEF").innerHTML=pdef2
+d.gI("PDEF").innerHTML=pdef2
 
 //M.Def. calculation
 mdef=jmdef*LVLMOD*MENMOD*BuffMDEF+AddMDEF
 mdef2=Math.floor(mdef)
 var combatmdef=mdef
-pet_calc.gI("MDEF").innerHTML=mdef2
+d.gI("MDEF").innerHTML=mdef2
 
 //Accuracy Calculation
 var Accuracy=(Math.sqrt(DEX)*6)+LVL+WpnAcc+BuffACC
 var Accuracy2=Math.floor(Accuracy)
 var combataccuracy=Accuracy
-pet_calc.gI("ACCURACY").innerHTML=Accuracy2
+d.gI("ACCURACY").innerHTML=Accuracy2
 
 //Evasion Calculation
 var Evasion=(Math.sqrt(DEX)*6)+LVL+BuffEVA
 var Evasion2=Math.floor(Evasion)
 var combatevasion=Evasion
-pet_calc.gI("EVASION").innerHTML=Evasion2
+d.gI("EVASION").innerHTML=Evasion2
 
 //Critical calculation
 var critical=critical+AddCRIT
@@ -1568,7 +1549,7 @@ if (critical > 500)
 	{critical=500}
 var critical2=Math.floor(critical)
 combatcritical=critical
-pet_calc.gI("CRITICAL").innerHTML=critical2
+d.gI("CRITICAL").innerHTML=critical2
 
 //Speed calculation
 var Speed=BaseRun*DEXMOD*BuffSPEED+AddSPEED
@@ -1578,18 +1559,18 @@ var Speed602=Math.floor(Speed60)
 var Speed30=BaseRun*DEXMOD*BuffSPEED*BuffSPEED60*BuffSPEED30+AddSPEED+AddSPEED60+AddSPEED30
 var Speed302=Math.floor(Speed30)
 var combatspeed=Speed
-pet_calc.gI("SPEED").innerHTML=Speed2
+d.gI("SPEED").innerHTML=Speed2
 
-//Atk. Sppet_calc. calculation
+//Atk. Spd. calculation
 var atkspd=WpnSpd*DEXMOD*BuffASPD+AddASPD
 var atkspd2=Math.floor(atkspd)
 var combatatkspd=atkspd
-pet_calc.gI("ATKSPD").innerHTML=atkspd2
+d.gI("ATKSPD").innerHTML=atkspd2
 
-//Casting Sppet_calc. calculation
+//Casting Spd. calculation
 var castingspd=333*BuffCAST+AddCAST
 var castingspd2=Math.floor(castingspd)
-pet_calc.gI("CASTINGSPD").innerHTML=castingspd2
+d.gI("CASTINGSPD").innerHTML=castingspd2
 
 var timeset2=new Date();
 var timer=timeset2.getTime() - timeset1.getTime();
@@ -1618,10 +1599,10 @@ if (LVL>70 && LVL<81)
 	{basempregen=3}
 var hpregen=(basehpregen*CONMOD*LVLMOD*BuffHPR*1.1+AddHPR)*BuffHPR2
 var hpregen2=Math.floor(hpregen*10)/10
-pet_calc.gI("HPREGEN").innerHTML=hpregen2
+d.gI("HPREGEN").innerHTML=hpregen2
 var mpregen=(basempregen*MENMOD*LVLMOD*BuffMPR*1.1+AddMPR)*BuffMPR2+AddMPR2
 var mpregen2=Math.floor(mpregen*10)/10
-pet_calc.gI("MPREGEN").innerHTML=mpregen2
+d.gI("MPREGEN").innerHTML=mpregen2
 
 if (enemy==11)
 	{var ELVL=LVL
@@ -1657,10 +1638,10 @@ if (enemy==11)
 	var Eavgshieldpdef=Eshieldpdef*EShieldBlockRate+Ecombatpdef*(1-EShieldBlockRate)
 //Enemy Reflect Damage
 	var Ebuffrd=(BuffRD)
-	pet_calc.gI("EBUFFS").disabled=true}
+	d.gI("EBUFFS").disabled=true}
 
 ////////////////////Damage Calculations
-if (pet_calc.gI("SS").checked==true)
+if (d.gI("SS").checked==true)
 	{combatpatk=combatpatk*2}
 
 if ((position==2||position==3) && Eblock360==false)
@@ -1678,10 +1659,10 @@ if (position>=1 && position <=3)
 	var maxdmg=(basedmg)*randdmg
 	var maxdmg2=Math.floor(maxdmg)
 	if (maxdmg2==0) {maxdmg2=1}
-	pet_calc.gI("DMGRNG").innerHTML=(mindmg2+"-"+maxdmg2)}
+	d.gI("DMGRNG").innerHTML=(mindmg2+"-"+maxdmg2)}
 else
 	{var mindmg2=0;var maxdmg2=0;var mindmg=0;var maxdmg=0
-	pet_calc.gI("DMGRNG").innerHTML=("-")}
+	d.gI("DMGRNG").innerHTML=("-")}
 
 if (position==1||position==4||position==5)
 	{var Emindmg=(Ebasedmg)/randdmg
@@ -1690,10 +1671,10 @@ if (position==1||position==4||position==5)
 	var Emaxdmg=(Ebasedmg)*randdmg
 	var Emaxdmg2=Math.floor(Emaxdmg)
 	if (Emaxdmg2==0) {Emaxdmg2=1}
-	pet_calc.gI("EDMGRNG").innerHTML=(Emindmg2+"-"+Emaxdmg2)}
+	d.gI("EDMGRNG").innerHTML=(Emindmg2+"-"+Emaxdmg2)}
 else
 	{var Emindmg2=0;var Emaxdmg2=0;var Emindmg=0;var Emaxdmg=0
-	pet_calc.gI("EDMGRNG").innerHTML=("-")}
+	d.gI("EDMGRNG").innerHTML=("-")}
 
 //Average Damage on Shield Blocks
 if ((position==1 && EShieldBlockRate!=0)||((position==2||position==3) && Eblock360==true && EShieldBlockRate!=0))
@@ -1713,15 +1694,15 @@ if ((position==1 && EShieldBlockRate!=0)||((position==2||position==3) && Eblock3
 	var shieldmaxdmg=(shieldblockdmg)*randdmg
 	var shieldmaxdmg2=Math.floor(shieldmaxdmg)
 	if (shieldmaxdmg2==0) {shieldmaxdmg2=1}
-	pet_calc.gI("SHDDMGRNG").innerHTML=(shieldmindmg2+"-"+shieldmaxdmg2)}
+	d.gI("SHDDMGRNG").innerHTML=(shieldmindmg2+"-"+shieldmaxdmg2)}
 else
 	{var shieldmindmg2=0;var shieldmaxdmg2=0;var shieldmindmg=0;var shieldmaxdmg=0
-	pet_calc.gI("SHDDMGRNG").innerHTML=("-")}
+	d.gI("SHDDMGRNG").innerHTML=("-")}
 var Eshieldmindmg2=0
 var Eshieldmaxdmg2=0
 var Eshieldmindmg=0
 var Eshieldmaxdmg=0
-pet_calc.gI("ESHIELDDMGRNG").innerHTML=("-")
+d.gI("ESHIELDDMGRNG").innerHTML=("-")
 
 //Critical hits
 if (position==1)
@@ -1741,7 +1722,7 @@ else if (position==3)
 	var critchance2=Math.floor(critchance*10)/10}
 else
 	{var critchance2=0;var critchance=0}
-	pet_calc.gI("CRITCHANCE").innerHTML=(critchance2+"%")
+	d.gI("CRITCHANCE").innerHTML=(critchance2+"%")
 if (position==1)
 	{var Ecritchance=Ecombatcritical/10
 	if (Ecritchance>=100)
@@ -1759,7 +1740,7 @@ else if (position==5)
 	var Ecritchance2=Math.floor(Ecritchance*10)/10}
 else
 	{var Ecritchance2=0;var Ecritchance=0}
-	pet_calc.gI("ECRITCHANCE").innerHTML=(Ecritchance2+"%")
+	d.gI("ECRITCHANCE").innerHTML=(Ecritchance2+"%")
 
 var critdmg=((basedmg/BuffDAMAGE)*2*BuffCRITDMG+(AddCRITDMG*70/Ecombatpdef))*BuffDAMAGE
 var sbcritdmg=((shieldblockdmg/BuffDAMAGE)*2*BuffCRITDMG+(AddCRITDMG*70/Eshieldpdef))*BuffDAMAGE
@@ -1770,10 +1751,10 @@ if (position>=1 && position <=3)
 	var maxcritdmg=critdmg*randdmg
 	var maxcritdmg2=Math.floor(maxcritdmg)
 	if (maxcritdmg2==0) {maxcritdmg2=1}
-	pet_calc.gI("CRITDMG").innerHTML=(mincritdmg2+"-"+maxcritdmg2)}
+	d.gI("CRITDMG").innerHTML=(mincritdmg2+"-"+maxcritdmg2)}
 else
 	{var mincritdmg=0;var mincritdmg2=0;var maxcritdmg=0;var maxcritdmg2=0;
-	pet_calc.gI("CRITDMG").innerHTML=("-")}
+	d.gI("CRITDMG").innerHTML=("-")}
 if ((position==1 && EShieldBlockRate!=0)||((position==2||position==3) && Eblock360==true && EShieldBlockRate!=0))
 	{var minsbcritdmg=sbcritdmg/randdmg
 	var minsbcritdmg2=Math.floor(minsbcritdmg)
@@ -1781,10 +1762,10 @@ if ((position==1 && EShieldBlockRate!=0)||((position==2||position==3) && Eblock3
 	var maxsbcritdmg=sbcritdmg*randdmg
 	var maxsbcritdmg2=Math.floor(maxsbcritdmg)
 	if (maxsbcritdmg2==0) {maxsbcritdmg2=1}
-	pet_calc.gI("SBCRITDMG").innerHTML=(minsbcritdmg2+"-"+maxsbcritdmg2)}
+	d.gI("SBCRITDMG").innerHTML=(minsbcritdmg2+"-"+maxsbcritdmg2)}
 else
 	{var minsbcritdmg=0;var minsbcritdmg2=0;var maxsbcritdmg=0;var maxsbcritdmg2=0
-	pet_calc.gI("SBCRITDMG").innerHTML=("-")}
+	d.gI("SBCRITDMG").innerHTML=("-")}
 if (position==1||position==4||position==5)
 	{var Ecritdmg=Ebasedmg*2*EBuffCRITDMG+(EAddCRITDMG*70/combatpdef)
 	var Emincritdmg=Ecritdmg/randdmg
@@ -1793,32 +1774,32 @@ if (position==1||position==4||position==5)
 	var Emaxcritdmg=Ecritdmg*randdmg
 	var Emaxcritdmg2=Math.floor(Emaxcritdmg)
 	if (Emaxcritdmg2==0) {Emaxcritdmg2=1}
-	pet_calc.gI("ECRITDMG").innerHTML=(Emincritdmg2+"-"+Emaxcritdmg2)}
+	d.gI("ECRITDMG").innerHTML=(Emincritdmg2+"-"+Emaxcritdmg2)}
 else
 	{var Ecritdmg=0;var Emincritdmg=0;var Emincritdmg2=0;var Emaxcritdmg=0;var Emaxcritdmg2=0
-	pet_calc.gI("ECRITDMG").innerHTML=("-")}
+	d.gI("ECRITDMG").innerHTML=("-")}
 var Esbcritdmg=0
 var Eminsbcritdmg=0
 var Eminsbcritdmg2=0
 var Emaxsbcritdmg=0
 var Emaxsbcritdmg2=0
-pet_calc.gI("ESBCRITDMG").innerHTML=("-")
+d.gI("ESBCRITDMG").innerHTML=("-")
 
 //Hits per second
 if (position>=1 && position <=3)
 	{var hitspersecond=combatatkspd/500
 	var hitspersecond2=Math.floor(hitspersecond*100)/100
-	pet_calc.gI("HITSPERSECOND").innerHTML=(hitspersecond2)}
+	d.gI("HITSPERSECOND").innerHTML=(hitspersecond2)}
 else
 	{var hitspersecond=0;var hitspersecond2=0;
-	pet_calc.gI("HITSPERSECOND").innerHTML=("-")}
+	d.gI("HITSPERSECOND").innerHTML=("-")}
 if ((position==1||position==4||position==5))
 	{var Ehitspersecond=Ecombatatkspd/500
 	var Ehitspersecond2=Math.floor(Ehitspersecond*100)/100
-	pet_calc.gI("EHITSPERSECOND").innerHTML=(Ehitspersecond2)}
+	d.gI("EHITSPERSECOND").innerHTML=(Ehitspersecond2)}
 else
 	{var Ehitspersecond=0;var Ehitspersecond2=0;
-	pet_calc.gI("EHITSPERSECOND").innerHTML=("-")}
+	d.gI("EHITSPERSECOND").innerHTML=("-")}
 
 //Chance to hit
 var hitratio=combataccuracy-EEvasion
@@ -1868,14 +1849,14 @@ if (Ehitratio>0.98) {Ehitratio=0.98}
 
 var hitratio2=Math.floor(hitratio*100)+"%"
 if (position>=1 && position<=3)
-	{pet_calc.gI("HITRATIO").innerHTML=(hitratio2)}
+	{d.gI("HITRATIO").innerHTML=(hitratio2)}
 else
-	{pet_calc.gI("HITRATIO").innerHTML=("-")}
+	{d.gI("HITRATIO").innerHTML=("-")}
 var Ehitratio2=Math.floor(Ehitratio*100)+"%"
 if (position==1||position==4||position==5)
-	{pet_calc.gI("EHITRATIO").innerHTML=(Ehitratio2)}
+	{d.gI("EHITRATIO").innerHTML=(Ehitratio2)}
 else
-	{pet_calc.gI("EHITRATIO").innerHTML=("-")}
+	{d.gI("EHITRATIO").innerHTML=("-")}
 
 //Damage Per Second
 if (position>=1 && position<=3)
@@ -1891,23 +1872,23 @@ else
 //Vampiric Rage
 var vr=avgdmg*BuffVR
 var vr2=Math.floor(vr*10)/10
-pet_calc.gI("VR").innerHTML=vr2
+d.gI("VR").innerHTML=vr2
 
 //Reflect Damage
 var buffrd=BuffRD
 if (EWpnType=="Bow"||EWpnType=="YumiBow")
 	{buffrd=0}
 var buffrd2=Math.floor(100*buffrd)
-pet_calc.gI("RD").innerHTML=(buffrd2+"%")
+d.gI("RD").innerHTML=(buffrd2+"%")
 
 var avgdmg2=(Eavgdmg*buffrd)+avgdmg
 var avgdmg3=Math.floor(avgdmg2*10)/10
-pet_calc.gI("AVGDMG").innerHTML=avgdmg3
+d.gI("AVGDMG").innerHTML=avgdmg3
 var Eavgdmg2=(avgdmg*Ebuffrd)+Eavgdmg
 var Eavgdmg3=Math.floor(Eavgdmg2*10)/10
-pet_calc.gI("EAVGDMG").innerHTML=Eavgdmg3
+d.gI("EAVGDMG").innerHTML=Eavgdmg3
 
 //alert(Ebasedmg)
 
-//pet_calc.gI("TEST").innerHTML=timer2
+//d.gI("TEST").innerHTML=timer2
 }

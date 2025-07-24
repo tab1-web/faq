@@ -1163,7 +1163,7 @@ HP:<br>
 				<td></td>
 				<td></td>
 				<td></td>
-				<td><a id="AUGS1"><select id="WAU1" onchange="calc(false,true)">
+				<td><div id="AUGS1"><select id="WAU1" onchange="calc(false,true)">
 					<option value="1">-
 					<option value="2">Accuracy
 					<option value="3">CON
@@ -1184,7 +1184,7 @@ HP:<br>
 					<option value="18">STR
 				</select>
 
-				+<input type="text" id="AUG1" size="1" value="0" onkeypress="calc()"></a></td>
+				+<input type="text" id="AUG1" size="1" value="0" onkeypress="calc()"></div></td>
 </tr>
 <tr id="SHDstuff">
 			<td>Shield</td>
@@ -1253,7 +1253,7 @@ HP:<br>
 				<td></td>
 				<td id="SHD grade penalty"></td>
 				<td></td>
-				<td><a id="AUGS2"><select id="WAU2" onchange="calc(false,true)">
+				<td><div id="AUGS2"><select id="WAU2" onchange="calc(false,true)">
 					<option value="1">-
 					<option value="2">Accuracy
 					<option value="3">CON
@@ -1274,7 +1274,7 @@ HP:<br>
 					<option value="18">STR
 				</select>
 
-				+<input type="text" id="AUG2" size="1" value="0" onkeypress="calc()"></a></td></tr>
+				+<input type="text" id="AUG2" size="1" value="0" onkeypress="calc()"></div></td></tr>
 <tr>
 			<td>Helmet</td>
 				<td><select id="HLME" onchange="calc()">
@@ -1347,7 +1347,7 @@ HP:<br>
 				<td id="HLM grade penalty"></td>
 				<td></td>
 
-				<td><a id="AUGS3"><select id="WAU3" onchange="calc(false,true)">
+				<td><div id="AUGS3"><select id="WAU3" onchange="calc(false,true)">
 					<option value="1">-
 					<option value="2">Accuracy
 					<option value="3">CON
@@ -1368,7 +1368,7 @@ HP:<br>
 					<option value="18">STR
 				</select>
 
-				+<input type="text" id="AUG3" size="1" value="0" onkeypress="calc()"></a></td></tr>
+				+<input type="text" id="AUG3" size="1" value="0" onkeypress="calc()"></div></td></tr>
 <tr>
 			<td>Body - Upper</td>
 				<td><select id="UPRE" onchange="calc()">
@@ -1494,7 +1494,7 @@ HP:<br>
 				<td></td>
 				<td id="UPR grade penalty"></td>
 				<td></td>
-				<td><a id="AUGS4"><select id="WAU4" onchange="calc(false,true)">
+				<td><div id="AUGS4"><select id="WAU4" onchange="calc(false,true)">
 					<option value="1">-
 					<option value="2">Accuracy
 					<option value="3">CON
@@ -1515,7 +1515,7 @@ HP:<br>
 					<option value="18">STR
 				</select>
 
-				+<input type="text" id="AUG4" size="1" value="0" onkeypress="calc()"></a></td></tr>
+				+<input type="text" id="AUG4" size="1" value="0" onkeypress="calc()"></div></td></tr>
 <tr>
 			<td>Body - Lower</td>
 				<td><select id="LWRE" onchange="calc()">
@@ -1612,7 +1612,7 @@ HP:<br>
 				<td></td>
 				<td id="LWR grade penalty"></td>
 				<td></td>
-				<td><a id="AUGS5"><select id="WAU5" onchange="calc(false,true)">
+				<td><div id="AUGS5"><select id="WAU5" onchange="calc(false,true)">
 					<option value="1">-
 					<option value="2">Accuracy
 					<option value="3">CON
@@ -1633,7 +1633,7 @@ HP:<br>
 					<option value="18">STR
 				</select>
 
-				+<input type="text" id="AUG5" size="1" value="0" onkeypress="calc()"></a></td></tr>
+				+<input type="text" id="AUG5" size="1" value="0" onkeypress="calc()"></div></td></tr>
 <tr>
 			<td>Gloves</td>
 				<td><select id="GLVE" onchange="calc()">
@@ -3781,9 +3781,9 @@ HP:<br>
 
 </table>
 
-<script src='/faq/features/js/rawdata.js' defer></script>
-<script src='/faq/features/js/block.js' defer></script>
-<script src='/faq/features/js/disable.js' defer></script>
-<script src='/faq/features/js/calculator.js' defer></script>
-<script src='/faq/features/js/cookie.js' defer></script>
-<script src='/faq/features/js/start.js' defer></script>
+<script src='/faq/features/js/char_calc/rawdata.js' defer></script>
+<script src='/faq/features/js/char_calc/block.js' defer></script>
+<script src='/faq/features/js/char_calc/disable.js' defer></script>
+<script src='/faq/features/js/char_calc/calculator.js' defer></script>
+<script src='/faq/features/js/char_calc/cookie.js' defer></script>
+<script src='/faq/features/js/char_calc/start.js' defer></script>
