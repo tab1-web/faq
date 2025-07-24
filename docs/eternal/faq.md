@@ -170,6 +170,39 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 - You have to wait 24 hours in order to join clan.
 
+## Clan System on Eternal
+
+### Clan Structure
+- **Main Clan**: 40 members  
+- **Royal Subclans**: 2 subclans × 20 members (Total: 40)  
+- **Knight Subclans**: 4 subclans × 10 members (Total: 40)  
+
+> 40 + 40 + 40 = 120 members
+
+### Subclan Requirements
+<figure markdown>
+| Type    | Unlock Level | Cost (Reputation) | Max Members |
+|---------|-------------|-------------------|-------------|
+| Royal   | Level 6     | 20k each          | 20          |
+| Knight  | Level 7     | 10k each          | 10          |
+</figure>
+
+### Clan Level Progression
+<figure markdown>
+| Level | Required Members | Required Reputation |
+|-------|------------------|---------------------|
+| 7     | 80               | 20k                 |
+| 8     | 120              | 40k                 |
+</figure>
+
 ## My camera is zoomed in and I can't zoom out <br> How to fix the camera?
 
 - Press `PgDown` to zoom out.
+
+## Can I still equip A & S Grade items even when Mammon is not up?
+
+- Yes. You can still equip them, they just won't have Special Abilities.
+
+## Can I be on my Main Class on Noblesse Quest?
+
+- Yes. Be near the boss and make sure to hit it, don't die.

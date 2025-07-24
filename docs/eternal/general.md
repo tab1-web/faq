@@ -186,7 +186,7 @@ icon: material/clock-time-one-outline
 
 ## Quick Links
 
-<figure markdown="span">
+<figure markdown="span" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
   [Features Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button .lightbox }
   [Reborn Guide](https://l2reborn.org/news/adventure-guide/){ .md-button .lightbox }
   [PvP Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button .lightbox }
@@ -477,6 +477,10 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 - ### .tvtreg
 
     Team vs Team Registration
+
+- ### .leave
+
+    Leaves the Event
 
 </div>
 

@@ -37,6 +37,7 @@ Most people use **“flagged”**{style="color: purple;"}. instead of **purple n
 - [**:fontawesome-solid-scroll: Repent Your Sins Quest**](https://lineage2wiki.com/c4/quest/422/repent-your-sins/)
     - When you level up Sin Eater Pet and hand it to [:material-drama-masks: Black Judge](https://lineage2wiki.org/c4/monster/7981/black-judge/), it will reduce your PK points, allowing you to kill again up to a certain point without drop penalty.
     - Sin Eater also disables receiving **Experience**.
+    - Make sure when you Add/Change Subclass to not have an active quest for [**:fontawesome-solid-scroll: Repent Your Sins**](https://lineage2wiki.com/c4/quest/422/repent-your-sins/) (don't have the summonable Sin Eater) or it'll disappear.
 
 ### **PvP / PK List**
 - You can check who has how many PvP / PK [here](https://l2reborn.org/rankings/).
