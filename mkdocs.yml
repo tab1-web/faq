@@ -12,7 +12,7 @@ extra:
       make our documentation better.
   analytics:
     provider: google
-    property: !ENV GA_MEASUREMENT_ID
+    property: G-6G22445Y9H
     feedback:
       title: Was this page helpful?
       ratings:
@@ -86,10 +86,8 @@ nav:
 theme:
   name: material
   
-  
   icon:
     logo: material/frequently-asked-questions
-
   
   font:
     text: Poppins
@@ -106,9 +104,6 @@ theme:
     - navigation.path
     - content.code.copy
     - navigation.indexes
-  watch:
-  - '!classtransfers/*.md'   # Ignores entire classtransfers folder
-  - '!eternal/questexchanges/*.md' 
   palette:
     - scheme: slate
       primary: deep purple
@@ -139,3 +134,4 @@ markdown_extensions:
 plugins:
   - search:
       lang: en
+  - macros
