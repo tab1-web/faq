@@ -134,4 +134,3 @@ markdown_extensions:
 plugins:
   - search:
       lang: en
-  - macros
