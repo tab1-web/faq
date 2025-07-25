@@ -206,3 +206,9 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 ## Can I be on my Main Class on Noblesse Quest?
 
 - Yes. Be near the boss and make sure to hit it, don't die.
+
+## Is there a limit to how much sealstones you can give to the Seven Signs Priest?
+
+- Yes, it's 1 million and keep in mind that you won't get any bonus.
+
+
