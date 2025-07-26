@@ -199,6 +199,11 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 - Press `PgDown` to zoom out.
 
+## Can I do an equal exchange of B Grade Weapons at Mammon?
+
+- No, you can only exchange to Fists, you cannot exchange it back.
+- Equal Exchange of Weapons is only for C Grade.
+
 ## Can I still equip A & S Grade items even when Mammon is not up?
 
 - Yes. You can still equip them, they just won't have Special Abilities.
