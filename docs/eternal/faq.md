@@ -217,3 +217,6 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 - Yes, it's 1 million and keep in mind that you won't get any bonus.
 
 
+## I saw on a stream that party members have noblesse icon next to their name, how to apply it?
+
+- Go to the Addons folder of Eternal and paste contents of L2RebornCustom folder in Eternal.
