@@ -65,6 +65,7 @@ Thanks for the video @royce6735 !
 ## Launcher doesn't load
 - Upgrade your graphic drivers and restart your computer.
 - If that does not work: **restart your router and computer.**
+- You can also try running the game directly from system.
 
 <figure markdown="span">
     <a href="https://postimg.cc/HcgP7hZ4">
