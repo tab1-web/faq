@@ -133,7 +133,7 @@ Comfy way of finding Maria with a click of a Button.
 ## Catacombs / Necropolis levelling
 
 - Catacomb / Necropolis levelling is great: mobs are close, give a lot of EXP until 74-76-ish and a great source for making Adena. 
-- Make sure you register before hunting in these locations. Check [here](https://tab1-web.github.io/faq/eternal/general/#time-tables) if you can register.
+- Make sure you register before hunting in these locations. Check [here](https://tab1-web.github.io/faq/eternal/general/#seven-sign-status) if you can register.
     - At beginning of the dungeons, you can see an NPC named `Ziggurat` pick up both quests.
     - [Ancient Scrolls can be exchanged.](https://lineage2wiki.org/interlude/monster/31113/merchant-of-mammon/)
     - [Dimensional Fragments](https://lineage2wiki.org/interlude/item/7079/dimensional-fragment/) are used for getting access to hunt monsters for Lifestones in [Hero Rift](https://lineage2wiki.org/c4/patch-notes/#dimensional_rift)
