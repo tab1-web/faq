@@ -7,6 +7,7 @@ icon: fontawesome/solid/gamepad
     - So if you were on Account A and wish to log Account B, you must first log-in with Account A.
     - If you don't have 2 accounts, try unstuck your character from the [Webpanel > Overview](https://l2reborn.org/game-account/), your character is still in-game.
     - I fixed it one time for my friend by logging his character. 
+    - If issue persists, [open a ticket](https://l2reborn.org/support/).
 
 <div class="grid cards" markdown>
 <figure markdown="1">
