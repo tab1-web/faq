@@ -156,7 +156,6 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 - All timers for **Raid Bosses** are available in `ALT + B` in **UTC + 0**
 - E.g. Barakiel shows 8.15 - 8.45 means during that time it can spawn randomly.
 
-<script src="../js/utctime.js" defer></script>
 
 ## Why am I not getting votes during a server restart?  
 
@@ -216,7 +215,15 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 - Yes, it's 1 million and keep in mind that you won't get any bonus.
 
-
 ## I saw on a stream that party members have noblesse icon next to their name, how to apply it?
 
 - Go to the Addons folder of Eternal and paste contents of L2RebornCustom folder in Eternal.
+
+## When is the first Clan Hall Auctin/Bid?
+
+- At the designated date in the features page at 3 pm UTC + 0.
+<ul>
+<li id="utc-time"></li>
+</ul>
+
+<script src="../js/utctime.js" defer></script>
