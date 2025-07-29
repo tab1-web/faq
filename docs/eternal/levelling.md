@@ -312,6 +312,7 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
 - **66-74**: Swamp of Screams - Rune
     - [:fontawesome-solid-scroll: Hunt of the Golden Ram Mercenary Force (Part I)](https://lineage2wiki.org/c4/quest/628/hunt-of-the-golden-ram-mercenary-force/)
         - Only Part 1 required
+        - and [:fontawesome-solid-scroll: In Search of the Nest Quest](https://lineage2wiki.org/interlude/quest/109/in-search-of-the-nest/)
     - [:fontawesome-solid-scroll: The Zero Hour Quest](https://lineage2wiki.org/interlude/quest/640/the-zero-hour/)
         - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/zerohour/)
 
