@@ -41,8 +41,8 @@
       showSeconds: false
     },
     {
-      selector: '[data-target="2025-08-18T00:00:00Z"] .countdown-display',
-      pastText: "X30 RATES & YOU CAN BUY B-GRADE AT MARIA!",
+      selector: '[data-target="2025-08-21T00:00:00Z"] .countdown-display',
+      pastText: "X10 & 2ND STAGE ON!",
       showSeconds: false
     }
   ];

@@ -251,9 +251,9 @@ icon: material/clock-time-one-outline
   </div>
 
   <!-- x30 Rates and B-Grade at Maria -->
-  <div class="md-typeset card countdown-card" data-target="2025-08-18T00:00:00Z">
-    <h3>x30 Rates & B-Grade at Maria</h3>
-    <p><strong>Start Date:</strong> August 18th</p>
+  <div class="md-typeset card countdown-card" data-target="2025-08-21T00:00:00Z">
+    <h3>2nd Stage: x10 Rates</h3>
+    <p><strong>Start Date:</strong> August 21st</p>
     <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
   </div>
 </div>
