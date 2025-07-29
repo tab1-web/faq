@@ -42,6 +42,8 @@ To unlock your subclass, complete the following quests:
     - [:material-skull: Golkonda](https://lineage2wiki.com/c4/monster/10126/longhorn-golkonda-raid-boss/) - Tower of Insolence - ([11th floor](https://postimg.cc/d3tp31fw))
 - :material-flask-outline: [**Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/)
 
+> On **Eternal**{style="color:red;"}, you don't need to stab Baium, you can exchange Pipette Knife at Maria to get a Red one. <br> You also don't need B Crystals or Top B Grade weapon, you can skip that part and get a coupon instead for exchanging the items.
+
 ## :material-book: Subclass Mechanics
 
 - Switching classes **removes active buffs and symbol skills**.
@@ -72,7 +74,7 @@ To unlock your subclass, complete the following quests:
 
 ## Subclass Selection Interactive Table
 
-Your **main class is the selected one**, the cell turns `grey` if you can't have that subclass.
+Your **main class is the selected one**, the cell turns `grey` if you can't have that subclass. (Restrictions also extend to other Subclasses)
 
 | Human           | Elf                | Dark Elf         | Orc       | Dwarf         |
 |-----------------|--------------------|------------------|-----------|---------------|
