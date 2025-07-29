@@ -14,7 +14,6 @@ Fill this message with the **appropriate information** and **choose which error*
 Hey! 
 Unable to login after too many tries / not getting e-mail for authentication. (choose one)
 - My email address: ...
-- My IPv4: ...
 
 Thank you.
 ```
