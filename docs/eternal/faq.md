@@ -37,6 +37,8 @@ h2 {
 
 - Requirements: **Level 40**{style="color:red;"} .
 
+- Stays for 2 days.
+
 - You can have unlimited offline shops.
 
 - Make sure to only have 1 offline shop per account.
