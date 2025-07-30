@@ -40,7 +40,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
 
 <div class="class-card" markdown> 
 ### Plainswalker 
-  Bit higher evasion, specializing in mobility and using skills for damaging, low damage on hits. Skill type build requires committing to fights due to cast time. Treasure Hunter more preferable for higher HP and better damage.  
+  Bit higher evasion, specializing in mobility and using skills for damaging, low damage on hits. Treasure Hunter more preferable for higher HP and better damage.  
     - **Leveling:** Medium  
     - **Strengths:** <span class="strengths">Evasion, Mobility</span>
 <figure markdown>
@@ -137,7 +137,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
 <div class="class-card" markdown>
 
 ### Silver Ranger 
-  Fast attack speed with balanced HP and good movement speed. Hawkeye more preferable.  
+  Fast attack speed with balanced HP and good movement speed. Skill type build requires committing to fights due to cast time. Hawkeye more preferable.  
     - **Leveling:** Slower  
     - **Strengths:** <span class="strengths">Attack Speed, Mobility</span>
 <figure markdown>
