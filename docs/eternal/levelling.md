@@ -135,7 +135,7 @@ Comfy way of finding Maria with a click of a Button.
 - Catacomb / Necropolis levelling is great: mobs are close, give a lot of EXP until 74-76-ish and a great source for making Adena. 
 - Make sure you register before hunting in these locations. Check [here](https://tab1-web.github.io/faq/eternal/general/#seven-sign-status) if you can register.
     - At beginning of the dungeons, you can see an NPC named `Ziggurat` pick up both quests, and from the Dimensional Gate Keeper.
-    - [Ancient Scrolls can be exchanged.](https://lineage2wiki.org/interlude/monster/31113/merchant-of-mammon/)
+    - [Ancient Scrolls can be exchanged to Blank Scrolls at Ziggurat](https://lineage2wiki.org/interlude/monster/31113/merchant-of-mammon/)
     - [Dimensional Fragments](https://lineage2wiki.org/interlude/item/7079/dimensional-fragment/) are used for getting access to hunt monsters for Lifestones in [Hero Rift](https://lineage2wiki.org/c4/patch-notes/#dimensional_rift)
     - Half of the monsters in each room in the dungeons give [:material-gold: Seal Stones](https://lineage2wiki.org/interlude/item/6362/red-seal-stone/), you can exchange these at at your Priest for [:material-gold: Ancient Adena](https://lineage2wiki.org/interlude/item/5575/ancient-adena/) these can be sold to Players or Exchanged for Strong Dyes along with Ancient Scrolls or buying [:material-gold: Gemstones](https://lineage2wiki.org/interlude/item/in-recipe/2134/gemstone-s/) for crafting. 
 - You can register at Priest of Dawn or Dusk in Giran.
