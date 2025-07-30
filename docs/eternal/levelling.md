@@ -219,6 +219,7 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
 ### Levels 53-63
 - **53-63**: Frozen Labyrinth - Schuttgart
     - [:fontawesome-solid-scroll: An Ice Merchant's Dream Quest](https://lineage2wiki.org/interlude/quest/648/an-ice-merchants-dream/)
+        - Quest Requirement: [:fontawesome-solid-scroll: The Other Side of Truth Quest](https://lineage2wiki.org/interlude/quest/115/the-other-side-of-truth/)
         - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/icemerchant/)
     - Great for Adena + Materials farming
 
