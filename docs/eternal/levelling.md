@@ -353,7 +353,7 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
 - **78-85**: Forge of the Gods - Goddard
     - [:fontawesome-solid-scroll: Gather the Flames Quest](https://lineage2wiki.org/interlude/quest/617/gather-the-flames/)
         - Rooney teleports around zone
-        - Exchange 2,000 Torches for specific S-Grade weapon recipe
+        - Exchange 1,200 Torches for specific S-Grade weapon recipe
 
 - **78-85**: Pagan Temple - Rune
     - **Quest Chain**:
