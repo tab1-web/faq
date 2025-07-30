@@ -19,6 +19,8 @@ icon: material/select-place
 
     Click on the mail icon in the left bottom corner.
 
+    __Fee: 1.1k adena/item__
+
 - <figure markdown>
 
     [![Video](https://i.postimg.cc/XvRCCwdj/undefined-Imgur-2.gif)](https://postimg.cc/Y4x0cLdZ)
@@ -33,7 +35,7 @@ icon: material/select-place
 
     Starting villages offer freight service as well.
 
-    __Fee: 1k adena/item__
+    __Fee: 1.1k adena/item__
 
 - <figure markdown>
     [![freight-service.png](https://i.postimg.cc/jjv8xt5T/freight-service.png)](https://postimg.cc/7CG1Xv0t)
