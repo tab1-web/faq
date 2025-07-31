@@ -389,6 +389,12 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 
     Toggle visibility for jumping animations
 
+- ### .dualboxreport
+
+  Target the player and type it for reporting.
+  
+  > It's better to [private message GMs on Discord](/faq/support/reporting/)
+
 </div>
 
 
