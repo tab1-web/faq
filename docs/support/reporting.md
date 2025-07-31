@@ -30,16 +30,12 @@ Auto Hunting Report is **not a live report**, it sends the report to database fo
 > On **Eternal**{style="color:red;"} this command is: `.dualboxreport` <br>
 > On **Signature**{style="color:green;"} you can find it in `ALT + C`
  
-<hr class="divider">
-
 <figure markdown="span">
     <a href="https://postimg.cc/1f326tfK">
     ![Report Video](https://i.postimg.cc/TYV6z5xB/dmserielgif.gif){ .lightbox width=80%}
     </a>
     <figcaption>Mention nicknames and server name.</figcaption>
 </figure>
-
-<hr class="divider">
 
 
 
