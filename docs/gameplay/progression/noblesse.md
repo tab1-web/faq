@@ -42,6 +42,8 @@ icon: material/crown
 
         [:octicons-arrow-right-24: Supplier of Reagents](https://lineage2wiki.com/c4/quest/373/supplier-of-reagents/)
 
+        > Demonic Essence is needed instead of Draconic Essence for Hellfire Oil
+
     === "Part II"
         __Start NPC:__ Master Virgil (Rune, Temple)
 
