@@ -14,7 +14,7 @@ icon: octicons/report-16
 </figure>
 
 !!! warning
-    **Never warn suspects** - it compromises investigations.
+    **Never warn suspects that you are reporting them or that they are dualboxing** - it compromises investigations.
 
 1. **Contact Staff on Discord** and **include** the suspects' **nicknames** and **server name**.  
     - **EU Daytime**: Message [@ginreborn](https://discord.com/users/917729115770073119) or [@astarothreborn](https://discord.com/users/1067169953683349577)  
