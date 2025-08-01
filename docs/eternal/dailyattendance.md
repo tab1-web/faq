@@ -32,6 +32,8 @@ hr {
 
     When you played for **30 minutes**, you will be given a notification to claim your rewards.
 
+    > You can redeem your reward now.
+
 - <figure markdown>
     <a href="https://postimg.cc/Q9rKbPN6">
     ![Daily](https://i.postimg.cc/fLV7wnGh/redeem.png){.lightbox }
