@@ -38,7 +38,7 @@ hr {
     <a href="https://postimg.cc/Q9rKbPN6">
     ![Daily](https://i.postimg.cc/fLV7wnGh/redeem.png){.lightbox }
     </a>
-    <figcaption>Notification given on center of the screen</figure>
+    <figcaption>Notification: You can redeem your reward now.</figure>
     </figure>
 - ### :octicons-info-16:{ .lg .middle } __Example__
 
