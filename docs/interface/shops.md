@@ -12,6 +12,8 @@ icon: material/shopping
 
     You need to be Level 20 and type `.offline` after you setup your private shop.
 
+    > On **Eternal** you need to be Level 40.
+
 - [![undefined-Imgur.gif](https://i.postimg.cc/K89jnnSX/undefined-Imgur.gif)](https://postimg.cc/gxZGpL24)
 
 - ### How to search private shops?
