@@ -228,4 +228,11 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 <li id="utc-time"></li>
 </ul>
 
+## It's 18.00 UTC and can't exchange Sealstones to Priest?
+
+- It's normal, wait 16 minutes for Priest to tally up the Seven Sign Points and you can exchange your Seal stones.
+
+
 <script src="../js/utctime.js" defer></script>
+
+
