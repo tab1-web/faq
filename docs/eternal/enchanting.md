@@ -36,7 +36,7 @@ icon: material/mushroom-outline
 
     In `ALT + K` drag the skill to **Standard Skills** in the Enchanting Window.
 
-    Make sure you have enough EXP/SP.
+    Make sure you are 3rd class and have enough EXP/SP.
 
     **Press Enchant Skill** after you selected the Enchant Option.
 
