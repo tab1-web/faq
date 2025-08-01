@@ -391,9 +391,9 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 
 - ### .dualboxreport
 
-  Target the player and type it for reporting.
+    Target the player and type it for reporting.
   
-  > It's better to [private message GMs on Discord](/faq/support/reporting/)
+    It's better to [private message GMs on Discord](/faq/support/reporting/)
 
 </div>
 
