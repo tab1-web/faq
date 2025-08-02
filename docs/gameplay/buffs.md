@@ -42,10 +42,162 @@ icon: simple/magic
 3. **Stacking Rules**:
     - Buffs with identical effects don't stack - they override each other
 
-
-
 ## Buff Overview
-### Movement Speed Buffs
+<div class="filter-container">
+    <select id="buffFilter" class="class-filter">
+        <option value="show-all">Show All Buffs</option>
+        <optgroup label="Movement Buffs">
+            <option value="movement-speed-buffs">Movement Speed Buffs</option>
+        </optgroup>
+        <optgroup label="Defensive Buffs">
+            <option value="shield-buffs">Shield Buffs</option>
+            <option value="magic-defense-buffs">Magic Defense Buffs</option>
+            <option value="evasion-buffs">Evasion Buffs</option>
+            <option value="shield-defense-buffs">Shield Defense Buffs</option>
+        </optgroup>
+        <optgroup label="Offensive Buffs">
+            <option value="physical-critical-buffs">Physical Critical Buffs</option>
+            <option value="physical-sustain-buffs">Physical Sustain Buffs</option>
+            <option value="physical-attack-buffs">Physical Attack Buffs</option>
+            <option value="physical-critical-damage-buffs">Physical Critical Damage Buffs</option>
+            <option value="magic-attack-buffs">Magic Attack Buffs</option>
+        </optgroup>
+        <optgroup label="Utility Buffs">
+            <option value="casting-speed-buffs">Casting Speed Buffs</option>
+            <option value="resist-effects">Resist Effects</option>
+            <option value="general-buffs">General Buffs</option>
+        </optgroup>
+        <optgroup label="Special Buffs">
+            <option value="bard-songs">Songs</option>
+            <option value="dancer-dances">Dances</option>
+            <option value="warlock-summoner-buffs">Warlock Summoner Buffs</option>
+            <option value="elemental-summoner-buffs">Elemental Summoner Buffs</option>
+            <option value="prophecy-buffs">Prophecy Buffs</option>
+        </optgroup>
+    </select>
+</div>
+
+<p style="color:grey; text-align:center;">Choose Buff Types!</p>
+
+<style>
+    .class-card {
+        display: none;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
+    .class-card.active {
+        display: block;
+    }
+    .filter-container {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .class-filter {
+        padding: 12px 16px;
+        font-size: 16px;
+        width: 100%;
+        max-width: 350px;
+        border: 2px solid #c63ba1;
+        border-radius: 8px;
+        background-color: #2d2d2d;
+        color: white;
+        font-weight: bold;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        text-align: center;
+    }
+    .class-filter {
+        border-color: #d94bc1;
+    }
+    .class-filter:focus {
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(198, 59, 161, 0.3);
+    }
+    .class-filter option {
+        color: white;
+        background-color: #2d2d2d;
+        padding: 8px;
+    }
+    .class-filter optgroup {
+        color: #c63ba1;
+        font-weight: bold;
+        font-style: normal;
+        background-color: #1d1d1d;
+    }
+    .class-filter optgroup option {
+        padding-left: 20px;
+    }
+    .class-card iframe {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+    }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const filterSelect = document.getElementById('buffFilter');
+    if (!filterSelect) return;
+
+    function getSectionId(heading) {
+        return heading.textContent.trim()
+            .toLowerCase()
+            .replace(/[^\w\s]/g, '')
+            .replace(/\s+/g, '-');
+    }
+
+    const allHeadings = document.querySelectorAll('h3');
+    const buffSections = [];
+    
+    allHeadings.forEach(heading => {
+        if (heading.textContent.includes('Buffs') || 
+            heading.textContent.includes('Songs') ||
+            heading.textContent.includes('Dances') ||
+            heading.textContent.includes('Effects')) {
+            
+            const sectionId = getSectionId(heading);
+            let contentElement = heading.nextElementSibling;
+            
+            while (contentElement && 
+                  !contentElement.matches('figure, table, .highlight, .codehilite')) {
+                contentElement = contentElement.nextElementSibling;
+            }
+            
+            if (contentElement) {
+                const wrapper = document.createElement('div');
+                wrapper.className = 'buff-section';
+                wrapper.id = sectionId;
+                
+                heading.parentNode.insertBefore(wrapper, heading);
+                
+                wrapper.appendChild(heading);
+                wrapper.appendChild(contentElement);
+                
+                buffSections.push(wrapper);
+                wrapper.style.display = 'block';
+            }
+        }
+    });
+
+    filterSelect.addEventListener('change', function() {
+        const selectedValue = this.value;
+        
+        if (selectedValue === 'show-all') {
+            buffSections.forEach(section => {
+                section.style.display = 'block';
+            });
+        } else {
+            buffSections.forEach(section => {
+                section.style.display = section.id === selectedValue ? 'block' : 'none';
+            });
+        }
+    });
+});
+</script>
+
+<h3> Movement Speed Buffs </h3>
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -58,7 +210,7 @@ icon: simple/magic
 
 
 
-### Shield Buffs
+<h3> Shield Buffs </h3>
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -72,7 +224,7 @@ icon: simple/magic
 
 
 
-### Magic Defense Buffs
+<h3> Magic Defense Buffs </h3>
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -84,7 +236,7 @@ icon: simple/magic
 
 
 
-### Evasion Buffs
+<h3> Evasion Buffs </h3>
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -95,7 +247,7 @@ icon: simple/magic
 
 
 
-### Shield Defense Buffs
+<h3> Shield Defense Buffs </h3>
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -107,7 +259,7 @@ icon: simple/magic
 
 
 
-### Physical Critical Buffs
+<h3> Physical Critical Buffs </h3>
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -118,7 +270,7 @@ icon: simple/magic
 
 
 
-### Physical Sustain Buffs
+<h3> Physical Sustain Buffs </h3>
 <figure markdown="span" markdown>
 | Buff Name | Effect |
 |-----------|--------|
@@ -128,7 +280,7 @@ icon: simple/magic
 
 
 
-### Physical Attack Buffs
+<h3> Physical Attack Buffs </h3>
 <figure markdown="span" markdown>
 
 | Buff Name | Effect |
@@ -144,7 +296,7 @@ icon: simple/magic
 
 
 
-### Physical Critical Damage Buffs
+<h3> Physical Critical Damage Buffs </h3>
 <figure markdown="span" markdown>
 
 | Buff Name | Effect |
@@ -157,7 +309,7 @@ icon: simple/magic
 
 
 
-### Magic Attack Buffs
+<h3> Magic Attack Buffs </h3>
 <figure markdown="span" markdown>
 
 
@@ -170,7 +322,7 @@ icon: simple/magic
 
 
 
-### Casting Speed Buffs
+<h3> Casting Speed Buffs </h3>
 
 <figure markdown="span" markdown>
 
@@ -186,7 +338,7 @@ icon: simple/magic
 
 
 
-### Bard Songs
+<h3> Bard Songs </h3>
 <figure markdown="span" markdown>
 
 | Song Name | Effect |
@@ -210,7 +362,7 @@ icon: simple/magic
 
 
 
-### Dancer Dances
+<h3> Dancer Dances </h3>
 <figure markdown="span" markdown>
 
 | Dance Name | Effect |
@@ -233,7 +385,7 @@ icon: simple/magic
 
 
 
-### Resist Effects
+<h3> Resist Effects </h3>
 <figure markdown="span" markdown>
 
 | Resist Name | Effect |
@@ -254,7 +406,7 @@ icon: simple/magic
 
 
 
-### General Buffs
+<h3> General Buffs </h3>
 <figure markdown="span" markdown>
 
 | Buff Name | Effect |
@@ -268,27 +420,30 @@ icon: simple/magic
 | Pa'agrio's Fist 1 | Increases Max. CP by +800 |
 </figure>
 
-### Warlock Summoner Buffs
+<h3> Warlock Summoner Buffs </h3>
+<figure markdown="span" markdown>
 | Buff Name               | Effect                          | Value  | Target |
 |-------------------------|---------------------------------|--------|--------|
 | Gift of Queen Lv.3      | Increased Physical Attack <br> <br> Increased Accuracy      | +10% <br> <br> +3 | Party <br> <br> Party |
 | Blessing of Queen Lv.3  | Increased Critical Rate <br> <br> Increased Critical Damage        | +30% <br> <br> +25%   | Party <br> <br> Party  |
+</figure>
 
-### Elemental Summoner Buffs
-
+<h3> Elemental Summoner Buffs </h3>
+<figure markdown="span" markdown>
 | Buff Name                | Effect                          | Value  | Target |
 |--------------------------|---------------------------------|--------|--------|
 | Gift of Seraphim Lv.3    | Decreased Magic Skill Reuse Time| -35%   | Party  |
 | Blessing of Seraphim Lv.3 | Increased MP Regeneration       | +35%   | Party  |
+</figure>
 
-### Prophecy Buffs
+<h3> Prophecy Buffs </h3>
 <figure markdown="span" markdown>
 
 | Buff Name | Effects |
 |-----------|---------|
 | **Prophecy of Fire** | - Max HP +20%<br>- HP Regen +20%<br>- P.Def. +20%<br>- Accuracy +4<br>- P.Atk. +10%<br>- Speed -10%<br>- Atk. Spd. +20%<br>- Debuff Resist +10% |
 | **Prophecy of Water** | - MP Regen +20%<br>- Speed -20%<br>- M.Def. +20%<br>- M.Atk. +20%<br>- Cast. Speed +20%<br>- Magic Crit. Rate +100%<br>- Debuff Resist +10% |
-| **Magnus Chant** | - Max MP +20%<br>- MP Regen +300% (Robe)<br>- MP Regen +50% (Light/Heavy)<br>- M.Def +30%<br>- M.Atk +30%<br>- Cast. Speed +20%<br>- Magic MP Consumption -20%<br>- All Elemental Resists +10 |
+| **Magnus Chant (C5+)** | - Max MP +20%<br>- MP Regen +300% (Robe)<br>- MP Regen +50% (Light/Heavy)<br>- M.Def +30%<br>- M.Atk +30%<br>- Cast. Speed +20%<br>- Magic MP Consumption -20%<br>- All Elemental Resists +10 |
 | **Prophecy of Wind** | - Accuracy +4<br>- Evasion +4<br>- Atk. Spd. +20%<br>- 5% Vampiric Rage<br>- +20% Crit. Rate/Power (from behind)<br>- Debuff Resist +10% |
 | **Victory of Paagrio (IL)** | - Max HP +20%<br>- Speed -20%<br>- Accuracy +4<br>- P.Def. +20%<br>- P.Atk. +10%<br>- Atk. Spd. +20%<br>- Crit. Rate/Power +20%<br>- M.Def. +20%<br>- M.Atk. +20%<br>- Cast. Speed +20%<br>- Debuff Resist +20% |
 | **Chant of Victory** | - Max HP +20%<br>- Speed -20%<br>- Accuracy +4<br>- P.Def. +20%<br>- P.Atk. +10%<br>- Atk. Spd. +20%<br>- Crit. Rate/Power +20%<br>- M.Def. +20%<br>- M.Atk. +20%<br>- Cast. Speed +20%<br>- Debuff Resist +20% 
