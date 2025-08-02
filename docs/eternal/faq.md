@@ -130,6 +130,7 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 - If you already closed it, you cannot re-open it again:
     - Try restarting or waiting a bit, if that doesn't work: **make a new character**.
     - On Server Launch **GMs**{style="color:rgb(232, 246, 32)"} might give a No-Grade pack.
+- The items in them are not tradeable, only Mana Potions and HP Potions.
 
 <figure markdown>
 [![rewardmenu.png](https://i.postimg.cc/xT87YzR6/rewardmenu.png)](https://postimg.cc/dLMnjDgC)
