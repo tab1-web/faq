@@ -111,7 +111,7 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 - Everyday at 8.30 am UTC + 0.
 <ul>
-<li id="utc-time"></li>
+<li class="utc-time"></li>
 </ul>
 
 ## Mage Skill Damage Based on Level Difference
@@ -226,7 +226,7 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 
 - At the designated date in the features page at 3 pm UTC + 0.
 <ul>
-<li id="utc-time"></li>
+<li class="utc-time"></li>
 </ul>
 
 ## It's 18.00 UTC and can't exchange Sealstones to Priest?
