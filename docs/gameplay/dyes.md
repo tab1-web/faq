@@ -258,4 +258,4 @@ You can check below what dye combinations you can put on your character.
 
 </figure>
 
-<script defer src="../js/dyes.js"></script>
+<script defer src="/faq/gameplay/js/dyes.js"></script>

@@ -233,6 +233,6 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 - It's normal, wait 16 minutes for Priest to tally up the Seven Sign Points and you can exchange your Seal stones.
 
 
-<script src="../js/utctime.js" defer></script>
+<script src="faq/eternal/js/utctime.js" defer></script>
 
 

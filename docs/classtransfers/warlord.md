@@ -116,5 +116,5 @@ table tr {
 </style>
 
 
-<script src="../js/links.js" defer></script>
-<script src="../js/checkbox.js" defer></script>
+<script src="/faq/classtransfers/js/links.js" defer></script>
+<script src="/faq/classtransfers/js/checkbox.js" defer></script>

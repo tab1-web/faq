@@ -151,5 +151,5 @@ table tr {
 </style>
 
 
-<script src="../js/links.js"></script>
-<script src="../js/checkbox.js"></script>
+<script src="/faq/classtransfers/js/links.js"></script>
+<script src="/faq/classtransfers/js/checkbox.js"></script>

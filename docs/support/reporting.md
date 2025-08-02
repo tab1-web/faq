@@ -41,4 +41,4 @@ Auto Hunting Report is **not a live report**, it sends the report to database fo
 
 
 
-<script src="../js/utctime.js" defer></script>
+<script src="/faq/support/js/utctime.js" defer></script>
