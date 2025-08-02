@@ -5,6 +5,7 @@ icon: fontawesome/solid/gamepad
 ## Maximum Characters Reached
 - Login with the **last character** you logged.
     - So if you were on Account A and wish to log Account B, you must first log-in with Account A.
+    - Wait 3-5 minutes.
     - If you don't have 2 accounts, try unstuck your character from the [Webpanel > Overview](https://l2reborn.org/game-account/), your character is still in-game.
     - I fixed it one time for my friend by logging his character. 
     - If issue persists, [open a ticket](https://l2reborn.org/support/).
