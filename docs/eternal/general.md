@@ -507,6 +507,6 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 
 
 
-<script src='../js/general.js'></script>
-<script src='../js/event.js'></script>
-<script src='../js/timer.js'></script>
+<script src='/faq/eternal/js/general.js'></script>
+<script src='/faq/eternal/js/event.js'></script>
+<script src='/faq/eternal/js/timer.js'></script>
