@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', async function() {
     try {
-        const response = await fetch('../js/link-mappings.json');
+        const response = await fetch('/faq/classtransfers/js/link-mappings.json');
         const data = await response.json();
         
         document.querySelectorAll('table td').forEach(td => {
