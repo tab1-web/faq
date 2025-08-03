@@ -13,10 +13,10 @@ icon: material/gift
     Check out [rules](../support/rules.md). 
 
 
-Spin the Wheel for Coins to get skins below. `Coin Amount not known yet.`
+Spin the Wheel `(Available in Alt + B)` for Fortune Dice `(Avabile in the in-game Reborn Shop)` to get skins below. 
 
 <figure markdown>
-[![fortune-wheel.png](https://i.postimg.cc/50rwq4Pb/fortune-wheel.png){width=60%}](https://postimg.cc/TLrLT6M4)
+[![fortune.png](https://i.postimg.cc/Twk2g8WY/fortune.png)](https://postimg.cc/XGC06z8T)
 </figure>
 
 
