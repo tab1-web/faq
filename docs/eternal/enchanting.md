@@ -40,7 +40,7 @@ icon: material/mushroom-outline
 
     **Press Enchant Skill** after you selected the Enchant Option.
 
-    > If you still cannot enchant, after everything checked, have the skill enchant window open, go to Maria and teleport to a Town, it will allow you to enchant. Maybe client repair fixes the issue.
+    > If you still cannot enchant, after everything checked, have the skill enchant window open, go to Maria and teleport to a Town, it will allow you to enchant. Maybe client repair fixes the issue, or have one more BoG in inventory.
 
 - <figure markdown>
     [![enchanting-skills.png](https://i.postimg.cc/Z5GjKhWM/enchanting-skills.png)](https://postimg.cc/zykT06SC)

@@ -130,7 +130,7 @@ icon: material/alphabet-latin
 - `FoW` Field of Whispers.
 - `Fo` fu** off.
 - `FFs` For fu**ing sake.
-
+- `F1` refers to the Attack action (assuming it's on F1).
 
 ## G
 

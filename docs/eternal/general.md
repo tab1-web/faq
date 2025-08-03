@@ -395,6 +395,10 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
   
     It's better to [private message GMs on Discord](/faq/support/reporting/)
 
+- ### .afk
+
+    Puts you in a stasis/AFK mode in town.
+
 </div>
 
 

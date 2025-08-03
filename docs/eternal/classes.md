@@ -168,9 +168,19 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
 
 <div id="hawkeye" class="class-card">
     <h2>Hawkeye</h2>
-    <p>Balanced archer with superior HP. Great for surviving longer fights.</p>
+    <p>Balanced archer with superior HP. Great for surviving and kiting enemies from range. Hit based <a href="/faq/gameplay/abbreviations">(F1)</a> Archer.</p>
     <p>- <strong>Leveling:</strong> Slower</p>
     <p>- <strong>Strengths:</strong> <span class="strengths">Durability, Balanced Stats</span></p>
+    <h3>Buff Setup</h3>
+    <figure><a href="https://postimg.cc/181t4D2x"><image src="https://i.postimg.cc/2SVBcwx5/Hawkeye.png"></image></a></figure>
+
+    <p>If you are pulling or just need <strong style="color:yellow;">Movement Speed</strong> for moving around the world, cancel Chant of Victory and Apply <strong style="color:yellow;">Prophecy of Wind</strong> instead.</p>
+
+    <p>Daggers have higher attack speed, therefore you can have better uptime of Dash if you use it with a Dagger. Use a <strong style="color:red;">Rsk. Haste</strong> dagger like <strong style="color:red;">Cursed Dagger</strong>, when <strong style="color:red;">HP drops to 60%</strong> or lower, it increases Atk. Speed as well.</p>
+
+    <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
+
+    <h3>Video</h3>
 
     <iframe width="399" height="226" src="https://www.youtube.com/embed/pGkkp3C1zVk" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -187,9 +197,11 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
     </a>
   </figure>
 
-  <p>Feel free to change around the shield buffs for other resists or trying to remove Berserker Spirit.</p>
+  <p>Feel free to change around the shield buffs for other resists or trying to remove Berserker Spirit. Most of the players are playing either <strong style="color:purple;">Necromancer</strong> or <strong style="color:cyan;">Spellsinger</strong>, so you can stack more <strong style="color:purple;">Unholy</strong> +  <strong style="color:cyan;">Water resists</strong> against them.</p>
 
-  <p>If you are pulling or just need Movement Speed, cancel Chant of Victory and Apply Prophecy of Wind instead.</p>
+  <p>For farming, a <strong style="color:red;">more critical based buffs</strong> are preferred.</p>
+
+  <p>If you are pulling or just need <strong style="color:yellow;">Movement Speed</strong> for moving around the world, cancel Chant of Victory and Apply <strong style="color:yellow;">Prophecy of Wind</strong> instead. Chant of Victory is nice for Extra P. Def. when you feel like you are taking too much damage from monsters. I recommend checking out the <a href="/faq/gameplay/monsters">Monsters Page</a> and <a href="/faq/gameplay/buffs">Buffs Page</a> as well for more insight.</p>
 
   <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
 
