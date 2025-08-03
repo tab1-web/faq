@@ -118,5 +118,5 @@ Your **main class is the selected one**, the cell turns `grey` if you can't have
 [C3 Patch Notes](https://lineage2wiki.com/c3/patch-notes/#subclasses){ .md-button .lightbox }
 </figure>
 
-<script src="/faq/progression/js/subclass.js" defer></script>
+<script src="/faq/gameplay/progression/js/subclass.js" defer></script>
 
