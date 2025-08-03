@@ -32,6 +32,8 @@ hr {
 
     When you played for **30 minutes**, you will be given a notification to claim your rewards.
 
+    This will show regardless if you are eligble to claim the rewards or not.
+
     > You can redeem your reward now.
 
 - <figure markdown>
