@@ -183,6 +183,6 @@ Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{st
 - Go to the Addons folder of Eternal and paste contents of L2RebornCustom folder in Eternal
 
 ### What plugins, programs, files, patches can I use?
-- None, all is available in `ALT + B`, by default you have a colored system message
+- Reborn provides official addons. Outside of these, players assume responsibility for any custom edits. Modifications that grant PvE/PvP advantages are not permitted and may result in penalties.
 
 <script src="/faq/eternal/js/utctime.js" defer></script>
