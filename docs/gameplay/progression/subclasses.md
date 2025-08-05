@@ -42,7 +42,7 @@ To unlock your subclass, complete the following quests:
     - [:material-skull: Golkonda](https://lineage2wiki.com/c4/monster/10126/longhorn-golkonda-raid-boss/) - Tower of Insolence - ([11th floor](https://postimg.cc/d3tp31fw))
 - :material-flask-outline: [**Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/)
 
-> On **Eternal**{style="color:red;"}, you don't need to stab Baium, you can exchange Pipette Knife at Maria to get a Red one. <br> You also don't need B Crystals or Top B Grade weapon, you can skip that part and get a coupon instead for exchanging the items.
+> On **Eternal**{style="color:red;"}, you don't need to stab Baium, you can exchange Pipette Knife at Maria to get a Red one. (so you don't need <a href="https://lineage2wiki.org/c4/quest/348/an-arrogant-search/">Arrogant Search Quest</a>) <br> You also don't need B Crystals or Top B Grade weapon, you can skip that part and get a coupon instead for exchanging the items.
 
 ## :material-book: Subclass Mechanics
 
