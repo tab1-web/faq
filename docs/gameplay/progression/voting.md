@@ -46,7 +46,6 @@ icon: material/vote-outline
     | 61-76       | x5           | x3               |
     | 76-78       | x3           | x2               |
     | 78-80       | x2           | x1               |
-    | **Stage 2** | x10          | x7               |
     | **Stage 3** | x30          | x25              |
 
 - ### Adena/Drop/Spoil Rates
