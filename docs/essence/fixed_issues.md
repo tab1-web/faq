@@ -52,8 +52,7 @@ Everything on this list is **fixed**{style="color:#28a745;"}, not all **fake new
 - ### (FIXED) Guardian Vulcan: cannot learn skills 49086 Mace Smash  49090 Hammer Fall and 49087 Iron Age
 - ### (FIXED) Multiple guardians cannot learn various skills
 - ### (FIXED) [Bug] Summon get aoe damage
-- ### OBT: Eva's Templar testing
-- ### Stun Gauntlets' swift fist ID: 50431 is not using soulshot bonus damage
+- ### (FIXED) Stun Gauntlets' swift fist ID: 50431 is not using soulshot bonus damage
 - ### (FIXED) 88408 Imminent Piercing - stats of damaged armor pieces are still in effect until they are unequipped
 - ### (FIXED) 88293 Summon Elemental Unicorn; Unicorn does nothing while player is using skills
 - ### (FIXED) [Test] Amber land rate removal of opal not consistent with description?
@@ -61,23 +60,23 @@ Everything on this list is **fixed**{style="color:#28a745;"}, not all **fake new
 - ### (FAKE NEWS) Life force harmony level 2 is applied even at full health
 - ### (FIXED) Purge keys can be used 40 times when it shows 1 key in initial purge window
 - ### (FIXED) 87850 Divine Guardian is summoned but does not do anything while player is using skills
-- ### Vanilla Mass Enchant window
-- ### Hidden power cannot be switched or upgraded
+- ### (FIXED) Vanilla Mass Enchant window
+- ### (FIXED) Hidden power cannot be switched or upgraded
 - ### (FIXED) 94119 Talisman of Baium adds incorrect values of M Skill Critical Rate stat
 - ### (FIXED) 102817-102824 Sapphire should add % magic critical damage; instead it adds flat number
 - ### (FIXED) [Bug] Devastating Assault Cooldown visual bug after leaving Wolf transform
 - ### (FIXED) 88412 Upward Strike and 88413 Devastating Assault are not changing to their wolf version after transformation to Werewolf
-- ### Autohunt is slow to change dead target to next
+- ### (FIXED) Autohunt is slow to change dead target to next
 - ### (FIXED) Facelifting potions don't work on new faces/hairs for elf
 - ### (FIXED) 50839-50843 Blessing of Immortality does not proc while using 97088 Sword of Immortality.
-- ### Autohunt does not prioritise rush skills upon target change
+- ### (FIXED) Autohunt does not prioritise rush skills upon target change
 - ### (FIXED) Missing Game Assistant option to exchange legacy Ancient Ruins Time Stones
 - ### (FIXED) Fortune seeker's "Adena stun" custom buff shows on the wrong buff row
 - ### (FIXED) 88408 Imminent Piercing  should not open inventory when item is damaged
 - ### (FIXED) +5 Spirit agathion exchange coupon ID: 101335 in random craft is empty
 - ### (FIXED) Blazing Strike ID: 45425 AND Burning strike ID: 45423 can fail to attack completely at a certain range
-- ### Ferion's Necklace does not add -% skill cooldown
-- ### Pattern upgrade window is non-responsive. Dye compounding doesn't show chance nor use pity system
+- ### (FIXED) Ferion's Necklace does not add -% skill cooldown
+- ### (FIXED) Pattern upgrade window is non-responsive. Dye compounding doesn't show chance nor use pity system
 - ### (FIXED) 88490 Tough Skin does not trigger ? Provocation Resistance
 - ### (FIXED) Tranquility: Master ID: 88318 Has no visual effect of provocation resistance  failed to find it as a different ID
 - ### (FIXED) Pagan temple Secret Hall ( lvl 2 ) teleports under water
@@ -88,7 +87,7 @@ Everything on this list is **fixed**{style="color:#28a745;"}, not all **fake new
 - ### (FIXED) 88059 Power of Lightning Lv 3 buff duration does not refresh when using 88010 Templar's Assault
 - ### (FIXED) 88048 Power of Water Lv 3 buff duration does not refresh when using 88009 Templar's Assault
 - ### (FIXED) 88012 Apocalypse should consume 88011 Condemnation: Master buff upon use
-- ### System messages are not contained to system message window only
+- ### (FAKE NEWS) System messages are not contained to system message window only
 - ### (FIXED) 94086 Sea Boots proc buff Swift Evasion istead of Abyss Protection
 - ### (FIXED) Class Change window has no effect
 - ### (FIXED) OBT GM Shop missing new jewels from section Brooch
@@ -96,8 +95,8 @@ Everything on this list is **fixed**{style="color:#28a745;"}, not all **fake new
 - ### (FIXED) 88293 Summon Elemental Unicorn  summoned Elemental Unicorn is not immune to damage
 - ### (FIXED) Challenge points can't be used on blessed phantom mask/piercing mask
 - ### (FIXED) 100371 Ferion's Necklace cannot be equipped on pet
-- ### Bug - Class change cupon
-- ### Hidden Power did not transfer to OBT
+- ### (FIXED) Bug - Class change cupon
+- ### (FIXED) Hidden Power did not transfer to OBT
 - ### (FAKE NEWS) Embrace of Darkness +3 ID: 88304 attacks twice in PVP. Even when resisted the -%hp attack is triggering.
 - ### (FAKE NEWS) Cardinal skills are always their dark side icon and description
 - ### (FAKE NEWS) Chaos ID: 88300 and Chaos: Master ID: 88319 aren't randomly trying to apply one debuff
@@ -174,10 +173,10 @@ Everything on this list is **fixed**{style="color:#28a745;"}, not all **fake new
 - ### (FIXED) 87978 Eva's Tempest attacked 9 targets  should attack up to 8 targets
 - ### (FIXED) 87981 Sea Vortex Rush attacked 7 targets  should attack up to 6 targets
 - ### (FIXED) 88054 Water Shield Throwing attacked 7 targets  should attack up to 6 targets
-- ### 47310 Shelter: Master does not trigger Water Spout effect while using 88009 Templar's Assault
-- ### 45284 Eva's Summoner does not add all stats from the description
-- ### Enchanting 47318 Blessed of Eva is unavailable
-- ### 87994 Lightning Flash reduces too much Paralysis Resistance
+- ### (FIXED) 47310 Shelter: Master does not trigger Water Spout effect while using 88009 Templar's Assault
+- ### (FIXED) 45284 Eva's Summoner does not add all stats from the description
+- ### (FIXED) Enchanting 47318 Blessed of Eva is unavailable
+- ### (FIXED) 87994 Lightning Flash reduces too much Paralysis Resistance
 
 
 
