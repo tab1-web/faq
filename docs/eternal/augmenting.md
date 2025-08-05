@@ -38,7 +38,7 @@ icon: fontawesome/solid/angles-up
     - [Wild Magic Example](https://lineage2wiki.org/interlude/skill/3142/item-skill-wild-magic/) 
 
 ## Important Notes
-- **Grades**: The grades don't have extra chance to give passive/active skills. It's mainly for stats.
+- **Grades**: The grades don't have extra chance to give passive/active/chance skills. It's mainly for stats.
 - **Chances of getting skills**: Chance of getting skills are skill dependand between: 0.5% - 1.5%
 - **Restrictions**: No drop/trade/sell/freight/clan storage (private OK), removable
 - **Other**: Compatible with enchants, high-grade glows, adds name prefix
