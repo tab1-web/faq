@@ -43,7 +43,7 @@ h3 {
 </style>
 
 Thank you <span class="vanitasss-gradient">@Vanitasss</span> for providing what has already been fixed during the OBT.
-Everything on this list is **fixed**{style="color:#28a745;"}, not all **fake news**{style="color: #fd7e14;"} are **fake news**{style="color: #fd7e14;"}.
+Everything on this list is **fixed**{style="color:#28a745;"}.
 
 ## Closed Issues - 05/08/2025
 
