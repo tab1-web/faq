@@ -58,36 +58,53 @@ icon: material/sword
 ## Class Changes
 - **Free** 1st & 2nd class changes  
 - Access via medal icon (bottom-right corner)  
+    - You can also class change by talking to the Cat NPC in towns. 
 
+## Tips
 
+- **Skip quests** → Focus on mob grinding  
+    - Skill learns are automatic
+    - Save Mana Potions (expensive early game)
+    - [Enable drops and consumables messages](/faq/gameplay/controls/#how-to-enable-lootdrops-messages-on-eternal)
 
-## Levelling Tips
-<div class="grid cards" markdown>
+- **Class Changes**:
+    - At level 20 and 40: Visit Maria to redeem your shadow tickets
+    - At level 52: 
+        - Rent Shadow B Grade at Weapons Trader
+        - Find players selling B Grade Spiritshots
 
-- Skip quests → focus on mob grinding  
-- Save Mana Potions (expensive early)  
+## Voting Benefits
 
-- At level 20 and 40 class change, go to Maria and redeem your shadow tickets
+<figure markdown>
+</figure>
 
-    At level 52, rent out Shadow B Grade at Weapons Trader and find someone selling B Grade Spiritshots
+- VIP Level cannot exceed 1 (if it's 1, your VIP/Rune is active)
+- After voting: 
+    - You'll receive a VIP Coin in inventory 
+    - **Right-click** to activate
+- Not only your rates increase, but you can access VIP only buffs which can increase your damage.
 
-- Vote for the server at: <br> - [l2reborn/reborn-shop](https://l2reborn.org/reborn-shop/#eternal-il-x10)
+<figure markdown>
+[Vote Tutorial](../gameplay/progression/voting.md){ .md-button }
+[Vote Link](https://l2reborn.org/reborn-shop/#eternal-il-x10){ .md-button }
+</figure>
 
-    You can't raise VIP Level higher than 1, if it's 1, it means your VIP/Rune is activated.
+## Shadow Weapons Guide
 
-    [:octicons-arrow-right-24: Vote Tutorial](../gameplay/progression/voting.md)
+### Level 20-40 Weapons
+<figure markdown>
+[![Shadow C Grade Weapons](https://i.postimg.cc/XvB7swZB/shadow-c.png){ width=60% }](https://postimg.cc/gwdWJLHG)
+<figcaption markdown>Free Shadow Weapons at Maria after class changes for your Grade Level</figcaption>
+</figure>
 
-- <figure>
-    [![shadow-b-grade.png](https://i.postimg.cc/4NkMcX5v/shadow-b-grade.png)](https://postimg.cc/Cd7mTT9d)
-    <figcaption>Level 52 Shadow Weapons, and also some higher D and C weapons for Adena</figcaption>
-    </figure>
+### Level 52 Weapons
+<figure markdown>
+[![Shadow B Grade Weapons](https://i.postimg.cc/4NkMcX5v/shadow-b-grade.png){ width=70% }](https://postimg.cc/Cd7mTT9d)
 
-- <figure>
-    [![shadow-c.png](https://i.postimg.cc/XvB7swZB/shadow-c.png)](https://postimg.cc/gwdWJLHG)
-    <figcaption>Level 20-40 Shadow Weapons</figcaption>
-    </figure>
+<figcaption markdown>Rent strong D and C grade weapons for Adena here</figcaption>
 
-</div>
+</figure>
+
 
 ## Max Buff Slot Book Strategy
 
@@ -127,8 +144,9 @@ icon: material/sword
 ```
 Comfy way of finding Maria with a click of a Button.
 
-[:material-arrow-right: Macro Tutorial](../gameplay/macro.md)
-
+<figure markdown>
+[Macro Tutorial](../gameplay/macro.md){ .md-button }
+</figure>
 
 ## Catacombs / Necropolis levelling
 

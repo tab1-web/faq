@@ -34,6 +34,8 @@ If you wish to see some indicators on the screen, tick some options in the __"Da
 
 You may __drag windows around__ by grabbing the side or the top of the windows' bar.
 
+### How to enable Loot/Drops messages on Eternal
+
 <figure markdown>
 [![option-consumables.png](https://i.postimg.cc/CxqJHgJC/option-consumables.png){width=50%}](https://postimg.cc/ZWJr4XG0)
 <figcaption>Enable these settings to see drops.</figcaption>
