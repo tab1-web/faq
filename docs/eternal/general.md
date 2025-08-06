@@ -182,16 +182,28 @@ icon: material/clock-time-one-outline
   color: #eee;
   margin-left: auto;
 }
+
 </style>
 
 ## Quick Links
 
-<figure markdown="span" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
+<div class="grid cards" markdown>
+- <figure markdown>
   [Features Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button .lightbox }
+  </figure>
+
+- <figure markdown>
   [Reborn Guide](https://l2reborn.org/news/adventure-guide/){ .md-button .lightbox }
+  </figure>
+
+- <figure markdown>
   [PvP Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button .lightbox }
+  </figure>
+
+- <figure markdown>
   [Reborn News](https://l2reborn.org/latest-news/){ .md-button .lightbox }
-</figure>
+  </figure>
+</div>
 
 ## Time Tables
 <figure><h4 style="margin-top:10px;">Timers might change with new information being put out in 
