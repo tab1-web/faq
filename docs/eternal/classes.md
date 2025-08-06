@@ -197,7 +197,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
     </a>
   </figure>
 
-  <p>Feel free to change around the shield buffs for other resists or trying to remove Berserker Spirit. Most of the players are playing either <strong style="color:purple;">Necromancer</strong> or <strong style="color:cyan;">Spellsinger</strong>, so you can stack more <strong style="color:purple;">Unholy</strong> +  <strong style="color:cyan;">Water resists</strong> against them.</p>
+  <p>Feel free to change around the shield buffs for other resists or trying to remove Berserker Spirit, in PvP: it feels worse to have. Most of the players are playing either <strong style="color:purple;">Necromancer</strong> or <strong style="color:cyan;">Spellsinger</strong>, so you can stack more <strong style="color:purple;">Unholy</strong> +  <strong style="color:cyan;">Water resists</strong> against them.</p>
 
   <p>For farming, a <strong style="color:red;">more critical based buffs</strong> are preferred.</p>
 
