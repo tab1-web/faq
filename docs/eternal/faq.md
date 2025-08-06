@@ -79,6 +79,9 @@ h2 {
 ### How to add buffs as debuffs visually?
 - Locate your buffs and on the left side click the circle, when you are done hit Save
 
+### Do summons retain their buffs after death in pvp events?
+- Yes, except for Soultaker.
+
 ### Clan System on Eternal
 #### Clan Structure
 - **Main Clan**: 40 members  
