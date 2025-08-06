@@ -19,6 +19,11 @@
     background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: gradient-scroll 5s linear infinite;
+    
+    text-shadow: 
+        0 0 8px rgba(169, 201, 255, 0.5),
+        0 0 16px rgba(216, 180, 254, 0.4),
+        0 0 24px rgba(255, 187, 236, 0.3);
 }
 
 @keyframes gradient-scroll {
