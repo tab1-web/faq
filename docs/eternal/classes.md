@@ -229,7 +229,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
   </a>
   </figure>
 
-  <p>Feel free to test without the shield buffs, concentration for other resists or trying to remove Berserker Spirit.</p>
+  <p>Feel free to test without the shield buffs, concentration for other resists or trying to remove Berserker Spirit, in PvP: it feels worse to have.</p>
 
   <p>If you want more Movement Speed, apply Magnus Chant instead of Prophecy of Water.</p>
 
