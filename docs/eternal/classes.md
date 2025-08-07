@@ -114,15 +114,23 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
     <p>Great lethal damage, has access to Dash that can be up most of the time. Broken melee assassin.</p>
     <p>- <strong>Leveling:</strong> Medium</p>
     <p>- <strong>Strengths:</strong> <span class="strengths">Burst Damage, close combat PvP, DM Events</span></p>
-    <iframe width="399" height="226" src="https://www.youtube.com/embed/aOgVeADIGV0" frameborder="0" allowfullscreen></iframe>
+    
+    <h3>Buff Setup</h3>
+    
+    <figure><img src="https://i.postimg.cc/VLcLSbps/Treasure-Hunter.png"><a href="https://postimg.cc/kDfdzD7L"></a></img></figure>
     
     <p>If you are pulling or just need <strong style="color:yellow;">Movement Speed</strong> for moving around the world, cancel Chant of Victory and Apply <strong style="color:yellow;">Prophecy of Wind</strong> instead.</p>
 
-    <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
+    <p>If you need more Sustain on basic attacks, then instead of one of the resists apply: <strong style="color:red;">Vampiric Rage</strong> and/or <strong style="color:red;">Dance of Vampire</strong></p>
 
-    <p>If you want more Attack Speed, you can get Flu Lv4 "debuff" from Hotsprings, attack Bandersnatch / Atroxspawn.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn with fists.</p>
 
-    <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from Hotsprings.</p>
+    <p>If your <strong style="color:green;">auto attacks miss a lot</strong>, you can also use Cholera Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
+
+    <h3>Video</h3>
+
+    <iframe width="399" height="226" src="https://www.youtube.com/embed/aOgVeADIGV0" frameborder="0" allowfullscreen></iframe>
+
 </div>
 
 <div id="abyss-walker" class="class-card">
@@ -130,15 +138,20 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
     <p>Low maximum HP, Balanced offensive capabilities. Treasure Hunter more preferable for quick disengage and higher HP.</p>
     <p>- <strong>Leveling:</strong> Medium</p>
     <p>- <strong>Strengths:</strong> <span class="strengths">Burst Damage, close combat PvP</span></p>
-    <iframe width="399" height="226" src="https://www.youtube.com/embed/p8938aIAKHo" frameborder="0" allowfullscreen></iframe>
+
+    <h3>Buff Schemes</h3>
+
+    <figure><a href="https://postimg.cc/yJwndM0F"><img src="https://i.postimg.cc/qR7Fm0RZ/Abyss-Walker.png"></img></a></figure>
 
     <p>If you are pulling or just need <strong style="color:yellow;">Movement Speed</strong> for moving around the world, cancel Chant of Victory and Apply <strong style="color:yellow;">Prophecy of Wind</strong> instead.</p>
 
-    <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn with fists.</p>
 
-    <p>If you want more Attack Speed, you can get Flu Lv4 "debuff" from Hotsprings, attack Bandersnatch / Atroxspawn.</p>
+    <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
 
-    <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from Hotsprings.</p>
+    <h3>Video</h3>
+    <iframe width="399" height="226" src="https://www.youtube.com/embed/p8938aIAKHo" frameborder="0" allowfullscreen></iframe>
+
 </div>
 
 <div id="plainswalker" class="class-card">
@@ -146,15 +159,20 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
     <p>Bit higher evasion, specializing in mobility and using skills for damaging, low damage on hits. Treasure Hunter more preferable for higher HP and better damage.</p>
     <p>- <strong>Leveling:</strong> Medium</p>
     <p>- <strong>Strengths:</strong> <span class="strengths">Evasion, Mobility</span></p>
-    <iframe width="399" height="226" src="https://www.youtube.com/embed/vl9YF89d0hU" frameborder="0" allowfullscreen></iframe>
+    
+    <h3>Buff Schemes</h3>
+
+    <figure><a href="https://postimg.cc/D8cNMNF6"><img src="https://i.postimg.cc/0ygqbgBT/Plainswalker.png"></img></a></figure>
     
     <p>If you are pulling or just need <strong style="color:yellow;">Movement Speed</strong> for moving around the world, cancel Chant of Victory and Apply <strong style="color:yellow;">Prophecy of Wind</strong> instead.</p>
 
-    <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn with fists.</p>
 
-    <p>If you want more Attack Speed, you can get Flu Lv4 "debuff" from Hotsprings, attack Bandersnatch / Atroxspawn.</p>
+    <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
 
-    <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from Hotsprings.</p>
+    <h3>Video</h3>
+    <iframe width="399" height="226" src="https://www.youtube.com/embed/vl9YF89d0hU" frameborder="0" allowfullscreen></iframe>
+
 </div>
 
 <div id="tyrant" class="class-card">
@@ -162,15 +180,25 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
     <p>Versatile PvP brawler class using fist weapons, deadliest on Low HP with Zealot. Combines range skills with powerful close-combat combos.</p>
     <p>- <strong>Leveling:</strong> Medium</p>
     <p>- <strong>Strengths:</strong> <span class="strengths">HP, Burst Combos, PvE/PvP mix, Olympiad</span></p>
-    <iframe width="399" height="226" src="https://www.youtube.com/embed/km9de1lEqck" frameborder="0" allowfullscreen></iframe>
+
+    <h3>Buff Schemes</h3>
+
+    <figure><a href="https://postimg.cc/K1H9MknS"><img src="https://i.postimg.cc/3wKzz2NR/Tyrant-YOLO.png"></img></a></figure>
+    <figure><a href="https://postimg.cc/jD7306Wg"><img src="https://i.postimg.cc/MpsCBdzS/Tyrant.png"></img></a></figure>
 
     <p>If you are pulling or just need <strong style="color:yellow;">Movement Speed</strong> for moving around the world, cancel Chant of Victory and Apply <strong style="color:yellow;">Prophecy of Wind</strong> instead.</p>
 
-    <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
+    <p>In Deathmatches you can also skip <strong style="color:lightblue;">Windwalk</strong> and <strong style="color:lightblue;">Song of Wind</strong> and get more resists as you won't be moving around too much.</p>
 
-    <p>If you want more Attack Speed, you can get Flu Lv4 "debuff" from Hotsprings, attack Bandersnatch / Atroxspawn.</p>
+    <p><strong style="color:orange;">PvE:</strong> Try to slot in more offensive buffs and Vampiric Rage. You can get low fast with equipping Homunkulus Conversion and unequipping it.</p>
 
-    <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from Hotsprings.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn.</p>
+
+    <p>If your auto attacks miss a lot, you can also use <strong style="color:darkgreen;">Cholera</strong> Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
+
+    <h3>Video</h3>
+    <iframe width="399" height="226" src="https://www.youtube.com/embed/km9de1lEqck" frameborder="0" allowfullscreen></iframe>
+
 </div>
 
 <div id="titan" class="class-card">
@@ -211,15 +239,22 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
     <p>Highest burst damage among archers but comes with lower durability. Hawkeye more preferable.</p>
     <p>- <strong>Leveling:</strong> Slower</p>
     <p>- <strong>Strengths:</strong> <span class="strengths">High Damage, PvP DPS</span></p>
-    <iframe width="399" height="226" src="https://www.youtube.com/embed/JvYSaiBc4gU" frameborder="0" allowfullscreen></iframe>
+
+    <h3>Buff Schemes</h3>
+
+    <figure><a href="https://postimg.cc/PC5mQ89q"><img src="https://i.postimg.cc/L8zNRtVj/phantomranger.png"></img></a></figure>
 
     <p>If you are pulling or just need <strong style="color:yellow;">Movement Speed</strong> for moving around the world, cancel Chant of Victory and Apply <strong style="color:yellow;">Prophecy of Wind</strong> instead.</p>
 
-    <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
+    <p>In Deathmatches you can also skip <strong style="color:lightblue;">Windwalk</strong> and <strong style="color:lightblue;">Song of Wind</strong> and get more resists as you won't be moving around too much.</p>
 
-    <p>If you want more Attack Speed, you can get Flu Lv4 "debuff" from Hotsprings, attack Bandersnatch / Atroxspawn.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn.</p>
 
-    <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from Hotsprings.</p>
+    <p>If your auto attacks miss a lot, you can also use <strong style="color:darkgreen;">Cholera</strong> Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
+
+    <h3>Videos</h3>
+    <iframe width="399" height="226" src="https://www.youtube.com/embed/JvYSaiBc4gU" frameborder="0" allowfullscreen></iframe>
+
 </div>
 
 <div id="hawkeye" class="class-card">
@@ -234,11 +269,13 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
 
     <p>Daggers have higher attack speed, therefore you can have better uptime of Dash if you use it with a Dagger. Use a <strong style="color:red;">Rsk. Haste</strong> dagger like <strong style="color:red;">Cursed Dagger</strong>, when <strong style="color:red;">HP drops to 60%</strong> or lower, it increases Atk. Speed as well.</p>
 
-    <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn.</p>
 
-    <p>If you want more Attack Speed, you can get Flu Lv4 "debuff" from Hotsprings, attack Bandersnatch / Atroxspawn.</p>
+    <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
 
-    <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from Hotsprings.</p>
+    <p>In Deathmatches you can also skip <strong style="color:lightblue;">Windwalk</strong> and <strong style="color:lightblue;">Song of Wind</strong> and get more resists as you won't be moving around too much.</p>
+
+    <p>On events try to use <strong style="color:darkgreen;">Snipe</strong> from a high ground, bit further away from the front lines instead of Dash, Snipe is really great to play from range.</p>
 
     <h3>Video</h3>
 
@@ -263,11 +300,11 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
 
   <p>If you are pulling or just need <strong style="color:yellow;">Movement Speed</strong> for moving around the world, cancel Chant of Victory and Apply <strong style="color:yellow;">Prophecy of Wind</strong> instead. Chant of Victory is nice for Extra P. Def. when you feel like you are taking too much damage from monsters. I recommend checking out the <a href="/faq/gameplay/monsters">Monsters Page</a> and <a href="/faq/gameplay/buffs">Buffs Page</a> as well for more insight.</p>
 
-  <p>If you want more Attack Speed, you can get Flu Lv4 "debuff" from Hotsprings, attack Bandersnatch / Atroxspawn.</p>
+  <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn.</p>
 
-  <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from Hotsprings.</p>
+  <p>If your auto attacks miss a lot, you can also use  <strong style="color:darkgreen;">Cholera</strong> Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
 
-  <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
+  <p>In Deathmatches you can also skip <strong style="color:lightblue;">Windwalk</strong> and <strong style="color:lightblue;">Song of Wind</strong> and get more resists as you won't be moving around too much.</p>
 
   <h3>Video</h3>
   <iframe width="399" height="226" src="https://www.youtube.com/embed/YGUVCegLs9Y" frameborder="0" allowfullscreen></iframe>
@@ -293,18 +330,18 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
     </a>
     </figure>
 
-    <p>Feel free to test without the shield buffs, concentration for other resists or trying to remove Berserker Spirit, in PvP: it feels worse to have.</p>
+      <p>Feel free to change around the shield buffs for other resists or trying to remove Berserker Spirit, in PvP: it feels worse to have. Most of the players are playing either <strong style="color:purple;">Necromancer</strong> or <strong style="color:cyan;">Spellsinger</strong>, so you can stack more <strong style="color:purple;">Unholy</strong> +  <strong style="color:cyan;">Water resists</strong> against them.</p>
 
-    <p>If you want more Movement Speed, apply Magnus Chant instead of Prophecy of Water.</p>
+    <p>If you want more <strong style="color:yellow;">Movement Speed</strong>, apply Magnus Chant instead of Prophecy of Water.</p>
     <ul>
-    <li>Use Chant of Victory if you need more P.Def. against monsters for example</li>
+    <li>Use <strong style="color:green;">Chant of Victory</strong> if you need more P.Def. against monsters for example</li>
     </ul>
 
-    <p>If you want to save some adena for Mana Potions: Use Magnus Chant, Clarity and/or Song of Meditation.</p>
+    <p>If you want to save some adena for <strong style="color:lightblue">Mana Potions:</strong> Use Magnus Chant, Clarity and/or Song of Meditation.</p>
 
-    <p>You can get more Cast. Speed if you get Malaria Lv4 "debuff" from Hotsprings, keep Aura Burning the Aggro Monsters attacking you to get them.</p>
+    <p>You can get more <strong style="color:darkgreen;">Cast. Speed</strong> if you get Malaria Lv4 "debuff" from <strong>Hotsprings</strong>, keep Aura Burning the Aggro Monsters attacking you to get them.</p>
 
-    <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
+    <p>In <strong>Deathmatches</strong> you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
 
     <h3>Video</h3>
     <iframe width="399" height="226" src="https://www.youtube.com/embed/fwDoh4Fk1xg" frameborder="0" allowfullscreen></iframe>
