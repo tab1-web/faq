@@ -16,8 +16,6 @@ icon: octicons/info-16
 **Exchange Rate**: 1 Coin = 1 €  
 **Purchase Link**: [Buy Coins Here](https://l2reborn.org/balance/)
 
----
-
 ## Donation Guidelines
 1. **Send coins to the correct target**:
     - Specify the **server**, **account**, and **character** name.
