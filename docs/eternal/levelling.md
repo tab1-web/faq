@@ -37,7 +37,7 @@ icon: material/sword
 <div class="grid cards" markdown>
 - ### GM Shop & Buffer
 
-    - **Locate Maria** with these: 
+    - **Locate Maria** with these in Towns: 
         - `/target Maria` and `/attack`
     - Provides buffs, gear, consumables  
 

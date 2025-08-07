@@ -9,7 +9,7 @@ hide:
 <div class="grid cards" markdown>
 - ### GM Shop & Buffer
 
-    - **Locate Maria** with these: 
+    - **Locate Maria** with these in Towns: 
         - `/target Maria` and `/attack`
     - Provides buffs, gear, consumables  
     - Always keep on yourself HP pots, MP pots, CP pots, Scroll of Escapes (to go back to village)
