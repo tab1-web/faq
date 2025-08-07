@@ -125,3 +125,5 @@ setInterval(updatePeriodDisplays, 60 * 1000);
     Puts shop to offline on setup.
 
 </div>
+
+> There is no `.expoff` command on Signature.
