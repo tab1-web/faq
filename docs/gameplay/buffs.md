@@ -397,7 +397,7 @@ document.addEventListener('DOMContentLoaded', function() {
 | Resist Shock 4 | Increases Shock Resist by 40 |
 | Unholy Resistance 3 | Increases Unholy Resist by 25 |
 | Holy Resistance 3 | Increases Holy Resist by 25 |
-| Mental Shield 4 | Increases Hold, Sleep and Derangement Resist by 80% |
+| Mental Shield 4 | Increases Hold, Sleep and Derangement Resist by 80% <br> Derangement Skills: Fear, Silence, Betray, Erase, Bluff, Arcane Chaos, Soul Shock etc.. |
 | Divine Protection 3 | Increases Unholy and Holy resist by 30  |
 | Chant of Spirit 1 | Increases cancel by 30% and de-buff attack resist by 20% |
 | Pa'agrio Emblem | Increases cancel by 30% and de-buff attack resist by 20% |
