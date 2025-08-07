@@ -80,7 +80,7 @@ hide:
 
     - :fontawesome-solid-scroll: __Chronicle__: H5
     - :material-gamepad-variant-outline: __Gameplay__: GM Shop (S), buffer
-    - :material-account-group: __Population__: 2k daily peak during Season
+    - :material-account-group: __Population__: 2k on launch, Low.
     
     :material-check: **Great for**: Mid-rate H5 seasonal enthusiasts <br> <br>
     <a href="https://postimg.cc/s1QnGr8Q">
