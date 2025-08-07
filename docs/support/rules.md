@@ -22,7 +22,7 @@ icon: fontawesome/solid/scroll
 
 
 
-### :material-account-multiple-remove: **2. AFK Farming**
+### :material-keyboard-off: **2. AFK Farming**
 - AFK Farming is not allowed.
 - You must be at the computer to solve captcha.
 
@@ -96,13 +96,13 @@ Exchanging in-game items, services, characters, or accounts for **real money** i
 
 
 
-### **9. Account Sharing** 
+### :material-share-variant: **9. Account Sharing** 
 
 - Sharing your account is at your own risk. It is **highly discouraged**. 
 - If items go missing or your character gets banned due to that, that's on you.
 
 
-### **10. Conduct**  
+### :octicons-code-of-conduct-16: **10. Conduct**  
 
 - Use `/block PlayerName`. If harassment continues in public channels, submit a [support ticket](https://l2reborn.org/support/) with **dates and time-zone**.  
 
