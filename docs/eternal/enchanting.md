@@ -36,14 +36,14 @@ icon: material/mushroom-outline
 
     In `ALT + K` drag the skill to **Standard Skills** in the Enchanting Window.
 
-    Make sure you are 3rd class and have enough EXP/SP.
+    Make sure you are 3rd class and have enough EXP/SP and a Book of Giants for initial enchant.
 
     **Press Enchant Skill** after you selected the Enchant Option.
 
-    > If you still cannot enchant, after everything checked, have the skill enchant window open, go to Maria and teleport to a Town, it will allow you to enchant. Maybe client repair fixes the issue, or have one more BoG in inventory.
-
 - <figure markdown>
     [![enchanting-skills.png](https://i.postimg.cc/Z5GjKhWM/enchanting-skills.png)](https://postimg.cc/zykT06SC)
+    <figcaption>`ALT + K` Enchanting Window</figcaption>
     </figure>
-
 </div>
+
+> If you still cannot enchant, after everything checked, have the skill enchant window open, go to Maria and teleport to a Town, it will allow you to enchant, or have one more BoG in inventory. <br>It will not use the BoG.

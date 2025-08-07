@@ -11,7 +11,7 @@ icon: fontawesome/solid/scroll
     
     Violations may lead to penalties including suspensions or bans.
 
-## :material-robot-off-outline: **1. Botting**
+### :material-robot-off-outline: **1. Botting**
 
 - The use of **automation tools** is **strictly prohibited**. 
     - Stucking a coin, a cup / physical objects on keys or softwares etc..
@@ -22,13 +22,13 @@ icon: fontawesome/solid/scroll
 
 
 
-## :material-account-multiple-remove: **2. AFK Farming**
+### :material-account-multiple-remove: **2. AFK Farming**
 - AFK Farming is not allowed.
 - You must be at the computer to solve captcha.
 
 
 
-## :material-account-multiple-remove: 3. Dualboxing
+### :material-account-multiple-remove: 3. Dualboxing
 - Dualboxing is **not allowed**.  
 - **ONE** person may control **only ONE character at a time per server**.
     - Using **multiple devices** to play multiple characters is **also forbidden**.  
@@ -40,43 +40,40 @@ icon: fontawesome/solid/scroll
     - Each person is **able to solve captchas**
     - When you need to AFK: **Relog**.
 
-## :material-currency-usd-off: **4. Real Money Trading (RMT)**
+### :material-currency-usd-off: **4. Real Money Trading (RMT)**
 
 Exchanging in-game items, services, characters, or accounts for **real money** is strictly **prohibited**.  
 
 !!! warning
     You are not allowed to use **Reborn Coins** or **Suits/Skins/Cosmetics** either for any exchange.
 
-
-
-## :material-bug: **5. Exploits**
+### :material-bug: **5. Exploits**
 
 - Any bugs must be reported to staff.
 - Deliberate abuse of bugs for gain will lead to **penalties**.
 
+### :material-account-alert: **6. Scamming**
 
+- All forms of scamming are **forbidden**.
+- By reporting, Staff will ban scammers, but resolve disputes **before** reporting. Banned accounts cannot return lost items.  
 
-## :material-account-alert: **6. Scamming**
+- **Includes, but NOT limited to:**
 
-All forms of scamming are **forbidden**.
-
-**Includes, but NOT limited to:**
-
-- **Scamshops**
-    - Advertising one item but selling another (e.g., SOP/D gems).
-    - Announcing low prices but charging much higher (e.g., AA for 13a but sold for 13kk).
-    - Misleading package deals (e.g., sets with swapped items).
-    - Craft shops with absurd material costs (e.g., 1kk per material).
-- **Account theft**
-    - Stealing items by logging into another player’s account.
+    - **Scamshops**
+        - Advertising one item but selling another (e.g., SOP/D gems).
+        - Announcing low prices but charging much higher (e.g., AA for 13a but sold for 13kk).
+        - Misleading package deals (e.g., sets with swapped items).
+        - Craft shops with absurd material costs (e.g., 1kk per material).
+    - **Account theft**
+        - Stealing items by logging into another player’s account.
 
 !!! warning "High-Value Item Clause"
     Severe cases of scamming involving high-value items (e.g., S-grade equipment, epic jewelry) may warrant compensation at the staff’s discretion.
+    
 
 
 
-
-## :material-storefront-outline: **7. Shops**
+### :material-storefront-outline: **7. Shops**
 - Refer to [Rule 6](#6-scamming) regarding scamshops.
 - Each person is allowed only **ONE offline shop** AND **one per account**:
     - Even if you have multiple accounts, you can only have **1 offline shop maximum** per person.
@@ -87,26 +84,31 @@ All forms of scamming are **forbidden**.
 
 
 
-## :material-server: **8. Playing on Multiple Servers**
+### :material-server: **8. Playing on Multiple Servers**
 
-You may play on more than one L2Reborn server. However:
+- You may play on more than one L2Reborn server. However:
 
-- All servers’ rules apply fully.
-- Don’t use one server as an excuse for neglecting another (e.g., failing captchas).
+    - All servers’ rules apply fully.
+    - Don’t use one server as an excuse for neglecting another (e.g., failing captchas).
 
 !!! tip "Optimize Your Time"
     Setting up a shop or organizing gear on one server while farming actively on another is the best way to multi-task.
 
 
 
-## **9. Account Sharing** 
+### **9. Account Sharing** 
 
-Sharing your account is at your own risk. It is **highly discouraged**.
-
-!!! example
-    Sharing your account is risky—if it gets banned or items go missing, that's on you.
+- Sharing your account is at your own risk. It is **highly discouraged**. 
+- If items go missing or your character gets banned due to that, that's on you.
 
 
+### **10. Conduct**  
+
+- Use `/block PlayerName`. If harassment continues in public channels, submit a [support ticket](https://l2reborn.org/support/) with **dates and time-zone**.  
+
+- **Do not provoke or harass others** - retaliatory reports with omitted context or false claims may result in punishment for **both parties**.  
+
+- Death threats, harm wishes, racism, and disparaging remarks toward staff/server are punishable with chat-bans or bans up to GMs discretion.
 
 ## **Essence-Specific Rules**
 

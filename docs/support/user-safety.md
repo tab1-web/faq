@@ -3,7 +3,7 @@ icon: material/incognito
 
 ---
 
-## :octicons-question-16: Why do I have to worry about Account Security?
+## Why do I have to worry about Account Security?
 
 Reborn sets up systems and rules to protect players, but we're not responsible for players' 
 actions in or out of the game.
@@ -56,7 +56,7 @@ actions in or out of the game.
 </div>
 
 !!! warning "Scam Protection"
-    - **Report all scams** - Staff will ban the scammers.
+    - **Report scams** - Staff will ban scammers, but resolve disputes **before** reporting. <br> Banned accounts cannot return lost items. <br> High value items may be returned up to GMs discretion.
     - **2FA + Lock required** to:  
         - See scammer details  
         - Recover lost epic/high-value items  
@@ -105,9 +105,6 @@ actions in or out of the game.
 </figure>
 
 </div>
-
-<hr class="divider">
-
 
 ## :octicons-bookmark-16: Resources
 

@@ -12,7 +12,6 @@ If you have a problem related to **bans**, **account**, **game**, **donations**,
 
 - [You will get a response here](https://l2reborn.org/my-support-tickets/) and **click on the appropriate ticket**.
 
-<hr class="divider">
 <figure markdown="span" markdown>
 
 | Category | What to Provide |
@@ -25,7 +24,6 @@ If you have a problem related to **bans**, **account**, **game**, **donations**,
 !!! warning
     Tickets that do not include all the necessary information may be closed without further notice. 
 
-<hr class="divider">
 
 ## :material-email-fast: Ticket Response Times
 
@@ -40,15 +38,14 @@ If you have a problem related to **bans**, **account**, **game**, **donations**,
     - **Wait at least 48 hours** before follow-ups  
 
 
----
 
 ## :material-help-box: How to Submit a Ticket Properly  
 <figure markdown>
   <a href="https://postimg.cc/fk8KQq8v" target="_blank">
     ![Animated GIF: How to open a ticket](https://i.postimg.cc/GhCSYZY6/ticket11mb.gif){ width="60%" .lightbox }
   </a>
-  <figcaption>Click the GIF to enlarge</figcaption>
 </figure>
 
----
+## What does Ticket Completed mean?
 
+It means no further action is needed from you at this time (e.g., your issue was escalated to developers). Writing duplicate tickets won’t speed up the process.  
