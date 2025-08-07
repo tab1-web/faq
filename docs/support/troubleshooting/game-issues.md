@@ -28,7 +28,10 @@ icon: fontawesome/solid/gamepad
 </figure>
 </div>
 
+## Nothing happens when I click on Character Create or Server Select and I use the laptop's mouse pad, how to fix it?
 
+- If you take too long on server selection, you will need a fresh login to proceed.
+- Use a desktop mouse instead, the laptop's mouse pad may be blocked. 
 
 ## Server Selection Stuck
 
