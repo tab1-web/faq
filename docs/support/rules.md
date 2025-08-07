@@ -100,7 +100,7 @@ Exchanging in-game items, services, characters, or accounts for **real money** i
 
 - Sharing your account is at your own risk. It is **highly discouraged**. 
 - If items go missing or your character gets banned due to that, that's on you.
-    - Use the [Lock System](/faq/support/user-safety/#use-the-lock-system)
+    - Use the [Lock System](/faq/support/user-safety/#use-the-lock-system) and [2FA](/faq/support/user-safety/#enable-2fa).
 
 ### :octicons-code-of-conduct-16: **10. Conduct**  
 
