@@ -34,19 +34,57 @@ allowing you to switch classes.
 ---
 
 ## :fontawesome-solid-scroll: Quests
-To unlock your subclass, complete the following quests:
 
-- :material-key: [**Fate's Whisper**](https://lineage2wiki.com/c4/quest/234/fates-whisper/)
-    - [:material-skull: Hallate](https://lineage2wiki.com/c4/monster/10220/death-lord-hallate-raid-boss/) - Tower of Insolence - ([3rd floor](https://postimg.cc/ZRLXJ3Vw))
-    - [:material-skull: Kernon](https://lineage2wiki.com/c4/monster/10054/kernon-raid-boss/) - Tower of Insolence - ([8th floor](https://postimg.cc/zBN9mpSL))
-    - [:material-skull: Golkonda](https://lineage2wiki.com/c4/monster/10126/longhorn-golkonda-raid-boss/) - Tower of Insolence - ([11th floor](https://postimg.cc/d3tp31fw))
-- :material-flask-outline: [**Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/)
+To unlock your subclass, complete the following quests
 
-> On **Eternal**{style="color:red;"}, you don't need to stab Baium, you can exchange Pipette Knife at Maria to get a Red one. (so you don't need <a href="https://lineage2wiki.org/c4/quest/348/an-arrogant-search/">Arrogant Search Quest</a>) <br> You also don't need B Crystals or Top B Grade weapon, you can skip that part and get a coupon instead for exchanging the items.
+
+!!! tip ":fontawesome-solid-scroll: Noblesse Quests"
+
+    === "**Fate's Whisper**"
+        **Start NPC:** [[Maestro] Reorin](https://lineage2wiki.org/c4/monster/8002/reorin-maestro/)
+
+        **Requirements:** Lv75+
+
+        **Bosses Location:**
+        
+        - [:material-skull: Hallate](https://lineage2wiki.com/c4/monster/10220/death-lord-hallate-raid-boss/) - Tower of Insolence - ([3rd floor](https://postimg.cc/ZRLXJ3Vw))
+        - [:material-skull: Kernon](https://lineage2wiki.com/c4/monster/10054/kernon-raid-boss/) - Tower of Insolence - ([8th floor](https://postimg.cc/zBN9mpSL))
+        - [:material-skull: Golkonda](https://lineage2wiki.com/c4/monster/10126/longhorn-golkonda-raid-boss/) - Tower of Insolence - ([11th floor](https://postimg.cc/d3tp31fw))
+
+        ---
+
+        [**:octicons-arrow-right-24: Fate's Whisper**](https://lineage2wiki.com/c4/quest/234/fates-whisper/) (Camping Bosses & Top B -> Low A)
+
+        [**:octicons-arrow-right-24: An Arrogant Search**](https://lineage2wiki.org/c4/quest/348/an-arrogant-search/) (Entering Baium to Stab it)
+
+        > On **Eternal**{style="color:red;"}, you don't need to stab Baium, you can exchange Pipette Knife at Maria to get a Red one. (so you don't need <a href="https://lineage2wiki.org/c4/quest/348/an-arrogant-search/">Arrogant Search Quest</a>) <br> You also don't need B Crystals or Top B Grade weapon, you can skip that part and get a coupon instead for exchanging the items.
+
+    === "**Mimir's Elixir**"
+
+        **Start NPC:** [[Magister] Ladd](https://lineage2wiki.org/c4/monster/7721/ladd-magister/)
+
+        **Requirements:** Lv75+, Star of Destiny from [**Fate's Whisper**](https://lineage2wiki.com/c4/quest/234/fates-whisper/).
+
+        **Items needed:** 
+        
+        - 100 Moonstone Shards
+
+        - 10 Volcano Ash
+
+        - 2 Quick Silver
+        
+        ---
+        
+        [**:octicons-arrow-right-24: Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/) (Mixing Mats at the Urn)
+
+        [**:octicons-arrow-right-24: Supplier of Reagents**](https://lineage2wiki.org/c4/quest/373/supplier-of-reagents/) (Getting Mats for the Quest)
+
+
+
 
 ## :material-book: Subclass Mechanics
 
-- Switching classes **removes active buffs and symbol skills**.
+- Switching/adding classes **removes active buffs, symbol skills and your Sin Eater if it's active**.
 - The following information is **retained** between main and subclass:
 
     - :material-sword-cross: PvP/PK count
