@@ -39,7 +39,7 @@ icon: fontawesome/solid/angles-up
 
 ## Important Notes
 - **Grades**: The grades don't have extra chance to give passive/active/chance skills. It's mainly for stats.
-- **Chances of getting skills**: Chance of getting skills are skill dependand between: 0.5% - 1.5%
+- **Chances of getting skills**: Chance of getting skills are skill dependant between: 0.5% - 1.5%
 - **Restrictions**: No drop/trade/sell/freight/clan storage (private OK), removable
 - **Other**: Compatible with enchants, high-grade glows, adds name prefix
 - **Limitations**: No dual swords or Mammon trades
