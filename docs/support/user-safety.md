@@ -19,6 +19,8 @@ actions in or out of the game.
 - ### :simple-2fas: Enable 2FA
     Activate two-factor authentication on the L2Reborn website.    
 
+    Sometimes email verification can go down, you can always login with 2FA.
+
     [:octicons-arrow-right-24: Link](https://l2reborn.org/setting/)
 
 - ### :octicons-question-24: About 2FA
