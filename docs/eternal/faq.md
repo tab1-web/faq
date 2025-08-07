@@ -76,6 +76,16 @@ h2 {
 3. **Equip your desired armor set**
 4. **Click the plus icon** (+) to save the configuration
 
+## When is the Weekend Bonus, what are the bonuses?
+- Both Main and Seasonal Servers get the Weekend Bonus
+- Weekend Bonus Events are always announced in #eternal-il-news
+
+**Bonuses:**
+
+- x2 Barakiel Fragments
+- x2 Medals as PvP Event rewards.
+- Champion monsters: give more rewards and are more difficult to hunt.
+
 ### How to add buffs as debuffs visually?
 - Locate your buffs and on the left side click the circle, when you are done hit Save
 
