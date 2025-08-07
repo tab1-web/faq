@@ -78,7 +78,7 @@ h2 {
 
 ## When is the Weekend Bonus, what are the bonuses?
 - Both Main and Seasonal Servers get the Weekend Bonus
-- Weekend Bonus Events are always announced in #eternal-il-news
+- Weekend Bonus Events are always announced in [#eternal-il-news](https://discord.com/channels/622089207028121602/1091647392836767864)
 
 **Bonuses:**
 
