@@ -18,7 +18,7 @@ icon: material/store
 
     - Finds the items/prices locally in the region
     - It is **not real-time**
-    - Refresh time might be every 30m or hourly.
+    - Gets shops at every server restart.
 
 - [![findstore.gif](https://i.postimg.cc/9MHK26B9/findstore.gif)](https://postimg.cc/Z9jVFD2Y)
 
