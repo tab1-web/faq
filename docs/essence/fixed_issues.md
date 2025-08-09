@@ -117,7 +117,7 @@ Everything on this list is **fixed**{style="color:#28a745;"}.
 - ### (FIXED) Mastery of Haste ID: 88115 seems to be giving more P.atk than intended
 - ### (FIXED) Life force harmony level 2 is applied even at full health
 - ### (FIXED) Purge keys can be used 40 times when it shows 1 key in initial purge window
-- ### (FIXED) 87850 Divine Guardian is summoned but does not do anything while player is using skills
+- ### (FIXED) 87850 Divine Guardian is summoned but does not do anything while player   is using skills
 - ### (FIXED) Vanilla Mass Enchant window
 - ### (FIXED) Hidden power cannot be switched or upgraded
 - ### (FIXED) 94119 Talisman of Baium adds incorrect values of M Skill Critical Rate stat
