@@ -121,11 +121,11 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
 - ### Winners and Losers
     You can see at the top it says "This is the Seal Validation Period" (Seal Effective Period)
 
+    You cannot register at this time. It needs to be Competition Period.
+
     The **Dawn Faction**{style="color: #af5d5dff;"} has won, because they got the most points from Seal Stones and Festivals.
 
     If enough people voted for the Seals, they get to enjoy its' effects.
-
-    <hr class="divider">
 
     **Cabal:** **Dawn**{style="color: #af5d5dff;"}/**Dusk**{style="color:lightblue;"}  
     
@@ -133,6 +133,7 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
 
 - <figure markdown>
     [![7sscroll.png](https://i.postimg.cc/CK7TbVG5/7sscroll.png)](https://postimg.cc/hJX5q63R)
+    <figcaption>Seven Signs Scroll</figcaption>
     </figure>
 
 - ### Controlling the Seals
@@ -149,6 +150,7 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
 
 - <figure markdown>
     [![7spoints.png](https://i.postimg.cc/6Qtx7QGF/7spoints.png)](https://postimg.cc/K1qHwxf5)
+    <figcaption>Seven Signs Scroll</figcaption>
     </figure>
 
 
