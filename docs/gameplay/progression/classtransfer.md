@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # Class Transfers
 
-All of the Quests are set to Chronicle 4. If you are playing a different version, set it to the one you are playing on. **(WIP)**{style="color:red;"}
+The pages are google translated, so it can be off, but I think it's still understandable. Thank you **@Shuma**{style="color:white;"} for checking the links! **<3**{style="color:red;"}
 
 [![change-chronicle.gif](https://i.postimg.cc/prP4fjnD/change-chronicle.gif){.lightbox}](https://postimg.cc/Kks0FRfz)
 
