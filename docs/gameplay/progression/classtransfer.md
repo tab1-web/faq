@@ -117,7 +117,7 @@ All of the Quests are set to Chronicle 4. If you are playing a different version
 
 ### Wizards
 
-- [Human Wizard](https://lineage2wiki.org/c4/quest/404/path-to-a-human-wizard/) :material-arrow-right: [Spellsinger](/faq/classtransfers/spellsinger) :material-arrow-right: [Arcana Lord](https://lineage2wiki.org/c4/quest/91/succession-to-the-legend-arcana-lord/)
+- [Human Wizard](https://lineage2wiki.org/c4/quest/404/path-to-a-human-wizard/) :material-arrow-right: [Warlock](/faq/classtransfers/warlock) :material-arrow-right: [Arcana Lord](https://lineage2wiki.org/c4/quest/91/succession-to-the-legend-arcana-lord/)
 - [Human Wizard](https://lineage2wiki.org/c4/quest/404/path-to-a-human-wizard/) :material-arrow-right: [Sorcerer](/faq/classtransfers/sorcerer) :material-arrow-right: [Archmage](https://lineage2wiki.org/c4/quest/88/succession-to-the-legend-archmage/)
 - [Human Wizard](https://lineage2wiki.org/c4/quest/404/path-to-a-human-wizard/) :material-arrow-right: [Necromancer](/faq/classtransfers/necromancer) :material-arrow-right: [Soultaker](https://lineage2wiki.org/c4/quest/94/succession-to-the-legend-soultaker/)
 
