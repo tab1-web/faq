@@ -43,7 +43,7 @@ search:
 </tr>
 <tr>
 <td class="c slr bg1 clb" width="25"></td>
-<td class="j srr bg1 clb">We use <b>SoE.</b></td>
+<td class="j srr bg1 clb">We use <b>Scroll of Escape.</b></td>
 </tr>
 <tr>
 <td class="c slr clq3" width="25"><b>2</b></td>
@@ -63,7 +63,7 @@ search:
 </tr>
 <tr>
 <td class="c slr clb" width="25"></td>
-<td class="j srr clb">We use <b>SoE.</b></td>
+<td class="j srr clb">We use <b>Scroll of Escape.</b></td>
 </tr>
 <tr>
 <td class="c slr bg1 clq3" width="25"><b>5</b></td>
@@ -79,7 +79,7 @@ search:
 </tr>
 <tr>
 <td class="c slr clb" width="25"></td>
-<td class="j srr clb">We use <b>SoE.</b></td>
+<td class="j srr clb">We use <b>Scroll of Escape.</b></td>
 </tr>
 <tr>
 <td class="c slr bg1 clq2" width="25"><b>7</b></td>
@@ -119,7 +119,7 @@ search:
 </tr>
 <tr>
 <td class="c slr clb" width="25"></td>
-<td class="j srr clb">We use <b>SoE.</b> We are teleported to Gludio. We are teleported to Elf Village.</td>
+<td class="j srr clb">We use <b>Scroll of Escape.</b> We are teleported to Gludio. We are teleported to Elf Village.</td>
 </tr>
 <tr>
 <td class="c slr bg1 clq2" width="25"><b>13</b></td>
@@ -143,7 +143,7 @@ search:
 </tr>
 <tr>
 <td class="c slr clb" width="25"></td>
-<td class="j srr clb">We use <b>SoE.</b></td>
+<td class="j srr clb">We use <b>Scroll of Escape.</b></td>
 </tr>
 <tr>
 <td class="c slr bg1 clq2" width="25"><b>16</b></td>
@@ -187,7 +187,7 @@ search:
 </tr>
 <tr>
 <td class="c slr bg1 clb" width="25"></td>
-<td class="j srr bg1 clb">We use <b>SoE.</b> We are teleported to Gludio. We are teleported to Dion.</td>
+<td class="j srr bg1 clb">We use <b>Scroll of Escape.</b> We are teleported to Gludio. We are teleported to Dion.</td>
 </tr>
 <tr>
 <td class="c slr clq2" width="25"><b>22</b></td>
@@ -207,7 +207,7 @@ search:
 </tr>
 <tr>
 <td class="c slr clb" width="25"></td>
-<td class="j srr clb">We use <b>SoE.</b> We are teleported to Dion. We are teleported to Gludio. We are teleported to Gludin.</td>
+<td class="j srr clb">We use <b>Scroll of Escape.</b> We are teleported to Dion. We are teleported to Gludio. We are teleported to Gludin.</td>
 </tr>
 <tr>
 <td class="c slr bg1 clq3" width="25"><b>25</b></td>
@@ -251,7 +251,7 @@ search:
 </tr>
 <tr>
 <td class="c slr bg1 clb" width="25"></td>
-<td class="j srr bg1 clb">We use <b>SoE.</b> We are teleported to Gludio. Run to Cruma Tower</td>
+<td class="j srr bg1 clb">We use <b>Scroll of Escape.</b> We are teleported to Gludio. Run to Cruma Tower</td>
 </tr>
 <tr>
 <td class="c slr clq2" width="25"><b>31</b></td>
@@ -259,7 +259,7 @@ search:
 </tr>
 <tr>
 <td class="c slr bg1 clb" width="25"></td>
-<td class="j srr bg1 clb">We use <b>SoE.</b></td>
+<td class="j srr bg1 clb">We use <b>Scroll of Escape.</b></td>
 </tr>
 <tr>
 <td class="c slr clq1" width="25"><b>32</b></td>
@@ -283,7 +283,7 @@ search:
 </tr>
 <tr>
 <td class="c slr bg1 clb" width="25"></td>
-<td class="j srr bg1 clb">We use <b>SoE.</b> We are teleported to Dion.</td>
+<td class="j srr bg1 clb">We use <b>Scroll of Escape.</b> We are teleported to Dion.</td>
 </tr>
 <tr>
 <td class="c slr clq1" width="25"><b>35</b></td>
@@ -307,7 +307,7 @@ search:
 </tr>
 <tr>
 <td class="c slr bg1 clb" width="25"></td>
-<td class="j srr bg1 clb">We use <b>SoE.</b></td>
+<td class="j srr bg1 clb">We use <b>Scroll of Escape.</b></td>
 </tr>
 <tr>
 <td class="c slr clq1" width="25"><b>39</b></td>
@@ -339,7 +339,7 @@ search:
 </tr>
 <tr>
 <td class="c slr bg1 clb" width="25"></td>
-<td class="j srr bg1 clb">We use <b>SoE.</b></td>
+<td class="j srr bg1 clb">We use <b>Scroll of Escape.</b></td>
 </tr>
 <tr>
 <td class="c slr clq3" width="25"><b>43</b></td>
@@ -359,7 +359,7 @@ search:
 </tr>
 <tr>
 <td class="c slr clb" width="25"></td>
-<td class="j srr clb">We use <b>SoE.</b> We are teleporting to Oren.</td>
+<td class="j srr clb">We use <b>Scroll of Escape.</b> We are teleporting to Oren.</td>
 </tr>
 <tr>
 <td class="c slr bg1 clq3" width="25"><b>46</b></td>
@@ -387,7 +387,7 @@ search:
 </tr>
 <tr>
 <td class="c slr bg1 clb" width="25"></td>
-<td class="j srr bg1 clb">We use <b>SoE.</b></td>
+<td class="j srr bg1 clb">We use <b>Scroll of Escape.</b></td>
 </tr>
 <tr>
 <td class="c slr clq1" width="25"><b>51</b></td>
@@ -423,7 +423,7 @@ search:
 </tr>
 <tr>
 <td class="c slr clb" width="25"></td>
-<td class="j srr clb">We use <b>SoE.</b></td>
+<td class="j srr clb">We use <b>Scroll of Escape.</b></td>
 </tr>
 <tr>
 <td class="c slr bg1 clq2" width="25"><b>56</b></td>
@@ -467,7 +467,7 @@ search:
 </tr>
 <tr>
 <td class="c slr bg1 clb" width="25"></td>
-<td class="j srr bg1 clb">We use <b>SoE.</b> We are teleported to Gludio. We are teleported to Dwarf Village.</td>
+<td class="j srr bg1 clb">We use <b>Scroll of Escape.</b> We are teleported to Gludio. We are teleported to Dwarf Village.</td>
 </tr>
 <tr>
 <td class="c slr clq2" width="25"><b>62</b></td>
@@ -507,7 +507,7 @@ search:
 </tr>
 <tr>
 <td class="c slr bg1 clb" width="25"></td>
-<td class="j srr bg1 clb">We use <b>SoE.</b> We are teleporting to Oren.</td>
+<td class="j srr bg1 clb">We use <b>Scroll of Escape.</b> We are teleporting to Oren.</td>
 </tr>
 <tr>
 <td class="c slr clq2" width="25"><b>68</b></td>
@@ -523,7 +523,7 @@ search:
 </tr>
 <tr>
 <td class="c slr bg1 clb" width="25"></td>
-<td class="j srr bg1 clb">We use <b>SoE.</b></td>
+<td class="j srr bg1 clb">We use <b>Scroll of Escape.</b></td>
 </tr>
 <tr>
 <td class="c slr clq2" width="25"><b>70</b></td>
