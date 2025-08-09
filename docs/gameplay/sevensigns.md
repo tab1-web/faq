@@ -13,6 +13,8 @@ The Seven Seals hold the power of Shilen, the goddess of death. As these seals a
 
 Players join one of these factions to fight for control over the seals. The event repeats every two weeks, and the winning side can change the server's status.
 
+> **On Eternal**{style="color: #af5d5dff;"}: Monday 6 PM UTC until Friday 6 PM UTC is Competition Period <br> and from Friday 6 PM until Monday 6 PM is Seal Effective Period
+
 ## How to participate and Overview
 
 Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{style="color:lightblue;"} available in all Towns. (excluding Starter Villages)
