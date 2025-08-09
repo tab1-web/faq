@@ -50,7 +50,7 @@ h3 {
 Thank you <span class="vanitasss-gradient">@Vanitasss</span> for providing what has already been fixed during the OBT.
 Everything on this list is **fixed**{style="color:#28a745;"}.
 
-## OBT Fixed Issues 09/08/2025
+## Closed Issues - 09/08/2025
 
 - ### (FIXED) Soul Mark ID: 47976 is using silence atk/resistance on land rate chance
 - ### (FIXED) Tantar Crystals aren't dropped in the inventory
