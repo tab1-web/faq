@@ -143,7 +143,7 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
 
     This means if they win, then they can enjoy the effects of Avarice Seal.
 
-    Mostly people see the first open and just click that, but it can happen if not enough people **(10%+ atleast)** vote for Gnosis, 
+    Mostly people see the first option and just click that, but it can happen if not enough people **(10%+ atleast)** vote for Gnosis, 
     then they cannot go to Catacombs during Competition Period.
 
     Strife is not owned, because not enough people registered to Strife. **(35%+ needs atleast)**
