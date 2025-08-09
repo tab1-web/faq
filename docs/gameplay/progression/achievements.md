@@ -144,7 +144,7 @@ const achievements = [
     { id: 'dgrade', title: "Cover Me in D-Grade!", message: `Upgraded to D-Grade gear! Now you can handle tougher foes. How long did it take you to get them?` },
     { id: 'sgrade', title: "Cover Me in C-Grade!", message: `Some people say it's foolish to wear C-Grade even Lv70+, they just don't understand the C-Grade way of Life. Do you really need anything else? Warrior, you earned it. <br> <a href="https://postimg.cc/4nyJk2Qf"><img src="https://i.postimg.cc/SQ7j9wXM/cgrade.png"></img></a>` },
     { id: 'onemillion', title: "Acquire 1 Million Adena", message: `I bet the dwarves are drooling over this, don't let them have one penny! Hide it, quick!` },
-    { id: 'onebillion', title: "Acquire 1 Billion Adena", message: `What's the color of your Strider? Is it made out of Gold? <br> One of the most difficult achievements, congratulations!` },
+    { id: 'onebillion', title: "Acquire 1 Billion Adena", message: `What's the color of your Strider? Is it made out of Gold? <br> One of the most difficult achievements, congratulations! <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/GjazN63hMkA?si=bLmBMqXnFZd15mdz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>` },
 
     // PvE & Raids
     { id: 'firstraid', title: "First Raid Boss Kill", message: `You've tasted blood! Raid bosses will fear you now.` },
