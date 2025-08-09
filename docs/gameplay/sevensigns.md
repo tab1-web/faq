@@ -13,7 +13,7 @@ The Seven Seals hold the power of Shilen, the goddess of death. As these seals a
 
 Players join one of these factions to fight for control over the seals. The event repeats every two weeks, and the winning side can change the server's status.
 
-## How to Participate
+## How to participate and Overview
 
 Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{style="color:lightblue;"} available in all Towns. (excluding Starter Villages)
 
@@ -26,7 +26,7 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
     - Gnosis
     - Strife
 
-3. **Competition Period**{style="color:lightblue;"}:
+3. **During Competition Period**{style="color:lightblue;"} you can:
     - Hunt monsters in Catacombs/Necropolis to collect **Seal Stones**.
     - Participate in the **Festival of Darkness** (a dungeon challenge for parties).
 
