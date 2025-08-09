@@ -124,6 +124,9 @@ icon: material/sword
 
 
 ## Spending Priority
+
+>Get Shadow Weapons, Hunt with No-Grade until C Equipment
+
 1. **Weapons** (highest impact)  
 2. Armor/Gear  
 3. Dyes (Maria's Shop)  
@@ -148,20 +151,30 @@ Comfy way of finding Maria with a click of a Button.
 [Macro Tutorial](../gameplay/macro.md){ .md-button }
 </figure>
 
-## Catacombs / Necropolis levelling
+## Catacombs/Necropolis Leveling Guide (Newbie-Friendly)
 
-- Catacomb / Necropolis levelling is great: mobs are close, give a lot of EXP until 74-76-ish and a great source for making Adena. 
-- Make sure you register before hunting in these locations. Check [here](https://tab1-web.github.io/faq/eternal/general/#seven-sign-status) if you can register.
-    - At beginning of the dungeons, you can see an NPC named `Ziggurat` pick up both quests, and from the Dimensional Gate Keeper.
-    - [Ancient Scrolls can be exchanged to Blank Scrolls at Ziggurat](https://lineage2wiki.org/interlude/monster/31113/merchant-of-mammon/)
-    - [Dimensional Fragments](https://lineage2wiki.org/interlude/item/7079/dimensional-fragment/) are used for getting access to hunt monsters for Lifestones in [Hero Rift](https://lineage2wiki.org/c4/patch-notes/#dimensional_rift)
-    - Half of the monsters in each room in the dungeons give [:material-gold: Seal Stones](https://lineage2wiki.org/interlude/item/6362/red-seal-stone/), you can exchange these at at your Priest for [:material-gold: Ancient Adena](https://lineage2wiki.org/interlude/item/5575/ancient-adena/) these can be sold to Players or Exchanged for Strong Dyes along with Ancient Scrolls or buying [:material-gold: Gemstones](https://lineage2wiki.org/interlude/item/in-recipe/2134/gemstone-s/) for crafting. 
-- You can register at Priest of Dawn or Dusk in Giran.
-    - (Remember `/target Dawn` or `/target Dusk` to find them)
-    - Register for Dawn when castles are taken by Clans. (Castle Owners can only register to Dawn)
-    - Choosing a Seal (`e.g. Seal of Avarice`) does not *really* matter, choose either `Avarice or Gnosis`.
-- At higher catacombs expect competition, so either move or fight.
-- Merchant of Mammon and Blacksmith of Mammon can be found in Giran during Rewards week. Can be interacted with even if you didn't register.
+### **Why Hunt Here?**
+
+- High EXP until Lv74-76
+- Great Adena source
+- Dense mobs = efficient farming
+
+### **Must-Do First**
+
+1. Register with Priest of Dawn in Giran (`/target Dawn`) *(Mostly)*
+   - Choose any Seal (Avarice/Gnosis)
+2. Talk to Ziggurat and Statue NPCs at dungeon entrances for quests
+
+### **Loot to Know**
+
+- [:material-gold: Seal Stones](https://lineage2wiki.org/interlude/item/6362/red-seal-stone/) → Exchange for Ancient Adena at Priests
+- Ancient Scrolls → Trade to Ziggurat for Blank Scrolls
+- Dimensional Fragments → Used for Hero Rift later
+
+### **Tips**
+
+- Higher floors = more competition (be ready to fight or move)
+- Mammon merchants appear in Giran during Reward Week (anyone can use)
 
 <figure markdown>
 

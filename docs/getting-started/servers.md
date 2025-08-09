@@ -112,7 +112,7 @@ hide:
     <hr class="divider">
 
     <figure markdown="span">
-    [Class Balance](https://l2reborn.org/news/class-balance-v2-5/){ .md-button .lightbox }
+    [Class Balance](https://l2reborn.org/news/class-balance-v2-6/){ .md-button .lightbox }
     [Video](https://www.youtube.com/watch?v=w4JF9_zTO1o){ .md-button .lightbox }
 
     

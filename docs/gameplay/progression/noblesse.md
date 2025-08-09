@@ -27,7 +27,7 @@ icon: material/crown
 2. **Complete all Possessor of a Precious Soul quests.** (Parts I–IV)
 3. **Unlock**: Once done, you become Noblesse on both main and subclass.
 
-!!! tip ":material-crown: Noblesse Quests"
+!!! tip "Noblesse Quests"
     === "Part I"
         __Start NPC:__ Talien (Aden, Temple)
 

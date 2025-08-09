@@ -38,7 +38,7 @@ allowing you to switch classes.
 To unlock your subclass, complete the following quests
 
 
-!!! tip ":fontawesome-solid-scroll: Noblesse Quests"
+!!! tip "Noblesse Quests"
 
     === "**Fate's Whisper**"
         **Start NPC:** [[Maestro] Reorin](https://lineage2wiki.org/c4/monster/8002/reorin-maestro/)
