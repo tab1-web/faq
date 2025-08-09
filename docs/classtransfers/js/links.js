@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function extractBaseName(fullName) {
         const prefixes = ["Golden Wheel's","Silver Scale's","Bronze Ley's","Black Anvil's","Guild President","High Summoner","Priest of","Warehouse Keeper","Grand Magister","Astrologer","Duelist","Captain","Gray Pillar's","Magic Trader","Veteran","Saint","Cardinal" ,"Iron Gate's", 'Magister', 'Shadow', 'Trader', 'High Priest', 'Priest', 
-                          'Grand Master', 'Warehouse Chief', 'Researcher', 'Warder','Guard', 'Urutu', 'Neruga', 'Atuba', 'High Prefect','Vuku Chief', 'Turek Chief', 'Leunt Chief','Enku Chief', 'Breka Chief','Gandi Chief','ever-influenced', 'Summoner', "Bodyguard", 'Militaman', 'Prefect','Sagittarius', 'Hermit', 'Wanderer','Gauri', 'Ancestor', 'Father', 'Drunkard', 'Master', 'Tetrarch', 'Hierarch', 'Seer', 'Flame Lord',
+                          'Grand Master', 'Preacher', 'Warehouse Chief', 'Researcher', 'Warder','Guard', 'Urutu', 'Neruga', 'Atuba', 'High Prefect','Vuku Chief', 'Turek Chief', 'Leunt Chief','Enku Chief', 'Breka Chief','Gandi Chief','ever-influenced', 'Summoner', "Bodyguard", 'Militaman', 'Prefect','Sagittarius', 'Hermit', 'Wanderer','Gauri', 'Ancestor', 'Father', 'Drunkard', 'Master', 'Tetrarch', 'Hierarch', 'Seer', 'Flame Lord',
                           'Maestro', 'Blacksmith','Wiseman','Sir', 'Fisherman', 'Spirit of', 'Any'];
         
         let baseName = fullName;
