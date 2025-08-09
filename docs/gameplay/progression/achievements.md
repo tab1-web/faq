@@ -147,9 +147,9 @@ const achievements = [
     { id: 'onebillion', title: "Acquire 1 Billion Adena", message: `What's the color of your Strider? Is it made out of Gold? <br> One of the most difficult achievements, congratulations! <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/GjazN63hMkA?si=bLmBMqXnFZd15mdz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>` },
 
     // PvE & Raids
-    { id: 'firstraid', title: "First Raid Boss Kill", message: `You've tasted blood! Raid bosses will fear you now.` },
-    { id: 'antharas', title: "Slayer of Antharas", message: `The Land Dragon falls before you! A legendary feat.` },
-    { id: 'valakas', title: "Vanquisher of Valakas", message: `The Fire Dragon is no more. The world trembles at your might.` },
+    { id: 'firstraid', title: "First Raid Boss Kill", message: `You've tasted blood! Raid bosses will fear you now. I wonder how it went! Were there a lot of call outs, healers running out of mana, perhaps realizing too late that the boss does reflect damage? Hope you got some cool drops!` },
+    { id: 'antharas', title: "Slayer of Antharas", message: `The Land Dragon falls before you! A legendary feat. Was it ton of fun? I hope so!` },
+    { id: 'valakas', title: "Vanquisher of Valakas", message: `The Fire Dragon is no more. The world trembles at your might. Did your party get last hit for getting Valakas Slayer Circlet?` },
     { id: 'baium', title: "Baium's Bane", message: `You've defeated the fallen angel. Heaven and Hell know your name.` },
 
     // PvP & Sieges
