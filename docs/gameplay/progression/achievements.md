@@ -1,3 +1,7 @@
+---
+icon: material/medal
+---
+
 # My Achievement Tracker
 
 Track your progress and celebrate your accomplishments!
