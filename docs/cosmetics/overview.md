@@ -28,6 +28,14 @@ icon: octicons/info-16
         - Full donation description (*e.g., "Purchased Bounty Hunter items for character 'Bob'"*)
 
 
+## Where can you use Reborn Coins?
+
+- You can use them either on the [website](https://l2reborn.org/reborn-shop/) or in-game.
+
+<figure markdown>
+[![rebornshop.png](https://i.postimg.cc/jqMGWGwM/rebornshop.png)](https://postimg.cc/RqnPypTt)
+</figure>
+
 ## Common Mistakes
 - Incorrect server/character details → [open a support ticket.](https://l2reborn.org/support/)
 - Missing transaction info → delays in resolving issues.
