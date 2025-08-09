@@ -50,6 +50,59 @@ h3 {
 Thank you <span class="vanitasss-gradient">@Vanitasss</span> for providing what has already been fixed during the OBT.
 Everything on this list is **fixed**{style="color:#28a745;"}.
 
+## OBT Fixed Issues 09/08/2025
+
+- ### (FIXED) Soul Mark ID: 47976 is using silence atk/resistance on land rate chance
+- ### (FIXED) Tantar Crystals aren't dropped in the inventory
+- ### (FIXED) Titled mobs in Tower of Insolence are missing all skills  making them significantly weaker than common mobs
+- ### (FIXED) Titan's skills are unable to be buff stolen
+- ### (FIXED) Buff thief ID: 45390  Soul Steal ID: 1440 and Soul Snatch ID: 47980 heal HP when they steal healing buffs
+- ### (FIXED) Blazing beast ID: 47855 can be stolen and or cancelled
+- ### (FIXED) Shining Claidheam ID: 87718 when enchanted doesn't seem to gain any area of effect range as stated in the description
+- ### (FIXED) Multiple +10 item compounding failures results in one +0 item instead of one +10 item
+- ### (FIXED) 88084 Assassination buff from 87307 Assassination skill adds incorrect stat
+- ### (FIXED) OBT Compounding chances
+- ### (FIXED) Class Change from Warg returns incorrect number of spellbooks
+- ### (FIXED) Class change: Grand Khavatari - incorrect skill book refund.
+- ### (FIXED) [Bug] Greater upgrade stone/sealed/time limited-sealed
+- ### (FIXED) Immortality Weapon blessing does not grant bonus attribute attack
+- ### (FIXED) Divine Templar cannot heal himself without target.
+- ### (FIXED) Protection Helmet Bless missing spear resistance
+- ### (FIXED) Divine Templar healing skills cannot crit
+- ### (FIXED) Roar of Death ID: 45328 doesn't heal 55% HP at level 5
+- ### (FIXED) 93130 +7 Agathion Procella missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 93129 +7 Agathion Nebula missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 93128 +7 Agathion Ignis missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 93301 +7 Cloak of Protection missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 100547 +5/+6/+7 Heavenly Talisman missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 97559 +7 Blessed Talisman of Eva missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 92018 +7 Talisman of Eva missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 97558 +7 Blessed Talisman of Speed missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 92403 +7 Talisman of Speed missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 98610 +7 Blessed Talisman of Authority missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 91061 +7 Talisman of Aden missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 98709 +7 Blessed Talisman of Aden missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 91745 +7 Talisman of Aden missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 94621 +5/+6/+7 Blessed Dragon Belt missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 91862 +7 Dragon Belt missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 98205 +7 Blessed Circlet of Hero missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 98205 +6 Blessed Circlet of Hero has incorrect success chance to upgrade with 101531 Greater Upgrade Stone
+- ### (FIXED) 94166 +7 Circlet of Hero missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 102673 +7 Blessed Phantom Mask missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 100545 +7 Phantom Mask missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 102672 +7 Blessed Piecing Mask missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 102672 +6 Blessed Piercing Mask has incorrect success chance to upgrade with 101531 Greater Upgrade Stone
+- ### (FIXED) 97259 +7 Piecing Mask missing enchant option with 101531 Greater Upgrade Stone
+- ### (FIXED) 45439 Cacophony of War: Master adds less than expected Knockback Atk. Rate
+- ### (FIXED) Devastating Assault (88413) / Vortex of Claws has smaller aoe than in off.
+- ### (FIXED) Daily Mission 'Hunt in Transcendent Instance Zones' does not count all mobs for progression
+- ### (FIXED) 82293 Summon Elemental Unicorn does not give M. Skill Critical Rate +10%  Hold Atk. Rate +20%.
+- ### (FIXED) 88285 Over the Rainbow: Master (ID: 88285) can be used without Elemental Unicorn summoned.
+- ### (FIXED) 47912 Summon Elemental Cubic does not give 'Received damage from M. counterattack decrease +20%'.
+- ### (FIXED) 98782 Gran Kain's Pendant should add red glow animation on character around the chest area
+- ### (FIXED) 47491 Titanic Champion missing buff animation on character
+- ### (FIXED) Fox pet skill 'Charm' spams buff on reuse
+
 ## Closed Issues - 05/08/2025
 
 - ### (FIXED) 88034 Shillien's Curse - Dark Elves has no effect
