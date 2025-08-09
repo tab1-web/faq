@@ -40,7 +40,6 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
 - **First-class transfer completed**: Can join either faction freely.
 - **Second-class transfer completed**: Must follow faction rules:
     - Castle Owner Clans can only join Dawn.
-    - Must pay a fee of **50,000 Adena**{style="color:yellow"}
 
 ## Competition Details
 - **Duration**{style="color:lightblue;"}: 1 week (Monday 6:00 PM UTC + 0 to next Monday 6:00 PM UTC + 0).
