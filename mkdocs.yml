@@ -116,8 +116,8 @@ theme:
     - navigation.indexes
   palette:
     - scheme: slate
-      primary: orange
-      accent: deep orange
+      primary: indigo
+      accent: indigo
 
 markdown_extensions:
   - attr_list
