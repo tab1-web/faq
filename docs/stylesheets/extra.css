@@ -46,6 +46,10 @@
     border-bottom: 2px solid var(--md-primary-fg-color);
 }
 
+mark {
+    color:red !important;
+}
+
 .md-typeset h2 {
     background: linear-gradient(90deg, var(--md-primary-fg-color), transparent);
     color: white;
