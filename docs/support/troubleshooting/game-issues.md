@@ -45,7 +45,7 @@ icon: fontawesome/solid/gamepad
 
 ## Camera Sensitivity
 
-Fine-tune your DPI in your mouse software.
+Fine-tune your DPI in your mouse software and Windows' Mouse Setting.
 
 
 
