@@ -116,8 +116,8 @@ theme:
     - navigation.indexes
   palette:
     - scheme: slate
-      primary: deep purple
-      accent: deep purple
+      primary: orange
+      accent: deep orange
 
 markdown_extensions:
   - attr_list

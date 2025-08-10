@@ -46,13 +46,18 @@
     border-bottom: 2px solid var(--md-primary-fg-color);
 }
 
+.md-header, .md-tabs {
+    background-color: rgb(226, 133, 11);
+}
+
 mark {
     color:red !important;
 }
 
 .md-typeset h2 {
-    background: linear-gradient(90deg, var(--md-primary-fg-color), transparent);
-    color: white;
+    background: linear-gradient(90deg, rgb(226, 133, 11), transparent);
+    color: black;
+    font-weight: 400;
     padding: 0.75rem 1rem;
     border-radius: 0.25rem;
     margin: 2rem 0 1.5rem 0;
