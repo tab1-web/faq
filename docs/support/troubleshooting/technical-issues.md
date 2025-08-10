@@ -217,7 +217,7 @@ Antiviruses can disregard exceptions, uninstalling is recommended.
 
 
 ## 0xC0000005 / 0401 00000005
-Restart your computer.
+Restart your computer and/or delete `/system/` folder and run **Repair** in the Launcher.
 <figure markdown="span">
 <a href="https://postimg.cc/GHTQmBFB">
 ![Smartguard error 05](https://i.postimg.cc/tC2mDW7z/05.png){.lightbox width=90%  }
