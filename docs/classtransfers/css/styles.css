@@ -27,7 +27,7 @@ th {
 }
 
 tr:nth-child(2n) {
-  background-color: rgba(41, 41, 41, 1) !important;
+  background-color: rgba(41, 41, 41, 1);
 }
 
 tr:nth-child(2n+1) {
@@ -47,11 +47,11 @@ tr:nth-child(2n+1) {
 }
 
  .clq2, .q2 {
-  color: #73df7c !important;
+  color: #73df7c;
 }
 
 .clq3, .q3 {
-  color: #6cb1ff !important;
+  color: #6cb1ff;
 }
 
 .slr {
