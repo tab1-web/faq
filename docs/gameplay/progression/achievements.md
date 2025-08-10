@@ -136,21 +136,37 @@ const achievements = [
     { id: 'level5', title: "Reach Level 5", message: `Level 5.. Already?! Well done! Think about getting some No-Grade weapons and armors perhaps, they should be pretty cheap in the shops. Don't worry, you can upgrade them for Adena and best of all, becase you are upgrading: they are without taxes! <br>` },
     { id: 'level10', title: "Reach Level 10", message: `By now you have already learned a new skill, got some lucky drops, perhaps? Not sure, though I know for sure you reached level 10, cheers! :D` },
     { id: 'level20', title: "Reach Level 20", message: `Now you're getting serious! Time to upgrade to D-Grade gear` },
+    { id: 'level20', title: "Reach Level 30", message: `Soon you get to be Level 40 and do your major class transfer. Starting to regret your choice? Every class has its' pros and cons, there is no right answer, find your niche and hone it. But if you feel like you really don't like it, don't be afraid to restart. Later you do it, the worse it'll be.` },
     { id: 'level40', title: "Reach Level 40", message: `Halfway to greatness! C-Grade gear awaits, and the real challenges begin. Thought of joining a clan yet?` },
-    { id: 'level76', title: "Reach Level 76", message: `Welcome to the big leagues! Now you can truly compete in high-level PvP and raids.` },
+    { id: 'level50', title: "Reach Level 50", message: `The big Five-Zero! You're no longer a rookie - those C-Grade weapons should feel like extensions of your arms by now. Ever tried fishing? It's oddly relaxing between hunts.` },
+    { id: 'level60', title: "Reach Level 60", message: `Look at you, veteran! I knew you could do it. The levels start to get slower, but don't let it get to you.` },
+    { id: 'level70', title: "Reach Level 70", message: `70 winters have shaped you. Ivory Tower whispers of Subclasses and Noblesse vows, will you answer them?  ` },
+    { id: 'level76', title: "Reach Level 76", message: `Welcome to the big leagues! S-Grade whispers your name, but don't rush - some of the best memories happen in these final climbs. Have you done your Subclass quest? Levelled it to 75 for Noblesse? Or perhaps 3rd class?` },
+    { id: 'level78', title: "Reach Level 78", message: `You have unlocked most of your skills and slained even more enemies, Congratulations, this is a huge achievement!` },
+    { id: 'level80', title: "Reach Level 80", message: `Max level magic! Whether you're here for PvP glory or just to flex in Giran, take a moment to appreciate the journey. That 2003 release date? You're why it still lives. <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/UqyT8IEBkvY?si=W4OxwP1x7zL9Jtbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>` },
 
     // Gear & Wealth
     { id: 'nograde', title: "Cover Me in No-Grade!", message: `Someone is looking fancy!` },
     { id: 'dgrade', title: "Cover Me in D-Grade!", message: `Upgraded to D-Grade gear! Now you can handle tougher foes. How long did it take you to get them?` },
-    { id: 'sgrade', title: "Cover Me in C-Grade!", message: `Some people say it's foolish to wear C-Grade even Lv70+, they just don't understand the C-Grade way of Life. Do you really need anything else? Warrior, you earned it. <br> <a href="https://postimg.cc/4nyJk2Qf"><img src="https://i.postimg.cc/SQ7j9wXM/cgrade.png"></img></a>` },
+    { id: 'cgrade', title: "Cover Me in C-Grade!", message: `Some people say it's foolish to wear C-Grade even Lv70+, they just don't understand the C-Grade way of Life. Do you really need anything else? Warrior, you earned it. <br> <a href="https://postimg.cc/4nyJk2Qf"><img src="https://i.postimg.cc/SQ7j9wXM/cgrade.png"></img></a>` },
+    { id: 'bgrade', title: "Cover Me in B-Grade!", message: `Gears are starting to look more proper, unlike the pyjamas you have been wearing.` },
+    { id: 'agrade', title: "Cover Me in A-Grade!", message: `Crafting or getting A-Grade is not by any means easy, you pushed through it though and earned this achievement! Flex your gear in Giran!` },
+    { id: 'sgrade', title: "Cover Me in S-Grade!", message: `Whether clad in the Crusader's argent plate or the Arcana's celestial weave, true power needs no color, yet Draconic's crimson still stains the hands of those unworthy. You? You wear it as birthright.` },
     { id: 'onemillion', title: "Acquire 1 Million Adena", message: `I bet the dwarves are drooling over this, don't let them have one penny! Hide it, quick!` },
     { id: 'onebillion', title: "Acquire 1 Billion Adena", message: `What's the color of your Strider? Is it made out of Gold? <br> One of the most difficult achievements, congratulations! <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/GjazN63hMkA?si=bLmBMqXnFZd15mdz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>` },
 
     // PvE & Raids
     { id: 'firstraid', title: "First Raid Boss Kill", message: `You've tasted blood! Raid bosses will fear you now. I wonder how it went! Were there a lot of call outs, healers running out of mana, perhaps realizing too late that the boss does reflect damage? Hope you got some cool drops!` },
     { id: 'antharas', title: "Slayer of Antharas", message: `The Land Dragon falls before you! A legendary feat. Was it ton of fun? I hope so!` },
-    { id: 'valakas', title: "Vanquisher of Valakas", message: `The Fire Dragon is no more. The world trembles at your might. Did your party get last hit for getting Valakas Slayer Circlet?` },
-    { id: 'baium', title: "Baium's Bane", message: `You've defeated the fallen angel. Heaven and Hell know your name.` },
+    { id: 'valakas', title: "Slayer of Valakas", message: `The Fire Dragon is no more. The world trembles at your might. Did your party get last hit for getting Valakas Slayer Circlet?` },
+    { id: 'baium', title: "Slayer of Baium", message: `You've defeated the fallen angel. Heaven and Hell know your name.` },
+    { id: 'orfen', title: "Slayer of Orfen", message: `You defeated Orfen, the corrupted Arachne whose rage twisted her into a vengeful terror. Now her threads of madness weave no more.` },
+    { id: 'frintezza', title: "Slayer of Frintezza", message: `You vanquished Frintezza, the tragic ruler who sacrificed his humanity in a desperate pact with Halisha. The reign of Elmoreden's final emperor ends with you.` },
+    { id: 'zaken', title:"Slayer of Zaken", message: `You've put Zaken's tormented soul to rest. The cannons fall silent on Devil's Isle - his mutinous crew can finally stop walking the plank... for eternity.`},
+    { id: 'queenant', title:"Slayer of Queen Ant", message: `The Queen Ant's steel-carapace lies shattered. Her hive's chittering frenzy falls silent—no more eggs will hatch in the shadow of her jagged pincers.`},
+    { id: 'core', title:"Slayer of Core", message: `The last shuddering pulse of Core fades from Cruma's walls. Was it a failed experiment, a cursed guardian, or something older? All that remains is the echo of its minions collapsing—and your party's exhausted cheers.`},
+
+    
 
     // PvP & Sieges
     { id: 'firstkill', title: "First Player Kill", message: `The hunt begins. Your name spreads across the battlefield.` },
