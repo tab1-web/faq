@@ -2,8 +2,6 @@
 icon: material/monitor-arrow-down
 ---
 
-## General
-
 ## Ultimate Fix Summary 
 Try all steps, :white_check_mark: what you've tested, and share your results in [Discord](https://discord.com/invite/l2reborn) or [write a support ticket.](https://l2reborn.org/support/) :slight_smile: 
 
