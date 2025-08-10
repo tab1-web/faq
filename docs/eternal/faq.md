@@ -61,6 +61,23 @@ h2 {
 ### Does Noblesse take a buff slot?
 - **No**{style="color:red;"}, Noblesse does not take a buff slot
 
+## When are Olympiad Times on Eternal
+
+### **Period:**  
+
+- Monday to Friday, from 20:30 to 21:30, first cycle is on the [features page](https://l2reborn.org/eternal-interlude/full-description/).
+<ul>
+<li class="utc-time"></li>
+</ul>
+
+### **Limit of Combats:**  
+
+- 15 per day  
+
+### **Daily Mission:**  
+
+- Reward for participate in 10 combats (win or lose)
+
 ## 🧩 Gameplay Features
 
 ### Any offline shop infos?

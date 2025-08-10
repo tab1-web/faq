@@ -256,9 +256,9 @@ icon: material/clock-time-one-outline
   </div>
 
   <!-- First Cycle of Olympiad -->
-  <div class="md-typeset card countdown-card" data-target="2025-08-11T00:00:00Z">
+  <div class="md-typeset card countdown-card" data-target="2025-08-11T20:30:00Z">
     <h3>First Olympiad Cycle</h3>
-    <p><strong>Start Date:</strong> August 11th</p>
+    <p><strong>Start Date:</strong> August 11th 20:30 UTC</p>
     <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
   </div>
 

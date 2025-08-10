@@ -36,7 +36,7 @@
       showSeconds: false
     },
     {
-      selector: '[data-target="2025-08-11T00:00:00Z"] .countdown-display',
+      selector: '[data-target="2025-08-11T20:30:00Z"] .countdown-display',
       pastText: "FIRST CYCLE OF OLYMPIAD IS ON!",
       showSeconds: false
     },
