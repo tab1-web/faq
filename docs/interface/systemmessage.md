@@ -18,6 +18,8 @@ icon: material/message
 
 ## Colorful Chat Previews
 
+Thanks **@Ascy**{style="color:red;"} for the image
+
 <figure markdown>
 
 [![Previews](https://i.postimg.cc/g234jkf6/Y1-Vr-PZK-Imgur.png)](https://postimg.cc/RWVwb9CM)
