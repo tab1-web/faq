@@ -7,7 +7,7 @@ hide:
 <script src="/faq/signature/js/quest.js"></script>
 <link rel="stylesheet" href="/faq/signature/styles/style.css">
 
-Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{style="color:red;"}
+Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{style="color:red;"}, it focuses mostly on Repeatable Adena Quests as they are more important early on.
 
 <div class="quest-guide-controls">
     <div class="version-selector">
@@ -88,7 +88,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     </tr>
     <tr>
       <td>20</td>
-      <td><a style="color: rgb(33, 150, 243);" href="/faq/gameplay/progression/classtransfer">Class Change</a></td>
+      <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
     <tr>
@@ -113,7 +113,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     </tr>
     <tr>
       <td>40</td>
-      <td><a style="color: rgb(33, 150, 243);" href="/faq/gameplay/progression/classtransfer">Class Change</a></td>
+      <td>Class Change</td>
       <td>2nd Class Quests</td>
     </tr>
 
@@ -177,7 +177,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     <tr>
     <tr>
       <td>20</td>
-      <td><a style="color: rgb(33, 150, 243);" href="/faq/gameplay/progression/classtransfer">Class Change</a></td>
+      <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
     </tr>
@@ -198,7 +198,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     </tr>
     <tr>
       <td>40</td>
-      <td><a style="color: rgb(33, 150, 243);" href="/faq/gameplay/progression/classtransfer">Class Change</a></td>
+      <td>Class Change</td>
       <td>2nd Class Quests</td>
     </tr>
     </tbody>
@@ -260,7 +260,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     </tr>
         <tr>
       <td>20</td>
-      <td><a style="color: rgb(33, 150, 243);" href="/faq/gameplay/progression/classtransfer">Class Change</a></td>
+      <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
     <tr>
@@ -285,7 +285,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     </tr>
         <tr>
       <td>40</td>
-      <td><a style="color: rgb(33, 150, 243);" href="/faq/gameplay/progression/classtransfer">Class Change</a></td>
+      <td>Class Change</td>
       <td>2nd Class Quests</td>
     </tr>
     </tbody>
@@ -352,7 +352,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     </tr>
     <tr>
       <td>20</td>
-      <td><a style="color: rgb(33, 150, 243);" href="/faq/gameplay/progression/classtransfer">Class Change</a></td>
+      <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
     <tr>
@@ -372,7 +372,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     </tr>
         <tr>
       <td>40</td>
-      <td><a style="color: rgb(33, 150, 243);" href="/faq/gameplay/progression/classtransfer">Class Change</a></td>
+      <td>Class Change</td>
       <td>2nd Class Quests</td>
     </tr>
 
@@ -415,12 +415,12 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     </tr>
     <tr>
       <td>20</td>
-      <td><a style="color: rgb(33, 150, 243);" href="/faq/gameplay/progression/classtransfer">Class Change</a></td>
+      <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
     <tr>
       <td>40</td>
-      <td><a style="color: rgb(33, 150, 243);" href="/faq/gameplay/progression/classtransfer">Class Change</a></td>
+      <td>Class Change</td>
       <td>2nd Class Quests</td>
     </tr>
     </tbody>

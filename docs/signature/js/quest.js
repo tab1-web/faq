@@ -20,6 +20,13 @@ class QuestGuideController {
             'Class Change',
         ];
         
+        this.manualLinks = [
+            {
+                text: 'Class Change',
+                url: '/faq/gameplay/progression/classtransfer'
+            }
+        ];
+        
         this.init();
     }
 
@@ -151,10 +158,40 @@ class QuestGuideController {
         return `http://lineage2wiki.org/${this.currentVersion}/search/?q=${encodedQuery}`;
     }
 
+    isWikiSearchLink(link) {
+        return link.href && link.href.includes('lineage2wiki.org') && link.href.includes('/search/?q=');
+    }
+
+    isManualLink(link) {
+        return this.manualLinks.some(manualLink => 
+            link.textContent.trim() === manualLink.text && 
+            link.href.includes(manualLink.url)
+        );
+    }
+
+    createManualLink(actionCell, actionText) {
+        const manualLinkConfig = this.manualLinks.find(config => 
+            actionText.toLowerCase() === config.text.toLowerCase()
+        );
+        
+        if (manualLinkConfig) {
+            const link = document.createElement('a');
+            link.href = manualLinkConfig.url;
+            link.textContent = actionText;
+            link.style.color = '#2196F3';
+            link.style.textDecoration = 'underline';
+            link.title = manualLinkConfig.text;
+            
+            actionCell.innerHTML = '';
+            actionCell.appendChild(link);
+            return true;
+        }
+        return false;
+    }
+
     shouldCreateMultipleLinks(actionText) {
         const lowerActionText = actionText.toLowerCase();
         
-        // Don't split if it's in the noSplitExceptions
         for (const exception of this.noSplitExceptions) {
             if (lowerActionText === exception.toLowerCase()) {
                 return false;
@@ -243,6 +280,11 @@ class QuestGuideController {
                 if (!actionText) return;
                 
                 const lowerActionText = actionText.toLowerCase();
+                
+                if (this.createManualLink(actionCell, actionText)) {
+                    return;
+                }
+                
                 const shouldSkipLink = this.noLinkExceptions.some(exception => 
                     lowerActionText === exception.toLowerCase()
                 );
@@ -300,8 +342,12 @@ class QuestGuideController {
             bodyRows.forEach(row => {
                 const actionCell = row.querySelectorAll('td')[actionColumnIndex];
                 if (actionCell && actionCell.querySelector('a')) {
-                    const originalText = actionCell.querySelector('a').textContent;
-                    actionCell.textContent = originalText;
+                    const existingLink = actionCell.querySelector('a');
+                    
+                    if (this.isWikiSearchLink(existingLink) && !this.isManualLink(existingLink)) {
+                        const originalText = existingLink.textContent;
+                        actionCell.textContent = originalText;
+                    }
                 }
             });
         });
