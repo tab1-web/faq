@@ -105,6 +105,7 @@ icon: material/sword
 
 </figure>
 
+> Shadow Items are only for Shadow Weapons, there are no Shadow Armors
 
 ## Max Buff Slot Book Strategy
 

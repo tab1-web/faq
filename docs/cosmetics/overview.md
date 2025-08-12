@@ -31,6 +31,7 @@ icon: octicons/info-16
 ## Where can you use Reborn Coins?
 
 - You can use them either on the [website](https://l2reborn.org/reborn-shop/) or in-game.
+- Most of the skins are available __in-game__.
 
 <figure markdown>
 [![rebornshop.png](https://i.postimg.cc/jqMGWGwM/rebornshop.png)](https://postimg.cc/RqnPypTt)

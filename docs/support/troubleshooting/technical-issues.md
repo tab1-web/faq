@@ -115,7 +115,6 @@ Make sure that you are not on the correct Master Account.
 
 
 
-## SmartGuard fixes
 
 ## Invalid SafeAuth
 

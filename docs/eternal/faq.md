@@ -61,7 +61,7 @@ h2 {
 ### Does Noblesse take a buff slot?
 - **No**{style="color:red;"}, Noblesse does not take a buff slot
 
-## When are Olympiad Times on Eternal
+### When are Olympiad Times on Eternal
 
 ### **Period:**  
 
@@ -84,7 +84,7 @@ h2 {
 - Requirements: **Level 40**{style="color:red;"}
 - Stays for 2 days
 - You can have unlimited offline shops
-- Make sure to only have 1 offline shop per account
+- Make sure to only have 1 offline shop per account and not farming on the same
 - **Set up an offline shop** in a peace zone and **Exit the game**
 
 ### How to switch sets?
@@ -93,7 +93,7 @@ h2 {
 3. **Equip your desired armor set**
 4. **Click the plus icon** (+) to save the configuration
 
-## When is the Weekend Bonus, what are the bonuses?
+### When is the Weekend Bonus, what are the bonuses?
 - Both Main and Seasonal Servers get the Weekend Bonus
 - Weekend Bonus Events are always announced in [#eternal-il-news](https://discord.com/channels/622089207028121602/1091647392836767864)
 
