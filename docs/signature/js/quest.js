@@ -1,0 +1,315 @@
+class QuestGuideController {
+    constructor() {
+        this.currentLevel = '1-39';
+        this.currentRace = 'human';
+        this.currentVersion = 'c5';
+        
+        this.removeWordExceptions = [
+            'Farm Goblin',
+        ];
+        
+        this.noSplitExceptions = [
+        ];
+        
+        this.searchFirstPartExceptions = [
+            'jumble, tumble, diamond fuss',
+        ];
+        
+        this.noLinkExceptions = [
+            'Additional Note',
+            'Class Change',
+        ];
+        
+        this.init();
+    }
+
+    init() {
+        this.bindEvents();
+        this.updateDisplay();
+        this.addWikiSearchLinks();
+    }
+
+    bindEvents() {
+        document.querySelectorAll('[data-level]').forEach(button => {
+            button.addEventListener('click', (e) => {
+                this.handleLevelChange(e.target.dataset.level);
+            });
+        });
+
+        document.querySelectorAll('[data-race]').forEach(button => {
+            button.addEventListener('click', (e) => {
+                this.handleRaceChange(e.target.dataset.race);
+            });
+        });
+
+        document.querySelectorAll('[data-version]').forEach(button => {
+            button.addEventListener('click', (e) => {
+                this.handleVersionChange(e.target.dataset.version);
+            });
+        });
+    }
+
+    handleLevelChange(level) {
+        this.currentLevel = level;
+        
+        this.updateButtonStates('[data-level]', level);
+        
+        const raceSelector = document.querySelector('.race-selector');
+        if (level === '1-39') {
+            raceSelector.style.display = 'flex';
+            this.showRaceContent();
+        } else {
+            raceSelector.style.display = 'none';
+            this.hideAllRaceContent();
+        }
+    }
+
+    handleRaceChange(race) {
+        this.currentRace = race;
+        this.updateButtonStates('[data-race]', race);
+        this.showRaceContent();
+    }
+
+    handleVersionChange(version) {
+        this.currentVersion = version;
+        this.updateButtonStates('[data-version]', version);
+        console.log('Version changed to:', version);
+        
+        this.refreshWikiLinks();
+    }
+
+    updateButtonStates(selector, activeValue) {
+        document.querySelectorAll(selector).forEach(button => {
+            button.classList.remove('md-button--primary');
+            if (button.dataset.level === activeValue ||
+                button.dataset.race === activeValue ||
+                button.dataset.version === activeValue) {
+                button.classList.add('md-button--primary');
+            }
+        });
+    }
+
+    showRaceContent() {
+        this.hideAllRaceContent();
+        
+        const raceElement = document.getElementById(this.currentRace);
+        if (raceElement) {
+            raceElement.style.display = 'block';
+        }
+    }
+
+    hideAllRaceContent() {
+        document.querySelectorAll('.race-content').forEach(element => {
+            element.style.display = 'none';
+        });
+    }
+
+    updateDisplay() {
+        this.updateButtonStates('[data-level]', this.currentLevel);
+        this.updateButtonStates('[data-race]', this.currentRace);
+        this.updateButtonStates('[data-version]', this.currentVersion);
+        
+        if (this.currentLevel === '1-39') {
+            document.querySelector('.race-selector').style.display = 'flex';
+            this.showRaceContent();
+        }
+    }
+
+    processSearchQuery(actionText) {
+        const lowerActionText = actionText.toLowerCase();
+        
+        const beforeApostrophe = actionText.split("'")[0];
+        
+        for (const exception of this.removeWordExceptions) {
+            if (lowerActionText === exception.toLowerCase()) {
+                const words = beforeApostrophe.split(' ');
+                return words.slice(1).join(' ').trim();
+            }
+        }
+        
+        for (const exception of this.searchFirstPartExceptions) {
+            if (lowerActionText === exception.toLowerCase()) {
+                return beforeApostrophe.split(',')[0].trim();
+            }
+        }
+        
+        for (const exception of this.noSplitExceptions) {
+            if (lowerActionText === exception.toLowerCase()) {
+                return beforeApostrophe;
+            }
+        }
+        
+        if (beforeApostrophe.includes(',')) {
+            return beforeApostrophe.split(',')[0].trim();
+        }
+        
+        return beforeApostrophe;
+    }
+
+    generateWikiSearchURL(searchQuery) {
+        const encodedQuery = encodeURIComponent(searchQuery);
+        return `http://lineage2wiki.org/${this.currentVersion}/search/?q=${encodedQuery}`;
+    }
+
+    shouldCreateMultipleLinks(actionText) {
+        const lowerActionText = actionText.toLowerCase();
+        
+        // Don't split if it's in the noSplitExceptions
+        for (const exception of this.noSplitExceptions) {
+            if (lowerActionText === exception.toLowerCase()) {
+                return false;
+            }
+        }
+        
+        for (const exception of this.searchFirstPartExceptions) {
+            if (lowerActionText === exception.toLowerCase()) {
+                return false;
+            }
+        }
+        
+        if (actionText.includes(',')) {
+            const parts = actionText.split(',');
+            
+            if (parts.length >= 2 && parts.length <= 3) {
+                const allPartsLookLikeQuests = parts.every(part => {
+                    const trimmed = part.trim();
+                    return trimmed.split(' ').length >= 2; 
+                });
+                
+                if (allPartsLookLikeQuests) {
+                    return true;
+                }
+            }
+        }
+        
+        return false;
+    }
+
+    createMultipleLinks(actionCell, actionText) {
+        const parts = actionText.split(',');
+        actionCell.innerHTML = '';
+        
+        parts.forEach((part, index) => {
+            const trimmedPart = part.trim();
+            const searchQuery = this.processSearchQuery(trimmedPart);
+            const wikiURL = this.generateWikiSearchURL(searchQuery);
+            
+            const link = document.createElement('a');
+            link.href = wikiURL;
+            link.target = '_blank';
+            link.textContent = trimmedPart;
+            link.style.color = '#2196F3';
+            link.style.textDecoration = 'underline';
+            link.title = `Search wiki for: ${searchQuery}`;
+            
+            actionCell.appendChild(link);
+            
+            if (index < parts.length - 1) {
+                actionCell.appendChild(document.createElement('br'));
+            }
+        });
+    }
+
+    addWikiSearchLinks() {
+        document.querySelectorAll('table').forEach(table => {
+            let headerRow = table.querySelector('thead tr');
+            if (!headerRow) {
+                headerRow = table.querySelector('tr');
+            }
+            if (!headerRow) return;
+            
+            const headers = headerRow.querySelectorAll('th');
+            let actionColumnIndex = -1;
+            
+            headers.forEach((header, index) => {
+                if (header.textContent.trim().toLowerCase() === 'action') {
+                    actionColumnIndex = index;
+                }
+            });
+            
+            if (actionColumnIndex === -1) return;
+            
+            let bodyRows = table.querySelectorAll('tbody tr');
+            if (bodyRows.length === 0) {
+                const allRows = table.querySelectorAll('tr');
+                bodyRows = Array.from(allRows).slice(1); 
+            }
+            
+            bodyRows.forEach(row => {
+                const actionCell = row.querySelectorAll('td')[actionColumnIndex];
+                if (!actionCell) return;
+                
+                const actionText = actionCell.textContent.trim();
+                if (!actionText) return;
+                
+                const lowerActionText = actionText.toLowerCase();
+                const shouldSkipLink = this.noLinkExceptions.some(exception => 
+                    lowerActionText === exception.toLowerCase()
+                );
+                
+                if (shouldSkipLink) {
+                    return; 
+                }
+                
+                if (this.shouldCreateMultipleLinks(actionText)) {
+                    this.createMultipleLinks(actionCell, actionText);
+                } else {
+                    const searchQuery = this.processSearchQuery(actionText);
+                    const wikiURL = this.generateWikiSearchURL(searchQuery);
+                    
+                    const link = document.createElement('a');
+                    link.href = wikiURL;
+                    link.target = '_blank';
+                    link.textContent = actionText;
+                    link.style.color = '#2196F3';
+                    link.style.textDecoration = 'underline';
+                    link.title = `Search wiki for: ${searchQuery}`;
+                    
+                    actionCell.innerHTML = '';
+                    actionCell.appendChild(link);
+                }
+            });
+        });
+    }
+
+    refreshWikiLinks() {
+        document.querySelectorAll('table').forEach(table => {
+            let headerRow = table.querySelector('thead tr');
+            if (!headerRow) {
+                headerRow = table.querySelector('tr');
+            }
+            if (!headerRow) return;
+            
+            const headers = headerRow.querySelectorAll('th');
+            let actionColumnIndex = -1;
+            
+            headers.forEach((header, index) => {
+                if (header.textContent.trim().toLowerCase() === 'action') {
+                    actionColumnIndex = index;
+                }
+            });
+            
+            if (actionColumnIndex === -1) return;
+            
+            let bodyRows = table.querySelectorAll('tbody tr');
+            if (bodyRows.length === 0) {
+                const allRows = table.querySelectorAll('tr');
+                bodyRows = Array.from(allRows).slice(1);
+            }
+            
+            bodyRows.forEach(row => {
+                const actionCell = row.querySelectorAll('td')[actionColumnIndex];
+                if (actionCell && actionCell.querySelector('a')) {
+                    const originalText = actionCell.querySelector('a').textContent;
+                    actionCell.textContent = originalText;
+                }
+            });
+        });
+        
+        this.addWikiSearchLinks();
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    new QuestGuideController();
+});

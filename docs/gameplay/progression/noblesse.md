@@ -42,7 +42,8 @@ icon: material/crown
 
         [:octicons-arrow-right-24: Supplier of Reagents](https://lineage2wiki.com/c4/quest/373/supplier-of-reagents/)
 
-        > Demonic Essence is needed instead of Draconic Essence for Hellfire Oil
+        > Demonic Essence is needed instead of Draconic Essence for Hellfire Oil  
+        > **On Eternal**{style="color:red;"} you can skip the Mixing Process at [Maria](/faq/eternal/maria).
 
     === "Part II"
         __Start NPC:__ Master Virgil (Rune, Temple)

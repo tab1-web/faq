@@ -1,3 +1,8 @@
+---
+icon: material/clock-time-one-outline
+---
+
+
 <script>
 function updatePeriodDisplays() {
     const START_DATE = new Date('2024-11-04T18:00:00Z');
@@ -79,23 +84,35 @@ setInterval(updatePeriodDisplays, 60 * 1000);
 
 ## Quick Links
 
-<div class="grid cards" markdown>
-- <figure markdown>
-  [Features Info](https://l2reborn.org/news/reborn-signature-features/){ .md-button .lightbox }
-  </figure>
-
-- <figure markdown>
-  [PvP Video](https://youtu.be/5BNTfw2cDUs?si=gRY-ATlcqrXPLvel){ .md-button .lightbox }
-  </figure>
-
-- <figure markdown>
-  [Reborn News](https://l2reborn.org/latest-news/){ .md-button .lightbox }
-  </figure>
-
-- <figure markdown>
-  [Lineage2Wiki](https://lineage2wiki.org/c5/){ .md-button .lightbox }
-  </figure>
+<div class="button-grid">
+    <a href="https://l2reborn.org/news/reborn-signature-features/" class="md-button lightbox">Features</a>
+    <a href="https://youtu.be/5BNTfw2cDUs?si=gRY-ATlcqrXPLvel" class="md-button lightbox">PvP Video</a>
+    <a href="https://l2reborn.org/latest-news/" class="md-button lightbox">News</a>
+    <a href="https://lineage2wiki.org/c5/" class="md-button lightbox">Wiki</a>
 </div>
+
+<style>
+.button-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 0.5rem;
+    margin: 1rem 0;
+}
+
+.button-grid .md-button {
+    width: 100%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@media (max-width: 400px) {
+    .button-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+</style>
 
 
 ## Seven Signs Quick Info

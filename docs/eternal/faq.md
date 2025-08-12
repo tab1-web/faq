@@ -63,18 +63,18 @@ h2 {
 
 ### When are Olympiad Times on Eternal
 
-### **Period:**  
+#### **Period:**  
 
 - Monday to Friday, from 20:30 to 21:30, first cycle is on the [features page](https://l2reborn.org/eternal-interlude/full-description/).
 <ul>
 <li class="utc-time"></li>
 </ul>
 
-### **Limit of Combats:**  
+#### **Limit of Combats:**  
 
 - 15 per day  
 
-### **Daily Mission:**  
+#### **Daily Mission:**  
 
 - Reward for participate in 10 combats (win or lose)
 
@@ -110,14 +110,14 @@ h2 {
 - Yes, except for Soultaker.
 
 ### Clan System on Eternal
-#### Clan Structure
+#### **Clan Structure**
 - **Main Clan**: 40 members  
 - **Royal Subclans**: 2 subclans × 20 members (Total: 40)  
 - **Knight Subclans**: 4 subclans × 10 members (Total: 40)  
 
 > 40 + 40 + 40 = 120 members
 
-#### Subclan Requirements
+#### **Subclan Requirements**
 <figure markdown>
 | Type    | Unlock Level | Cost (Reputation) | Max Members |
 |---------|-------------|-------------------|-------------|
@@ -125,7 +125,7 @@ h2 {
 | Knight  | Level 7     | 10k each          | 10          |
 </figure>
 
-#### Clan Level Progression
+#### **Clan Level Progression**
 <figure markdown>
 | Level | Required Members | Required Reputation |
 |-------|------------------|---------------------|
@@ -167,7 +167,7 @@ h2 {
 - When you reach **Level 40**{style="color:red;"} and class change you are able to chat, it's to prevent people from advertising
 
 ### I can't see adena, drops, consumables, how to fix it?
-Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{style="color:yellow;"} in **Chat Common Options**
+- Enable **Consumables**{style="color:yellow;"} and **Standard System Message**{style="color:yellow;"} in **Chat Common Options**
 
 ### Why don't I see the drops / spoils?
 - Enable Consumables and Standard System Messages

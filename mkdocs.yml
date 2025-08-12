@@ -1,8 +1,10 @@
 site_name: Frequently Asked Questions
 site_url: https://tab1-web.github.io/faq/
+  
 extra_css:
   - stylesheets/extra.css
 use_directory_urls: true 
+
 extra:
   consent:
     title: Cookie consent
@@ -89,6 +91,7 @@ nav:
     - FAQ: eternal/faq.md
   - Signature:
     - General: signature/general.md
+    - Quest Guide: signature/quests.md
   - Essence:
     - OBT Fixes: essence/fixed_issues.md
 

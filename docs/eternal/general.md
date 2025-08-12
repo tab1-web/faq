@@ -187,23 +187,35 @@ icon: material/clock-time-one-outline
 
 ## Quick Links
 
-<div class="grid cards" markdown>
-- <figure markdown>
-  [Features Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button .lightbox }
-  </figure>
-
-- <figure markdown>
-  [Reborn Guide](https://l2reborn.org/news/adventure-guide/){ .md-button .lightbox }
-  </figure>
-
-- <figure markdown>
-  [PvP Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button .lightbox }
-  </figure>
-
-- <figure markdown>
-  [Reborn News](https://l2reborn.org/latest-news/){ .md-button .lightbox }
-  </figure>
+<div class="button-grid">
+    <a href="https://l2reborn.org/eternal-interlude/full-description/" class="md-button lightbox">Features</a>
+    <a href="https://www.youtube.com/watch?v=3xNf4zb5Jms" class="md-button lightbox">Video</a>
+    <a href="https://l2reborn.org/latest-news/" class="md-button lightbox">News</a>
+    <a href="https://l2reborn.org/news/adventure-guide/" class="md-button lightbox">Guide</a>
 </div>
+
+<style>
+.button-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 0.5rem;
+    margin: 1rem 0;
+}
+
+.button-grid .md-button {
+    width: 100%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@media (max-width: 400px) {
+    .button-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+</style>
 
 ## Time Tables
 <figure><h4 style="margin-top:10px;">Timers might change with new information being put out in 
