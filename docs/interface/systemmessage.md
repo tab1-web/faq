@@ -18,11 +18,12 @@ icon: material/message
 
 ## Colorful Chat Previews
 
-Thanks **@Ascy**{style="color:red;"} for the image
 
 <figure markdown>
 
-[![Previews](https://i.postimg.cc/g234jkf6/Y1-Vr-PZK-Imgur.png)](https://postimg.cc/RWVwb9CM)
+[![Y1-Vr-PZK-Imgur.png](https://i.postimg.cc/dtYMZ7W2/Y1-Vr-PZK-Imgur.png)](https://postimg.cc/hhpZHGRv)
+
+Thanks **@Ascy**{style="color:red;"} for the image
 
 </figure>
 
@@ -65,17 +66,19 @@ echo  2 - Xihpiro
 echo  3 - sepheriod
 echo  4 - Pharah
 echo  5 - johanmelv0gue
+echo  6 - Ascy
 echo.
-echo  6 - Exit
+echo  7 - Exit
 echo.
-set /p choice="Enter your choice (1-6): "
+set /p choice="Enter your choice (1-7): "
 
 if "%choice%"=="1" set "mod_name=volix" & goto install
 if "%choice%"=="2" set "mod_name=Xihpiro" & goto install
 if "%choice%"=="3" set "mod_name=sepheriod" & goto install
 if "%choice%"=="4" set "mod_name=Pharah" & goto install
 if "%choice%"=="5" set "mod_name=johanmelv0gue" & goto install
-if "%choice%"=="6" exit /b
+if "%choice%"=="6" set "mod_name=Ascy" & goto install
+if "%choice%"=="7" exit /b
 
 echo Invalid choice! Please try again.
 timeout /t 2 >nul
