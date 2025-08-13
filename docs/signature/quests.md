@@ -2,6 +2,8 @@
 icon: fontawesome/solid/scroll
 hide:
     - toc
+search:
+  exclude: true
 ---
 
 <script src="/faq/signature/js/quest.js"></script>

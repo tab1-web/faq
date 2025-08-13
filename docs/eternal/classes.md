@@ -1,5 +1,7 @@
 ---
 icon: octicons/people-16
+search:
+  exclude: true
 ---
 
 <style>

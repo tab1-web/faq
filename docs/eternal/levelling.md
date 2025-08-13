@@ -133,14 +133,6 @@ icon: material/sword
 3. Dyes (Maria's Shop)  
 
 
-
-## Progression Boosters
-- Vote for higher rates → [Voting Guide](../gameplay/progression/voting.md)  
-- Avoid pet leveling ( inefficient )  
-    - Buy **Strider** for mobility ( if you really need it )
-
-
-
 ## Maria Macro
 ```bash
 /target Maria  
@@ -415,60 +407,3 @@ Do [:fontawesome-solid-scroll: Noblesse Quest](../gameplay/progression/noblesse.
 For [:fontawesome-solid-scroll: Subclass Quests](../gameplay/progression/subclasses.md), you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon + B Grade Crystals, you can skip that part for later.
 
 For [:fontawesome-solid-scroll: Noblesse Quest](../gameplay/progression/noblesse.md) on Barakiel, you can earn fragments of the staff by hitting Barakiel once. Earn 15 fragments and turn it into the full Staff to progress the quest. Make sure to not die and be close to the boss. You don't have to be on your subclass, you can be on your main class.
-
-
-
-## 3rd Class Quests
-
-### Human Classes
-| 1st Class | 2nd Class | 3rd Class | Quest |
-|------------|-----------|-----------|-------|
-| **Knight** | Paladin | [Phoenix Knight](https://lineage2wiki.org/interlude/class/phoenix_knight/) | [Saga of the Phoenix Knight](https://lineage2wiki.org/interlude/quest/70/saga-of-the-phoenix-knight/) |
-| **Knight** | Dark Avenger | [Hell Knight](https://lineage2wiki.org/interlude/class/hell_knight/) | [Saga of the Hell Knight](https://lineage2wiki.org/interlude/quest/95/saga-of-the-hell-knight/) |
-| **Warrior** | Gladiator | [Duelist](https://lineage2wiki.org/interlude/class/duelist/) | [Saga of the Duelist](https://lineage2wiki.org/interlude/quest/73/saga-of-the-duelist/) |
-| **Warrior** | Warlord | [Dreadnought](https://lineage2wiki.org/interlude/class/dreadnought/) | [Saga of the Dreadnoughts](https://lineage2wiki.org/interlude/quest/74/saga-of-the-dreadnoughts/) |
-| **Rogue** | Treasure Hunter | [Adventurer](https://lineage2wiki.org/interlude/class/adventurer/) | [Saga of the Adventurer](https://lineage2wiki.org/interlude/quest/79/saga-of-the-adventurer/) |
-| **Rogue** | Hawkeye | [Sagittarius](https://lineage2wiki.org/interlude/class/sagittarius/) | [Saga of the Sagittarius](https://lineage2wiki.org/interlude/quest/82/saga-of-the-sagittarius/) |
-| **Cleric** | Bishop | [Cardinal](https://lineage2wiki.org/interlude/class/cardinal/) | [Saga of the Cardinal](https://lineage2wiki.org/interlude/quest/85/saga-of-the-cardinal/) |
-| **Cleric** | Prophet | [Hierophant](https://lineage2wiki.org/interlude/class/hierophant/) | [Saga of the Hierophant](https://lineage2wiki.org/interlude/quest/86/saga-of-the-hierophant/) |
-| **Wizard** | Sorcerer | [Archmage](https://lineage2wiki.org/interlude/class/archmage/) | [Saga of the Archmage](https://lineage2wiki.org/interlude/quest/88/saga-of-the-archmage/) |
-| **Wizard** | Warlock | [Arcana Lord](https://lineage2wiki.org/interlude/class/arcana_lord/) | [Saga of the Arcana Lord](https://lineage2wiki.org/interlude/quest/91/saga-of-the-arcana-lord/) |
-| **Wizard** | Necromancer | [Soultaker](https://lineage2wiki.org/interlude/class/soultaker/) | [Saga of the Soultaker](https://lineage2wiki.org/interlude/quest/94/saga-of-the-soultaker/) |
-
-
-### Elf Classes
-| 1st Class | 2nd Class | 3rd Class | Quest |
-|------------|-----------|-----------|-------|
-| **Elven Knight** | Temple Knight | [Eva's Templar](https://lineage2wiki.org/interlude/class/evas_templar/) | [Saga of Eva's Templar](https://lineage2wiki.org/interlude/quest/71/saga-of-evas-templar/) |
-| **Elven Knight** | Swordsinger | [Swordmuse](https://lineage2wiki.org/interlude/class/sword_muse/) | [Saga of the Sword Muse](https://lineage2wiki.org/interlude/quest/72/saga-of-the-sword-muse/) |
-| **Elven Scout** | Plains Walker | [Wind Rider](https://lineage2wiki.org/interlude/class/wind_rider/) | [Saga of the Wind Rider](https://lineage2wiki.org/interlude/quest/80/saga-of-the-wind-rider/) |
-| **Elven Scout** | Silver Ranger | [Moonlight Sentinel](https://lineage2wiki.org/interlude/class/moonlight_sentinel/) | [Saga of the Moonlight Sentinel](https://lineage2wiki.org/interlude/quest/83/saga-of-the-moonlight_sentinel/) |
-| **Elven Wizard** | Spellsinger | [Mystic Muse](https://lineage2wiki.org/interlude/class/mystic_muse/) | [Saga of the Mystic Muse](https://lineage2wiki.org/interlude/quest/89/saga-of-the-mystic-muse/) |
-| **Elven Wizard** | Elemental Summoner | [Elemental Master](https://lineage2wiki.org/interlude/class/elemental_master/) | [Saga of the Elemental Master](https://lineage2wiki.org/interlude/quest/92/saga-of-the-elemental_master/) |
-
-### Dark Elf Classes
-| 1st Class | 2nd Class | 3rd Class | Quest |
-|------------|-----------|-----------|-------|
-| **Assassin** | Abyss Walker | [Ghost Hunter](https://lineage2wiki.org/interlude/class/ghost_hunter/) | [Saga of the Ghost Hunter](https://lineage2wiki.org/interlude/quest/81/saga-of-the-ghost-hunter/) |
-| **Assassin** | Phantom Ranger | [Ghost Sentinel](https://lineage2wiki.org/interlude/class/ghost_sentinel/) | [Saga of the Ghost Sentinel](https://lineage2wiki.org/interlude/quest/84/saga-of-the-ghost-sentinel/) |
-| **Dark Wizard** | Spellhowler | [Storm Screamer](https://lineage2wiki.org/interlude/class/storm_screamer/) | [Saga of the Storm Screamer](https://lineage2wiki.org/interlude/quest/90/saga-of-the-storm-screamer/) |
-| **Dark Wizard** | Phantom Summoner | [Spectral Master](https://lineage2wiki.org/interlude/class/spectral_master/) | [Saga of the Spectral Master](https://lineage2wiki.org/interlude/quest/93/saga-of-the-spectral_master/) |
-| **Paulus** | Bladedancer | [Spectral Dancer](https://lineage2wiki.org/interlude/class/spectral_dancer/) | [Saga of the Spectral Dancer](https://lineage2wiki.org/interlude/quest/96/saga-of-the-spectral-dancer/) |
-| **Paulus** | Shillien Knight | [Shillien Templar](https://lineage2wiki.org/interlude/class/shillien_templar/) | [Saga of the Shillien Templar](https://lineage2wiki.org/interlude/quest/97/saga-of-the-shillien-templar/) |
-| **Shillien Oracle** | Shillien Elder | [Shillien Saint](https://lineage2wiki.org/interlude/class/shillien_saint/) | [Saga of the Shillien Saint](https://lineage2wiki.org/interlude/quest/98/saga-of-the-shillien-saint/) |
-
-### Orc Classes
-| 1st Class | 2nd Class | 3rd Class | Quest |
-|------------|-----------|-----------|-------|
-| **Orc Raider** | Destroyer | [Titan](https://lineage2wiki.org/interlude/class/titan/) | [Saga of the Titan](https://lineage2wiki.org/interlude/quest/75/saga-of-the-titan/) |
-| **Orc Monk** | Tyrant | [Grand Khavatari](https://lineage2wiki.org/interlude/class/grand_khavatari/) | [Saga of the Grand Khavatari](https://lineage2wiki.org/interlude/quest/76/saga-of-the-grand-khavatari/) |
-| **Orc Shaman** | Overlord | [Dominator](https://lineage2wiki.org/interlude/class/dominator/) | [Saga of the Dominator](https://lineage2wiki.org/interlude/quest/77/saga-of-the-dominator/) |
-| **Orc Shaman** | Warcryer | [Doomcryer](https://lineage2wiki.org/interlude/class/doomcryer/) | [Saga of the Doomcryer](https://lineage2wiki.org/interlude/quest/78/saga-of-the-doomcryer/) |
-
-### Dwarf Classes
-| 1st Class | 2nd Class | 3rd Class | Quest |
-|------------|-----------|-----------|-------|
-| **Scavenger** | Bounty Hunter | [Fortune Seeker](https://lineage2wiki.org/interlude/class/fortune_seeker/) | [Saga of the Fortune Seeker](https://lineage2wiki.org/interlude/quest/99/saga-of-the-fortune-seeker/) |
-| **Artisan** | Warsmith | [Maestro](https://lineage2wiki.org/interlude/class/maestro/) | [Saga of the Maestro](https://lineage2wiki.org/interlude/quest/100/saga-of-the-maestro/) |
-
-

@@ -9,7 +9,7 @@ icon: fontawesome/solid/scroll
 !!! tip "Read Carefully"
     These rules apply to **all L2Reborn servers**. 
     
-    Violations may lead to penalties including suspensions or bans.
+    Violations may lead to penalties including chat suspensions or bans.
 
 ### :material-robot-off-outline: **1. Botting**
 
@@ -42,7 +42,7 @@ icon: fontawesome/solid/scroll
 
 ### :material-currency-usd-off: **4. Real Money Trading (RMT)**
 
-Exchanging in-game items, services, characters, or accounts for **real money** is strictly **prohibited**.  
+- Exchanging in-game items, services, characters, or accounts for **real money** is strictly **prohibited**.  
 
 !!! warning
     You are not allowed to use **Reborn Coins** or **Suits/Skins/Cosmetics** either for any exchange.
@@ -116,25 +116,22 @@ Exchanging in-game items, services, characters, or accounts for **real money** i
 
 ### **1. Offline Farming**
 
-Offline farming is allowed via the in-game system. 
- 
-You **may not** open a second client to farm actively with another character at the same time.
+- Offline farming is allowed via the in-game system. 
+- You **may not** open a second client to farm actively with another character at the same time.
 
 
 
 ### **2. Mouse Macros**
 
-The use of mouse macro software is permitted despite the general prohibition in Rule 1.
-
-Use of generic auto-clickers or random macro software is not permitted.
+- The use of mouse macro software is permitted despite the general prohibition in Rule 1.
+- Use of generic auto-clickers or random macro software is not permitted.
 
 
 
 ### **3. Griefing is Prohibited**
 
-**Any actions considered "griefing" are not allowed (FOR ESSENCE SERVER ONLY)**{style="color:red;"} 
-
-See: [Changelog Essence-66](https://l2reborn.org/news/changelog-essence-66/) for more details.
+- **Any actions considered "griefing" are not allowed (FOR ESSENCE SERVER ONLY)**{style="color:red;"} 
+- See: [Changelog Essence-66](https://l2reborn.org/news/changelog-essence-66/) for more details.
 
 
 ## Resources

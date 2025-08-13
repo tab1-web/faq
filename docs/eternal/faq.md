@@ -9,7 +9,7 @@ h2 {
 }
 </style>
 
-# FAQ
+# Eternal FAQ
 
 ## ℹ️ Server Information
 

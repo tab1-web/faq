@@ -72,7 +72,7 @@ nav:
       - Out-of-Game Issues: support/troubleshooting/technical-issues.md
       - Account & Login Issues: support/login-issues.md
   - Eternal:
-    - General: eternal/general.md
+    - Eternal General: eternal/general.md
     - Maria: eternal/maria.md
     - Levelling: eternal/levelling.md
     - Classes: eternal/classes.md
@@ -84,9 +84,9 @@ nav:
     - Bosses: eternal/bosses.md
     - Advanced Find Store: eternal/storefind.md
     - Fortune Wheel: eternal/fortunewheel.md
-    - FAQ: eternal/faq.md
+    - Eternal FAQ: eternal/faq.md
   - Signature:
-    - General: signature/general.md
+    - Signature General: signature/general.md
     - Quest Guide: signature/quests.md
     - Cosmetic Preview:
       - signature/cosmetics/hats.md
