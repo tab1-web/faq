@@ -24,3 +24,24 @@ You can Freight Cloaks to another character in your in-game account.
 </a>
 
 </figure>
+
+## :material-glass-wine: 1 Year Package VIP Cloaks
+The Package includes:
+
+- **365 days VIP Rune**
+
+- a **Title Color** item that allows you to change your title color as many times as you want
+
+- an **Accessory Coupon** that you can exchange in Maria's shop for a hair accessory of your choice
+
+- and two Unique Cloak Skins, **Radiant Light** and **Cold Darkness**.
+
+**(Costs: 89 Balance)**
+
+<figure markdown="1">
+<a href="https://postimg.cc/jj88s9JG">
+![1 Year Package Cloaks](https://i.postimg.cc/jj88s9JG/ZX9IOLx.png){ width=500 .lightbox }
+</a>
+</figure>
+
+
