@@ -8,6 +8,8 @@ To turn off cosmetics: `.visualequip`
 
 To equip suits, you need to go to your **skills** (`ALT + K`) and **activate the toggle**.
 
+You can Freight Suits to another character in your in-game account.
+
 !!! warning
     They are cosmetics only, they do not provide any bonuses.
 

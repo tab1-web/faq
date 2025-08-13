@@ -8,6 +8,8 @@ To **turn off cloaks**: Go into **Gameplay Settings** and **Do not show cloaks**
 - All shown suits work with cloaks at the moment.
 - Cloaks might change hairstyle.
 
+You can Freight Cloaks to another character in your in-game account.
+
 !!! warning "Holy Spirit Cloak"
     - Holy Spirit is Green on Robe type armors.
     - Wearing a Costume makes it blue on Robe type.
