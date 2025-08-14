@@ -411,14 +411,44 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
       <td>Quest for weapon and shots</td>
     </tr>
     <tr>
-      <td>-</td>
+      <td>10</td>
       <td>Shield Skeleton</td>
       <td>Save SP for Spoil + Sweeper and go farm Shield Skeletons on Ruins of Despair for Animal Bones</td>
+    </tr>
+    <tr>
+    <td>-</td>
+    <td>Alternatives</td>
+    <td>If Shield Skeleton place is crowded, here are some other alternatives.</td>
+    </tr>
+    <tr>
+    <td>14</td>
+    <td>Goblin Brigand Leader</td>
+    <td>Varnish and Iron Ore spoil</td>
+    </tr>
+    <tr>
+    <td>14</td>
+    <td>Stone Soldier</td>
+    <td>Animal Bone & Charcoal Spoil</td>
+    </tr>
+    <tr>
+    <td>19</td>
+    <td>Ratman Warrior</td>
+    <td>Animal Bone Spoil</td>
     </tr>
     <tr>
       <td>20</td>
       <td>Class Change</td>
       <td>1st Class Quest</td>
+    </tr>
+    <tr>
+    <td>22</td>
+    <td>Monster Eye Searcher</td>
+    <td>Animal Bone & Suede Spoil</td>
+    </tr>
+    <tr>
+    <td>25</td>
+    <td>Enchanted Spine Golem</td>
+    <td>Animal Bone & Skin Spoil</td>
     </tr>
     <tr>
       <td>40</td>

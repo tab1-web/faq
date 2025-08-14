@@ -18,6 +18,7 @@ class QuestGuideController {
         this.noLinkExceptions = [
             'Additional Note',
             'Class Change',
+            'Alternatives',
         ];
         
         this.manualLinks = [
