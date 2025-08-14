@@ -78,7 +78,8 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
         - **Merchant of Mammon:**{style="color: #af5d5dff;"} Gemstones, Dyes, Enchants.
     - **Gnosis**: Access to Catacombs + Blacksmith of Mammon services 
         - **Blacksmith of Mammon:**{style="color:lightgreen;"} Upgrade/Exchange D-C Weapon, Duals, Apply A-S Special Abilities, Unseal A-S Equipment
-        - If it's an equal exchange of weapons, the enchanted items keep their enchants.
+        - If it's an equal exchange of weapons, the enchanted items keep their enchants. (Crystal Amount the same)
+            - Some weapons like Demon Fang **cannot be upgraded**{style="color:red;"} double check if it's upgradeable.
         - When you upgrade a weapon, it doesn't keep enchants. 
     - **Strife**: Siege advantages (Dawn: stronger defenses, Dusk: siege weapons).
 

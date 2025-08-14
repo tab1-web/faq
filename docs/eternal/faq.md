@@ -149,7 +149,7 @@ h2 {
 
 ### Can I exchange enchanted items at Blacksmith of Mammon?
 
-- If it's an equal exchange of weapons, the enchanted items keep their enchants.
+- If it's an equal exchange of weapons, the enchanted items keep their enchants. (Crystal Amount the same)
 - When you upgrade a weapon, it doesn't keep enchants. 
 
 ### Is it legal to trade Store Bought / Fortune Wheel skins for Items?
