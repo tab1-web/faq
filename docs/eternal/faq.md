@@ -1,6 +1,10 @@
 ---
 icon: material/frequently-asked-questions
 ---
+# FAQ - Eternal Server
+
+
+
 
 <style>
 h2 {
@@ -9,7 +13,6 @@ h2 {
 }
 </style>
 
-# Eternal FAQ
 
 ## ℹ️ Server Information
 
