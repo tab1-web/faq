@@ -147,6 +147,11 @@ h2 {
 
 ## 🤝 Items & Trading
 
+### Can I exchange enchanted items at Blacksmith of Mammon?
+
+- If it's an equal exchange of weapons, the enchanted items keep their enchants.
+- When you upgrade a weapon, it doesn't keep enchants. 
+
 ### Is it legal to trade Store Bought / Fortune Wheel skins for Items?
 - **No.**{style="color:red;"} Store bought items or items from the Fortune Wheel are not legal to trade
 - Anything that costs Coins or Real World Currency is illegal to trade with
