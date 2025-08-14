@@ -46,6 +46,7 @@ nav:
     - Macro: gameplay/macro.md
     - Abbrevations: gameplay/abbreviations.md
     - Donation: cosmetics/overview.md
+    - Manor: gameplay/manor.md
     - Tools:
       - L2Calc (Character): features/l2calcinterlude.md
       - L2Calc (Summons): features/l2calcsum.md
@@ -61,7 +62,6 @@ nav:
       - Shops: interface/shops.md
       - Colorful Chat: interface/systemmessage.md
       - Transferring Items: interface/transferring.md
-
   - Support:
     - Rules & Guidelines: support/rules.md
     - User Safety: support/user-safety.md
