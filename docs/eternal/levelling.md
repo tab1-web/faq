@@ -153,7 +153,7 @@ Comfy way of finding Maria with a click of a Button.
 - Dense mobs = efficient farming
 
 ### **Must-Do First**
-
+0. Check if you can register [at the Seven Signs Status](/faq/eternal/general/#seven-sign-status).
 1. Register with Priest of Dawn in Giran (`/target Dawn`) *(Mostly)*
    - Choose any Seal (Avarice/Gnosis)
 2. Talk to Ziggurat and Statue NPCs at dungeon entrances for quests
