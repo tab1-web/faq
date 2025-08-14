@@ -111,7 +111,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     <tr>
       <td>32</td>
       <td>Black Swan</td>
-      <td>Exchange Barrels for Stone of Purity</td>
+      <td>Check market for the Best Material Trade</td>
     </tr>
     <tr>
       <td>40</td>
@@ -196,7 +196,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     <tr>
       <td>32</td>
       <td>Black Swan</td>
-      <td>Exchange Barrels for Stone of Purity</td>
+      <td>Check market for the Best Material Trade</td>
     </tr>
     <tr>
       <td>40</td>
@@ -283,7 +283,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     <tr>
       <td>32</td>
       <td>Black Swan</td>
-      <td>Exchange Bills for Stone of Purity</td>
+      <td>Check market for the Best Material Trade</td>
     </tr>
         <tr>
       <td>40</td>
@@ -370,7 +370,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     <tr>
       <td>32</td>
       <td>Black Swan</td>
-      <td>Exchange Barrels for Stone of Purity</td>
+      <td>Check market for the Best Material Trade</td>
     </tr>
         <tr>
       <td>40</td>
@@ -412,7 +412,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     </tr>
     <tr>
       <td>-</td>
-      <td>Additional Note</td>
+      <td>Shield Skeleton</td>
       <td>Save SP for Spoil + Sweeper and go farm Shield Skeletons on Ruins of Despair for Animal Bones</td>
     </tr>
     <tr>
