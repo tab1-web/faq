@@ -230,7 +230,7 @@ Not available in C4 (comes in C5)
 - 9 members: +72%
 
 ### EXP Distribution
-No EXP when party members have 20+ level difference. Penalty scales with level gap.
+No EXP when party members have 20+ level difference.
 
 ## Quests
 
