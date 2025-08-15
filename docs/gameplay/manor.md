@@ -200,10 +200,18 @@ Manor is a farming system that lets ANY class (not just dwarves) get crafting ma
 - **IMPORTANT:** Use your Harvester tool immediately after the monster dies or you lose the fruits and Sweep after (if you are a Spoiler).
 - Seeds work like Spoil but can be used by any class
 
-### Step 3: Turn in Fruits
-- Bring fruits back to Manor Managers
-- Exchange them for crafting materials and resources
-- Different lords offer different prices and materials
+### Step 3: Selling Fruits
+1. **Where to Sell**:  
+
+    - Bring harvested fruits to any **Manor Manager**.  
+    - *Selling outside your current territory charges an extra fee*.  
+
+2. **Selling Process**:  
+
+    - Talk to the Manor Manager → Select *"Tally up the indigenous product."*  
+    - Double-click your fruit → Choose a **Territory buyer** (if none appear, stocks refresh at **20:06 UTC**).  
+    - Enter quantity → Click **OK** → Confirm **Sell**.  
+    - *Transaction fails if another player sells the same product first*.  
 
 ## The Economics Behind Manor
 
