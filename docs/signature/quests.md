@@ -66,7 +66,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
     <tr>
       <td>11</td>
       <td>Sword of Solidarity, Spirit of Mirrors</td>
-      <td>For weapon and beginner shots<br>*The boat isn't working, you need to swim towards Langk Lizardman Dwellings and SoE to Gludin</td>
+      <td>For weapon and beginner shots<br><strong>The boat isn't working</strong>, you need to swim towards Langk Lizardman Dwellings and SoE to Gludin</td>
     </tr>
     <tr>
       <td>11 (human fighter)</td>

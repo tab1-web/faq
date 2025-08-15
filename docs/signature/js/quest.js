@@ -243,7 +243,7 @@ class QuestGuideController {
             actionCell.appendChild(link);
             
             if (index < parts.length - 1) {
-                actionCell.appendChild(document.createElement('br'));
+                actionCell.appendChild(document.createTextNode(', '));
             }
         });
     }
@@ -315,6 +315,12 @@ class QuestGuideController {
         });
     }
 
+    storeOriginalContent(actionCell) {
+        if (!actionCell.dataset.originalContent) {
+            actionCell.dataset.originalContent = actionCell.textContent.trim();
+        }
+    }
+
     refreshWikiLinks() {
         document.querySelectorAll('table').forEach(table => {
             let headerRow = table.querySelector('thead tr');
@@ -343,11 +349,21 @@ class QuestGuideController {
             bodyRows.forEach(row => {
                 const actionCell = row.querySelectorAll('td')[actionColumnIndex];
                 if (actionCell && actionCell.querySelector('a')) {
-                    const existingLink = actionCell.querySelector('a');
+                    const existingLinks = actionCell.querySelectorAll('a');
                     
-                    if (this.isWikiSearchLink(existingLink) && !this.isManualLink(existingLink)) {
-                        const originalText = existingLink.textContent;
-                        actionCell.textContent = originalText;
+                    const hasWikiSearchLinks = Array.from(existingLinks).some(link => 
+                        this.isWikiSearchLink(link) && !this.isManualLink(link)
+                    );
+                    
+                    if (hasWikiSearchLinks) {
+                        if (!actionCell.dataset.originalContent) {
+                            this.storeOriginalContent(actionCell);
+                        }
+                        
+                        const originalText = actionCell.dataset.originalContent;
+                        if (originalText) {
+                            actionCell.textContent = originalText;
+                        }
                     }
                 }
             });
