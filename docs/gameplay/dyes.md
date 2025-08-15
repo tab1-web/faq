@@ -131,7 +131,7 @@ You can check below what dye combinations you can put on your character.
 
 <div class="grid cards" markdown>
 - ### __:material-flask:__{ .middle } How To apply & remove Dyes
-    Symbol Makers apply the dyes on you for a fee, they can be found in most **Magic Shops**.
+    Symbol Makers apply the dyes on you for a fee (needs 10 Dyes), they can be found in most **Magic Shops**.
 
     Adena Fee can be 149k to 258k for the better ones. 
     
