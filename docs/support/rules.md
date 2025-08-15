@@ -104,7 +104,7 @@ icon: fontawesome/solid/scroll
 
 ### :octicons-code-of-conduct-16: **10. Conduct**  
 
-- Use `/block PlayerName`. If harassment continues in public channels, submit a [support ticket](https://l2reborn.org/support/) with **dates and time-zone**.  
+- Use `/block PlayerName` if it was sent in Private Messages. If harassment continues in public channels, submit a [support ticket](https://l2reborn.org/support/) with **dates and time-zone**.  
 
 - **Do not provoke or harass others** - retaliatory reports with omitted context or false claims may result in punishment for **both parties**.  
 
