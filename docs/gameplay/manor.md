@@ -4,6 +4,8 @@ icon: material/seed
 
 # Manor System
 
+Thank you **@Shuma**{style="color:red;"} and **@Ascy**{style="color:red;"} for helping out on this page!
+
 ## Manor Tool
 
 <figure>
