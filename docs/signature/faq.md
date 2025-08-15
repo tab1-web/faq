@@ -14,6 +14,8 @@ Watch the C4 class guide video for help choosing
 
 </figure>
 
+[SPIN THE WHEEL L2 EDITION](https://wheelofnames.com/uyt-dh7) 
+
 <style>
 h4 {
     color: var(--md-accent-fg-color) !important;
