@@ -9,6 +9,7 @@ icon: fontawesome/solid/gamepad
     - Wait 3-5 minutes.
     - I fixed it one time for my friend by logging his character. 
     - If issue persists, [open a ticket](https://l2reborn.org/support/).
+    - Daily Server Restart at 8 am UTC helps too.
 
 <div class="grid cards" markdown>
 <figure markdown="1">
