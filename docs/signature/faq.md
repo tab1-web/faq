@@ -22,6 +22,9 @@ h4 {
 }
 </style>
 
+### Are there any shadow tickets / cat weapons / adventurer weapons?
+No, Shadow Weapons are Interlude, Adventurer Weapons are from an event which is not enabled.
+
 ### Newbie Buffs
 Available from the Newbie Guide NPC.
 
