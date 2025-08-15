@@ -183,8 +183,6 @@ Manor is a farming system that lets ANY class (not just dwarves) get crafting ma
 
 **Simple version:** You buy seeds → Plant them on monsters → Kill monsters → Harvest fruits → Trade fruits for materials
 
-**Complex reality:** Manor removes BILLIONS of adena from the server economy while redistributing monster drops in a controlled way.
-
 ## How Manor Works - The Basics
 
 ### Step 1: Buy Seeds
@@ -192,10 +190,12 @@ Manor is a farming system that lets ANY class (not just dwarves) get crafting ma
 - Buy seeds with adena
 - Each seed type can only be used on specific monster levels (check the seed description)
 
+> You can only use seeds for the territory you buy! <br> Tooltip of the seed says the territory and the monster level range you can sow. 
+
 ### Step 2: Plant and Harvest
 - Use seeds on monsters BEFORE or DURING combat (from inventory or hotbar)
 - Kill the monster
-- **IMPORTANT:** Use your Harvester tool immediately after the monster dies or you lose the fruits
+- **IMPORTANT:** Use your Harvester tool immediately after the monster dies or you lose the fruits and Sweep after (if you are a Spoiler).
 - Seeds work like Spoil but can be used by any class
 
 ### Step 3: Turn in Fruits
@@ -206,7 +206,7 @@ Manor is a farming system that lets ANY class (not just dwarves) get crafting ma
 ## The Economics Behind Manor
 
 ### Why Manor Removes Monster Drops
-When you use Manor seeds, the monster drops NOTHING except adena and your fruit harvest. This isn't a bug - it's intentional economic control.
+When you use Manor seeds, the monster drops NOTHING except adena and your fruit harvest. 
 
 **What happens to the lost drops?**
 The game calculates how much your drops would have been worth, then gives you fruits of equivalent value. So you're not losing out, just getting rewards in a different form.
@@ -223,8 +223,8 @@ This prevents lords from completely manipulating the market.
 
 ### How Lords Make Money
 1. **Seed Sales:** Lords buy seeds at fixed NPC prices, then sell to players at higher prices
-2. **Fruit Processing:** Lords can craft valuable items from ripe fruits in their castle
-3. **Economic Control:** Smart pricing can generate steady income
+2. **Fruit Processing:** ords can use Mature/Ripe Fruit with some adena to purchase D- to A-grade enchants and various consumables such as Crystals, Quick Healing Potions and Dualsword Crafting Stamp.
+3. Ripe fruits go to the clan warehouse of the castle-owning clan
 
 ### Daily Manor Cycle
 - **8:06 PM - 5:55 AM:** Lords can change seed/fruit prices
@@ -264,7 +264,7 @@ Selling fruits to a lord other than your current area's lord costs 5% tax. The r
 ### Maximizing Profit
 1. Check multiple castles for best seed prices
 2. Look for lords offering high fruit buyback prices
-3. Use online Manor calculators to optimize your resource chances
+3. Use Manor Calculators to optimize your resource chances
 4. Farm monsters at appropriate levels to avoid penalties
 
 ### Avoiding Losses
