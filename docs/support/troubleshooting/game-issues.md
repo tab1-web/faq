@@ -86,7 +86,7 @@ This happens when there is either an interruption in your connection and/or an i
 
 Add **Reborn files (l2.exe)** and **folders** are added as **exceptions/exclusions** in your [antivirus](https://youtu.be/1r93NtwZt4o) and [firewall settings](https://youtu.be/zijsJZionv0). 
 
-**Power-cycle your Modem/Router/Switch**. If that doesn't work: **Delete the System folder** & do **Client Repair**.
+**Power-cycle your Modem/Router/Switch** and **PC**. If that doesn't work: **Delete the System folder** & do **Client Repair**.
 
 <figure markdown="span">
 <a href="https://postimg.cc/14YQqDPB">
