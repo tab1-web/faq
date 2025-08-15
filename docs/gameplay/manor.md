@@ -236,7 +236,7 @@ This prevents lords from completely manipulating the market.
 
 ### What Happens to Your Fruits
 1. You sell fruits to Manor Manager
-2. At 8:00 PM, fruits "ripen" (90% survive, 10% disappear - this removes adena from economy)
+2. At 8:00 PM, fruits "ripen" (90% survive, 10% disappear)
 3. Ripe fruits go to castle storage for lord to use
 
 ## Advanced Mechanics You Should Know
@@ -282,7 +282,6 @@ If a fruit costs 100 adena but you want a resource worth 5700 adena, you need 57
 - Manor works for any class, not just dwarves
 - Seeds remove normal monster drops but give equivalent value in fruits
 - Castle lords control prices within set limits
-- System automatically removes adena from economy to control inflation
 - Territory restrictions and level penalties affect efficiency
 - Timing is crucial - harvest immediately and plan your fruit deliveries
 - Understanding the economics helps you make better farming decisions
