@@ -27,19 +27,21 @@ icon: fontawesome/solid/angles-up
 
 - Click the Life Stone or put the Life Stone on your hotbar to quickly augment your weapon without filtering system.
 
-
 ## Basics
-- **Eligible Weapons**: C-grade (Gemstone D) **|**{style="color:purple;"} B-grade (Gemstone D) **|**{style="color:purple;"} A/S-grade (Gemstone C)
-- **Materials**: Weapon + Life Stone (monster drops, better from raids) + Gemstones
+- **Eligible Weapons**: C-grade (needs Gemstone D) **|**{style="color:purple;"} B-grade (needs Gemstone D) **|**{style="color:purple;"} A/S-grade (needs Gemstone C)
+- **Materials needed**: Weapon + Life Stone (monster drops, better from raids) + Gemstones
 
 ## Bonus Types
-- **Stats**: STR/CON/INT/MEN, P.Atk/P.Def/etc.
+- **Stats**: They can be: STR/CON/INT/MEN, P.Atk/P.Def/etc.
 - **Skills**: Passive (always on) **|**{style="color:purple;"} Active (usable) **|**{style="color:purple;"} Chance (random proc)
     - [Wild Magic Example](https://lineage2wiki.org/interlude/skill/3142/item-skill-wild-magic/) 
+    - You can search for Augments when you type `Item Skill: `
 
 ## Important Notes
 - **Grades**: The grades don't have extra chance to give passive/active/chance skills. It's mainly for stats.
+    - <strong style="color:orange;">Normal, Mid, High, Top Life Stones have the same chance, they do not grant any extra chances for getting skills</strong>
 - **Chances of getting skills**: Chance of getting skills are skill dependant between: 0.5% - 1.5%
+    - It means that getting a specific Active or Passive is not dependant on Life Stone Grades.
 - **Restrictions**: No drop/trade/sell/freight/clan storage (private OK), removable
 - **Other**: Compatible with enchants, high-grade glows, adds name prefix
 - **Limitations**: No dual swords or Mammon trades
