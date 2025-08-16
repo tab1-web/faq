@@ -38,7 +38,7 @@ icon: fontawesome/solid/angles-up
     - You can search for Augments when you type `Item Skill: `
 
 ## Important Notes
-- **Grades**: The grades don't have extra chance to give passive/active/chance skills. It's mainly for stats.
+- **Grades**: The grades don't have extra chance to give passive/active/chance skills. It's mainly for better stats.
     - <strong style="color:orange;">Normal, Mid, High, Top Life Stones have the same chance, they do not grant any extra chances for getting skills</strong>
 - **Chances of getting skills**: Chance of getting skills are skill dependant between: 0.5% - 1.5%
     - It means that getting a specific Active or Passive is not dependant on Life Stone Grades.
