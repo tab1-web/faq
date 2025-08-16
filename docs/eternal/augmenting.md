@@ -42,6 +42,6 @@ icon: fontawesome/solid/angles-up
     - <strong style="color:orange;">Normal, Mid, High, Top Life Stones have the same chance, they do not grant any extra chances for getting skills</strong>
 - **Chances of getting skills**: Chance of getting skills are skill dependant between: 0.5% - 1.5%
     - It means that getting a specific Active or Passive is not dependant on Life Stone Grades.
-- **Restrictions**: No drop/trade/sell/freight/clan storage (private OK), removable
+- **Restrictions**: No drop/trade/sell/freight/clan storage (private OK), augment is removable
 - **Other**: Compatible with enchants, high-grade glows, adds name prefix
 - **Limitations**: No dual swords or Mammon trades
