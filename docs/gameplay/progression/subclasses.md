@@ -28,10 +28,6 @@ Subclasses are a major milestone in your character's progression. If you finish 
 you're eligible to unlock a new class on the same character that starts from level 40, 
 allowing you to switch classes.
 
-!!! tip "Quick Start"
-    Talk to the appropriate **Class Master** in your village to switch between your **main class** and any **subclass** you've unlocked.
-
----
 
 ## :fontawesome-solid-scroll: Quests
 
@@ -97,6 +93,10 @@ To unlock your subclass, complete the following quests
 
 !!! note 
     Weight penalties still apply, and you may become **overloaded** after switching classes.
+
+    To switch subclasses, speak to the appropriate Master of that class found in Towns.
+
+    > On **Eternal**{style="color:red;"} you can speak to Maria to switch classes.
 
 ---
 
