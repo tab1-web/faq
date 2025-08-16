@@ -1,0 +1,70 @@
+.md-button {
+    background: var(--md-default-bg-color, #fff);
+    color: var(--md-primary-fg-color, #1976d2) !important;
+    padding: 0.4em 0.8em;
+    border: .1rem none !important;
+    border-radius: 0.5rem !important;
+    cursor: pointer;
+    font-weight: 500;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0.1rem;
+    transition: all 0.2s ease;
+    font-size: 0.7rem;
+    line-height: 1.4;
+    box-shadow: none !important;
+}
+.md-button--primary {
+    background: var(--md-primary-fg-color, #1976d2) !important;
+    color: white !important;
+    border-color: var(--md-primary-fg-color, #1976d2) !important;
+    font-weight: 600;
+}
+.race-selector .md-button:not(.md-button--primary),
+.version-selector .md-button:not(.md-button--primary) {
+    border: 1px solid transparent !important;
+}
+.quest-guide-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: var(--md-default-bg-color, #fff);
+    border: 1px solid var(--md-default-fg-color--lightest, #ddd);
+    border-radius: 0.5rem;
+    align-items: center;
+}
+.race-selector, .version-selector, .level-selector {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    flex-wrap: wrap;
+    font-size: 0.8rem;
+}
+.version-selector span, .level-selector span, .race-selector span {
+    font-weight: 600;
+    margin-right: 0.25rem;
+    color: var(--md-default-fg-color, #333);
+    font-size: 0.8rem;
+}
+.control-title {
+    font-weight: bold;
+}
+
+.race-selector {
+    display: none;
+}
+
+.race-content {
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 1px solid var(--md-default-fg-color--lightest, #ddd);
+    border-radius: 0.5rem;
+    background: var(--md-default-bg-color, #fff);
+}
+
+.race-content h3 {
+    margin-top: 0;
+    color: var(--md-primary-fg-color, #1976d2);
+}
