@@ -1,0 +1,46 @@
+## Experimentarium #001 - Triple Shot Cooldown Reduction
+
+### About the test
+Given the numerous fake news regarding cooldown breakpoints, I've decided to test it properly and check what values of Cooldown Reduction stat affect the speed of casting Triple Shot skill.
+
+### Conclusions
+**The most important CDR breakpoint is between -50.33% and -51.33%.** 
+There are some smaller gains in two other steps:
+- between -48.07% and -50.33%
+- between -52.33% and -52.99%
+
+### Methodology
+5 minutes each test, autohunt on, single target, attacks are counted by number of soulshots consumed. Since base Triple Shot outputs three shots, three soulshots are consumed per attack.
+
+Cooldown Reduction was controlled by modifying enchant levels of various items:
+- Venir's Talisman
+- Talisman of Baium
+- Boots of Evasion
+- Frintezza's Necklace
+- Beleth's Ring
+
+### Results
+
+| CDR | Shots | Attacks | Cast Time |
+|-----:|---:|---:|---:|
+| -43.85% | 1157 | 385 | 779ms |
+|-44.90% | 1157 | 385 | 779ms |
+|-48.07% | 1157 | 385 | 779ms |
+|-50.33% | 1200 | 400 | 750ms |
+|-51.33% | 1527 | 509 | 589ms |
+|-52.33% | 1527 | 509 | 589ms |
+|-52.99% | 1593 | 531 | 564ms |
+|-53.47% | 1593 | 531 | 564ms |
+|-54.39% | 1593 | 531 | 564ms |
+|-56.38% | 1593 | 531 | 564ms |
+|-58.18% | 1593 | 531 | 564ms |
+|-59.08% | 1593 | 531 | 564ms |
+|-60.43% | 1593 | 531 | 564ms |
+|-64.38% | 1593 | 531 | 564ms |
+|-67.52% | 1593 | 531 | 564ms |
+
+!!! note
+    This may look like building above 53% CDR is worthless - this is true for Triple Shot, however other skills with longer cooldowns still benefit from larger CDR stat.
+
+
+
