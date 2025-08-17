@@ -64,22 +64,45 @@ actions in or out of the game.
         - Recover lost epic/high-value items  
 
 ## Captcha System
+
+Automatic-captchas trigger randomly when receiving **EXP/SP/Adena** or being **buffed/healed/recharged** by other players. Manual captchas are sent by GMs during investigations. Encountering captchas during gameplay is completely normal.
+
+You should **relog** when you know that you need to be AFK for a while.
+
+### Types of Captchas
+- **Letter Captcha:** 
+    - Hit the Correct Letter 3 times consecutively.
+- **Anti-bot Captcha:**
+    - Short Math: Read the menu and do as it says.
+
+Both Captchas matter, though if you dismiss the Anti-bot Captcha too quickly by accidentally pressing `Enter`, no need to worry. 
+
+Whenever you get a Captcha **focus on Solving your own Captcha in party**{style="color:orange;"}. **Do not Trade**{style="color:orange;"} when Captcha appears, it will show Error until you close the **Trade Window**{style="color:orange;"}.
+
+### One Person = One Character
+You can only have ONE character logged in per person, no multiple characters or accounts. `"I was on another screen"` is NOT a valid excuse for failing Captchas.  
+
+**Multiple people**{style="color:orange;"} on the **same network**{style="color:orange;"} is fine as long as **each person controls only one character and they can solve captchas simultaneously**{style="color:orange;"}.
+
+
+### What gets you banned
+- Illegal software (automatic ban)
+- **Always** being AFK when captcha appears
+- Consistently failing manual follow-ups after investigation.
+
+Auto-captcha fails won't ban you automatically, they alert staff for investigation. Occasional misses due to real-life interruptions are understood and expected.
+
 <div class="grid cards" markdown>
 
-- During gameplay you will encounter Captchas:
-
-    - **"Letter"** captcha (hit 3 letters correct consecutively)
-    - **"Anti-bot"** captcha (small math by addition)
-
-    It's **normal** that you encounter them, GMs use these **tools** to uphold **fair play**.
-
-    **Automatic captchas on fail don't ban**, all bans are done manually.
+- <figure markdown="span">
+    [![WcgMVnK.png](https://i.postimg.cc/T1xZ5dc9/WcgMVnK.png)](https://postimg.cc/wyWWSdZy)
+    </figure>
 
 - <figure markdown="span">
-<a href="https://postimg.cc/wyWWSdZy">
-![Captcha Concerns](https://i.postimg.cc/T1xZ5dc9/WcgMVnK.png){.ligtbox }
-</a>
-</figure>
+    [![Screenshot-2025-08-16-195155.png](https://i.postimg.cc/GpdS3TB3/Screenshot-2025-08-16-195155.png)](https://postimg.cc/187KJtcb)
+    <figcaption>Example of Letter Captcha</figcaption>
+    </figure>
+
 </div>
 
 ## Summary
@@ -88,23 +111,17 @@ actions in or out of the game.
 - No one, not friends or staff, needs your password.
 - Stay skeptical, if something feels off, it probably is.
 
-<hr class="divider">
-
 <div class="grid cards" markdown>
 
-<figure markdown="span">
-    <a href="https://postimg.cc/KvPHW2Wq">
-        ![Staff Impersonators](https://i.postimg.cc/KvPHW2Wq/fakeimpersonators-1.png){ .lightbox }
-    </a>
-<figcaption>Staff Impersonators</figcaption>
-</figure>
+- <figure markdown>
+    [![fakeimpersonators-1.png](https://i.postimg.cc/KvPHW2Wq/fakeimpersonators-1.png)](https://postimg.cc/dL067zwr)
+    <figcaption>Staff Impersonators</figcaption>
+    </figure>
 
-<figure markdown="span">
-    <a href="https://postimg.cc/fScz8JTH">
-        ![Password Cracking Times](https://i.postimg.cc/vTj4HnRd/redreader-dl-363029.png){ .lightbox }
-    </a>
-<figcaption>Password Cracking Times</figcaption>
-</figure>
+- <figure markdown>
+    [![redreader-dl-363029.png](https://i.postimg.cc/vTj4HnRd/redreader-dl-363029.png)](https://postimg.cc/fScz8JTH)
+    <figcaption>Password Cracking Times</figcaption>
+    </figure>
 
 </div>
 

@@ -3,6 +3,7 @@ class QuestGuideController {
         this.currentLevel = '1-39';
         this.currentRace = 'human';
         this.currentVersion = 'c5';
+        this.currentContentType = 'hunting-zones';
         
         this.removeWordExceptions = [
             'Farm Goblin',
@@ -12,7 +13,7 @@ class QuestGuideController {
         ];
         
         this.searchFirstPartExceptions = [
-            'jumble, tumble, diamond fuss',
+            'jumble, tumble, diamond fuss', 'Whisper of Dreams, Part 1' , 'Exploration of Giants Cave, Part 2', '1000 Years, the End of Lamentation', 'Exploration of Giants Cave, Part 1'
         ];
         
         this.noLinkExceptions = [
@@ -55,6 +56,12 @@ class QuestGuideController {
                 this.handleVersionChange(e.target.dataset.version);
             });
         });
+
+        document.querySelectorAll('[data-content-type]').forEach(button => {
+            button.addEventListener('click', (e) => {
+                this.handleContentTypeChange(e.target.dataset.contentType);
+            });
+        });
     }
 
     handleLevelChange(level) {
@@ -63,12 +70,18 @@ class QuestGuideController {
         this.updateButtonStates('[data-level]', level);
         
         const raceSelector = document.querySelector('.race-selector');
+        const contentTypeSelector = document.querySelector('.content-type-selector');
+        
         if (level === '1-39') {
-            raceSelector.style.display = 'flex';
+            raceSelector.classList.add('active');
+            contentTypeSelector.classList.remove('active');
             this.showRaceContent();
+            this.hideAllContentTypeContent();
         } else {
-            raceSelector.style.display = 'none';
+            raceSelector.classList.remove('active');
+            contentTypeSelector.classList.add('active');
             this.hideAllRaceContent();
+            this.showContentTypeContent();
         }
     }
 
@@ -86,12 +99,19 @@ class QuestGuideController {
         this.refreshWikiLinks();
     }
 
+    handleContentTypeChange(contentType) {
+        this.currentContentType = contentType;
+        this.updateButtonStates('[data-content-type]', contentType);
+        this.showContentTypeContent();
+    }
+
     updateButtonStates(selector, activeValue) {
         document.querySelectorAll(selector).forEach(button => {
             button.classList.remove('md-button--primary');
             if (button.dataset.level === activeValue ||
                 button.dataset.race === activeValue ||
-                button.dataset.version === activeValue) {
+                button.dataset.version === activeValue ||
+                button.dataset.contentType === activeValue) {
                 button.classList.add('md-button--primary');
             }
         });
@@ -112,14 +132,40 @@ class QuestGuideController {
         });
     }
 
+    showContentTypeContent() {
+        this.hideAllContentTypeContent();
+        
+        const contentElement = document.getElementById(`${this.currentLevel}-${this.currentContentType}`);
+        if (contentElement) {
+            contentElement.style.display = 'block';
+        }
+    }
+
+    hideAllContentTypeContent() {
+        document.querySelectorAll('.content-type-section').forEach(element => {
+            element.style.display = 'none';
+        });
+    }
+
     updateDisplay() {
         this.updateButtonStates('[data-level]', this.currentLevel);
         this.updateButtonStates('[data-race]', this.currentRace);
         this.updateButtonStates('[data-version]', this.currentVersion);
+        this.updateButtonStates('[data-content-type]', this.currentContentType);
+        
+        const raceSelector = document.querySelector('.race-selector');
+        const contentTypeSelector = document.querySelector('.content-type-selector');
         
         if (this.currentLevel === '1-39') {
-            document.querySelector('.race-selector').style.display = 'flex';
+            raceSelector.classList.add('active');
+            contentTypeSelector.classList.remove('active');
             this.showRaceContent();
+            this.hideAllContentTypeContent();
+        } else {
+            raceSelector.classList.remove('active');
+            contentTypeSelector.classList.add('active');
+            this.hideAllRaceContent();
+            this.showContentTypeContent();
         }
     }
 
@@ -208,7 +254,7 @@ class QuestGuideController {
         if (actionText.includes(',')) {
             const parts = actionText.split(',');
             
-            if (parts.length >= 2 && parts.length <= 3) {
+            if (parts.length >= 2) {
                 const allPartsLookLikeQuests = parts.every(part => {
                     const trimmed = part.trim();
                     return trimmed.split(' ').length >= 2; 
