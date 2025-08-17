@@ -1,5 +1,9 @@
 img {
     width: 50% !important;
+    display: block !important;
+    margin: 0 auto 1.5rem !important;
+    border-radius: 4px !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15) !important;
 }
 
 .md-typeset td {
@@ -22,6 +26,11 @@ img {
     padding: 0.5em 1em !important;
 }
 
-.md-typeset tr:nth-child(even) {
-    background-color: rgba(0,0,0,0.02) !important;
+
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.103) !important;
+  box-shadow: 0 .05rem 0 var(--md-default-bg-color) inset !important;
+  transition: background-color 0.15s ease !important;
 }
+
+
