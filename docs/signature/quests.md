@@ -10,11 +10,13 @@ search:
 <script src="/faq/signature/js/quest.js"></script>
 <link rel="stylesheet" href="/faq/signature/styles/style.css">
 
-Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{style="color:red;"}, it focuses mostly on Repeatable Adena Quests as they are more important early on.
+## Credits
+Thank you <span style="color:white;">@Shuma</span> for the Lv1-40 Guide (Mostly Repeatable Adena Quests as they are more important)! <span style="color:red;">❤</span><br>
+Thank you <span style="color:white;">@Gloto</span> for Quest Guides! <span style="color:red;">❤</span><br>
+Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span style="color:red;">❤</span> [Aynix's Discord Server](https://discord.gg/Rcqv9UMb82)<br>
+> <strong>Note:</strong> Mob Spoils are based on accessibility & value, not a command. <br> Level affects spoil rates. Dimensional Rift Spoils not included yet.
 
-Thank you **@Gloto**{style="color:white";} for the Quest Guides!
-
-Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's Discord Server](https://discord.gg/Rcqv9UMb82) <br> <strong>Note:</strong> Mobs listed vary by accessibility, spoil value, and difficulty. Choose based on your situation. Rift mobs not included. Level brackets are recommendations, spoiling lower level mobs affects [success rates](/faq/gameplay/monsters/#character-mob-level-difference-penalties). 
+## Ultimate Levelling Guide
 
 <div class="quest-guide-controls">
     <div class="version-selector">
@@ -329,19 +331,69 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's 
     </thead>
     <tbody>
         <tr>
+            <td>20</td>
+            <td>Red-Eyed Invaders</td>
+            <td>x1 Rod, x500 Bait, x60 Lure (you can sell item fish, not proofs, on grocery for some adena)</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>Hunting for wild beasts</td>
+            <td>3.7k adena</td>
+        </tr>
+        <tr>
             <td>21</td>
             <td>Seductive Whispers, Will the Seal be Broken</td>
-            <td>Unique quests for adena <br> Only Dark Elves</td>
+            <td>Unique quests for Adena <br> Only Dark Elves</td>
         </tr>
         <tr>
             <td>21</td>
             <td>Blood Fiend</td>
-            <td>Unique quest for Adena <br> Exlcuding Dark Elves</td>
+            <td>Unique quest for Adena <br> Excluding Dark Elves</td>
         </tr>
         <tr>
             <td>21</td>
             <td>Vanquish Remnants</td>
-            <td>Farm and deliver 10 quest items to keep the Adena Bonus</td>
+            <td>Farm and deliver 10 quest items to keep the Adena Bonus (mandatory for supports and aoe farmers)<br>min 4.8k, black lion mark</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>Sense for Business</td>
+            <td>Min 1k (good for archers & supports, eye monster lens quest)</td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>Adept of taste</td>
+            <td>Min 10k - max 16k adena</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>Recover the Farmland</td>
+            <td>Min 1.5k Adena, SPSD, SSD</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>Collector of Jewels</td>
+            <td>Min 12k - Max 63k adena</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>Lizardmen's Conspiracy</td>
+            <td>42.000 SP, repeatable quests worth doing until 32</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>Hunt of the Black Lion</td>
+            <td>Continuation of Vanquish Remnants (also known as "cargo box quest")</td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>Acts of Evil</td>
+            <td>Around 98k adena</td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>A Wiseman Sows Seeds</td>
+            <td>3.6k Adena</td>
         </tr>
         <tr>
             <td>30</td>

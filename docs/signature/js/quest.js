@@ -1,6 +1,6 @@
 class QuestGuideController {
     constructor() {
-        this.currentLevel = '1-20'; // Changed default to start with 1-20
+        this.currentLevel = '1-20';
         this.currentRace = 'human';
         this.currentVersion = 'c5';
         this.currentContentType = 'hunting-zones';
@@ -138,7 +138,6 @@ class QuestGuideController {
     showRaceContent() {
         this.hideAllRaceContent();
         
-        // For race-based content, use level-race combination
         const raceElementId = this.requiresRaceSelection(this.currentLevel) ? 
             `${this.currentLevel}-${this.currentRace}` : this.currentRace;
         
