@@ -11,6 +11,8 @@ search:
 
 Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{style="color:red;"}, it focuses mostly on Repeatable Adena Quests as they are more important early on.
 
+Thank you **@Aynix**{style="color:white;"} for the Level 40-80 Spoils! <br> <strong>Note:</strong> Mobs listed vary by accessibility, spoil value, and difficulty. Choose based on your situation. Rift mobs not included. Level brackets are recommendations, spoiling lower level mobs affects [success rates](/faq/gameplay/monsters/#character-mob-level-difference-penalties).
+
 <div class="quest-guide-controls">
     <div class="version-selector">
         <span class="control-title">Wiki Version:</span>
