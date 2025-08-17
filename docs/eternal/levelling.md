@@ -54,58 +54,84 @@ icon: material/sword
 
 </div>
 
+## Tips from the Pros
 
-## Class Changes
-- **Free** 1st & 2nd class changes  
-- Access via medal icon (bottom-right corner)  
-    - You can also class change by talking to the Cat NPC in towns. 
+<div class="grid cards" markdown>
 
-## Tips
+- ### **:material-account-switch: Class Changes**
 
-- **Skip quests** → Focus on mob grinding  
-    - Skill learns are automatic
-    - Save Mana Potions (expensive early game)
-    - [Enable drops and consumables messages](/faq/gameplay/controls/#how-to-enable-lootdrops-messages-on-eternal)
+    - **Free** 1st & 2nd class changes  
+    - Access via :material-medal: medal icon (bottom-right)  
+    - Or talk to Cat NPC in towns
+    - **Important Levels:**
+        - 20/40: Redeem shadow tickets
+        - 52: Rent B Grade gear
+    - Skills learn automatically
+    - Save Mana Potions
+    - [Enable drop messages](/faq/gameplay/controls/#how-to-enable-lootdrops-messages-on-eternal)
 
-- **Class Changes**:
-    - At level 20 and 40: Visit Maria to redeem your shadow tickets
-    - At level 52: 
-        - Rent Shadow B Grade at Weapons Trader
-        - Find players selling B Grade Spiritshots
+- ### **:material-star: Voting Benefits**
 
-## Voting Benefits
+    - VIP Level caps at 1 (means VIP is active)
+    - After voting: 
+        - Receive VIP Coin → **Right-click** to activate
+        - Access VIP-only buffs
+        - Increased rates
 
-<figure markdown>
-</figure>
+    <figure markdown>
+    [Vote Guide](../gameplay/progression/voting.md){ .md-button .md-button-secondary } <br> <br>
+    [Vote Now](https://l2reborn.org/reborn-shop/#eternal-il-x10){ .md-button .md-button-primary }
+    </figure>
 
-- VIP Level cannot exceed 1 (if it's 1, your VIP/Rune is active)
-- After voting: 
-    - You'll receive a VIP Coin in inventory 
-    - **Right-click** to activate
-- Not only your rates increase, but you can access VIP only buffs which can increase your damage.
+- ### **:material-sword-cross: Spending Priority**
 
-<figure markdown>
-[Vote Tutorial](../gameplay/progression/voting.md){ .md-button }
-[Vote Link](https://l2reborn.org/reborn-shop/#eternal-il-x10){ .md-button }
-</figure>
+    > Get Shadow Weapons, Hunt with No-Grade Gear until C Gear
+
+    1. **Weapons** (highest impact)  
+    2. Armor/Gear  
+    3. Dyes (Maria's Shop)  
+
+- ### **:material-script: Maria Macro**
+
+    ```bash
+    /target Maria  
+    /attack
+    ```
+    Comfy way to find Maria with one click
+
+    <figure markdown>
+    [Macro Guide](../gameplay/macro.md){ .md-button }
+    </figure>
+
+- ### **:material-lightning-bolt: Quests?**
+
+    - **Skip early quests** → Focus on Hunting Mobs
+
+- ### **:material-bank: Recommended Spots?**
+    
+    - Mostly [Catacombs](/faq/eternal/levelling/#catacombsnecropolis-leveling-guide-newbie-friendly), if you forgot to register, check [levelling zones](/faq/eternal/levelling/#leveling-zones).
+
+</div>
 
 ## Shadow Weapons Guide
 
-### Level 20-40 Weapons
-<figure markdown>
-[![Shadow C Grade Weapons](https://i.postimg.cc/XvB7swZB/shadow-c.png){ width=60% }](https://postimg.cc/gwdWJLHG)
-<figcaption markdown>Free Shadow Weapons at Maria after class changes for your Grade Level</figcaption>
-</figure>
+<div class="grid cards" markdown>
 
-### Level 52 Weapons
-<figure markdown>
-[![Shadow B Grade Weapons](https://i.postimg.cc/4NkMcX5v/shadow-b-grade.png){ width=70% }](https://postimg.cc/Cd7mTT9d)
+- ### Level 20-40 Weapons
+    <figure markdown>
+    [![Shadow C Grade Weapons](https://i.postimg.cc/XvB7swZB/shadow-c.png)](https://postimg.cc/gwdWJLHG)
+    <figcaption markdown>Free Shadow Weapons at Maria after class changes for your Grade Level</figcaption>
+    </figure>
 
-<figcaption markdown>Rent strong D and C grade weapons for Adena here</figcaption>
+- ### Level 52 Weapons
+    <figure markdown>
+    [![Shadow B Grade Weapons](https://i.postimg.cc/4NkMcX5v/shadow-b-grade.png)](https://postimg.cc/Cd7mTT9d)
+    <figcaption markdown>Rent strong D and C grade weapons for Adena in Giran</figcaption>
+    <figcaption markdown>Shadow Items are only for Shadow Weapons, there are no Shadow Armors</figcaption>
+    </figure>
+    
+</div>
 
-</figure>
-
-> Shadow Items are only for Shadow Weapons, there are no Shadow Armors
 
 ## Max Buff Slot Book Strategy
 
@@ -119,76 +145,61 @@ icon: material/sword
 | [![original-vers.png](https://i.postimg.cc/MTD0pVx2/original-vers.png)](https://postimg.cc/zbyHdLV0)          | Original Ver. | 76    | 15 Glittering Medals   | +1        |
 
 </figure>
-
-> Learn at your class trainer, unlock them in order (Original needs Modern) <br> **Mages**: Magic Guild, **Fighters**: Fighter Guild, **Dark Elf**: Dark Elf Guild etc..
-
-
-
-## Spending Priority
-
->Get Shadow Weapons, Hunt with No-Grade until C Equipment
-
-1. **Weapons** (highest impact)  
-2. Armor/Gear  
-3. Dyes (Maria's Shop)  
+> You can earn Glittering Medals via [Events](/faq/eternal/events/).  
+> Learn the skills at your class trainer, unlock them in order (Original needs Modern) <br> **Mages**: Magic Guild, **Fighters**: Fighter Guild, **Dark Elf**: Dark Elf Guild etc..
 
 
-## Maria Macro
-```bash
-/target Maria  
-/attack
-```
-Comfy way of finding Maria with a click of a Button.
 
-<figure markdown>
-[Macro Tutorial](../gameplay/macro.md){ .md-button }
-</figure>
+
 
 ## Catacombs/Necropolis Leveling Guide (Newbie-Friendly)
 
-### **Why Hunt Here?**
+<div class="grid cards" markdown>
 
-- High EXP until Lv74-76
-- Great Adena source
-- Dense mobs = efficient farming
+- ### **Why Hunt Here?**
 
-### **Must-Do First**
-0. Check if you can register [at the Seven Signs Status](/faq/eternal/general/#seven-sign-status).
-1. Register with Priest of Dawn in Giran (`/target Dawn`) *(Mostly)*
-   - Choose any Seal (Avarice/Gnosis)
-2. Talk to Ziggurat and Statue NPCs at dungeon entrances for quests
+    - High EXP until Lv74-76
+    - Great Adena source
+    - Dense mobs = efficient farming
 
-### **Loot to Know**
+    ### **Must-Do First**
+    0. Check if you can register [at the Seven Signs Status](/faq/eternal/general/#seven-sign-status).
+    1. Register with Priest of Dawn in Giran (`/target Dawn`) *(Mostly)*
+    - Choose any Seal (Avarice/Gnosis)
+    2. Talk to Ziggurat and Statue NPCs at dungeon entrances for quests
 
-- [:material-gold: Seal Stones](https://lineage2wiki.org/interlude/item/6362/red-seal-stone/) → Exchange for Ancient Adena at Priests
-- Ancient Scrolls → Trade to Ziggurat for Blank Scrolls
-- Dimensional Fragments → Used for Hero Rift later
+    ### **Loot to Know**
 
-### **Tips**
+    - [:material-gold: Seal Stones](https://lineage2wiki.org/interlude/item/6362/red-seal-stone/) → Exchange for Ancient Adena at Priests
+    - Ancient Scrolls → Trade to Ziggurat for Blank Scrolls
+    - Dimensional Fragments → Used for Hero Rift later
 
-- Higher floors = more competition (be ready to fight or move)
-- Mammon merchants appear in Giran during Reward Week (anyone can use)
+    ### **Tips**
 
-<figure markdown>
+    - Higher floors = more competition (be ready to fight or move)
+    - Mammon merchants appear in Giran during Reward Week (anyone can use)
 
-| Dungeon Name                     | Level Range |
-|----------------------------------|-------------|
-| Necropolis of Sacrifice          | 20 - 30     |
-| Catacomb of the Heretic          | 30 - 40     |
-| The Pilgrim's Necropolis         | 32 - 40     |
-| Catacomb of the Branded          | 40 - 51     |
-| Necropolis of Worship            | 42 - 51     |
-| Catacomb of the Apostate         | 50 - 60     |
-| The Patriot's Necropolis         | 52 - 60     |
-| Necropolis of Devotion           | 60 - 67     |
-| Catacomb of the Witch            | 60 - 72     |
-| Necropolis of Martyrdom          | 65 - 72     |
-| The Saint's Necropolis           | 70 - 78     |
-| The Disciple's Necropolis        | 70 - 80     |
-| Catacomb of the Forbidden Path   | 75 - 80     |
+- <figure markdown>
 
-</figure>
+    | Dungeon Name                     | Level Range |
+    |----------------------------------|-------------|
+    | Necropolis of Sacrifice          | 20 - 30     |
+    | Catacomb of the Heretic          | 30 - 40     |
+    | The Pilgrim's Necropolis         | 32 - 40     |
+    | Catacomb of the Branded          | 40 - 51     |
+    | Necropolis of Worship            | 42 - 51     |
+    | Catacomb of the Apostate         | 50 - 60     |
+    | The Patriot's Necropolis         | 52 - 60     |
+    | Necropolis of Devotion           | 60 - 67     |
+    | Catacomb of the Witch            | 60 - 72     |
+    | Necropolis of Martyrdom          | 65 - 72     |
+    | The Saint's Necropolis           | 70 - 78     |
+    | The Disciple's Necropolis        | 70 - 80     |
+    | Catacomb of the Forbidden Path   | 75 - 80     |
 
+    </figure>
+
+</div>
 
 
 ## Leveling Zones
@@ -196,6 +207,7 @@ Comfy way of finding Maria with a click of a Button.
 Below you will see Hunting Zone and it's corresponding Territory.
 
 Access Maria for Teleport > Town and Villages > Select the Corresponding Territory you want to farm in.
+
 
 ### Levels 12-25
 
@@ -205,19 +217,16 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
 - **15-20**: Ruins of Agony - Gludio 
 - **20-25**: Abandoned Camp - Gludin
     - Kill outside, inside, or on mountain lines
-    - ⚠️ Might be crowded on launch
 
 
 
 ### Levels 23-33
 - **23-30**: Partisan's Hideaway - Dion
     - Hills & mountain spots available
-    - ⚠️ Might be crowded
 - **27-33**: 
     - Forgotten Temple - Gludin
     - Ant Nest - Gludio
     - Higher HP mobs deeper inside
-    - ⚠️ Tough & crowded area
 
 
 
@@ -268,7 +277,14 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
 ### Levels 60-75
 - **60-75**: 
     - Antharas Lair - Giran
+        - [:fontawesome-solid-scroll: Whisper of Dreams, Part 2](https://lineage2wiki.org/interlude/quest/375/whisper-of-dreams-part-2/)
+            - Dark Crystal / Nightmare / Majestic Robe Recipes (Random)
+            Requires Mysterious Stone from [:fontawesome-solid-scroll: Whisper of Dreams, Part 1](https://lineage2wiki.org/interlude/quest/374/whisper-of-dreams-part-1/)
     - Tower of Insolence - Aden
+        - [:fontawesome-solid-scroll: Legacy of Insolence](https://lineage2wiki.org/interlude/quest/372/legacy-of-insolence/)
+            - Dark Crystal / Tallum / Nightmare / Majestic Recipes/Parts (Random)
+        - [:fontawesome-solid-scroll: Supplier of Reagents](https://lineage2wiki.org/interlude/quest/373/supplier-of-reagents/)
+            - Gathering Materials for Noblesse Quest
     - Higher HP mobs
 
 
@@ -278,7 +294,6 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
     - [:fontawesome-solid-scroll: Heart in Search of Power Quest](https://lineage2wiki.org/interlude/quest/627/heart-in-search-of-power/)
         - [:fontawesome-solid-handshake: Quest Item Exchange](../eternal//questexchanges/heart.md)
 
-    - ⚠️ Might be crowded
     - **Recipe Drops**:
         - [:material-drama-masks: Punishment Of Splendor](https://lineage2wiki.org/interlude/monster/21531/punishment-of-splendor/): DC Gloves (0.05%)
         - [:material-drama-masks: Pilgrim Of Splendor](https://lineage2wiki.org/interlude/monster/21541/pilgrim-of-splendor/): DC Gloves (0.05%)
@@ -300,7 +315,8 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
 
 - **63-69**: Forest of the Dead - Rune
     - **Hiding Behind the Truth Quest Chain** (B Grade Jewels):
-        1. **63**: [:fontawesome-solid-scroll: Tragedy in von Hellman Forest](https://lineage2wiki.org/interlude/quest/22/tragedy-in-von-hellmann-forest/)
+        0. **63** [:fontawesome-solid-scroll: Hidden Truth](https://lineage2wiki.org/interlude/quest/21/hidden-truth/)
+        1. **65**: [:fontawesome-solid-scroll: Tragedy in von Hellman Forest](https://lineage2wiki.org/interlude/quest/22/tragedy-in-von-hellmann-forest/)
         2. **64**: [:fontawesome-solid-scroll: Lidia's Heart](https://lineage2wiki.org/interlude/quest/23/lidias-heart/)
         3. **65**: [:fontawesome-solid-scroll: Inhabitants of the Forest of the Dead](https://lineage2wiki.org/interlude/quest/24/inhabitants-of-the-forest-of-the-dead/)
         4. **66**: [:fontawesome-solid-scroll: Hiding Behind The Truth](https://lineage2wiki.org/interlude/quest/25/hiding-behind-the-truth/)
@@ -329,7 +345,7 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
 ### Levels 65-75
 - **65-75**: Blazing Swamp - Rune
     - [:fontawesome-solid-scroll: Supplier of Reagents Quest](https://lineage2wiki.org/interlude/quest/373/supplier-of-reagents/)
-        - Required for Subclass + Noblesse advancement
+        - Required for Subclass + Noblesse Quest
 
 
 
@@ -398,6 +414,8 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
     - [:fontawesome-solid-scroll: Rise and Fall of the Elroki Tribe Quest](https://lineage2wiki.org/interlude/quest/643/rise-and-fall-of-the-elroki-tribe/)
         - Random Top A Grade Weapon Keys
         - Go to [Orahochin](https://lineage2wiki.org/interlude/monster/32111/orahochin/) to teleport to another Island and exchange 300 Dino Bones to [Karakawei](https://lineage2wiki.org/interlude/monster/32117/karakawei/) for 5 Random Top A Grade Weapon Keys
+        - [:fontawesome-solid-scroll: A Powerful Primeval Creature](https://lineage2wiki.org/interlude/quest/642/a-powerful-primeval-creature/)
+            - Top A Grade Weapon Recipes
     - Included in the missions as well
 
 ## Important Quests
