@@ -14,7 +14,7 @@ Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{st
 
 Thank you **@Gloto**{style="color:white";} for the Quest Guides!
 
-Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! <br> <strong>Note:</strong> Mobs listed vary by accessibility, spoil value, and difficulty. Choose based on your situation. Rift mobs not included. Level brackets are recommendations, spoiling lower level mobs affects [success rates](/faq/gameplay/monsters/#character-mob-level-difference-penalties).
+Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! <br> <strong>Note:</strong> Mobs listed vary by accessibility, spoil value, and difficulty. Choose based on your situation. Rift mobs not included. Level brackets are recommendations, spoiling lower level mobs affects [success rates](/faq/gameplay/monsters/#character-mob-level-difference-penalties). [Aynix Discord Server](https://discord.gg/Rcqv9UMb82)
 
 <div class="quest-guide-controls">
     <div class="version-selector">
