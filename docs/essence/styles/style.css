@@ -1,0 +1,27 @@
+img {
+    width: 50% !important;
+}
+
+.md-typeset td {
+    text-align: right !important;
+    font-family: monospace !important;
+}
+
+.md-typeset td {
+    min-width: 5em !important;
+    white-space: nowrap !important;
+}
+
+.md-typeset table {
+    table-layout: fixed !important;
+    width: 100% !important;
+}
+
+.md-typeset th,
+.md-typeset td {
+    padding: 0.5em 1em !important;
+}
+
+.md-typeset tr:nth-child(even) {
+    background-color: rgba(0,0,0,0.02) !important;
+}
