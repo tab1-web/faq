@@ -37,6 +37,10 @@
     border: 1px solid var(--md-default-fg-color--lightest, #ddd);
     border-radius: 0.5rem;
     align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 .race-selector, .version-selector, .level-selector, .content-type-selector {

@@ -25,13 +25,15 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's 
     </div>
     <div class="level-selector">
         <span class="control-title">Level Range:</span>
-        <button class="md-button md-button--primary" data-level="1-39">1-40</button>
+        <button class="md-button md-button--primary" data-level="1-20">1-20</button>
+        <button class="md-button" data-level="20-30">20-30</button>
+        <button class="md-button" data-level="30-40">30-40</button>
         <button class="md-button" data-level="40-50">40-50</button>
         <button class="md-button" data-level="50-60">50-60</button>
         <button class="md-button" data-level="60-70">60-70</button>
         <button class="md-button" data-level="70-80">70-80</button>
     </div>
-    <div class="race-selector">
+    <div class="race-selector active">
         <span class="control-title">Select Race:</span>
         <button class="md-button md-button--primary" data-race="human">Human</button>
         <button class="md-button" data-race="elf">Elf</button>
@@ -45,6 +47,756 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's 
         <button class="md-button" data-content-type="quests">Quests</button>
         <button class="md-button" data-content-type="spoil">Spoil</button>
     </div>
+</div>
+
+
+<!-- 20-30 Level Range -->
+<div class="content-type-section" id="20-30-hunting-zones" style="display:none;">
+<h2>Level 20-30 Hunting Zones</h2>
+<figure>
+<table>
+    <thead>
+        <tr>
+            <th>Level</th>
+            <th>Action</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>18-25</td>
+            <td>Eastern Mining Zone</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>18-30</td>
+            <td>Windy Hill</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>19-22</td>
+            <td>The Ruined Bend</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>19-24</td>
+            <td>Langk Lizardman Dwellings</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>19-25</td>
+            <td>Southern Entrance of Wastelands</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>20-27</td>
+            <td>Maille Lizardman Barracks</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>20-30</td>
+            <td>Mithril Mines</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>20-30</td>
+            <td>Necropolis of Sacrifice</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>21-25</td>
+            <td>Dion Hills</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>22-25</td>
+            <td>Windawood Manor</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>22-25</td>
+            <td>Ol Mahum Checkpoint</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>23-28</td>
+            <td>Plains of Dion</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>25-25</td>
+            <td>Fellmere Lake</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+</figure>
+</div>
+
+<div class="content-type-section" id="20-30-spoil" style="display:none;">
+<h2>Level 20-30 Spoils</h2>
+<figure>
+<table>
+    <tr>
+        <th>Level</th>
+        <th>Action</th>
+        <th>Notes</th>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>Dion Grizzly</td>
+        <td>Town of Dion - Spoils: Leather x2</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>Lesser Succubus Turen</td>
+        <td>School of Dark Arts - Spoils: Thread, IO, Suede</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>Kirunak's Guards</td>
+        <td>Elven Fortress - Spoils: Varnish, Cokes</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>Hobgoblin</td>
+        <td>Town of Dion - Spoils: 2x Coal, MO</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>Ghost Guardian</td>
+        <td>Cave of Trials - Spoils: IO, Steel</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>Kasha Dire Wolf</td>
+        <td>Cave of Trials - Spoils: SOP, CBP</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>Langk Lizardman Shaman</td>
+        <td>Langk Lizardmen Dwellings - Spoils: Coal, Varnish</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>Veelan Bugbear Warrior</td>
+        <td>Ruins of Despair - Spoils: Charcoal, Steel</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>Cloudy Beast Turen</td>
+        <td>Oracle of Dawn - Spoils: Devotion Neck, SOP</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>Langk Lizardman Leader</td>
+        <td>Langk Lizardmen Dwellings - Spoils: Thread, SN, Devotion Neck</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>Vault Guardian</td>
+        <td>Necropolis of Sacrifice - Spoils: Suede, Devo Neck, Adam Nugg</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>Dead Pit Skeleton Archer</td>
+        <td>Mithril Mines - Spoils: Stem, BH, Devotion Neck</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>Enchanted Spine Golem</td>
+        <td>Eastern Mining Zone - Spoils: AB, AS, Devotion Neck</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>Bear Dre Vanul Destroyer</td>
+        <td>Cave of Trials - Spoils: Devotion Neck, OO</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>Mandragora Blossom</td>
+        <td>Execution Grounds - Spoils: Devotion Neck x2</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>Ol Mahum General</td>
+        <td>Abandoned Camp - Spoils: Varnish, IO, Devo Neck</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>Turek Orc Footman</td>
+        <td>Orc Barracks - Spoils: Coal, Steel</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>Catacomb Wisp</td>
+        <td>Necropolis of Sacrifice - Spoils: Charcoal, Devotion Neck</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>Specter</td>
+        <td>Execution Grounds - Spoils: Devotion Neck, Steel</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>Maille Lizardman Warrior</td>
+        <td>Maille Lizardmen Barracks - Spoils: Coal, Devotion Neck</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>Lith Warrior</td>
+        <td>Necropolis of Sacrifice - Spoils: Devo Neck, MT, Comp Braid</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>Gigant Overseer</td>
+        <td>Necropolis of Sacrifice - Spoils: Devo Neck, MT, Comp Braid</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>Ol Mahum Raider</td>
+        <td>Partisan Hideaway - Spoils: IO, AB x1-3</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>Glass Jaguar</td>
+        <td>Monster Derby Track - Spoils: Cord, Devotion Neck</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>Lafi Lizardman Scout</td>
+        <td>Forgotten Temple - Spoils: IO, Devotion Neck</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>Ol Mahum Commander</td>
+        <td>Abandoned Camp - Spoils: Enchanted Neck, Steel</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>Delu Lizardman Scout</td>
+        <td>Monster Derby Track - Spoils: Varnish, HP, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>Androscorpio</td>
+        <td>Wasteland - Spoils: IO, HP, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Lith Guard</td>
+        <td>Necropolis of Sacrifice - Spoils: HP, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Gigant Footman</td>
+        <td>Necropolis of Sacrifice - Spoils: HP, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Ol Mahum Captain</td>
+        <td>Partisan Hideaway - Spoils: IO x2, Varnish</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Talakin</td>
+        <td>Partisan Hideaway - Spoils: HP, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Ol Mahum Van Grunt</td>
+        <td>Windmill Hill - Spoils: Cord, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Greedy Geist</td>
+        <td>Mithril Mines - Spoils: Stem, IO, EAD</td>
+    </tr>
+</table>
+</figure>
+</div>
+
+<div class="content-type-section" id="20-30-quests" style="display: none;">
+<h2>Level 20-30 Quests</h2>
+<figure>
+<table>
+    <thead>
+        <tr>
+            <th>Level</th>
+            <th>Action</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>21</td>
+            <td>Seductive Whispers, Will the Seal be Broken</td>
+            <td>Unique quests for adena <br> Only Dark Elves</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>Blood Fiend</td>
+            <td>Unique quest for Adena <br> Exlcuding Dark Elves</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>Vanquish Remnants</td>
+            <td>Farm and deliver 10 quest items to keep the Adena Bonus</td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>Lizardmen's Conspiracy</td>
+            <td>Repeatable quests that gives 42000 sp, worth doing until 32</td>
+        </tr>
+    </tbody>
+</table>
+</figure>
+</div>
+
+<!-- 30-40 Level Range -->
+<div class="content-type-section" id="30-40-hunting-zones" style="display: none;">
+<h2>Level 30-40 Hunting Zones</h2>
+<figure>
+<table>
+    <thead>
+        <tr>
+            <th>Level</th>
+            <th>Action</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>30-34</td>
+            <td>Floran Agricultural Area</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>30-35</td>
+            <td>Breka's Stronghold</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>30-40</td>
+            <td>Death Pass</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>30-40</td>
+            <td>Dragon Valley</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>30-40</td>
+            <td>Field of Silence</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>30-40</td>
+            <td>Heretics Catacomb</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>31-36</td>
+            <td>Gorgorn Flower Garden</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>32-40</td>
+            <td>Pilgrims Necropolis</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>34-40</td>
+            <td>Field of Whispers</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>22-40</td>
+            <td>The Ant Nest</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>22-40</td>
+            <td>Wasteland</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>38-40</td>
+            <td>Hardin's Academy</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>38-40</td>
+            <td>Alligator Beach</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+</figure>
+</div>
+
+<div class="content-type-section" id="30-40-quests" style="display: none;">
+<h2>Level 30-40 Quests</h2>
+<figure>
+<table>
+    <thead>
+        <tr>
+            <th>Level</th>
+            <th>Action</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>32</td>
+            <td>Arrow of Vengeance</td>
+            <td>Killing Harpies, Wyrms and Medusas on Gordon Flower Garden ~3k Adena</td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>Black Swan</td>
+            <td>Check market for the Best Material Trade <br> Deliver 10 Fangs to keep the Adena Bonus <br> Recommended Quest, you'll need 500 Stone of Purity for SLS Duals for Subclass Quest, consider making them here, though it's going to take a long time.</td>
+        </tr>
+        <tr>
+            <td>33</td>
+            <td>Curiosity of a Dwarf</td>
+            <td>Killing Puncher & Granite Golems on Wasteland ~2k Adena</td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>Gather Ingredients for Pie</td>
+            <td>Random 50 Units of: Varnish, Coal, Iron Ore, Charcoal or ~25k Adena</td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>Hunting Leto Lizardman</td>
+            <td>Random 50 Units of: Animal Skin / Animal Bones or ~30k Adena</td>
+        </tr>
+        <tr>
+            <td>35</td>
+            <td>Method to Raise the Dead</td>
+            <td>Perhaps the Black Swan equivalent for Fighters <br> Check market for the Best Material Trade</td>
+        </tr>
+        <tr>
+            <td>36</td>
+            <td>Family Honor</td>
+            <td>~10k Adena <br> Appraise Ancient Sculptor as a Reward from Killing the Timak Orc Group for random Adena Reward: 8,500 Adena / 1,700 Adena / 425 Adena / 280 Adena</td>
+        </tr>
+        <tr>
+            <td>36</td>
+            <td>Trespassing into the Sacred Area</td>
+            <td>Killing Stakatos in Garden of Eva, ~4k Adena</td>
+        </tr>
+        <tr>
+            <td>39</td>
+            <td>Help Rood Raise A New Pet</td>
+            <td>Killing the Flying Dragon Monsters in Field of Silence, ~4k adena</td>
+        </tr>
+        <tr>
+            <td>39</td>
+            <td>Devil's Legacy</td>
+            <td>Random: EWC, EAC, CBP, Leather, Cokes, Animal Bones ... ~5k Adena</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</figure>
+</div>
+
+<div class="content-type-section" id="30-40-spoil" style="display: none;">
+<h2>Level 30-40 Spoils</h2>
+<table>
+    <tr>
+        <th>Level</th>
+        <th>Action</th>
+        <th>Notes</th>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Lith Guard</td>
+        <td>Necropolis of Sacrifice - Spoils: HP, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Gigant Footman</td>
+        <td>Necropolis of Sacrifice - Spoils: HP, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Greedy Geist</td>
+        <td>Mithril Mines - Spoils: Stem, IO, EAD</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>OI Mahum Captain</td>
+        <td>Partisan Hideaway - Spoils: IO x2, Varnish</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Talakin</td>
+        <td>Partisan Hideaway - Spoils: HP, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Lith Guard</td>
+        <td>Catacomb of the Heretic - Spoils: HP, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Gigant Footman</td>
+        <td>Catacomb of the Heretic - Spoils: HP, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Barrow Sentinel</td>
+        <td>Catacomb of the Heretic - Spoils: HP, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Silenos</td>
+        <td>Monster Derby Track - Spoils: HP, Adam Nugg, EWD</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>OI Mahum Van Grunt</td>
+        <td>Windmill Hill - Spoils: Cord, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Amber Basilisk</td>
+        <td>Breka's Stronghold - Spoils: Leather, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>Strain</td>
+        <td>Execution Grounds - Spoils: HP, Adam Nugg</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>Catacomb Scavenger Bat</td>
+        <td>Catacomb of the Heretic - Spoils: AB, SOP, EWD</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>Rough Hewn Rock Golem</td>
+        <td>Floran Agricultural Area - Spoils: Cokes, EWD</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>Breka Orc</td>
+        <td>Breka's Stronghold - Spoils: HP, Leather</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>Turak Bugbear</td>
+        <td>Gorgon Flower Garden - Spoils: Varnish, EWD</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>Kanil Succubus</td>
+        <td>Forgotten Temple - Spoils: HGS, EWD</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>Kamil Succubus</td>
+        <td>Forgotten Temple - Spoils: HGS, EWD</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>Ant Overseer</td>
+        <td>The Ant Nest - Spoils: HP x2</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>Breka Orc Archer</td>
+        <td>Breka's Stronghold - Spoils: BH x2, Enchanted Neck</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>Salamander Rowin</td>
+        <td>Forgotten Temple - Spoils: IO, HGS</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>Rowin Undine</td>
+        <td>Forgotten Temple - Spoils: AS x1-3</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>Delu Lizardman Supplier</td>
+        <td>Floran Agricultural Area - Spoils: HP, MO</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>Ant Recruit</td>
+        <td>The Ant Nest - Spoils: Cord, Tigers Eye Earring</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>Turak Bugbear Warrior</td>
+        <td>Gorgon Flower Garden - Spoils: Varnish x1-3, SN x2</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>Cursed Seer</td>
+        <td>Floran Agricultural Area - Spoils: HGS, DMP</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>Ol Mahum Lord</td>
+        <td>Partisan Hideaway - Spoils: Tigers Eye Earring, Steel</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>Medusa</td>
+        <td>Gorgon Flower Garden - Spoils: MO, Tigers Eye Ear</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>Hangman Tree</td>
+        <td>Execution Grounds - Spoils: Tigers Eye Earring, Steel</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>Vault Sentinel</td>
+        <td>The Pilgrim's Necropolis - Spoils: Varnish, Tigers Eye Earring, SOP</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>Grave Sentinel</td>
+        <td>The Pilgrim's Necropolis - Spoils: BH, Cord, Tigers Eye Earring</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>Wild Desperado</td>
+        <td>Wasteland - Spoils: Tigers Eye Earring, Ench Earring (FI)</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>Warlike Tyrant</td>
+        <td>Wasteland - Spoils: Coal, Leather, Tigers Eye Earring</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>Bloody Axe Elite</td>
+        <td>Plains of the Lizardmen - Spoils: Tigers Eye Earring, Adam Nugg</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>Rakul</td>
+        <td>Field of Whispers - Spoils: Tigers Eye Earring x2</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>Lith Overlord</td>
+        <td>Catacomb of the Heretic - Spoils: Coal x1-5, Varnish x1-5</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>Gigant Officer</td>
+        <td>Catacomb of the Heretic - Spoils: Coal x1-5, Varnish x1-5</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>Ant Warrior Captain</td>
+        <td>The Ant Nest - Spoils: MF, SOP</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>Tyrant Kingpin</td>
+        <td>Wasteland - Spoils: Leather, OO</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>Cave Ant Larva</td>
+        <td>Ant Incubator - Spoils: Stem x1-3, IO, Tigers Eye Earring</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>Leto Lizardman Archer</td>
+        <td>Plains of the Lizardmen - Spoils: Leather, Tigers Eye Earring</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>Noble Ant</td>
+        <td>The Ant Nest - Spoils: Cord, Elven Earring</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>Road Scavenger</td>
+        <td>Death Pass - Spoils: Elven Earring, OO</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>Catacomb Stakato Soldier</td>
+        <td>The Pilgrim's Necropolis - Spoils: Elven Earring, HGS</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>Catacomb Stakato Soldier</td>
+        <td>Catacomb of the Heretic - Spoils: Elven Earring, HGS</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>Fettered Soul</td>
+        <td>Hardin's Academy - Spoils: Elven Ring, Elven Earring</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>Leto Lizardman Warrior</td>
+        <td>Plains of the Lizardmen - Spoils: Thread x1-5, CBP</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>Lageos</td>
+        <td>Field of Whispers - Spoils: Charcoal, Elven Earring</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>Windaus</td>
+        <td>Hardin's Academy - Spoils: Varnish, Elven Necklace</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>Ragna Orc Overlord</td>
+        <td>Cave of Trials - Spoils: Elven Ring, Elven Earring</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>Porta</td>
+        <td>Cruma Tower - Spoils: Cord, Crafted Leather</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>Grave Keeper Dark Horror</td>
+        <td>The Pilgrim's Necropolis - Spoils: Elven Ring, Crafted Leather</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>Grave Keeper Dark Horror</td>
+        <td>Catacomb of the Heretic - Spoils: Elven Ring, Crafted Leather</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>Barrow Overlord</td>
+        <td>Catacomb of the Branded - Spoils: Charcoal x1-5, Suede x1-3, Elven Ring</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>Giant Fungus</td>
+        <td>Sea of Spores - Spoils: BH, Elven Ring</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>Nos</td>
+        <td>Field of Whispers - Spoils: CBP, Adam Nugg</td>
+    </tr>
+</table>
 </div>
 
 <!-- 40-50 Level Range -->
@@ -163,6 +915,11 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's 
                 </tr>
             </thead>
             <tbody>
+                <tr>
+                    <td>40</td>
+                    <td>Class Change</td>
+                    <td>2nd Class Quests</td>
+                </tr>
                 <tr>
                     <td>40</td>
                     <td>Alligator Hunter</td>
@@ -1535,7 +2292,7 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's 
 </div>
 
 <!-- 1-40 Race Range -->
-<div id="human" class="race-content" style="display: none;">
+<div id="1-20-human" class="race-content" style="display: none;">
 <h2>Human Quests</h2>
 <figure>
 <table>
@@ -1592,39 +2349,13 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's 
       <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
-    <tr>
-      <td>21</td>
-      <td>Blood Fiend</td>
-      <td>Unique quest for adena</td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>Vanquish Remnants</td>
-      <td>Farm and deliver 10 quest items to keep the bonus</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>Lizardmen's Conspiracy</td>
-      <td>Repeatable quests that gives 42000 sp, worth doing until 32</td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>Black Swan</td>
-      <td>Check market for the Best Material Trade</td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>Class Change</td>
-      <td>2nd Class Quests</td>
-    </tr>
-
   </tbody>
 
 </table>
 </figure>
 </div>
 
-<div id="elf" class="race-content" style="display: none;">
+<div id="1-20-elf" class="race-content" style="display: none;">
 <h2>Elf Quests</h2>
 <figure>
 <table>
@@ -1671,45 +2402,17 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's 
       <td>Grim Collector</td>
       <td>Farm 10 quest items per deliver for bonus (complete skeletons not worth it)</td>
     </tr>
-    <tr>
-      <td>21</td>
-      <td>Blood Fiend</td>
-      <td>Unique quest for adena</td>
-    </tr>
-    <tr>
-    <tr>
+        <tr>
       <td>20</td>
       <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>Vanquish Remnants</td>
-      <td>Farm and deliver 10 quest items to keep the bonus</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>Lizardmen's Conspiracy</td>
-      <td>Repeatable quests that gives 42000 sp, worth doing until 32</td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>Black Swan</td>
-      <td>Check market for the Best Material Trade</td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>Class Change</td>
-      <td>2nd Class Quests</td>
-    </tr>
     </tbody>
-  
 </table>
 </figure>
 </div>
 
-<div id="dark-elf" class="race-content" style="display: none;">
+<div id="1-20-dark-elf" class="race-content" style="display: none;">
 <h2>Dark Elf Quests</h2>
 <figure>
 <table>
@@ -1766,38 +2469,12 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's 
       <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
-    <tr>
-      <td>21</td>
-      <td>Seductive Whispers, Will the Seal be Broken</td>
-      <td>Unique quests for adena</td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>Vanquish Remnants</td>
-      <td>Farm and deliver 10 quest items to keep the bonus</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>Lizardmen's Conspiracy</td>
-      <td>Repeatable quests that gives 42000 sp, worth doing until 32</td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>Black Swan</td>
-      <td>Check market for the Best Material Trade</td>
-    </tr>
-        <tr>
-      <td>40</td>
-      <td>Class Change</td>
-      <td>2nd Class Quests</td>
-    </tr>
     </tbody>
-  
 </table>
 </figure>
 </div>
 
-<div id="orc" class="race-content" style="display: none;">
+<div id="1-20-orc" class="race-content" style="display: none;">
 <h2>Orc Quests</h2>
 <figure>
 <table>
@@ -1850,43 +2527,16 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's 
       <td>Farm 10 quest items per deliver for bonus (complete skeletons not worth it)</td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>Blood Fiend</td>
-      <td>Unique quest for adena</td>
-    </tr>
-    <tr>
       <td>20</td>
       <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
-    <tr>
-      <td>21</td>
-      <td>Vanquish Remnants</td>
-      <td>Farm and deliver 10 quest items to keep the bonus</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>Lizardmen's Conspiracy</td>
-      <td>Repeatable quests that gives 42000 sp, worth doing until 32</td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>Black Swan</td>
-      <td>Check market for the Best Material Trade</td>
-    </tr>
-        <tr>
-      <td>40</td>
-      <td>Class Change</td>
-      <td>2nd Class Quests</td>
-    </tr>
-
     </tbody>
-  
 </table>
-  </figure>
+</figure>
 </div>
 
-<div id="dwarf" class="race-content" style="display: none;">
+<div id="1-20-dwarf" class="race-content" style="display: none;">
 <h2>Dwarf Quests</h2>
 <figure>
 <table>
@@ -1943,23 +2593,7 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's 
       <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
-    <tr>
-    <td>22</td>
-    <td>Monster Eye Searcher</td>
-    <td>Animal Bone & Suede Spoil</td>
-    </tr>
-    <tr>
-    <td>25</td>
-    <td>Enchanted Spine Golem</td>
-    <td>Animal Bone & Skin Spoil</td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>Class Change</td>
-      <td>2nd Class Quests</td>
-    </tr>
     </tbody>
-  
 </table>
 </figure>
 </div>

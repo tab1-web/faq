@@ -1,6 +1,6 @@
 class QuestGuideController {
     constructor() {
-        this.currentLevel = '1-39';
+        this.currentLevel = '1-20'; // Changed default to start with 1-20
         this.currentRace = 'human';
         this.currentVersion = 'c5';
         this.currentContentType = 'hunting-zones';
@@ -13,7 +13,7 @@ class QuestGuideController {
         ];
         
         this.searchFirstPartExceptions = [
-            'jumble, tumble, diamond fuss', 'Whisper of Dreams, Part 1' , 'Exploration of Giants Cave, Part 2', '1000 Years, the End of Lamentation', 'Exploration of Giants Cave, Part 1'
+            'jumble, tumble, diamond fuss', 'Whisper of Dreams, Part 2', 'Whisper of Dreams, Part 1' , 'Exploration of Giants Cave, Part 2', '1000 Years, the End of Lamentation', 'Exploration of Giants Cave, Part 1'
         ];
         
         this.noLinkExceptions = [
@@ -64,6 +64,16 @@ class QuestGuideController {
         });
     }
 
+    // Helper method to determine if a level range requires race selection
+    requiresRaceSelection(level) {
+        return level === '1-20' || level === '1-39';
+    }
+
+    // Helper method to determine if a level range should show content types
+    showsContentTypes(level) {
+        return level === '20-30' || level === '30-40' || level === '40-50' || level === '50-60' || level === '60-70' || level === '70-80';
+    }
+
     handleLevelChange(level) {
         this.currentLevel = level;
         
@@ -72,16 +82,24 @@ class QuestGuideController {
         const raceSelector = document.querySelector('.race-selector');
         const contentTypeSelector = document.querySelector('.content-type-selector');
         
-        if (level === '1-39') {
+        if (this.requiresRaceSelection(level)) {
+            // Show race selector for 1-20 and 1-39
             raceSelector.classList.add('active');
             contentTypeSelector.classList.remove('active');
             this.showRaceContent();
             this.hideAllContentTypeContent();
-        } else {
+        } else if (this.showsContentTypes(level)) {
+            // Show content type selector for 20-30, 30-40, and 40+
             raceSelector.classList.remove('active');
             contentTypeSelector.classList.add('active');
             this.hideAllRaceContent();
             this.showContentTypeContent();
+        } else {
+            // Fallback case
+            raceSelector.classList.remove('active');
+            contentTypeSelector.classList.remove('active');
+            this.hideAllRaceContent();
+            this.hideAllContentTypeContent();
         }
     }
 
@@ -120,7 +138,11 @@ class QuestGuideController {
     showRaceContent() {
         this.hideAllRaceContent();
         
-        const raceElement = document.getElementById(this.currentRace);
+        // For race-based content, use level-race combination
+        const raceElementId = this.requiresRaceSelection(this.currentLevel) ? 
+            `${this.currentLevel}-${this.currentRace}` : this.currentRace;
+        
+        const raceElement = document.getElementById(raceElementId);
         if (raceElement) {
             raceElement.style.display = 'block';
         }
@@ -156,16 +178,21 @@ class QuestGuideController {
         const raceSelector = document.querySelector('.race-selector');
         const contentTypeSelector = document.querySelector('.content-type-selector');
         
-        if (this.currentLevel === '1-39') {
+        if (this.requiresRaceSelection(this.currentLevel)) {
             raceSelector.classList.add('active');
             contentTypeSelector.classList.remove('active');
             this.showRaceContent();
             this.hideAllContentTypeContent();
-        } else {
+        } else if (this.showsContentTypes(this.currentLevel)) {
             raceSelector.classList.remove('active');
             contentTypeSelector.classList.add('active');
             this.hideAllRaceContent();
             this.showContentTypeContent();
+        } else {
+            raceSelector.classList.remove('active');
+            contentTypeSelector.classList.remove('active');
+            this.hideAllRaceContent();
+            this.hideAllContentTypeContent();
         }
     }
 
