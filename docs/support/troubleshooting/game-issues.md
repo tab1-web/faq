@@ -11,6 +11,8 @@ icon: fontawesome/solid/gamepad
     - If issue persists, [open a ticket](https://l2reborn.org/support/).
     - Daily Server Restart at 8 am UTC helps too.
 
+> GMs in the past tried to kick the player, but that solution did not work.
+
 <div class="grid cards" markdown>
 <figure markdown="1">
 <a href="https://postimg.cc/S2yWJtST">
