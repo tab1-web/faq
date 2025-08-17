@@ -199,7 +199,7 @@ Visit [l2reborn.org/reborn-shop](https://l2reborn.org/reborn-shop/) to vote ever
 - No, you cannot freight them once you have opened them.
 
 ### Can I set a Title with Color Title Reborn Donation Item?
-- Yes, even if you are not in a clan, you can set a color and title text for your character.
+- Yes, even if you are not in a clan, you can set a color and title text for your character unlimited times.
 
 ## General
 
