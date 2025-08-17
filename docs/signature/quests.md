@@ -12,6 +12,8 @@ search:
 
 Thank you **@Shuma**{style="color:white;"} for the Level 1 - 40 Guide! **<3**{style="color:red;"}, it focuses mostly on Repeatable Adena Quests as they are more important early on.
 
+Thank you **@Gloto**{style="color:white";} for the Quest Guides!
+
 Thank you **@Aynix**{style="color:white;"} for the Level 40-80 Spoils! <br> <strong>Note:</strong> Mobs listed vary by accessibility, spoil value, and difficulty. Choose based on your situation. Rift mobs not included. Level brackets are recommendations, spoiling lower level mobs affects [success rates](/faq/gameplay/monsters/#character-mob-level-difference-penalties).
 
 <div class="quest-guide-controls">
@@ -549,11 +551,6 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-80 Spoils! <br> <str
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>50+</td>
-                    <td>Blue Beads Quest</td>
-                    <td>Adena, 60% B-grade weapon recipe, Enchant scrolls (D/C/B/A grade)</td>
-                </tr>
                 <tr>
                     <td>52</td>
                     <td>Plunder Their Supplies</td>
