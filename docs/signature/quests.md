@@ -577,6 +577,11 @@ Thank you **@Aynix**{style="color:white;"} for the Level 40-75 Spoils! [Aynix's 
                     <td>Sealed robe fabrics (Dark Crystal, Majestic, Nightmare, Tallum)</td>
                 </tr>
                 <tr>
+                    <td>60</td>
+                    <td>Whisper of Dreams, Part 2</td>
+                    <td>Dark Crystal / Nightmare / Majestic Robe Recipes (Random)</td>
+                </tr>
+                <tr>
                     <td>57</td>
                     <td>Exploration of Giants Cave, Part 2</td>
                     <td>Majestic/Nightmare Leather/Plate armor</td>
