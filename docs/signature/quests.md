@@ -2085,6 +2085,16 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
             <td>-</td>
         </tr>
         <tr>
+            <td>68-80</td>
+            <td>Ketra Orc Outpost</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>68-80</td>
+            <td>Varka Silenos Barracks</td>
+            <td>-</td>
+        </tr>
+        <tr>
             <td>68-75</td>
             <td>Shrine of the Loyal</td>
             <td>-</td>
@@ -2092,6 +2102,21 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>72-80</td>
             <td>Catacomb of Dark Omens</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>73-85</td>
+            <td>Forge of the Gods</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>73-76</td>
+            <td>Hot Springs</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>74-85</td>
+            <td>Imperial Tomb</td>
             <td>-</td>
         </tr>
         <tr>
