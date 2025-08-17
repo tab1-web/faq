@@ -73,11 +73,12 @@ icon: fontawesome/regular/chess-knight
 | **STR**{style="color:rgb(139, 0, 137); font-weight: bold;"}    | +P. Atk    |
 | **DEX**{style="color:rgb(197, 223, 103); font-weight: bold;"}    | +Atk.Spd, +Accuracy, +Evasion +Critical, +Speed, +Shield def. |
 | **CON**{style="color:rgb(255, 0, 0); font-weight: bold;"}    | +Max HP, +HP Regen Speed, +Shock Resistance, +Bleed Resistance, +Poison Resistance |
-| **INT**{style="color:rgb(25, 55, 164); font-weight: bold;"}    | +M. Atk, (+Curse Success Chance)    |
-| **WIT**{style="color:rgb(42, 169, 55); font-weight: bold;"}    | +Cast. Speed |
+| **INT**{style="color:rgb(25, 55, 164); font-weight: bold;"}    | +M. Atk, +Curse Success Chance    |
+| **WIT**{style="color:rgb(42, 169, 55); font-weight: bold;"}    | +Cast. Speed, +Magic. Crit. Chance |
 | **MEN**{style="color:rgb(0, 255, 251); font-weight: bold;"}    | +M. Def, +Max MP, +MP Regen Speed, +Cast Interrupt Resistance, +Abnormal Resistance. <br> (Hold, Silence, Sleep, Fear, Paralysis, Magic that decreases Cast. Speed, Heal Reduction) |
 
 </figure>
+
 
 For more information about dyes, [click here](../gameplay/dyes.md).
 
