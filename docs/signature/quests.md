@@ -5,6 +5,7 @@ hide:
 search:
   exclude: true
 ---
+# Levelling Guide
 
 <script src="/faq/signature/js/quest.js"></script>
 <link rel="stylesheet" href="/faq/signature/styles/style.css">
