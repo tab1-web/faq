@@ -324,7 +324,7 @@ Soul crystals can break during upgrades with:
 Visit [lineage2wiki.com/c4/exp-calculator](https://lineage2wiki.com/c4/exp-calculator/) for experience calculations.
 
 ### Deleveling
-- Safe for 10 levels (won't lose skills)
+- Safe for 10 levels (learn at 35 -> delevelled to 25: won't lose skills)
 - After 11th level, skills may be lost
 - No expoff command - delevel by hitting guards
 
