@@ -183,9 +183,9 @@ Make sure you have Windows 10/11 and no '[Insider Mode](https://www.microsoft.co
 
 ## 0301 0000135 / 0xc0000135
 
-- [ ] Download and Run: [All in One VC Redistributables](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+- [ ] Download and Run: [All in One VC Redistributables](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) (This solution fixes it most of the time)
 - [ ] Latest Windows 11 version might not be supported by SmartGuard, wait ~3 days for SmartGuard to catch up or [revert the update.](https://support.microsoft.com/en-us/windows/how-to-uninstall-a-windows-update-c77b8f9b-e4dc-4e9f-a803-fdec12e59fb0#ID0EBF=Windows_11)
-- [ ] You are not missing a file.
+- [ ] Please make sure that you are not missing a file.
 
 
 
