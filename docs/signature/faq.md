@@ -3,160 +3,23 @@ icon: material/frequently-asked-questions
 ---
 # FAQ - Signature Server
 
+<link rel="stylesheet" href="/faq/signature/styles/faq-style.css">
+<script src="/faq/signature/js/faq.js"></script>
+
 ## New Player Information
 
 ### Class Selection
 Watch the C4 class guide video for help choosing
 
-<figure>
+<figure markdown>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJAlGHVx5qA?si=eQKHIJHvct8eV0Zu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</figure>
-
 [SPIN THE WHEEL L2 EDITION](https://wheelofnames.com/uyt-dh7) 
 
-<style>
-#taxCalculator {
-    background-color: var(--md-default-bg-color);
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    margin: 20px 0;
-}
 
-.tax-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-bottom: 20px;
-}
+</figure>
 
-.tax-cell {
-    flex: 1;
-    min-width: 200px;
-}
-
-.tax-cell--full {
-    flex-basis: 100%;
-}
-
-#taxCalculator label {
-    display: block;
-    margin-bottom: 8px;
-    font-weight: 600;
-    color: var(--md-primary-fg-color);
-}
-
-#taxCalculator input, 
-#taxCalculator select {
-    width: 100%;
-    padding: 12px;
-    margin-bottom: 15px;
-    border: 1px solid var(--md-typeset-table-color);
-    border-radius: 4px;
-    background-color: var(--md-code-bg-color);
-    color: var(--md-default-fg-color);
-    font-size: 14px;
-    box-sizing: border-box;
-    transition: border-color 0.3s ease;
-}
-
-#taxCalculator input:focus, 
-#taxCalculator select:focus {
-    outline: none;
-    border-color: var(--md-primary-fg-color);
-    box-shadow: 0 0 0 2px var(--md-primary-fg-color--light);
-}
-
-.input-error {
-    border-color: #f44336 !important;
-    box-shadow: 0 0 0 2px rgba(244, 67, 54, 0.2) !important;
-}
-
-.md-button {
-    background-color: var(--md-primary-fg-color);
-    border: none !important;
-    color: #fff !important;
-    padding: 12px 24px;
-    border-radius: 4px;
-    font-size: 14px;
-    font-weight: 500;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    margin-top: 10px;
-}
-
-.md-button:hover {
-    opacity: 0.9;
-    transform: translateY(-1px);
-}
-
-.md-button:disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
-    transform: none;
-}
-
-#result {
-    background-color: var(--md-code-bg-color);
-    padding: 20px;
-    border-radius: 4px;
-    border-left: 4px solid var(--md-primary-fg-color);
-    margin-top: 20px;
-}
-
-#result h3 {
-    margin-top: 0;
-    color: var(--md-primary-fg-color);
-}
-
-#result ul {
-    margin: 10px 0;
-    padding-left: 20px;
-}
-
-#result li {
-    margin: 5px 0;
-}
-
-.error-message {
-    background-color: rgba(244, 67, 54, 0.1);
-    color: #d32f2f;
-    padding: 12px;
-    border-radius: 4px;
-    border-left: 4px solid #f44336;
-    margin-top: 15px;
-    display: none;
-}
-
-.price-highlight {
-    font-weight: bold;
-    color: var(--md-primary-fg-color);
-    font-size: 1.1em;
-}
-
-.success-highlight {
-    background-color: rgba(76, 175, 80, 0.1);
-    border-left-color: #4caf50;
-    transition: all 0.5s ease;
-}
-
-@media (max-width: 768px) {
-    .tax-grid {
-        flex-direction: column;
-        gap: 15px;
-    }
-    
-    .tax-cell {
-        min-width: 100%;
-    }
-    
-    #taxCalculator {
-        padding: 15px;
-    }
-}
-</style>
 
 ### Are there any shadow tickets / cat weapons / adventurer weapons?
 No, Shadow Weapons are Interlude, Adventurer Weapons are from an event which is not enabled.
@@ -746,7 +609,7 @@ Tallying occurs at 18:00 UTC every Monday.
 ### BoM Exchange Rules
 - Upgrading weapons loses enchants
 - Equal exchange keeps enchants
-- Some items (like [Demon Fang]()) cannot be exchanged
+- Some items (like [Demon Fang](https://lineage2wiki.org/c4/item/321/demon-fangs/)) cannot be exchanged
 
 <figure markdown>
 
