@@ -1,51 +1,8 @@
-<style>
-.vanitasss-gradient {
-    --custom-gradient-color-1: #a9c9ff;
-    --custom-gradient-color-2: #d8b4fe;
-    --custom-gradient-color-3: #ffbbec;
-    --custom-gradient-color-4: #ffc3a0;
-    
-    color: transparent;
-    background: linear-gradient(
-        90deg,
-        var(--custom-gradient-color-1),
-        var(--custom-gradient-color-2),
-        var(--custom-gradient-color-3),
-        var(--custom-gradient-color-4),
-        var(--custom-gradient-color-1)
-    );
-    background-size: 300% auto;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradient-scroll 5s linear infinite;
-    
-    text-shadow: 
-        0 0 8px rgba(169, 201, 255, 0.5),
-        0 0 16px rgba(216, 180, 254, 0.4),
-        0 0 24px rgba(255, 187, 236, 0.3);
-}
+# OBT Fixes
 
-@keyframes gradient-scroll {
-    0% { background-position: 0% center; }
-    100% { background-position: 100% center; }
-}
-
-h3 {
-    color: inherit !important;
-    border: none !important;
-    font-size: inherit !important;
-    font-weight: normal !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    display: inline !important;
-}
-
-.content h3::before {
-    content: "";
-    display: none;
-}
-</style>
+<link rel="stylesheet" href="/faq/essence/styles/obt.css">
+<script src="/faq/essence/js/obt.js"></script>
+<script src="/faq/essence/js/obt1.js"></script>
 
 Thank you <span class="vanitasss-gradient">@Vanitasss</span> for providing what has already been fixed during the OBT.
 Everything on this list is **fixed**{style="color:#28a745;"}.
@@ -278,39 +235,3 @@ Everything on this list is **fixed**{style="color:#28a745;"}.
 - ### (FIXED) Enchanting 47318 Blessed of Eva is unavailable
 - ### (FIXED) 87994 Lightning Flash reduces too much Paralysis Resistance
 
-
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const elements = document.querySelectorAll('li, p');
-  
-  elements.forEach(element => {
-    const html = element.innerHTML;
-    
-    const fixedStyled = html.replace(
-      /\(FIXED\)/g, 
-      '<span style="color: #28a745; font-weight: bold;">(FIXED)</span>'
-    );
-    
-    const fakeNewsStyled = fixedStyled.replace(
-      /\(FAKE NEWS\)/g, 
-      '<span style="color: #fd7e14; font-weight: bold;">(FIXED)</span>'
-    );
-    
-    if (fakeNewsStyled !== html) {
-      element.innerHTML = fakeNewsStyled;
-    }
-  });
-
-  const ellipsisElements = document.querySelectorAll('.md-ellipsis');
-  
-  ellipsisElements.forEach(element => {
-    if (element.textContent.includes('Closed Issues')) {
-      element.innerHTML = element.innerHTML.replace(
-        /(Closed Issues)/,
-        '<span style="color: red;">$1</span>'
-      );
-    }
-  });
-});
-</script>
