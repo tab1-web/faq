@@ -201,6 +201,8 @@ icon: material/sword
 
 </div>
 
+<link rel="stylesheet" href="/faq/eternal/styles/levelling.css">
+<script src="/faq/eternal/js/levelling.js"></script>
 
 ## Leveling Zones
 
