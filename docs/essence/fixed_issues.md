@@ -50,6 +50,48 @@ h3 {
 Thank you <span class="vanitasss-gradient">@Vanitasss</span> for providing what has already been fixed during the OBT.
 Everything on this list is **fixed**{style="color:#28a745;"}.
 
+## Closed Issues Update 18/08/2025
+
+- ### (FIXED) Shilien's Help ID: 88072 from SK's passive ID: 45372 is not using soulshot bonus damage
+- ### (FIXED) Force Storm ID: 35 is missing 10% ignore defense
+- ### (FIXED) Guardian XP Scroll ID: 94636 is currently a package that doesn't give any item
+- ### (FIXED) [Bug]beleth ring +5/6 id 97074 does not proc a buff
+- ### (FIXED) [Bug] Heal incorrect modifiers
+- ### (FIXED) 88285 Over the Rainbow isn't cleansing 45443 Cacophony of War
+- ### (FIXED) Heroic doll guaranteed compounding not adding up
+- ### (FIXED) Doombringer PVE Bonus from Ancient Sword Mastery is not working as intended
+- ### (FIXED+FAKE NEWS) Trickster - legendary archer master/ mental panic shot and legendary twin shot.
+- ### (FIXED) SLH PvE damage bonus from Rapier Mastery has no effect (Balance 3.0)
+- ### (FIXED) Dark Disruption removes werewolf form instead of werewolf form upgrade
+- ### (FIXED) 1452 Weaver's Shield recovers no MP when skill effect ends
+- ### (FIXED) 87972 Supernova does not hit second time when Flowing Tears Lv 2 is applied
+- ### (FIXED) SWS/BD main attack skill isn't triggering aoe when one-shotting mobs
+- ### (FIXED) 47427 Ultimate Legendary Twin Shot has no visual effects and particles
+- ### (FIXED) Mystic freeze bubble doesn't cast on target
+- ### (FIXED) Chain heal is healing more than intended
+- ### (FIXED) Received Items of System Messages are shown in regular chat instead of system message window only
+- ### (FIXED) New jewels are missing pity system
+- ### (FIXED) Rush type skills are spammed in autohunt against mobs with hitbox larger than rush distance treshhold
+- ### (FIXED) Aden soul crystal lvl 22 - Movement Speed
+- ### (FIXED) Target behaviour for Advanced Cleanse
+- ### (FIXED) 50522 Absolute Zero from Frost Lord Weapons does not reduce Spear resistance
+- ### (FIXED) 87307 Assassination does not trigger 3rd attack
+- ### (FIXED) Tricksters Deadly Shooter debuff Aim guidance has lower priority than Bow vulnerability ( Class balance made it weaker )
+- ### (FIXED) 87307 Assassination does not leave a shadow after killing target
+- ### (FIXED) [Bug] Eva's Templar's "Aqua Wave" not working during autohunting
+- ### (FIXED) Combat power isn't considering anything other than equipment
+- ### (FIXED) Critical Blow is not using soulshots
+- ### (FIXED) Reviving after death ID: 45346 has fixed cooldown
+- ### (FIXED) HP Recovery effect on buffs that increase Max HP % should work on starting Max HP instead of modified Max HP value
+- ### (FIXED) Displayed pity progression shows incorrect values
+- ### (FIXED) Servitor skills have no effect
+- ### (FIXED) Protection shield trigger heals max HP % instead of max hp % from INCREASED HP of the shield trigger ( Thanks Vahrenir )
+- ### (FIXED)Main quests being repeated
+- ### (FIXED) Quests "Thwarting Dragon's plans" 1 to 5 and "Exploring Cruma tower 2nd Floor" 1 to 3 can be accepted again after teleporting
+- ### (FIXED) Cruma quest(s) Edit: Exploring the cruma tower 3rd floor 1 2 3 - Can be accepted again after teleporting anywhere
+- ### (FIXED) Buff thief ID: 45390  Soul Steal ID: 1440 and Soul Snatch ID: 47980 heal HP when they steal healing buffs
+
+
 ## Closed Issues - 09/08/2025
 
 - ### (FIXED) Soul Mark ID: 47976 is using silence atk/resistance on land rate chance
