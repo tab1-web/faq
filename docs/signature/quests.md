@@ -2169,6 +2169,26 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
                     <td>Parcel Delivery</td>
                     <td>82k Adena Reward</td>
                 </tr>
+                <tr>
+                    <td>75</td>
+                    <td>Alliance with Ketra Orcs, Alliance with Varka Silenos</td>
+                    <td>Required for 3rd Class Quests, if you level up the Badge to 5 (through series of Raid Bosses), you can get S Grade Armor Recipes <br> So if you Ally with Ketra you kill in Varka OR if you ally with Varka you kill in Ketra</td>
+                </tr>
+                <tr>
+                    <td>75</td>
+                    <td>Fate's Whisper</td>
+                    <td>Subclass Quest</td>
+                </tr>
+                <tr>
+                    <td>75</td>
+                    <td>Mimir's Elixir</td>
+                    <td>Subclass Quest, needs: 100 Moonstone Shards, 10 Volcano Ash, 2 Quick Silver from <a href="https://lineage2wiki.org/c5/quest/373/supplier-of-reagents/">Supplier of Reagents Quest</a></td>
+                </tr>
+                <tr>
+                    <td>50 Sub</td>
+                    <td>Noblesse Quests</td>
+                    <td><a href="https://lineage2wiki.org/c5/quest/373/supplier-of-reagents/">Supplier of Reagents Quest</a> <br> <strong>WARNING:</strong> On the Wiki Demonic Essence is needed for Hellfire Oil, not Draconic Essence</td>
+                </tr>
             </tbody>
         
 </table>

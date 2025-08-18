@@ -26,6 +26,10 @@ class QuestGuideController {
             {
                 text: 'Class Change',
                 url: '/faq/gameplay/progression/classtransfer'
+            },
+            {
+                text: 'Noblesse Quests',
+                url: '/faq/gameplay/progression/noblesse/'
             }
         ];
         
