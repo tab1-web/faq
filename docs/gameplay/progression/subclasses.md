@@ -70,6 +70,8 @@ To unlock your subclass, complete the following quests
         - 2 Quick Silver
         
         ---
+
+        > On **Eternal**{style="color:red;"} you can make the Pure Silver at Maria instead of the Mixing Urn.
         
         [**:octicons-arrow-right-24: Mimir's Elixir**](https://lineage2wiki.com/c4/quest/235/mimirs-elixir/) (Mixing Mats at the Urn)
 
