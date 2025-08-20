@@ -50,6 +50,18 @@ h3 {
 Thank you <span class="vanitasss-gradient">@Vanitasss</span> for providing what has already been fixed during the OBT.
 Everything on this list is **fixed**{style="color:#28a745;"}.
 
+## Closed Issues Update 20/08/2025
+
+- ### (FIXED) Force Storm ID: 35 is missing 10% ignore defense
+- ### (FIXED) Shilien's Help ID: 88072 from SK's passive ID: 45372 is not using soulshot bonus damage
+- ### (FIXED) Knockdown immunity is applied even if target resists it
+- ### (FIXED) Thwarthing dragons' plans - 1 random teleport
+- ### (FIXED) Legendary Archer: Master adds incorrect PvE Damage stat
+- ### (FIXED) Reward for mission 'Special reward for reaching lv 92 gives a ticket for legacy jewels
+- ### (FIXED) After repairing damaged equipment  inventory window shows up
+- ### (FIXED) 101921 Life Control Tower's Scroll of Blessing adena shop purchase limit
+- ### (FIXED) (DEV) Dolls that are an upgrade to current doll rank (e.g: superior to rare ) seem to remove all stats corresponding to that doll until relogging #58
+
 ## Closed Issues Update 18/08/2025
 
 - ### (FIXED) Shilien's Help ID: 88072 from SK's passive ID: 45372 is not using soulshot bonus damage
