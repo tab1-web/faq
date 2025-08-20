@@ -960,7 +960,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
                 <tr>
                     <td>47</td>
                     <td>Warehouse Keeper's Ambition</td>
-                    <td>~53k, Enchant Valley Jewels quest</td>
+                    <td>~53k, Enchant Valley Jewels quest, killing Forest Runners should be easy</td>
                 </tr>
                 <tr>
                     <td>48</td>
