@@ -66,69 +66,54 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </thead>
     <tbody>
         <tr>
-            <td>18-25</td>
-            <td>Eastern Mining Zone</td>
-            <td>-</td>
+            <td>15-25</td>
+            <td>Ruins of Despair</td>
+            <td>Undeads, x1 mobs, relatively easy hunting spot</td>
         </tr>
         <tr>
-            <td>18-30</td>
-            <td>Windy Hill</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>19-22</td>
-            <td>The Ruined Bend</td>
-            <td>-</td>
+            <td>15-25</td>
+            <td>Ruins of Agony</td>
+            <td>Same as Ruins of Despair a bit higher level mobs deeper you go</td>
         </tr>
         <tr>
             <td>19-24</td>
             <td>Langk Lizardman Dwellings</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>19-25</td>
-            <td>Southern Entrance of Wastelands</td>
-            <td>-</td>
+            <td>Lizards, some are archers and shamans, related quest: Dragon Fangs for some random D grade equip</td>
         </tr>
         <tr>
             <td>20-27</td>
             <td>Maille Lizardman Barracks</td>
-            <td>-</td>
+            <td>Easy 1/2x mobs</td>
         </tr>
         <tr>
             <td>20-30</td>
             <td>Mithril Mines</td>
-            <td>-</td>
+            <td>Wide variety of mobs: skeletons, casters, casters, golems with good mob density, be careful as there are more aggressive mobs</td>
         </tr>
         <tr>
             <td>20-30</td>
             <td>Necropolis of Sacrifice</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>21-25</td>
-            <td>Dion Hills</td>
-            <td>-</td>
+            <td>Catacombs, they can cast on themselves Berserker Spirit, on Dawn winning you can see more casters</td>
         </tr>
         <tr>
             <td>22-25</td>
             <td>Windawood Manor</td>
-            <td>-</td>
+            <td>Probably the best place for supports as the Eyes are wind weak and easy monsters relatively, there's a good quest for them : Sense For Business</td>
         </tr>
         <tr>
             <td>22-25</td>
             <td>Ol Mahum Checkpoint</td>
-            <td>-</td>
+            <td>Mobs are bit too spread further you go in, though Eyes can be found at the entrance along with Skeletons</td>
         </tr>
         <tr>
             <td>23-28</td>
-            <td>Plains of Dion</td>
-            <td>-</td>
+            <td>Dion Hills</td>
+            <td>Relatively easy x1 mobs, Monster Eye Searchers are x2 casters: Wind + Weak weakness, good for spoilers, mages need D grade gun, good mob density</td>
         </tr>
         <tr>
-            <td>25-25</td>
-            <td>Fellmere Lake</td>
-            <td>-</td>
+            <td>26-30</td>
+            <td>Windy Hill</td>
+            <td>Caster Mobs x1 mobs with Bow Weak Point, needs jewelry</td>
         </tr>
     </tbody>
 </table>
@@ -420,68 +405,58 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     <tbody>
         <tr>
             <td>30-34</td>
-            <td>Floran Agricultural Area</td>
-            <td>-</td>
+            <td>Floran Village</td>
+            <td>Lizards with some casters and snipers, be careful as they can snipe you from the trees, you'll feel like you are back in Vietnam, you'll need mid D grade gun</td>
         </tr>
         <tr>
             <td>30-35</td>
             <td>Breka's Stronghold</td>
-            <td>-</td>
+            <td>Slow orcs, the Overlords can be difficult to kill, at low hp they cast UD on themselves, should be easy farm</td>
         </tr>
         <tr>
             <td>30-40</td>
             <td>Death Pass</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>30-40</td>
-            <td>Dragon Valley</td>
-            <td>-</td>
+            <td>People mostly go here for the Fettered Souls, they are undead and x2 HP with Holy Weak Point</td>
         </tr>
         <tr>
             <td>30-40</td>
             <td>Field of Silence</td>
-            <td>-</td>
+            <td>The best place for nukers, Snipers & Ogres when you go deeper if you need more experience, or stay on the beginning for killing the Lizards with Black Swan quest for lot of Adena, you can bring in 10 quest items if you want the bonus Adena too</td>
         </tr>
         <tr>
             <td>30-40</td>
             <td>Heretics Catacomb</td>
-            <td>-</td>
+            <td>Catacomb with x4 mobs, the best spots are probably in the beginning and the light armor mobs on the right bottom corner, others are with mobs with Slow skill</td>
         </tr>
         <tr>
             <td>31-36</td>
             <td>Gorgorn Flower Garden</td>
-            <td>-</td>
+            <td>Turak Bugbear Warrior x2 mobs , all the others are x1, be careful of the Harpies as they cast Slow, wouldn't really recommend to AoE here, good place for Fighters</td>
         </tr>
         <tr>
             <td>32-40</td>
             <td>Pilgrims Necropolis</td>
-            <td>-</td>
+            <td>Mobs with Slow on the bottom right, best spot would be farming on the top right of the Catacomb</td>
         </tr>
         <tr>
             <td>34-40</td>
             <td>Field of Whispers</td>
-            <td>-</td>
+            <td>Mobs have big spread, related to the quest: Method to Raise the Dead, Crokian Warriors are x2, more fighter focused location</td>
         </tr>
         <tr>
             <td>22-40</td>
             <td>The Ant Nest</td>
-            <td>-</td>
+            <td>Ants can cast poison, theres huge mob density, though they're kinda difficult to kill if theres lot of them, they're also fire weak which can be good for Human Wizards</td>
         </tr>
         <tr>
             <td>22-40</td>
             <td>Wasteland</td>
-            <td>-</td>
+            <td>Mobs are spread out, I wouldn't really recommend to farm here unless for the Golems, they are great for fighters and are blunt weak</td>
         </tr>
         <tr>
             <td>38-40</td>
             <td>Hardin's Academy</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>38-40</td>
-            <td>Alligator Beach</td>
-            <td>-</td>
+            <td>Fettered Soul farm mostly for fighters</td>
         </tr>
     </tbody>
 </table>
@@ -549,11 +524,6 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
             <td>39</td>
             <td>Devil's Legacy</td>
             <td>Random: EWC, EAC, CBP, Leather, Cokes, Animal Bones ... ~5k Adena</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
@@ -867,77 +837,72 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>40-50</td>
             <td>Sea of Spores</td>
-            <td>-</td>
+            <td>Lots of casters, low HP mobs</td>
         </tr>
         <tr>
             <td>40-51</td>
             <td>Alligator Island</td>
-            <td>-</td>
+            <td>On the hills and deeper there are x2 mobs and grouped mobs which can give lot of Adena, though they are very difficult to kill alone, the "Archers" can hit for a lot of damage</td>
         </tr>
         <tr>
             <td>40-52</td>
             <td>Garden of Eva</td>
-            <td>-</td>
+            <td>Difficult to get there, but a great place for AoE destroyers</td>
         </tr>
         <tr>
             <td>40-55</td>
             <td>The Forest of Mirrors</td>
-            <td>-</td>
+            <td>You can level up your crystals here too, watch out for the Aggro Archers</td>
         </tr>
         <tr>
             <td>40-57</td>
             <td>Skyshadow Meadow</td>
-            <td>-</td>
+            <td>Best place for Nukers, though fighters can also come here and either find some corner in the trees to kill </td>
         </tr>
         <tr>
             <td>40-50</td>
             <td>Ivory Tower</td>
-            <td>-</td>
+            <td>Some 2nd class books can be found here, for reward</td>
         </tr>
         <tr>
             <td>41-45</td>
             <td>Timak Outpost</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>43-55</td>
-            <td>Pirate Tunnel</td>
-            <td>-</td>
+            <td>Some overlord/warcryer books can be found here, you can also gather Blood Medusa from Coins of Magic</td>
         </tr>
         <tr>
             <td>43-65</td>
             <td>Devil's Isle</td>
-            <td>-</td>
+            <td>Mobs can change from day/night cycle, most mobs do Dark Attacks, though the Flying Demons are archers and can hit like a truck, haven't really AoE farmed here to know how good it is</td>
         </tr>
         <tr>
             <td>45-56</td>
             <td>The Enchanted Valley</td>
-            <td>-</td>
+            <td>2nd class books can be found here too, mobs can be tough at some places, though the Forest Runner place can be easy and have quest: Warehouse Keeper's Ambition</td>
         </tr>
         <tr>
             <td>45-70</td>
             <td>The Cemetery</td>
-            <td>-</td>
+            <td>Mostly undead, easy mobs</td>
         </tr>
         <tr>
             <td>46-50</td>
             <td>Tanor Canyon</td>
-            <td>-</td>
+            <td>1/2 grouped mobs, good for aoe/single target both nukers and fighters, though the Silenos Mage group have reflect on them, fighters should avoid it, related quest: Warehouse Keeper's Pastime</td>
         </tr>
         <tr>
             <td>46-52</td>
             <td>Forest of Evil Spirit</td>
-            <td>-</td>
+            <td>Mobs above the Ivory Tower are great, you can also gather Silver Unicorns from Coins of Magic here</td>
         </tr>
         <tr>
             <td>35-60</td>
             <td>Plains of the Lizardmen</td>
-            <td>-</td>
+            <td>Mobs can be tough, at the bottom of Lizardmen there are some wolves that are easier to kill</td>
         </tr>
         <tr>
             <td>40-60</td>
             <td>Dragon Valley</td>
-            <td>-</td>
+            <td>Undeads everywhere, sometimes mobs can appear in groups which can give good experience, watch out for Strains doing Life Steals as it can damage a lot</td>
         </tr>
         <tr>
             <td>40-51</td>
