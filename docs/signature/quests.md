@@ -318,7 +318,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>20</td>
             <td>Red-Eyed Invaders</td>
-            <td>x1 Rod, x500 Bait, x60 Lure (you can sell item fish, not proofs, on grocery for some adena)</td>
+            <td>x1 Rod, x500 Bait, x60 Lure (you can sell item fish, not proofs, on grocery for some adena) <br>Not really recommended unless you wanna try Fishing</td>
         </tr>
         <tr>
             <td>20</td>
@@ -328,12 +328,12 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>21</td>
             <td>Seductive Whispers, Will the Seal be Broken</td>
-            <td>Unique quests for Adena <br> Only Dark Elves</td>
+            <td>Unique quests for Adena <br> Only Dark Elves <br>Recommended to get</td>
         </tr>
         <tr>
             <td>21</td>
             <td>Blood Fiend</td>
-            <td>Unique quest for Adena <br> Excluding Dark Elves</td>
+            <td>Unique quest for Adena <br> Excluding Dark Elves<br>Recommended to get</td>
         </tr>
         <tr>
             <td>21</td>
@@ -373,17 +373,17 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>27</td>
             <td>Acts of Evil</td>
-            <td>Around 98k adena</td>
+            <td>Around 98k adena, takes a bit of time</td>
         </tr>
         <tr>
             <td>28</td>
-            <td>A Wiseman Sows Seeds</td>
-            <td>3.6k Adena</td>
+            <td>An Elder Sows Seeds</td>
+            <td>3.6k Adena<br>Pick it up if you wanna hunt in Ant Nest</td>
         </tr>
         <tr>
             <td>30</td>
             <td>Lizardmen's Conspiracy</td>
-            <td>Repeatable quests that gives 42000 sp, worth doing until 32</td>
+            <td>Repeatable quests that gives 42000 sp, worth doing until 32<br>Recommended quest</td>
         </tr>
     </tbody>
 </table>
@@ -518,7 +518,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>39</td>
             <td>Help Rood Raise A New Pet</td>
-            <td>Killing the Flying Dragon Monsters in Field of Silence, ~4k adena</td>
+            <td>Killing the Flying Dragon Monsters in Field of Silence, ~4k adena <br> though killing either Snipers & Ogres should be better in terms of Experience</td>
         </tr>
         <tr>
             <td>39</td>
