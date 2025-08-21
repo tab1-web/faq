@@ -137,6 +137,8 @@ The visual effect is actually poison from the [Fairy Tree of Abyss](https://line
 ### Dye Information
 Refer to the dye chart for specific dye combinations and effects.
 
+[![Ajj0fbu.png](https://i.postimg.cc/VNnKQ6qP/Ajj0fbu.png){width=60%}](https://postimg.cc/Z9Y86Jsw)
+
 ### Hero Weapons Info
 <div class="grid cards" markdown>
 
