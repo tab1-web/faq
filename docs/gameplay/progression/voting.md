@@ -59,7 +59,7 @@ icon: material/vote-outline
 
 ## Signature Server Rates
 
-- **Base Rates:** 0.75x for all (Adena, Drops, Quests)
+- **Base Rates:** 0.75x for all (Adena, Drops, Quests, EXP)
 - **With Vote/VIP:** 1.0x rates
 
 ### Party Mechanics
