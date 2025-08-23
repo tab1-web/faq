@@ -97,7 +97,7 @@ hide:
 
 
 
-- ## :material-server: Essence x1 (High Elf)
+- ## :material-server: Essence x1 (Warg)
     **Progressive Server (Modern Chronicles)**
 
     - :material-gamepad-variant-outline: __Gameplay__: Laid-back auto-farm  
