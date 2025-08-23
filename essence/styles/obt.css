@@ -1,0 +1,88 @@
+.vanitasss-gradient {
+    --custom-gradient-color-1: #a9c9ff;
+    --custom-gradient-color-2: #d8b4fe;
+    --custom-gradient-color-3: #ffbbec;
+    --custom-gradient-color-4: #ffc3a0;
+    
+    color: transparent;
+    background: linear-gradient(
+        90deg,
+        var(--custom-gradient-color-1),
+        var(--custom-gradient-color-2),
+        var(--custom-gradient-color-3),
+        var(--custom-gradient-color-4),
+        var(--custom-gradient-color-1)
+    );
+    background-size: 300% auto;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient-scroll 5s linear infinite;
+    
+    text-shadow: 
+        0 0 8px rgba(169, 201, 255, 0.5),
+        0 0 16px rgba(216, 180, 254, 0.4),
+        0 0 24px rgba(255, 187, 236, 0.3);
+}
+
+@keyframes gradient-scroll {
+    0% { background-position: 0% center; }
+    100% { background-position: 100% center; }
+}
+
+h3 {
+    color: inherit !important;
+    border: none !important;
+    font-size: inherit !important;
+    font-weight: normal !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: inline !important;
+}
+
+.content h3::before {
+    content: "";
+    display: none;
+}
+
+h2[data-collapsible="true"] {
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    padding-right: 30px;
+    transition: color 0.2s ease;
+}
+
+h2[data-collapsible="true"]:hover {
+    color: var(--md-primary-fg-color, #1976d2);
+}
+
+h2[data-collapsible="true"]::after {
+    content: '▼';
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 14px;
+    transition: transform 0.3s ease;
+    color: #666;
+}
+
+h2[data-collapsible="true"][data-collapsed="true"]::after {
+    transform: translateY(-50%) rotate(-90deg);
+}
+
+.auto-collapsible-content {
+    overflow: hidden;
+    transition: max-height 0.4s ease-out, opacity 0.3s ease-out;
+    max-height: none;
+    opacity: 1;
+}
+
+.auto-collapsible-content[data-collapsed="true"] {
+    max-height: 0;
+    opacity: 0;
+    margin-bottom: 0;
+}
+
+
