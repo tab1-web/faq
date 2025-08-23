@@ -29,7 +29,7 @@ icon: material/mushroom-outline
 
 
 - <figure markdown>
-    [![augment2.png](https://i.postimg.cc/SQcKb9Xc/augment2.png)](https://postimg.cc/yWYKFkyN)
+    [![auto-ench.png](https://i.postimg.cc/Jh3Skpm0/auto-ench.png)](https://postimg.cc/5H0PcqXW)
     </figure>
 
 - ### Enchanting Skills
