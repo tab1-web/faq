@@ -44,4 +44,5 @@ icon: fontawesome/solid/angles-up
     - It means that getting a specific Active or Passive is not dependant on Life Stone Grades.
 - **Restrictions**: No drop/trade/sell/freight/clan storage (private OK), augment is removable
 - **Other**: Compatible with enchants, high-grade glows, adds name prefix
-- **Limitations**: No dual swords or Mammon trades
+- **Limitations**: No dual swords
+    - You can still put SA on weapons AFTER putting AUGMENTS, just click "**EXCHANGE**"
