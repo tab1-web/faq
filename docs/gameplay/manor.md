@@ -216,7 +216,7 @@ Manor is a farming system that lets ANY class (not just dwarves) get crafting ma
 ## The Economics Behind Manor
 
 ### Why Manor Removes Monster Drops
-When you use Manor seeds, the monster drops NOTHING except adena and your fruit harvest. 
+When you use Manor seeds, the monster drops NOTHING except adena, seal stones, quests and your fruit harvest. 
 
 **What happens to the lost drops?**
 The game calculates how much your drops would have been worth, then gives you fruits of equivalent value. So you're not losing out, just getting rewards in a different form.
