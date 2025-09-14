@@ -2498,7 +2498,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
       <td>8</td>
-      <td>Trade with Ivory Tower</td>
+      <td>Trade with the Ivory Tower</td>
       <td>Repeatable quests</td>
     </tr>
     <tr>
