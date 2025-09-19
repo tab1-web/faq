@@ -77,12 +77,12 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         </tr>
         <tr>
             <td>19-24</td>
-            <td>Langk Lizardman Dwellings</td>
+            <td>Langk Lizardmen Dwellings</td>
             <td>Lizards, some are archers and shamans, related quest: Dragon Fangs for some random D grade equip</td>
         </tr>
         <tr>
             <td>20-27</td>
-            <td>Maille Lizardman Barracks</td>
+            <td>Maille Lizardmen Barracks</td>
             <td>Easy 1/2x mobs</td>
         </tr>
         <tr>
