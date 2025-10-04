@@ -13,8 +13,8 @@ function updatePeriodDisplays() {
        <strong style="color: #ff3333" >Blacksmith of Mammon</strong> and <strong style="color: #ff3333" >Merchant of Mammon</strong> are <strong style="color: #ff3333" >not available.</strong>`,
         SEAL: `During Seal Effective Week, <strong style="color:red;">players cannot register to fight in the Catacombs.</strong> <br> 
         In order to hunt in the Catacombs, you need to be registered and be on the winning side. <br> <br>
-        <strong style="color: #32cd32" >Blacksmith of Mammon is at:</strong> Witch / Heretic <br>
-        <strong style="color: #32cd32 ">Merchant of Mammon is at:</strong> Disciples / Sacrifice `
+        <strong style="color: #32cd32" >Blacksmith of Mammon is at:</strong> Witch  <br>
+        <strong style="color: #32cd32 ">Merchant of Mammon is at:</strong> Martyr `
     };
     
     const now = new Date();

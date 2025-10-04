@@ -22,7 +22,7 @@ Watch the C4 class guide video for help choosing
 
 
 ### Are there any shadow tickets / cat weapons / adventurer weapons?
-No, Shadow Weapons are Interlude, Adventurer Weapons are from an event which is not enabled.
+Shadow Weapons are in Interlude, Cat Weapons or Adventurer Weapons are enabled.
 
 ### Newbie Buffs
 Available from the Newbie Guide NPC.
@@ -67,7 +67,7 @@ Visit [l2reborn.org/reborn-shop](https://l2reborn.org/reborn-shop/) to vote ever
 ## General
 
 ### Current Chronicle
-Chronicle 4
+Chronicle 5
 
 ### Shortcuts Reset
 Yes, shortcuts reset and cannot be fixed.
@@ -167,26 +167,16 @@ Pet buffs unlock at:
 - Level 62: Effect 2
 - Level 68: Effect 3
 
-### Dimensional Diamonds
-In C4, you receive:
-
-- Trials: 8 Dimensional Diamonds
-- Testimony: 16 Dimensional Diamonds
-- Tests: 0 Dimensional Diamonds
 
 ### Soul Crystals
-Soul crystals can break during upgrades with:
-
-- 1-2% break chance
-- 82% chance nothing happens
+Soul Crystals do not break in C5.
 
 ### Enchanting System
-- Armors: Can be upgraded to +20
-- Weapons: Can be infinitely enchanted
 - Blessed Enchants prevent breakage but don't increase success chance
+- Look up the enchant chances here: [lineage2wiki.org/c5/](https://lineage2wiki.org/c5/)
 
 ### Experience Table
-Visit [lineage2wiki.com/c4/exp-calculator](https://lineage2wiki.com/c4/exp-calculator/) for experience calculations.
+Visit [lineage2wiki.com/c5/exp-calculator](https://lineage2wiki.org/c5/exp-calculator/) for experience calculations.
 
 ### Deleveling
 - Safe for 10 levels (learn at 35 -> delevelled to 25: won't lose skills)
@@ -215,11 +205,11 @@ No improved pets available (Signature won't go beyond Interlude)
 ## Clan System
 
 ### Clan Leave Cooldown
-- 5-day cooldown after leaving/kicked from clan
-- 5-day cooldown before clan can re-invite
+- 1-day cooldown after leaving/kicked from clan
+- 1-day cooldown before clan can re-invite
 
 ### Clan Leader Transfer
-Not available in C4 (comes in C5)
+Available in C5.
 
 ## Party System
 
@@ -270,7 +260,8 @@ Quests can conflict when targeting the same mob, reducing item drops.
                 <option value="innadril">Innadril Castle</option>
                 <option value="oren">Oren Castle</option>
                 <option value="goddard">Goddard Castle</option>
-                <option value="none">No Castle (Rune/Dwarven/Orc)</option>
+                <option value="schuttgart">Schuttgart Castle</option>
+                <option value="rune">Rune Castle</option>
             </select>
         </div>
         <div class="tax-cell">
@@ -329,10 +320,12 @@ const townData = {
     goddard: [
         {name: "Goddard", rate: 20}
     ],
-    none: [
+    rune: [
+        {name: "Rune", rate: 20}
+    ],
+    schuttgart: [
         {name: "Dwarven Village", rate: 15},
         {name: "Orc Village", rate: 15},
-        {name: "Rune", rate: 20}
     ]
 };
 
@@ -605,8 +598,8 @@ Tallying occurs at 18:00 UTC every Monday.
 ## Items & Crafting
 
 ### BoM/MoM Locations
-- Blacksmith of Mammon: Witch/Heretics
-- Merchant of Mammon: Sacrifice/Disciples
+- Blacksmith of Mammon: Witch
+- Merchant of Mammon: Martyr
 
 ### BoM Exchange Rules
 - Upgrading weapons loses enchants
