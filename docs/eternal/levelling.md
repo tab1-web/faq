@@ -415,9 +415,11 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
 - **78-85**: Primeval Isle - Rune
     - [:fontawesome-solid-scroll: Rise and Fall of the Elroki Tribe Quest](https://lineage2wiki.org/interlude/quest/643/rise-and-fall-of-the-elroki-tribe/)
         - Random Top A Grade Weapon Keys
+        - Hunt: Pachycephalosaurus, Wild Striders
         - Go to [Orahochin](https://lineage2wiki.org/interlude/monster/32111/orahochin/) to teleport to another Island and exchange 300 Dino Bones to [Karakawei](https://lineage2wiki.org/interlude/monster/32117/karakawei/) for 5 Random Top A Grade Weapon Keys
         - [:fontawesome-solid-scroll: A Powerful Primeval Creature](https://lineage2wiki.org/interlude/quest/642/a-powerful-primeval-creature/)
             - Top A Grade Weapon Recipes
+            - Hunt Velociraptor, Pterosaur, Ornithominus and Deinonychus
     - Included in the missions as well
 
 ## Important Quests
