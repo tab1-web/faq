@@ -50,6 +50,7 @@ nav:
     - Tools:
       - L2Calc (Character): features/l2calcinterlude.md
       - L2Calc (Summons): features/l2calcsum.md
+      - L2MagicCalc: features/l2magic.md
       - C5+ Map: features/c5map.md
     - Character Progression:
       - Voting: gameplay/progression/voting.md

@@ -34,7 +34,7 @@ allowing you to switch classes.
 To unlock your subclass, complete the following quests
 
 
-!!! tip "Noblesse Quests"
+!!! tip "Subclass Quests"
 
     === "**Fate's Whisper**"
         **Start NPC:** [[Maestro] Reorin](https://lineage2wiki.org/c4/monster/8002/reorin-maestro/)
@@ -128,6 +128,7 @@ Your **main class is the selected one**, the cell turns `grey` if you can't have
 | Warlord         |                    |                  |           |               |
 | Gladiator       |                    |                  |           |               |
 | Bishop          |                    |                  |           |               |
+| Prophet         |                    |                  |           |               |
 
 ## For Origins & Forever H5 Kamael Tables
 
