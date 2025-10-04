@@ -316,21 +316,6 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
         - Tallum Boots: [:material-drama-masks: Alpen Kookaburra](https://lineage2wiki.org/interlude/monster/21468/alpen-kookaburra/)
 
 - **63-69**: Forest of the Dead - Rune
-    - **Hiding Behind the Truth Quest Chain** (B Grade Jewels):
-        0. **63** [:fontawesome-solid-scroll: Hidden Truth](https://lineage2wiki.org/interlude/quest/21/hidden-truth/)
-        1. **65**: [:fontawesome-solid-scroll: Tragedy in von Hellman Forest](https://lineage2wiki.org/interlude/quest/22/tragedy-in-von-hellmann-forest/)
-        2. **64**: [:fontawesome-solid-scroll: Lidia's Heart](https://lineage2wiki.org/interlude/quest/23/lidias-heart/)
-        3. **65**: [:fontawesome-solid-scroll: Inhabitants of the Forest of the Dead](https://lineage2wiki.org/interlude/quest/24/inhabitants-of-the-forest-of-the-dead/)
-        4. **66**: [:fontawesome-solid-scroll: Hiding Behind The Truth](https://lineage2wiki.org/interlude/quest/25/hiding-behind-the-truth/)
-
-    - **Final Rewards Choice**:
-        - **Meet Lidia**:
-            - 1x [:material-ear-hearing: Earring of Blessing](https://lineage2wiki.org/interlude/item/874/earring-of-blessing/)
-            - 2x [:material-ring: Ring of Blessing](https://lineage2wiki.org/interlude/item/905/ring-of-blessing/)
-        - **Meet Hardin**:
-            - 1x [:material-necklace: Necklace of Blessing](https://lineage2wiki.org/interlude/item/936/necklace-of-blessing/)
-            - 1x [:material-ear-hearing: Earring of Blessing](https://lineage2wiki.org/interlude/item/874/earring-of-blessing/)
-
     - [:fontawesome-solid-scroll: Necromancer's Request Quest](https://lineage2wiki.org/interlude/quest/632/necromancers-request/)
         - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/necromancer/)
 
