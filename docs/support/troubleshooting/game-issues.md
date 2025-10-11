@@ -4,7 +4,10 @@ icon: fontawesome/solid/gamepad
 
 ## Maximum Characters Reached
 
-- Try deleting the SmartGuard folder in `/Reborn/games/eternal/system-eu/SmartGuard`
+Login with the last character you logged.
+
+**Eternal:**
+
 - I fixed it one time for my friend by logging his character and using Maria to teleport.
 - Daily Server Restart at 8 am UTC helps too.
 - If issue persists, [open a ticket](https://l2reborn.org/support/).
@@ -62,6 +65,9 @@ This solution fixes the buttons not working for Monster Data / Spoil / Reborn St
 Delete `windowsinfo.ini` and `option.ini` and **repair**.
 
 They're found in: `\Reborn\games\signature\system\`
+
+OR try make your l2 window really small and go full screen with alt+enter. 
+
 <figure markdown="1">
 <a href="https://postimg.cc/yD7dg1Qs">
 ![Buttons Fix Video](https://i.postimg.cc/2SZBt3nb/13Jl6Qc.gif){ width=50% .lightbox }
