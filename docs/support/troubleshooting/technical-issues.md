@@ -9,6 +9,7 @@ Please make sure that:
 
 - [ ] You are using **Windows 10 or 11**.
 - [ ] Your Windows copy is **legitimate** and **not run in a virtual environment**. **No debug/insider version**.
+- [ ] Windows Core Isolation is disabled ! (otherwise it gives Kernel Mode Trap and you can enable it back with time)
 - [ ] **Reborn files (l2.exe)** and **folders** are added as **exceptions/exclusions** in your [antivirus](https://youtu.be/1r93NtwZt4o) and [firewall settings](https://youtu.be/zijsJZionv0). 
 - [ ] ESET/BitDefender/Kaspersky/McAfee/Malwarebytes/Avast/AVG anti-viruses
     - **Don't care about your settings, uninstall them to run L2**.
