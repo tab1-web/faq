@@ -46,12 +46,30 @@ Login with the last character you logged.
 </a>
 </figure>
 
+## How can I fix lag and disconnection issues?
+
+**For players in South America:**
+The most reliable solution is to use a VPN to bypass a known damaged internet backbone between South America and the game's servers.
+
+*   **Use a VPN:** Connect to a **New York, USA** server, as this is the location officially recommended by GMs to avoid the broken route.  Many VPNs offer free trials.
+*   **Alternative Locations:** If New York doesn't work, try other US cities like Miami or Washington, European server or other VPNs.
+
+**Why is this happening?**
+
+The root cause for SA players is a damaged physical internet cable (internet backbone) between South America and the game's data centers. 
+
+This is a large-scale infrastructure issue outside the game staff's control. Using a VPN creates a new, stable "tunnel" for your data, bypassing this broken route. You can visualize these internet paths using the [ITU Infrastructure Connectivity Map](https://bbmaps.itu.int/bbmaps/).
+
+**General Troubleshooting:**
+
+*   **Try other Proxies:** Go to the Login Menu and select another Proxy.
+*   **Reset Connections:** Fully close the game client and restart your router and PC.
+*   **Network Fixes:** Flush your DNS (`ipconfig /flushdns` in Admin Command Prompt) and change your DNS servers to `1.1.1.1` / `1.0.0.1` (Cloudflare) or `8.8.8.8` / `8.8.4.4` (Google).
+*   **Firewall:** Set exclusions for the game's main files (e.g., the Reborn client) in your firewall.
 
 ## Camera Sensitivity
 
 Fine-tune your DPI in your mouse software and Windows' Mouse Setting.
-
-
 
 ## Tree Flickering
 Put shader to `off` and reflections to sky instead of all.
