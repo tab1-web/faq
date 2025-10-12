@@ -21,7 +21,6 @@ Please make sure that:
 
 Additionally try:
 
-- [ ] [Reinstalling .NET frameworks or Enable them](https://youtu.be/57HbrVq6Ej0?si=uUNFievc5M00opIf&t=105), click on drop down and tick the options below as well.
 - [ ] Restarting your **router**
 - [ ] Restarting your **computer**
 - [ ] Disabling **Riot's Vanguard**, and **other anti-cheats**.
@@ -29,7 +28,8 @@ Additionally try:
 - [ ] Deleting your **system folder** and **repairing your files**.
 - [ ] Doing full **re-install** by deleting the game folder.
 - [ ] **Disabling all overlay extensions**: Discord, Overwolf etc..
-- [ ] Updating your Windows.
+- [ ] [Reinstalling .NET frameworks or Enable them](https://youtu.be/57HbrVq6Ej0?si=uUNFievc5M00opIf&t=105), click on drop down and tick the options below as well.
+- [ ] Updating your Windows. (23H2 , 24H2 seems to work)
 
 
 
