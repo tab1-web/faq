@@ -51,7 +51,7 @@ Login with the last character you logged.
 **For players in South America:**
 The most reliable solution is to use a VPN to bypass a known damaged internet backbone between South America and the game's servers.
 
-*   **Use a VPN:** Connect to a **New York, USA** server, as this is the location officially recommended by GMs to avoid the broken route.  Many VPNs offer free trials.
+*   **Use a VPN:** Connect to a **New York, USA** server, as this is the location officially recommended by GMs to avoid the broken route.  Many VPNs offer free trials. (Close game before switching VPN)
 *   **Alternative Locations:** If New York doesn't work, try other US cities like Miami or Washington, European server or other VPNs.
 
 **Why is this happening?**
