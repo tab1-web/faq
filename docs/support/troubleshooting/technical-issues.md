@@ -207,6 +207,8 @@ Anti-virus is blocking Smartguard
 Uninstall the anti-virus (AVG, ESET ...) or add L2Reborn/Smartguard files/folders as Anti-virus Exceptions.
 Antiviruses can disregard exceptions, uninstalling is recommended. 
 
+This [forum post](https://windowsforum.com/threads/windows-10-application-0xc000041d-unable-to-start.336723/#post-838615) might help too.
+
 <figure markdown="span">
 <a href="https://postimg.cc/FYJDbdMc">
 ![Smartguard error 41d](https://i.postimg.cc/sgTqr5Kn/antivirus.png){.lightbox width=50%  }
