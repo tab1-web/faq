@@ -4,6 +4,8 @@ icon: material/magic-staff
 
 # Magic Crit
 
+Thank you @Crossto for the guide.
+
 When you deal a magic critical, your magic damage is multiplied by 4. Calculating chances are below.
 
 ## Magic Critical Rate Formula 
