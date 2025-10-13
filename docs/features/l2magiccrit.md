@@ -158,7 +158,8 @@ wit_mod = (1.05**(wit - 20) * 100 + 0.5) / 100
 
 .form-group {
     margin-bottom: 1.5rem;
-}
+}style>
+#magicCr
 
 .form-section {
     margin-bottom: 1.5rem;
@@ -276,6 +277,19 @@ const witModTable = {
     26: 1.34, 27: 1.41, 28: 1.48, 29: 1.55, 30: 1.63,
     31: 1.71
 };
+
+// Add event listeners for Wild Magic checkboxes
+document.getElementById('wildMagic1').addEventListener('change', function() {
+    if (this.checked) {
+        document.getElementById('wildMagic2').checked = false;
+    }
+});
+
+document.getElementById('wildMagic2').addEventListener('change', function() {
+    if (this.checked) {
+        document.getElementById('wildMagic1').checked = false;
+    }
+});
 
 function calculateMagicCrit() {
     const serverType = document.getElementById('serverType').value;
