@@ -185,6 +185,41 @@ You can equip a **Blunt**{style="color:rgb(196, 40, 82);"} and get **Holy Weapon
 
 [![weaknesses.png](https://i.postimg.cc/hvVtxy2j/weaknesses.png)](https://postimg.cc/Lg6SFTKK)
 
+## Party System
+You'll have to get into parties sooner or later, for efficient PvE or PvP.
+
+<div class="grid cards" markdown>
+
+- ### **Party EXP Distribution formula**
+    
+    `
+    Your EXP = (Base EXP × Party Bonus) × (Your Level² / sum(All Levels²))
+    `
+
+    **Example**
+
+    - Base EXP: 1000
+    - Party Bonus: 1.5 (50%)
+    - Your Level: 70
+    - Total Levels: 68² + 70² + 72² + 74² = 20184
+    - **Your EXP =** (1000 × 1.5) × (4900 / 20184) ≈ **364 EXP**
+
+- ### **Party XP Bonus**
+
+    | Party Size | XP Bonus |
+    |------------|----------|
+    | 2          | 1.30     |
+    | 3          | 1.39     |
+    | 4          | 1.50     |
+    | 5          | 1.54     |
+    | 6          | 1.58     |
+    | 7          | 1.63     |
+    | 8          | 1.67     |
+    | 9          | 1.72     |
+
+</div>
+
+
 ## Character & Mob Level Difference Penalties
 
 As your **character level increases**, you get further away from the Mob's Level giving you penalty for Experience and Drop Chance. There are no penalties if you go higher level than the mob.
