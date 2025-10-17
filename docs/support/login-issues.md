@@ -68,7 +68,7 @@ If you have downloaded from **MEGA, Google Drive, Medafire etc...**
     <a href="https://postimg.cc/t7bNFNFW">
     ![repair client](https://i.postimg.cc/tRZvQrTS/signaturerepair.png){ .lightbox width=50% }
     </a>
-    <figcaption>Delete the `system` folder and click **Repair**. <br>
+    <figcaption>Save l2reborn_easylogin.ini to Desktop and Delete the `system` folder and click **Repair**. <br>
     Folder is inside `~\Reborn\games\(insert server)\system`
     
     </figcaption>

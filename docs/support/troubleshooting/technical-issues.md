@@ -124,7 +124,7 @@ Save `l2reborn_easylogin.ini` file to Desktop, it contains your passwords.
 
 - Put it back in System folder after the install is done and don't share that file. **Ever.**
 
-**Delete your System folder** and do **Repair**.
+**Save l2reborn_easylogin.ini to Desktop, Delete your System folder** and do **Repair**.
 
 <figure markdown="span">
     <a href="https://postimg.cc/Pvn93fv5">
@@ -218,7 +218,7 @@ This [forum post](https://windowsforum.com/threads/windows-10-application-0xc000
 
 
 ## 0xC0000005 / 0401 00000005
-Restart your computer and/or delete `/system/` folder and run **Repair** in the Launcher.
+Restart your computer and/or save l2reborn_easylogin.ini, delete `/system/` folder and run **Repair** in the Launcher.
 <figure markdown="span">
 <a href="https://postimg.cc/GHTQmBFB">
 ![Smartguard error 05](https://i.postimg.cc/tC2mDW7z/05.png){.lightbox width=90%  }
