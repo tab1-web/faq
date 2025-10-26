@@ -95,7 +95,7 @@ This shows you *where* on the path the problem occurs.
 **The Proof:**
 
 1.  Run `tracert` and `ping -t` without the VPN and note the high latency/packet loss.
-2.  Connect to your New York VPN.
+2.  Connect to your VPN.
 3.  Run the same `ping -t` command to the same game server IP.
 4.  You will likely see the latency drop significantly and the packet loss disappear, proving the VPN is providing a better route.
 
