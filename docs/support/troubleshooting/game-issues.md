@@ -46,10 +46,6 @@ Login with the last character you logged.
 </a>
 </figure>
 
-Of course. Integrating `ping -t` and `tracert` is an excellent way to provide users with tangible proof of the network problem and the VPN solution. Here is the revised guide with new sections added.
-
-***
-
 ## How can I fix lag and disconnection issues?
 
 **For players in South America:**
