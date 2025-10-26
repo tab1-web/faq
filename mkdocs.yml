@@ -52,6 +52,7 @@ nav:
       - L2Calc (Summons): features/l2calcsum.md
       - L2MagicCalc: features/l2magic.md
       - C5+ Map: features/c5map.md
+      - Magic Crit: features/l2magiccrit.md
     - Character Progression:
       - Voting: gameplay/progression/voting.md
       - Achievements: gameplay/progression/achievements.md
@@ -120,7 +121,6 @@ theme:
     - navigation.sections
     - navigation.top
     - search.suggest
-    - search.highlight
     - search.share
     - navigation.path
     - content.code.copy

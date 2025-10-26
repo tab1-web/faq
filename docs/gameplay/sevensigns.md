@@ -76,8 +76,12 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
 - **Seal Effects**:
     - **Avarice**: Access to Necropolis dungeons + Merchant of Mammon
         - **Merchant of Mammon:**{style="color: #af5d5dff;"} Gemstones, Dyes, Enchants.
+        - On Eternal it is available in Giran.
+        - On Signature it is avialable in Martyr Necropolis.
     - **Gnosis**: Access to Catacombs + Blacksmith of Mammon services 
         - **Blacksmith of Mammon:**{style="color:lightgreen;"} Upgrade/Exchange D-C Weapon, Duals, Apply A-S Special Abilities, Unseal A-S Equipment
+        - On Eternal it is available in Giran.
+        - On Signature it is avialable in Witch Catacomb.
         - If it's an equal exchange of weapons, the enchanted items keep their enchants. (Crystal Amount the same)
             - Some weapons like Demon Fang **cannot be upgraded**{style="color:red;"} double check if it's upgradeable.
         - When you upgrade a weapon, it doesn't keep enchants. 
