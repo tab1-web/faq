@@ -17,7 +17,7 @@ hide:
 - ## :material-server: Signature x1 (C4 - IL)
     **Progressive Server (Older Chronicles)**
 
-    - :fontawesome-solid-scroll: __Chronicle__: C4
+    - :fontawesome-solid-scroll: __Chronicle__: C5
     - :material-gamepad-variant-outline: __Gameplay__: Competitive, No shortcuts
     - :material-account-group: __Population__: 4k daily peak
 
