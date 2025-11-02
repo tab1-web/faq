@@ -56,6 +56,14 @@ Experiencing lag, disconnections, or high ping is often not a problem with your 
 
 **The most reliable solution for many is to use a VPN.** A VPN can create a new, more stable "tunnel" for your data, bypassing the broken or congested part of the internet.
 
+### **General Troubleshooting (Before Using a VPN)**
+*   **Try Different Network Connection:** Switch to Ethernet Cable instead of WiFi or use Mobile Data temporarily.
+*   **Switch Proxies/Gateways:** If your game has the option, try selecting a different proxy or gateway from the login menu.
+*   **Reset Your Network:** Fully close the game client and then restart your router and PC. This can clear up local routing issues.
+*   **Flush Your DNS:** Open an Admin Command Prompt and type `ipconfig /flushdns`. This clears your local DNS cache.
+*   **Change Your DNS:** Try using a public DNS service like Cloudflare (`1.1.1.1`, `1.0.0.1`) or Google (`8.8.8.8`, `8.8.4.4`). This can sometimes provide a more reliable path for domain lookups.
+*   **Check Your Firewall:** Ensure your firewall or antivirus is not blocking the game. Add the game's main executable files to its exclusion list.
+
 ### **The Quick Fix: Using a VPN**
 
 *   **How it helps:** A VPN reroutes your connection through a different set of servers, avoiding the problematic network hop that is causing packet loss and high latency.
@@ -105,13 +113,7 @@ This shows you the exact path your data takes and *where* the problem occurs.
 3.  Run the same `ping -t` command again.
 4.  If the VPN is working, you will see a significant drop in latency and the packet loss will disappear, proving it found a better route.
 
-### **General Troubleshooting (Before Using a VPN)**
 
-*   **Switch Proxies/Gateways:** If your game has the option, try selecting a different proxy or gateway from the login menu.
-*   **Reset Your Network:** Fully close the game client and then restart your router and PC. This can clear up local routing issues.
-*   **Flush Your DNS:** Open an Admin Command Prompt and type `ipconfig /flushdns`. This clears your local DNS cache.
-*   **Change Your DNS:** Try using a public DNS service like Cloudflare (`1.1.1.1`, `1.0.0.1`) or Google (`8.8.8.8`, `8.8.4.4`). This can sometimes provide a more reliable path for domain lookups.
-*   **Check Your Firewall:** Ensure your firewall or antivirus is not blocking the game. Add the game's main executable files to its exclusion list.
 
 ## Camera Sensitivity
 
