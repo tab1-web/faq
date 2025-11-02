@@ -30,17 +30,16 @@ The Package includes:
 
 - **365 days VIP Rune**
 
-- a **Title Color** item that allows you to change your title color as many times as you want
 
-- an **Accessory Coupon** that you can exchange in Maria's shop for a hair accessory of your choice
+- Two **Hair Accessory Coupons** that you can exchange in Maria's shop for a hair accessory of your choice
 
-- and two Unique Cloak Skins, **Radiant Light** and **Cold Darkness**.
+- Two **VIP Cloak Coupons** that you can exchange in Maria's shop for unique cloaks not found in the Reborn Store.
 
 **(Costs: 89 Balance)**
 
 <figure markdown="1">
 <a href="https://postimg.cc/jj88s9JG">
-![1 Year Package Cloaks](https://i.postimg.cc/jj88s9JG/ZX9IOLx.png){ width=500 .lightbox }
+[![image.png](https://i.postimg.cc/KjvqT0Mc/image.png)](https://postimg.cc/qhSxVXwW){ width=500 .lightbox }
 </a>
 </figure>
 
