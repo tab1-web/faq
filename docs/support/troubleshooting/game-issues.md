@@ -46,65 +46,72 @@ Login with the last character you logged.
 </a>
 </figure>
 
-## How can I fix lag and disconnection issues?
+Of course! Here is a more generalized version of the guide that focuses on the universal problem of damaged internet routes, making it applicable to players anywhere in the world.
 
-**For players in South America:**
-The most reliable solution is to use a VPN to bypass a known damaged internet backbone between South America and the game's servers.
+***
 
-*   **Use a VPN:** Connect to a **New York, USA** server, as this is the location officially recommended by GMs to avoid the broken route. Many VPNs offer free trials. (Close game before switching VPN)
-*   **Alternative Locations:** If New York doesn't work, try other US cities like Miami or Washington, European server or other VPNs.
+## How to Fix Lag and Disconnection Issues: A General Guide
 
-**Why is this happening?**
+Experiencing lag, disconnections, or high ping is often not a problem with your own internet, but with the path your data takes to the game's servers. The internet is a vast network of interconnected physical cables and routers, and damage or congestion on any part of that path can cause issues.
 
-The root cause for SA players is a damaged physical internet cable (internet backbone) between South America and the game's data centers.
+**The most reliable solution for many is to use a VPN.** A VPN can create a new, more stable "tunnel" for your data, bypassing the broken or congested part of the internet.
 
-This is a large-scale infrastructure issue outside the game staff's control. Using a VPN creates a new, stable "tunnel" for your data, bypassing this broken route. You can visualize these internet paths using the [ITU Infrastructure Connectivity Map](https://bbmaps.itu.int/bbmaps/).
+### **The Quick Fix: Using a VPN**
 
+*   **How it helps:** A VPN reroutes your connection through a different set of servers, avoiding the problematic network hop that is causing packet loss and high latency.
+*   **What to do:**
+    1.  Choose a reputable VPN provider (many offer free trials).
+    2.  Connect to a VPN server that is geographically close to the game's data center. For example, if the game servers are in New York, connect to a New York VPN server.
+    3.  If one location doesn't work, try another nearby city or country.
+    4.  **Always fully close your game before connecting or disconnecting the VPN.**
 
-### **How to Diagnose the Problem with `ping -t` and `tracert`**
+### **How to Diagnose the Problem Yourself**
+
+You can confirm that your connection issues are due to a bad internet route using built-in Windows tools. This helps you decide if a VPN is the right solution.
 
 [![netguide.png](https://i.postimg.cc/65jB2MgX/netguide.png)](https://postimg.cc/nCDyNGnR)
 
-You can see the route problem for yourself using Windows Command Prompt tools. This helps confirm that a VPN is necessary.
+**Step 1: Find the Game Server's IP Address**
 
-**Step 1: Find the Game Server IP Address**
-
-1.  Open the **Resource Monitor** (you can search for it in the Start Menu).
+1.  Open the **Resource Monitor** (search for it in the Start Menu).
 2.  Go to the **Network** tab.
-3.  In the "TCP Connections" section, look for your game's process (e.g., `Discord.exe` in the example, but look for your game's .exe).
-4.  Note the **Remote Address** 
+3.  In the "TCP Connections" section, look for your game's process (e.g., `YourGame.exe`).
+4.  Note the **Remote Address** it's connected to. This is the game server's IP.
 
 **Step 2: Run a Continuous Ping (`ping -t`)**
 
-1.  Open Command Prompt as Administrator.
-2.  Type `ping -t [Server IP]` (for example, `ping -t 878.222.767`). The `-t` makes it run continuously.
-3.  Let it run for 30-60 seconds, then press **Ctrl+C** to stop it.
+This test checks for packet loss and unstable latency.
+
+1.  Open **Command Prompt** as Administrator.
+2.  Type `ping -t [Server IP]` (e.g., `ping -t 123.456.789.123`). The `-t` flag makes it run until you stop it.
+3.  Let it run for 30-60 seconds while you play or experience lag, then press **Ctrl+C** to stop it.
 4.  **Interpret the results:**
-    *   **Good Connection:** Consistent, low latency (e.g., 20-80ms) with no "Request timed out" messages.
-    *   **Bad Connection/Damaged Route:** You will see high latency (e.g., 200ms+), "Request timed out" messages, or high "Packet loss" percentage. This confirms packet loss is happening.
+    *   **Good Connection:** Consistent, low latency with no "Request timed out" messages.
+    *   **Bad Connection:** You will see high latency, "Request timed out" messages, or a high "Packet loss" percentage at the end. This confirms the issue.
 
 **Step 3: Trace the Route (`tracert`)**
 
-This shows you *where* on the path the problem occurs.
+This shows you the exact path your data takes and *where* the problem occurs.
 
-1.  In Command Prompt, type `tracert [Server IP]` (for example, `tracert 878.222.767`).
-2.  The command will list every "hop" (router) your data takes to the server.
-3.  **Interpret the results:** Look for a hop where the latency suddenly jumps very high (e.g., from 40ms to 300ms) or starts showing asterisks `* * *` (meaning timeouts). The hops *after* this point will also have high latency.
-    *   **This is the damaged backbone.** It's often a hop in a major US network hub that is the common failure point for SA players.
+1.  In Command Prompt, type `tracert [Server IP]`.
+2.  The command lists every "hop" (router) between you and the server.
+3.  **Interpret the results:** Look for a hop where the latency suddenly jumps very high (e.g., from 20ms to 250ms) or starts showing asterisks `* * *` (meaning timeouts).
+    *   **This hop is the likely culprit.** The problem is with that specific router or network link, which is outside of your or the game developer's control.
 
-**The Proof:**
+**Proving the VPN Fix:**
 
-1.  Run `tracert` and `ping -t` without the VPN and note the high latency/packet loss.
+1.  Run `tracert` and `ping -t` **without** the VPN and note the high latency/packet loss.
 2.  Connect to your VPN.
-3.  Run the same `ping -t` command to the same game server IP.
-4.  You will likely see the latency drop significantly and the packet loss disappear, proving the VPN is providing a better route.
+3.  Run the same `ping -t` command again.
+4.  If the VPN is working, you will see a significant drop in latency and the packet loss will disappear, proving it found a better route.
 
-### **General Troubleshooting:**
+### **General Troubleshooting (Before Using a VPN)**
 
-*   **Try other Proxies:** Go to the Login Menu and select another Proxy.
-*   **Reset Connections:** Fully close the game client and restart your router and PC.
-*   **Network Fixes:** Flush your DNS (`ipconfig /flushdns` in Admin Command Prompt) and change your DNS servers to `1.1.1.1` / `1.0.0.1` (Cloudflare) or `8.8.8.8` / `8.8.4.4` (Google).
-*   **Firewall:** Set exclusions for the game's main files (e.g., the Reborn client) in your firewall.
+*   **Switch Proxies/Gateways:** If your game has the option, try selecting a different proxy or gateway from the login menu.
+*   **Reset Your Network:** Fully close the game client and then restart your router and PC. This can clear up local routing issues.
+*   **Flush Your DNS:** Open an Admin Command Prompt and type `ipconfig /flushdns`. This clears your local DNS cache.
+*   **Change Your DNS:** Try using a public DNS service like Cloudflare (`1.1.1.1`, `1.0.0.1`) or Google (`8.8.8.8`, `8.8.4.4`). This can sometimes provide a more reliable path for domain lookups.
+*   **Check Your Firewall:** Ensure your firewall or antivirus is not blocking the game. Add the game's main executable files to its exclusion list.
 
 ## Camera Sensitivity
 
