@@ -11,7 +11,7 @@ To **turn off cloaks**: Go into **Gameplay Settings** and **Do not show cloaks**
 You can Freight Cloaks to another character in your in-game account.
 
 !!! warning "Holy Spirit Cloak"
-    - Holy Spirit is Green on Robe type armors.
+    - [Holy Spirit is Green](https://postimg.cc/D4QBPf5v) on Robe type armors.
     - Wearing a Costume makes it blue on Robe type.
 
 !!! warning
@@ -19,8 +19,8 @@ You can Freight Cloaks to another character in your in-game account.
 
 <figure markdown="1">
 
-<a href="https://postimg.cc/fLYrRX4j"> 
-![Cloaks](https://i.postimg.cc/fLYrRX4j/cloaks.png){ .lightbox width=700 }
+<a href="https://postimg.cc/dLBZGjCz"> 
+![Cloaks](https://i.postimg.cc/K8X7S98v/image.png){ .lightbox width=700 }
 </a>
 
 </figure>
