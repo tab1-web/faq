@@ -589,6 +589,9 @@ function loadSavedState() {
 }
 </script>
 
+### Epic Boss Spawn Times
+[![4CF8AC99-D3D5-462D-8E07-9E8BE5508D65.png](https://i.postimg.cc/PqpCBSTM/4CF8AC99-D3D5-462D-8E07-9E8BE5508D65.png){width=60%}](https://postimg.cc/Tyx2bqyy)
+
 ### Manor Time
 Manor seed selling/buying occurs at 20:06 UTC daily.
 
