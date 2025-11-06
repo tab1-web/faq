@@ -46,9 +46,6 @@ Login with the last character you logged.
 </a>
 </figure>
 
-Of course! Here is a more generalized version of the guide that focuses on the universal problem of damaged internet routes, making it applicable to players anywhere in the world.
-
-***
 
 ## How to Fix Lag and Disconnection Issues: A General Guide
 
