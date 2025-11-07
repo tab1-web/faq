@@ -8,6 +8,7 @@ icon: material/vote-outline
 - Increases your character's rates (applies only to the character you select)
 - VIP gives same benefits as voting but lasts longer
 - Free and paid VIP don't stack (paid lasts longer)
+    - You can buy VIPs in the Reborn Store.
 
 > Rates are multipliers that make you level up faster, earn more currency (Adena), and get better drops from monsters when you vote or have VIP.
 
