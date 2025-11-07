@@ -8,6 +8,7 @@ Try all steps, :white_check_mark: what you've tested, and share your results in 
 Please make sure that:
 
 - [ ] You are using **Windows 10 or 11**.
+- [ ] Game folders are not Read Only in Properties. (Right Click)
 - [ ] Your Windows copy is **legitimate** and **not run in a virtual environment**. **No debug/insider version**.
 - [ ] Windows Core Isolation is disabled ! (otherwise it gives Kernel Mode Trap and you can enable it back with time)
 - [ ] **Reborn files (l2.exe)** and **folders** are added as **exceptions/exclusions** in your [antivirus](https://youtu.be/1r93NtwZt4o) and [firewall settings](https://youtu.be/zijsJZionv0). 
