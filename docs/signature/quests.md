@@ -111,6 +111,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
             <td>Relatively easy x1 mobs, Monster Eye Searchers are x2 casters: Wind Weak, good for spoilers, mages need D grade gun, good mob density, Herbs</td>
         </tr>
         <tr>
+            <td>25-30</td>
+            <td>Crypts of Disgracel</td>
+            <td>Some mobs are blunt weak, quest </td>
+        </tr>
+        <tr>
             <td>26-30</td>
             <td>Windy Hill</td>
             <td>Caster Mobs x1 mobs with Bow Weak Point, needs jewelry, Slighhtly More M.Def., Herbs </td>
@@ -319,6 +324,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
             <td>20</td>
             <td>Red-Eyed Invaders</td>
             <td>x1 Rod, x500 Bait, x60 Lure (you can sell item fish, not proofs, on grocery for some adena) <br>Not really recommended unless you wanna try Fishing</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>Grave Robber Annihilation</td>
+            <td>Requires you to be higher level to hunt in Crypts of Disgrace for Materials</td>
         </tr>
         <tr>
             <td>20</td>
@@ -992,6 +1002,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
                     <td>Silver Haired Shaman</td>
                     <td>~12k, kill cursed dols on Devil Isle</td>
                 </tr>
+                <tr>
+                    <td>50</td>
+                    <td>Pavel's Research</td>
+                    <td>Very OP quest for Exp, Sp, Adena and Earring</td>
+                </tr>
             </tbody>
         
 </table>
@@ -1369,6 +1384,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
                     <td>52</td>
                     <td>Plunder Their Supplies</td>
                     <td>Min. +6k Adena Reward</td>
+                </tr>
+                <tr>
+                    <td>52</td>
+                    <td>An Ice Merchant's Dream	</td>
+                    <td>Great quest for Materials, Requires Other Side of Truth Quest <br> [Exchanges Link](https://tab1-web.github.io/faq/eternal/questexchanges/icemerchant/)</td>
                 </tr>
                 <tr>
                     <td>55</td>
