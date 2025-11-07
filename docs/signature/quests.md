@@ -68,22 +68,22 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>15-25</td>
             <td>Ruins of Despair</td>
-            <td>Undeads, x1 mobs, relatively easy hunting spot</td>
+            <td>Undeads, x1 mobs, relatively easy hunting spot, Herbs</td>
         </tr>
         <tr>
-            <td>15-25</td>
+            <td>17-25</td>
             <td>Ruins of Agony</td>
-            <td>Same as Ruins of Despair a bit higher level mobs deeper you go</td>
+            <td>Same as Ruins of Despair a bit higher level mobs deeper you go, Herbs</td>
         </tr>
         <tr>
             <td>19-24</td>
             <td>Langk Lizardmen Dwellings</td>
-            <td>Lizards, some are archers and shamans, related quest: Dragon Fangs for some random D grade equip</td>
+            <td>Lizards, some are archers and shamans, related quest: Dragon Fangs for some random D grade equip, Herbs</td>
         </tr>
         <tr>
             <td>20-27</td>
-            <td>Maille Lizardmen Barracks</td>
-            <td>Easy 1/2x mobs</td>
+            <td>Maille Lizardmen Barracks,</td>
+            <td>Easy 1/2x mobs, Herbs</td>
         </tr>
         <tr>
             <td>20-30</td>
@@ -98,22 +98,22 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>22-25</td>
             <td>Windawood Manor</td>
-            <td>Probably the best place for supports as the Eyes are wind weak and easy monsters relatively, there's a good quest for them : Sense For Business</td>
+            <td>Eyes got boosted in C5 with M.Def. Passive Boosts, not really recommended anymore, Herbs</td>
         </tr>
         <tr>
             <td>22-25</td>
             <td>Ol Mahum Checkpoint</td>
-            <td>Mobs are bit too spread further you go in, though Eyes can be found at the entrance along with Skeletons</td>
+            <td>Mobs are bit too spread further you go in, Skeletons can be found near the entrance, Herbs</td>
         </tr>
         <tr>
             <td>23-28</td>
             <td>Dion Hills</td>
-            <td>Relatively easy x1 mobs, Monster Eye Searchers are x2 casters: Wind + Weak weakness, good for spoilers, mages need D grade gun, good mob density</td>
+            <td>Relatively easy x1 mobs, Monster Eye Searchers are x2 casters: Wind Weak, good for spoilers, mages need D grade gun, good mob density, Herbs</td>
         </tr>
         <tr>
             <td>26-30</td>
             <td>Windy Hill</td>
-            <td>Caster Mobs x1 mobs with Bow Weak Point, needs jewelry</td>
+            <td>Caster Mobs x1 mobs with Bow Weak Point, needs jewelry, Slighhtly More M.Def., Herbs </td>
         </tr>
     </tbody>
 </table>
@@ -615,6 +615,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
         <td>31</td>
+        <td>Bandit Hound</td>
+        <td>Skywagon Relic - Spoils: Animal Bone, Leather</td>
+    </tr>
+    <tr>
+        <td>31</td>
         <td>Turak Bugbear</td>
         <td>Gorgon Flower Garden - Spoils: Varnish, EWD</td>
     </tr>
@@ -720,6 +725,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
         <td>36</td>
+        <td>Bandit Warrior</td>
+        <td>Sky Wagon Relic - Spoils: Thread x1-3, Silver Nugget</td>
+    </tr>
+    <tr>
+        <td>36</td>
         <td>Gigant Officer</td>
         <td>Catacomb of the Heretic - Spoils: Coal x1-5, Varnish x1-5</td>
     </tr>
@@ -795,6 +805,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
         <td>40</td>
+        <td>Bandit Captain</td>
+        <td>Skywagon Relic - Spoils: x1-5 Stem, x1-3 Iron Ore</td>
+    </tr>
+    <tr>
+        <td>40</td>
         <td>Grave Keeper Dark Horror</td>
         <td>The Pilgrim's Necropolis - Spoils: Elven Ring, Crafted Leather</td>
     </tr>
@@ -848,6 +863,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
             <td>40-52</td>
             <td>Garden of Eva</td>
             <td>Difficult to get there, but a great place for AoE destroyers</td>
+        </tr>
+        <tr>
+            <td>40-53</td>
+            <td>Pavel Ruins</td>
+            <td>On Retail files inside the towers you get Debuffs, like Hex and Reduce P.Atk., good spoil Area</td>
         </tr>
         <tr>
             <td>40-55</td>
@@ -1155,6 +1175,16 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
         <td>50</td>
+        <td>Spelunking Ant</td>
+        <td>Pavel Ruins - Spoils: GHP, Stone of Purity, Light Armor Type (more evasion)</td>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>Probe Golem Champion I</td>
+        <td>Pavel Ruins - Spoils: Mithril Ore, EWC</td>
+    </tr>
+    <tr>
+        <td>50</td>
         <td>Garden Guard Leader</td>
         <td>Devil's Isle - Spoils: Asofe, Thons</td>
     </tr>
@@ -1229,7 +1259,12 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>50-60</td>
             <td>Catacomb of the Apostate</td>
-            <td>-</td>
+            <td>Cancel Mobs on bottom left, best spot is farming on top right with Light Armor types</td>
+        </tr>
+        <tr>
+            <td>50-60</td>
+            <td>Frozen Labyrinth</td>
+            <td>Newly added C5 Location, on Retail files this location has less groups, pretty good for EAB Spoil. If you get Wizard Tear Recipe here from Drop, you are set., Herbs</td>
         </tr>
         <tr>
             <td>52-60</td>
@@ -1249,7 +1284,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>45-56</td>
             <td>The Enchanted Valley</td>
-            <td>-</td>
+            <td>Multiplied HP mobs, herbs, valuable spellbooks.</td>
         </tr>
         <tr>
             <td>40-55</td>
@@ -1259,32 +1294,32 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>40-57</td>
             <td>Skyshadow Meadow</td>
-            <td>-</td>
+            <td>Great AoE spot, Warehouse Keeper Pasttime Quest to feed Gamblers with Enchants</td>
         </tr>
         <tr>
             <td>46-50</td>
             <td>Tanor Canyon</td>
-            <td>-</td>
+            <td>Great AoE spot, Warehouse Keeper Pasttime Quest to feed Gamblers with Enchants, focus on the Shamans that give lot of HP, (they have reflect though for Melees)</td>
         </tr>
         <tr>
             <td>40-50</td>
             <td>Sea of Spores</td>
-            <td>-</td>
+            <td>Solo Area, Herbs</td>
         </tr>
         <tr>
             <td>35-60</td>
             <td>Plains of the Lizardmen</td>
-            <td>-</td>
+            <td>Some mobs are have multiplied HP, more recommended for Melees Solo Spot</td>
         </tr>
         <tr>
             <td>40-60</td>
             <td>Dragon Valley</td>
-            <td>-</td>
+            <td>Lots of undead</td>
         </tr>
         <tr>
             <td>40-52</td>
             <td>Garden of Eva</td>
-            <td>-</td>
+            <td>Deeper are great for AoE</td>
         </tr>
         <tr>
             <td>43-55</td>
@@ -1299,15 +1334,20 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>54-79</td>
             <td>The Giant's Cave</td>
-            <td>-</td>
+            <td>Great AoE spot, you can farm Tallum Top here from Quest</td>
         </tr>
         <tr>
             <td>45-70</td>
             <td>The Cemetery</td>
-            <td>-</td>
+            <td>Undead Mobs, Solo Area</td>
+        </tr>
+        <tr>
+            <td>53-63</td>
+            <td>Frozen Labyrinth</td>
+            <td>Less Packs on Retail, but still OK area for some spellbooks and Spoil/AoE, Herbs</td>
         </tr>
     </tbody>
-
+    
 </table>
 </figure>
     
@@ -1535,6 +1575,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
         <td>54</td>
+        <td>Elder Lost Watcher</td>
+        <td>Frozen Labyrinth - Spoils: Animal Bone x1-3, x1 CBP, x1 Mold Hardener</td>
+    </tr>
+    <tr>
+        <td>54</td>
         <td>Harit Lizardman Shaman</td>
         <td>The Forest of Mirrors (Hunter Village Territory) - Spoils: Varnish x1-3</td>
     </tr>
@@ -1635,7 +1680,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>60-70</td>
             <td>Valley of Saints</td>
-            <td>-</td>
+            <td>Mobs deeper have Dark Crystal/Tallum Recipes for Drop/Spoil, there is quest at the entrance, some mobs can teleport, watch out.</td>
         </tr>
         <tr>
             <td>60-72</td>
@@ -1650,7 +1695,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>60-75</td>
             <td>The Lair of Antharas</td>
-            <td>-</td>
+            <td>Mobs deeper can Paralyze, otherwise, nice solo/aoe spot</td>
         </tr>
         <tr>
             <td>60-75</td>
@@ -1660,22 +1705,22 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>60-79</td>
             <td>Tower of Insolence</td>
-            <td>-</td>
+            <td>Tower that has floors and covers huge range of levels, has a quest for A Mats/Recipes, VOS/Beast Farm preferred for those if you don't farm here</td>
         </tr>
         <tr>
             <td>63-73</td>
             <td>Cursed Village</td>
-            <td>-</td>
+            <td>Forest of the Dead Area, Herbs</td>
         </tr>
         <tr>
             <td>63-71</td>
             <td>Forest of the Dead</td>
-            <td>-</td>
+            <td>Quests for Material, different mobs at Night, nice spot for Solo</td>
         </tr>
         <tr>
             <td>63-69</td>
             <td>Beast Farm</td>
-            <td>-</td>
+            <td>Spoil Heaven, contains lots of valuable recipes, Herbs.</td>
         </tr>
         <tr>
             <td>65-69</td>
@@ -1690,17 +1735,17 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>65-75</td>
             <td>Blazing Swamp</td>
-            <td>-</td>
+            <td>Killing mobs here for Moonstone Shards is great, required for Subclass+Noblesse, great solo spot for Mages who can one shot, Herbs</td>
         </tr>
         <tr>
             <td>66-74</td>
             <td>Swamp of Screams</td>
-            <td>-</td>
+            <td>Craters have debuffs, like Hex and Reduce P.Atk., Solo Area</td>
         </tr>
         <tr>
             <td>68-76</td>
             <td>Wall of Argos</td>
-            <td>-</td>
+            <td>Great spot for Spoil</td>
         </tr>
         <tr>
             <td>68-75</td>
@@ -1758,6 +1803,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
                 </tr>
                 <tr>
                     <td>66</td>
+                    <td>The Zero Hour</td>
+                    <td>Material Quest, Requirement: Hunt of The Golden Ram Mercenary Force Part 1 and In Search of the Nest Quest <br> [Exchanges Link](https://tab1-web.github.io/faq/eternal/questexchanges/zerohour/)</td>
+                </tr>
+                <tr>
+                    <td>66</td>
                     <td>Clean Up the Swamp of Screams</td>
                     <td>Steel, cokes, mithril ore, leather, stone of purity, adamantite nugget, coarse bone powder, mithril ore<br>OR<br>Thons, enria, asofe, mold glue, mold lubricant, mold hardener</td>
                 </tr>
@@ -1774,6 +1824,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
                 <tr>
                     <td>68</td>
                     <td>Delivery of Special Liquor</td>
+                    <td>S Grade Jewelry Recipes (Tatteosian Ring/Jewel/Earring)</td>
+                </tr>
+                <tr>
+                    <td>68</td>
+                    <td>Egg Delivery</td>
                     <td>S Grade Jewelry Recipes (Tatteosian Ring/Jewel/Earring)</td>
                 </tr>
                 <tr>
@@ -1908,6 +1963,21 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
         <td>65</td>
+        <td>Alpen Kookaburra</td>
+        <td>Beast Farm - Spoils: Dark Crystal Helmet Rec</td>
+    </tr>
+    <tr>
+        <td>65</td>
+        <td>Alpen Kookaburra</td>
+        <td>Valley of Saints - Spoils: Tallum Boots</td>
+    </tr>
+    <tr>
+        <td>65</td>
+        <td>Alliance of Splendor</td>
+        <td>Valley of Saints - Spoils: Dark Crystal Robe Rec</td>
+    </tr>
+    <tr>
+        <td>65</td>
         <td>Shout Of Splendor</td>
         <td>Valley of Saints (Rune Territory) - Spoils: CL, BO Necklace, Enria</td>
     </tr>
@@ -1935,6 +2005,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <td>67</td>
         <td>Platinum Tribe Soldier</td>
         <td>Tower of Insolence - Spoils: BW Helmet, Doom Helmet, Asofe</td>
+    </tr>
+    <tr>
+        <td>67</td>
+        <td>Alpen Buffalo</td>
+        <td>Beast Farm - Spoils: Dark Crystal Boots Rec</td>
     </tr>
     <tr>
         <td>67</td>
@@ -2017,7 +2092,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         <tr>
             <td>60-75</td>
             <td>Blazing Swamp</td>
-            <td>-</td>
+            <td>Killing mobs here for Moonstone Shards is great, required for Subclass+Noblesse, great solo spot for Mages who can one shot, Herbs</td>
         </tr>
         <tr>
             <td>60-75</td>
@@ -2084,6 +2159,21 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
             <td>Imperial Tomb</td>
             <td>-</td>
         </tr>
+            <tr>
+            <td>74-80</td>
+            <td>Stakato Nest</td>
+            <td>Great AoE spot for farming Materials from Zero Hour Quest</td>
+        </tr>
+        <tr>
+            <td>74-80+</td>
+            <td>Pagan Temple</td>
+            <td>Great sport for farming Enchants from Quests, On Retail Files the deeper mobs cannot be aggrod outside of their rooms.</td>
+        </tr>
+        <tr>
+            <td>70-80+</td>
+            <td>Monastery of Silence</td>
+            <td>Great sport for farming Enchants from Quests, On Retail Files the deeper mobs cannot be aggrod outside of their corridors.</td>
+        </tr>
         <tr>
             <td>75-80</td>
             <td>Catacomb of the Forbidden Path</td>
@@ -2123,11 +2213,31 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
             </thead>
             <tbody>
                 <tr>
+                    <td>70-80</td>
+                    <td>Hiding Behind the Truth</td>
+                    <td>Requirement for Accessing Pagan, you will be given a mark to use at the statue one time, after it'll wither, requiring you to do Through the Gate Once More to open the door with the Statue</td>
+                </tr>
+                <tr>
+                    <td>70-80</td>
+                    <td>Through the Gate Once More</td>
+                    <td>Perma Access to Pagan through Statue</td>
+                </tr>
+                <tr>
                     <td>74</td>
                     <td>Gather the Flames, Relics of the Old Empire</td>
                     <td>S Grade Weapon Recipes <br> <br>
                     <strong>Gather The Flames:</strong> Exchange 1,200 Torches at Rooney, an NPC which randomly teleports around Forge of the Gods. <br> <br>
                     <strong>Relics of the Old Empire:</strong> After you kill Halisha in Four Sepulchers, a Ghost will appear and you can choose an S-Grade Recipe for 1,000 Broken Relic Parts.</td>
+                </tr>
+                <tr>
+                    <td>73-80</td>
+                    <td>Guardians of the Holy Relic</td>
+                    <td>You get Quest Items for killing in MOS <br> Rewards: Enchants, requires you to have a dagger to open doors to access NPC (Greymore) that exchanges to Enchants, he teleports between corridors across floors in the corners. <br> 4000 Monk Scriptures for EWS , 400 Monk Scriptures for EAS </td>
+                </tr>
+                <tr>
+                    <td>73-80</td>
+                    <td>Seekers of the Holy Grail</td>
+                    <td>You get Quest Items for killing Pagan Temple <br> Rewards: Enchants, Adena for 2000 totems (Random)</td>
                 </tr>
                 <tr>
                     <td>74</td>

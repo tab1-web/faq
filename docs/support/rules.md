@@ -94,8 +94,6 @@ icon: fontawesome/solid/scroll
 !!! tip "Optimize Your Time"
     Setting up a shop or organizing gear on one server while farming actively on another is the best way to multi-task.
 
-
-
 ### :material-share-variant: **9. Account Sharing** 
 
 - Sharing your account is at your own risk. It is **highly discouraged**. 
@@ -110,9 +108,25 @@ icon: fontawesome/solid/scroll
 
 - Death threats, harm wishes, racism, and disparaging remarks toward staff/server are punishable with chat-bans or bans up to GMs discretion.
 
+## **Signature-Specific Rules**
+
+> **These rules are for Signature SERVER only!!! The above rules still apply.**{style="color:red;"}
+
+These rules prevent established players from dominating the new Franz server and gaining unfair advantages.
+
+### 1. Simultaneous Play
+- You cannot be logged into both Teon and Franz server at the same time.
+
+### 2. Secondary Setup for Groups
+- Established Teon Clans/CPs/Personas are forbidden from running a secondary setup on Franz that attends Epics, Olympiads, Sieges, levelling up new CP Characters.
+    - Groups must fully and genuinely stop all activity on Teon to play on Franz.
+
+### 3. Market
+- You cannot participate in the market on both servers simultaneously. 
+
 ## **Essence-Specific Rules**
 
-**These rules are for Essence SERVER only!!! The above rules still apply.**{style="color:red;"}
+> **These rules are for Essence SERVER only!!! The above general rules still apply.**{style="color:red;"}
 
 ### **1. Offline Farming**
 
@@ -137,3 +151,4 @@ icon: fontawesome/solid/scroll
 ## Resources
 
 - [Server Rules](https://l2reborn.org/server-rules/)
+
