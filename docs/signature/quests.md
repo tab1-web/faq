@@ -2508,8 +2508,18 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
       <td>6</td>
+      <td>No Grade Newbie Weapon</td>
+      <td>Pick up Newbie Weapons in Town from Cat</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>The Guard Is Busy</td>
       <td>Farm 10 quest items per deliver for bonus and beginner shots</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Newbie Buff: Wind Walk</td>
+      <td>You can get your first buff at <a href="https://imgur.com/O6NDmkL">Newbie Guide</a></td>
     </tr>
     <tr>
       <td>11</td>
@@ -2571,6 +2581,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
       <td>8</td>
+      <td>Newbie Buff: Wind Walk</td>
+      <td>You can get your first buff at <a href="https://imgur.com/O6NDmkL">Newbie Guide</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>Collect Spores</td>
       <td>Repeatable quest</td>
     </tr>
@@ -2623,8 +2638,18 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
       <td>6</td>
+      <td>No Grade Newbie Weapon</td>
+      <td>Pick up Newbie Weapons in Town from Cat</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Chains of Slavery</td>
       <td>Farm 10 quest items per deliver for bonus (shots quest)</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Newbie Buff: Wind Walk</td>
+      <td>You can get your first buff at <a href="https://imgur.com/O6NDmkL">Newbie Guide</a></td>
     </tr>
     <tr>
       <td>8</td>
@@ -2690,8 +2715,18 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
       <td>6</td>
+      <td>No Grade Newbie Weapon</td>
+      <td>Pick up Newbie Weapons in Town from Cat</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Invaders of the Holy Land</td>
       <td>Farm 10 quest items per deliver for bonus and beginner shots</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Newbie Buff: Wind Walk</td>
+      <td>You can get your first buff at <a href="https://imgur.com/O6NDmkL">Newbie Guide</a></td>
     </tr>
     <tr>
       <td>12</td>
@@ -2747,8 +2782,18 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
       <td>6</td>
+      <td>No Grade Newbie Weapon</td>
+      <td>Pick up Newbie Weapons in Town from Cat</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Brigands Sweep, The Hidden Veins</td>
       <td>Farm 10 quest items per deliver for bonus (shots quest)</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Newbie Buff: Wind Walk</td>
+      <td>You can get your first buff at <a href="https://imgur.com/O6NDmkL">Newbie Guide</a></td>
     </tr>
     <tr>
       <td>10</td>
