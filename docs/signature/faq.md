@@ -30,7 +30,8 @@ Available from the Newbie Guide NPC.
 [![O6NDmk-L.png](https://i.postimg.cc/2S9BHwhf/O6NDmk-L.png){width=60%}](https://postimg.cc/21v6yn0H)
 
 ### Newbie Bonuses
-Account-wide bonuses apply to all characters on the same account.
+- Account-wide bonuses apply to all characters on the same account.
+- This means that you can get newbie buffs and get the same amount of shots on all of your characters in the same game account.
 
 ### Signature Voting/Vote Info
 
@@ -51,7 +52,8 @@ Visit [l2reborn.org/reborn-shop](https://l2reborn.org/reborn-shop/) to vote ever
 #### Additional Notes
 
 - Applies only to your selected character
-- Voting via mobile/VPN is allowed (no dualboxing)
+- Voting via mobile/VPN is allowed 
+    - This doesn't mean you can dualbox.
 - Rune effects last 12 real-time hours
 
 ## Donation
@@ -75,17 +77,28 @@ Chronicle 5
 Yes, shortcuts reset and cannot be fixed.
 
 ### Launch Time
-The server launched on November 1, 2024.
+- Teon launched on November 1, 2024.
+- Franz launched on November 7, 2025.
 
 ### Server Population
+**Teon:**
 
 - Unique Daily Players: 8,000-9,000
 - Max Daily Online: 3,500-4,000
 - Total Players (last 7 days): 12,759
 - Total Banned Accounts: 6,327
 
+**Franz:**
+- 4k on Launch Day.
+
 ### Server Stages
-There are no server stages anymore. XP rate is x1 for all levels.
+
+**Teon:**
+
+- No Stages, x1 for all levels.
+
+**Franz**:
+[![B6C7BF3F-2FCF-413B-AC14-047227927967.png](https://i.postimg.cc/ydbQs9wt/B6C7BF3F-2FCF-413B-AC14-047227927967.png){width=70%}](https://postimg.cc/njqY1sVG)
 
 ## Gameplay Mechanics
 
@@ -105,18 +118,21 @@ You can have additional hotbars by expanding to the 6th slot, which reveals two 
 Press `PgDN` to zoom out. Using third-party programs to increase zoom further is not allowed.
 
 ### Maximum Target Hit
-
-| Condition                     | Maximum Targets |
-|-------------------------------|-----------------|
-| Any weapon                    | 1 target        |
-| Pole weapon                   | +4 targets (Total: 5) |
-| Pole Mastery Level 1-8        | +5 targets (Total: 10) |
-| Pole Mastery Level 9-45       | +10 targets (Total: 15) |
+| Condition | Max Target Hit |
+|-|-|
+| Any weapon | 1 target
+| Pole weapon | +4 target, total 5
+| Pole Mastery low level | +5 target, total 10
+| Pole Mastery high level | +10 target, total 15
+| Fell swoop lvl 5 | +5 target, total 20
 
 ### Next Target Options
+If you have problems with Next Target not working, change these options:
+
 - `Target to Taunt`: Targets Flagged Players
 - `Monster`: Targets Monsters only
-Shortcut: `CTRL + T`
+- Shortcut: `CTRL + T`
+
 
 ### Looting Rights in C4
 Top-damage-done-party gets loot rights on raids, regardless of CC status.
@@ -599,12 +615,13 @@ Manor seed selling/buying occurs at 20:06 UTC daily.
 
 ### Seven Signs
 Tallying occurs at 18:00 UTC every Monday.
+[More Info](/gameplay/sevensigns)
 
 ## Items & Crafting
 
 ### BoM/MoM Locations
-- Blacksmith of Mammon: Witch
-- Merchant of Mammon: Martyr
+- Blacksmith of Mammon: Witch/Dark Omens
+- Merchant of Mammon: Martyr/Patriots
 
 ### BoM Exchange Rules
 - Upgrading weapons loses enchants
