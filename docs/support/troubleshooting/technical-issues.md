@@ -9,6 +9,7 @@ Please make sure that:
 
 - [ ] You are using **Windows 10 or 11**.
 - [ ] Game folders are not Read Only in Properties. (Right Click)
+    - [ ] Trying reinstall/repair with mobile data or vpn.
 - [ ] Your Windows copy is **legitimate** and **not run in a virtual environment**. **No debug/insider version**.
 - [ ] [Windows Core Isolation is disabled](https://youtu.be/CkcZSELETlQ) ! (otherwise it gives Kernel Mode Trap and you can enable it back with time)
 - [ ] **Reborn files (l2.exe)** and **folders** are added as **exceptions/exclusions** in your [antivirus](https://youtu.be/1r93NtwZt4o) and [firewall settings](https://youtu.be/zijsJZionv0). 
