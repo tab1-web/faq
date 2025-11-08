@@ -2556,6 +2556,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
       <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
+    <tr>
+      <td>20</td>
+      <td>D Grade Newbie Weapon</td>
+      <td>Grab D Grade Newbie Weapon at Cat in Town</td>
+    </tr>
   </tbody>
 
 </table>
@@ -2623,6 +2628,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
       <td>20</td>
       <td>Class Change</td>
       <td>1st Class Quest</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>D Grade Newbie Weapon</td>
+      <td>Grab D Grade Newbie Weapon at Cat in Town</td>
     </tr>
     </tbody>
 </table>
@@ -2696,10 +2706,15 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
       <td>Dwarven Kinship</td>
       <td>Take before leaving dark elf city for gludio on 21 (deliver quest in gludio and gludin)</td>
     </tr>
-        <tr>
+    <tr>
       <td>20</td>
       <td>Class Change</td>
       <td>1st Class Quest</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>D Grade Newbie Weapon</td>
+      <td>Grab D Grade Newbie Weapon at Cat in Town</td>
     </tr>
     </tbody>
 </table>
@@ -2778,6 +2793,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
       <td>Class Change</td>
       <td>1st Class Quest</td>
     </tr>
+    <tr>
+      <td>20</td>
+      <td>D Grade Newbie Weapon</td>
+      <td>Grab D Grade Newbie Weapon at Cat in Town</td>
+    </tr>
     </tbody>
 </table>
 </figure>
@@ -2854,6 +2874,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
       <td>20</td>
       <td>Class Change</td>
       <td>1st Class Quest</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>D Grade Newbie Weapon</td>
+      <td>Grab D Grade Newbie Weapon at Cat in Town</td>
     </tr>
     </tbody>
 </table>
