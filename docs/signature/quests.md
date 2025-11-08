@@ -2720,6 +2720,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     <tbody>
     <tr>
       <td>1</td>
+      <td>Do the Race Tutorial Quest</td>
+      <td>To get Newbie Travel Tokens, do this first</td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>Farm Goblin</td>
       <td>Until level 6 for accessories drop</td>
     </tr>
