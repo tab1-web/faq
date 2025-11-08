@@ -27,6 +27,8 @@ Shadow Weapons are in Interlude, Cat Weapons or Adventurer Weapons are enabled.
 ### Newbie Buffs
 Available from the Newbie Guide NPC.
 
+[![O6NDmk-L.png](https://i.postimg.cc/2S9BHwhf/O6NDmk-L.png){width=60%}](https://postimg.cc/21v6yn0H)
+
 ### Newbie Bonuses
 Account-wide bonuses apply to all characters on the same account.
 
