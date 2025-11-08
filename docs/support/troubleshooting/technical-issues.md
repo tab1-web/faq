@@ -9,7 +9,6 @@ Please make sure that:
 
 - [ ] You are using **Windows 10 or 11**.
 - [ ] Game folders are not Read Only in Properties. (Right Click)
-    - [ ] Trying reinstall/repair with mobile data or vpn.
 - [ ] Your Windows copy is **legitimate** and **not run in a virtual environment**. **No debug/insider version**.
 - [ ] [Windows Core Isolation is disabled](https://youtu.be/CkcZSELETlQ) ! (otherwise it gives Kernel Mode Trap and you can enable it back with time)
 - [ ] **Reborn files (l2.exe)** and **folders** are added as **exceptions/exclusions** in your [antivirus](https://youtu.be/1r93NtwZt4o) and [firewall settings](https://youtu.be/zijsJZionv0). 
@@ -28,6 +27,7 @@ Additionally try:
 - [ ] Disabling **Riot's Vanguard**, and **other anti-cheats**.
     - [Here's how to play League with L2](https://postimg.cc/9whF6rPR)
 - [ ] Deleting your **system folder** and **repairing your files**.
+    - [ ] Trying reinstall/repair with mobile data or vpn.
 - [ ] Doing full **re-install** by deleting the game folder.
 - [ ] **Disabling all overlay extensions**: Discord, Overwolf etc..
 - [ ] [Reinstalling .NET frameworks or Enable them](https://youtu.be/57HbrVq6Ej0?si=uUNFievc5M00opIf&t=105), click on drop down and tick the options below as well.
