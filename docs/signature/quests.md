@@ -2498,6 +2498,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
   <tbody>
     <tr>
       <td>1</td>
+      <td>Do the Race Tutorial Quest</td>
+      <td>To get Newbie Travel Tokens, do this first</td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>Farm Goblin</td>
       <td>Until level 3 for accessories drop</td>
     </tr>
@@ -2571,6 +2576,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     <tbody>
     <tr>
       <td>1</td>
+      <td>Do the Race Tutorial Quest</td>
+      <td>To get Newbie Travel Tokens, do this first</td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>Farm Goblin</td>
       <td>Until level 6 for accessories drop</td>
     </tr>
@@ -2592,7 +2602,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     <tr>
       <td>10</td>
       <td>Skirmish with the Orcs</td>
-      <td>Quest for weapon and beginner shots</td>
+      <td>Quest for weapon and beginner shots: Quest Item in your Inventory Quest Tab shows you which mob you need to hunt</td>
     </tr>
     <tr>
       <td>12</td>
@@ -2631,6 +2641,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     </thead>
     <tbody>
+    <tr>
+      <td>1</td>
+      <td>Do the Race Tutorial Quest</td>
+      <td>To get Newbie Travel Tokens, do this first</td>
+    </tr>
     <tr>
       <td>1</td>
       <td>Farm Goblin</td>
@@ -2775,6 +2790,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     </head>
     <tbody>
+    <tr>
+      <td>1</td>
+      <td>Do the Race Tutorial Quest</td>
+      <td>To get Newbie Travel Tokens, do this first</td>
+    </tr>
     <tr>
       <td>1</td>
       <td>Farm Goblin</td>
