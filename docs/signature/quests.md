@@ -2621,6 +2621,11 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
     </tr>
     <tr>
       <td>15</td>
+      <td>Dwarven Kinship</td>
+      <td>Take this before leaving dark elf city for gludio (deliver quest in gludio and gludin)</td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>Grim Collector</td>
       <td>Farm 10 quest items per deliver for bonus (complete skeletons not worth it)</td>
     </tr>
