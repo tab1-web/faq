@@ -2277,12 +2277,12 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
                 <tr>
                     <td>75</td>
                     <td>Mimir's Elixir</td>
-                    <td>Subclass Quest, needs: 100 Moonstone Shards, 10 Volcano Ash, 2 Quick Silver from <a href="https://lineage2wiki.org/c5/quest/373/supplier-of-reagents/">Supplier of Reagents Quest</a></td>
+                    <td>Subclass Quest, needs: 100 Moonstone Shards, 10 Volcano Ash, 2 Quick Silver from <a href="https://lineage2wiki.org/c5/quest/373/supplier-of-reagents/">Supplier of Reagents Quest</a> <br> <a href="https://tab1-web.github.io/faq/gameplay/progression/subclasses/">Subclass Info</a></td>
                 </tr>
                 <tr>
                     <td>50 Sub</td>
                     <td>Noblesse Quests</td>
-                    <td><a href="https://lineage2wiki.org/c5/quest/373/supplier-of-reagents/">Supplier of Reagents Quest</a> <br> <strong>WARNING:</strong> On the Wiki Demonic Essence is needed for Hellfire Oil, not Draconic Essence</td>
+                    <td><a href="https://lineage2wiki.org/c5/quest/373/supplier-of-reagents/">Supplier of Reagents Quest</a> <br> <strong>WARNING:</strong> On the Wiki Demonic Essence is needed for Hellfire Oil, not Draconic Essence <br> <a href="https://tab1-web.github.io/faq/gameplay/progression/subclasses/">Noblesse Info</a> </td>
                 </tr>
             </tbody>
         
