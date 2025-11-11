@@ -98,6 +98,7 @@ Yes, shortcuts reset and cannot be fixed.
 - No Stages, x1 for all levels.
 
 **Franz**:
+
 [![B6C7BF3F-2FCF-413B-AC14-047227927967.png](https://i.postimg.cc/ydbQs9wt/B6C7BF3F-2FCF-413B-AC14-047227927967.png){width=70%}](https://postimg.cc/njqY1sVG)
 
 ## Gameplay Mechanics
