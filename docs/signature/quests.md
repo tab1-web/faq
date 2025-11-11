@@ -1388,7 +1388,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
                 <tr>
                     <td>52</td>
                     <td>An Ice Merchant's Dream	</td>
-                    <td>Great quest for Materials, Requires Other Side of Truth Quest <br> [Exchanges Link](https://tab1-web.github.io/faq/eternal/questexchanges/icemerchant/)</td>
+                    <td>Great quest for Materials, Requires Other Side of Truth Quest <br> <a href="https://tab1-web.github.io/faq/eternal/questexchanges/icemerchant/">Exchanges Link</a></td>
                 </tr>
                 <tr>
                     <td>55</td>
@@ -1824,7 +1824,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
                 <tr>
                     <td>66</td>
                     <td>The Zero Hour</td>
-                    <td>Material Quest, Requirement: Hunt of The Golden Ram Mercenary Force Part 1 and In Search of the Nest Quest <br> [Exchanges Link](https://tab1-web.github.io/faq/eternal/questexchanges/zerohour/)</td>
+                    <td>Material Quest, Requirement: Hunt of The Golden Ram Mercenary Force Part 1 and In Search of the Nest Quest <br> <a href="https://tab1-web.github.io/faq/eternal/questexchanges/zerohour/">Exchanges Link</a></td>
                 </tr>
                 <tr>
                     <td>66</td>
