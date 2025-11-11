@@ -337,7 +337,7 @@ Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span sty
         </tr>
         <tr>
             <td>21</td>
-            <td>Seductive Whispers, Will the Seal be Broken</td>
+            <td>Dangerous Seduction, Will the Seal be Broken</td>
             <td>Unique quests for Adena <br> Only Dark Elves <br>Recommended to get</td>
         </tr>
         <tr>
