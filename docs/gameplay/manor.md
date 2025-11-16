@@ -50,7 +50,7 @@ Thank you **@Shuma**{style="color:white;"} and **@Ascy**{style="color:red;"} for
   margin-bottom: 0.75rem;
   border: 1px solid rgba(255,255,255,0.2);
   border-radius: 4px;
-  background: rgba(255,255,255,0.08);
+  background: rgba(0,0,0,0.3); 
   color: inherit;
   font-size: 0.9rem;
 }
