@@ -16,6 +16,8 @@ Thank you <span style="color:white;">@Gloto</span> for Quest Guides! <span style
 Thank you <span style="color:white;">@Aynix</span> for Lv40-75 Spoils! <span style="color:red;">❤</span> [Aynix's Discord Server](https://discord.gg/Rcqv9UMb82)<br>
 > <strong>Note:</strong> Mob Spoils are based on accessibility & value, not a command. <br> Level affects spoil rates. Dimensional Rift Spoils not included yet.
 
+Honorable Mention for Spoilers: [Cypheron's Spoiler App](https://cypheron.itch.io/l2loot)
+
 ## Ultimate Levelling Guide
 
 <div class="quest-guide-controls">

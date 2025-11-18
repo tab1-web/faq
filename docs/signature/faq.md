@@ -101,7 +101,16 @@ Yes, shortcuts reset and cannot be fixed.
 
 [![B6C7BF3F-2FCF-413B-AC14-047227927967.png](https://i.postimg.cc/ydbQs9wt/B6C7BF3F-2FCF-413B-AC14-047227927967.png){width=70%}](https://postimg.cc/njqY1sVG)
 
+### Seperate Franz/Teon channels?
+
+- Staff has confirmed they will be sticking with current shared text channel setup, main reason is to avoid overcrowding the server with additional channels and maintain current structure, which may not be perfect, has reliably connected players across multi servers before
+
 ## Gameplay Mechanics
+
+### Newbie Travel Tokens
+
+- Do the tutorial quest to kill gremlins and get blue gemstone
+- Talk to newbie guide, the npc beside it and then town newbie guide to acquire them
 
 ### Wide Blow vs. Towering Blow
 Thank you **@Seriel**{style="color:yellow;"} and **@Jessnina**{style="color:green;"}
