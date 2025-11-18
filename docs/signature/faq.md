@@ -39,7 +39,7 @@ Visit [l2reborn.org/reborn-shop](https://l2reborn.org/reborn-shop/) to vote ever
 
 #### What does VIP/Voting give?
 
-- Boosts rates from 0.75x → 1x (Adena/Drops/Quests)
+- Boosts rates from 0.75x → 1x (Adena/Drops/Not Quests: Quests are 1x)
 - VIP lasts longer than free vote bonuses
 - Free and paid VIP provide identical benefits (don't stack)
 
