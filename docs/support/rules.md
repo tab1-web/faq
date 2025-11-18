@@ -108,6 +108,12 @@ icon: fontawesome/solid/scroll
 
 - Death threats, harm wishes, racism, and disparaging remarks toward staff/server are punishable with chat-bans or bans up to GMs discretion.
 
+### :fontawesome-solid-handshake:  **11. Cross Server Trades**
+
+- There are no server rules against cross server trades (e.g. trading adena/items between origins/franz/teon) but it is forbidden to advertise them on Discord and in-game.
+
+- GMs highly discourage such trades, if you get scammed, it's on you.
+
 ## **Signature-Specific Rules**
 
 > **These rules are for Signature SERVER only!!! The above rules still apply.**{style="color:red;"}
