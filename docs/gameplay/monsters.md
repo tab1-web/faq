@@ -122,9 +122,9 @@ In Lineage II, weapons and armor are divided into different grades **(D, C, B, A
 | 76+    | S      | Endgame gear, <br> **Third Class Change**{style="color:rgb(107, 103, 223); font-weight: bold;"}          |
 </figure>
 
-### Weapon Grade Penalties
+### Grade Penalties
 
-Further you are from the Grade, heavier the **Penalty**{style="color:red";} becomes. Note that the values might not be entirely correct, but are close enough.
+You get penalty for **wearing grades** higher than what you are able to equip:
 
 <figure markdown>
 | Level | Accuracy | Critical Rate | Critical Damage | Atk. Spd. | P. Atk. |
