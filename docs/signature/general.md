@@ -10,7 +10,7 @@ const SEVEN_SIGNS_DESCRIPTION = {
     <strong style="color: #ff3333" >Blacksmith of Mammon</strong> and <strong style="color: #ff3333" >Merchant of Mammon</strong> are <strong style="color: #ff3333" >not available.</strong>`,
     SEAL: `<strong style="color:red;">Players cannot register to fight in the Catacombs.</strong> <br> 
     In order to hunt in the Catacombs, you need to be registered and be on the winning side. <br> <br>
-    <strong style="color: #32cd32" >Blacksmith of Mammon is at:</strong> Witch/Dark Omens <br>
+    <strong style="color: #32cd32" >Blacksmith of Mammon is at:</strong> Witch <br>
     <strong style="color: #32cd32 ">Merchant of Mammon is at:</strong> Martyr/Patriots `
 };
 
