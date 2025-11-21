@@ -125,6 +125,10 @@ Thank you **@Seriel**{style="color:yellow;"} and **@Jessnina**{style="color:gree
 
 </figure>
 
+### Costs of Upgrading Clan Level
+
+
+
 ### Additional Hotbars
 You can have additional hotbars by expanding to the 6th slot, which reveals two new buttons on the side for customization.
 
@@ -245,15 +249,7 @@ Available in C5.
 
 ## Party System
 
-### Party EXP Bonuses
-- 2 members: +30%
-- 3 members: +39%
-- 4 members: +50%
-- 5 members: +54%
-- 6 members: +58%
-- 7 members: +63%
-- 8 members: +67%
-- 9 members: +72%
+- [More info here](/gameplay/monsters/#party-system)
 
 ### EXP Distribution
 No EXP when party members have 20+ level difference.
