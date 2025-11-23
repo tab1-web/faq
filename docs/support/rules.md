@@ -64,6 +64,7 @@ icon: fontawesome/solid/scroll
         - Announcing low prices but charging much higher (e.g., AA for 13a but sold for 13kk).
         - Misleading package deals (e.g., sets with swapped items).
         - Craft shops with absurd material costs (e.g., 1kk per material).
+        - Buying items from shops and re-selling them e.g. twice the amount.
     - **Account theft**
         - Stealing items by logging into another player’s account.
 
