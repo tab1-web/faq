@@ -63,7 +63,9 @@ Key remap softwares: [reWASD](https://www.rewasd.com/) or [SWICD](https://youtu.
 
 Thanks for the video @royce6735 !
 
+## On Shutdown PC restarts instead
 
+[Disable fast windows start up](https://www.youtube.com/watch?v=L049J2yxY_w) and it'll fix it , also in [optional windows update](https://tech.yahoo.com/computing/articles/windows-finally-fixes-shut-down-220850601.html) should fix it
 
 ## Launcher doesn't load
 - Upgrade your graphic drivers and restart your computer.

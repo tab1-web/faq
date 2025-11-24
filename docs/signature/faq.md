@@ -192,6 +192,10 @@ Refer to the dye chart for specific dye combinations and effects.
 
 ## Character Progression
 
+### PK-ing with Cat Weapon
+
+If you PK with Weapon from Cat (adventurer weapons) then it gets de-equipped and you cannot equip it until you have 0 PKs. Do Sin Eater Quest
+
 ### Level Difference Penalties
 
 [Check it out here.](/faq/gameplay/monsters/#character-mob-level-difference-penalties)
@@ -243,6 +247,12 @@ No improved pets available (Signature won't go beyond Interlude)
 ### Clan Leave Cooldown
 - 1-day cooldown after leaving/kicked from clan
 - 1-day cooldown before clan can re-invite
+
+### Clan Oath
+
+For any reason you leave clan (either graduation from academy or leaving/kicked out) the armor gets de-equipped and you cannot equip it anymore.
+
+This is the moon knight's classic quest equivalent of a quest in C5, though not as good.
 
 ### Clan Leader Transfer
 Available in C5.
