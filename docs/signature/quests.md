@@ -2593,6 +2593,11 @@ Honorable Mention for Spoilers: [Cypheron's Spoiler App](https://cypheron.itch.i
     </tr>
     <tr>
       <td>6</td>
+      <td>No Grade Newbie Weapon</td>
+      <td>Pick up Newbie Weapons in Town from Cat</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Hunt the Orcs</td>
       <td>Farm 10 quest items per deliver for bonus and beginner shots</td>
     </tr>
