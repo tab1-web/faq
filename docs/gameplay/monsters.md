@@ -206,7 +206,7 @@ You'll have to get into parties sooner or later, for efficient PvE or PvP.
 
     **Explanation**
 
-    Level Difference "Penalty" is not really a penalty, it just distributes EXP to higher level more.
+    Level Difference "Penalty" is not really a penalty, it just distributes more EXP to higher level.
 
 - ### **Party XP Bonus**
 
