@@ -204,12 +204,16 @@ You'll have to get into parties sooner or later, for efficient PvE or PvP.
     - Total Levels: 68² + 70² + 72² + 74² = 20184
     - **Your EXP =** (1000 × 1.5) × (4900 / 20184) ≈ **364 EXP**
 
+    **Explanation**
+
+    Level Difference "Penalty" is not really a penalty, it just distributes EXP to higher level more.
+
 - ### **Party XP Bonus**
 
     | Party Size | XP Bonus |
     |------------|----------|
-    | 2          | 1.30     |
-    | 3          | 1.39     |
+    | 2          | 1.30 (+30%)     |
+    | 3          | 1.39 (+39%..)    |
     | 4          | 1.50     |
     | 5          | 1.54     |
     | 6          | 1.58     |
