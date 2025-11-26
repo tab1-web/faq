@@ -122,6 +122,11 @@ Honorable Mention for Spoilers: [Cypheron's Spoiler App](https://cypheron.itch.i
             <td>Windy Hill</td>
             <td>Caster Mobs x1 mobs with Bow Weak Point, needs jewelry, Slighhtly More M.Def., Herbs </td>
         </tr>
+        <tr>
+            <td>25-35</td>
+            <td>Cruma Marshland</td>
+            <td>Fire Weak mobs mostly and most mobs should drop herbs, ghosts and bees are aggressive, bees could cast poison</td>
+        </tr>
     </tbody>
 </table>
 </figure>
