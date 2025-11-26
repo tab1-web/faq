@@ -392,11 +392,6 @@ Honorable Mention for Spoilers: [Cypheron's Spoiler App](https://cypheron.itch.i
             <td>An Elder Sows Seeds</td>
             <td>3.6k Adena<br>Pick it up if you wanna hunt in Ant Nest</td>
         </tr>
-        <tr>
-            <td>30</td>
-            <td>Lizardmen's Conspiracy</td>
-            <td>Repeatable quests that gives 42000 sp, worth doing until 32<br>Recommended quest</td>
-        </tr>
     </tbody>
 </table>
 </figure>
