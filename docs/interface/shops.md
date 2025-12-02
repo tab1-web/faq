@@ -12,6 +12,8 @@ icon: material/shopping
 
     You need to be Level 20 and type `.offline` after you setup your private shop.
 
+    You may have one offline shop and farming on another character.
+
     > On **Eternal** you need to be Level 40.
 
 - [![undefined-Imgur.gif](https://i.postimg.cc/K89jnnSX/undefined-Imgur.gif)](https://postimg.cc/gxZGpL24)

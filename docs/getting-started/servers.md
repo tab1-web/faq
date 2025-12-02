@@ -37,7 +37,7 @@ hide:
 
     **Progressive Server (Newer Chronicles)**
 
-    - :fontawesome-solid-scroll: __Chronicle__: Freya
+    - :fontawesome-solid-scroll: __Chronicle__: H5
     - :material-gamepad-variant-outline: __Gameplay__: Dynamic Rates, Starter kits
     - :material-account-group: __Population__: 2k daily peak 
 
