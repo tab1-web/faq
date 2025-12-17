@@ -157,7 +157,7 @@ setInterval(updateFranzPeriodDisplays, 60 * 1000);
 }
 </style>
 
-## Christmas Event
+## 🎅 Christmas Event
 - Santa Herbs and Daily Gifts from NPC
 - There's issue with people not getting dailies and will be fixed 12/18
 - More Details here: [Link](https://l2reborn.org/news/santas-blessing/)
