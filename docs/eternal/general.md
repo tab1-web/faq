@@ -210,6 +210,43 @@ icon: material/clock-time-one-outline
     text-overflow: ellipsis;
 }
 
+/* Container styling for the widget */
+.period-indicator {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 4px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    margin-bottom: 8px;
+}
+
+/* Reward Period - Red/Alert Theme */
+.period-indicator.reward {
+    background-color: rgba(255, 68, 68, 0.1); /* Soft background */
+    color: #ff4444;                          /* Bright red text */
+    border: 1px solid #ff4444;
+}
+
+/* Registration Period - Green/Active Theme */
+.period-indicator.register {
+    background-color: rgba(68, 255, 68, 0.1); /* Soft background */
+    color: #44ff44;                          /* Bright green text */
+    border: 1px solid #44ff44;
+}
+
+/* Description styling */
+.period-description b {
+    color: #FF6347; /* Tomato color for the "Ends in" countdown */
+}
+
+/* Current Time styling */
+.current-utctime {
+    font-family: monospace;
+    color: var(--md-typeset-color);
+    opacity: 0.8;
+}
+
 @media (max-width: 400px) {
     .button-grid {
         grid-template-columns: 1fr 1fr;

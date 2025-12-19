@@ -1,112 +1,88 @@
 (function() {
   const eventConfigs = [
-    {
-      selector: '[data-target="2025-07-18T18:00:00Z"] .countdown-display',
-      pastText: "SERVER IS ONLINE! NPCs ARE UP!",
-      showSeconds: false
-    },
-    {
-      selector: '[data-target="2025-07-18T17:00:00Z"] .countdown-display',
-      pastText: "SERVER IS ONLINE! NPCs ARE NOT!",
-      showSeconds: false
-    },
-    {
-      selector: '[data-target="2025-07-11T18:00:00Z"] .countdown-display',
-      pastText: "BETA TEST IS LIVE!",
-      showSeconds: false
-    },
-    {
-      selector: '[data-target="2025-07-19T00:00:00Z"] .countdown-display',
-      pastText: "SUBCLASS & NOBLESSE DONATION IS ON!",
-      showSeconds: false
-    },
-    {
-      selector: '[data-target="2025-07-25T18:00:00Z"] .countdown-display',
-      pastText: "FIRST MAMMON ON! (NO A/S GRADE SERVICES)",
-      showSeconds: false
-    },
-    {
-      selector: '[data-target="2025-08-01T18:00:00Z"] .countdown-display',
-      pastText: "A GRADE MAMMON SERVICES ON!",
-      showSeconds: false
-    },
-    {
-      selector: '[data-target="2025-08-15T18:00:00Z"] .countdown-display',
-      pastText: "S GRADE MAMMON SERVICES ON!",
-      showSeconds: false
-    },
-    {
-      selector: '[data-target="2025-08-11T20:30:00Z"] .countdown-display',
-      pastText: "FIRST CYCLE OF OLYMPIAD IS ON!",
-      showSeconds: false
-    },
-    {
-      selector: '[data-target="2025-08-18T00:00:00Z"] .countdown-display',
-      pastText: "THIRD STAGE IS ON!",
-      showSeconds: false
-    },
-    {
-      selector: '[data-target="2026-01-16T17:00:00Z"] .countdown-display',
-      pastText: "SERVER ON WITHOUT NPC!",
-      showSeconds: true
-    },
-    {
-      selector: '[data-target="2026-01-16T18:00:00Z"] .countdown-display',
-      pastText: "SERVER ON WITH NPC!",
-      showSeconds: true
-    },
+    { target: "2025-07-18T18:00:00Z", pastText: "SERVER IS ONLINE! NPCs ARE UP!", showSeconds: false },
+    { target: "2025-07-18T17:00:00Z", pastText: "SERVER IS ONLINE! NPCs ARE NOT!", showSeconds: false },
+    { target: "2025-07-11T18:00:00Z", pastText: "BETA TEST IS LIVE!", showSeconds: false },
+    { target: "2025-07-19T00:00:00Z", pastText: "SUBCLASS & NOBLESSE DONATION IS ON!", showSeconds: false },
+    { target: "2025-07-25T18:00:00Z", pastText: "FIRST MAMMON ON! (NO A/S GRADE SERVICES)", showSeconds: false },
+    { target: "2025-08-01T18:00:00Z", pastText: "A GRADE MAMMON SERVICES ON!", showSeconds: false },
+    { target: "2025-08-15T18:00:00Z", pastText: "S GRADE MAMMON SERVICES ON!", showSeconds: false },
+    { target: "2025-08-11T20:30:00Z", pastText: "FIRST CYCLE OF OLYMPIAD IS ON!", showSeconds: false },
+    { target: "2025-08-18T00:00:00Z", pastText: "THIRD STAGE IS ON!", showSeconds: false },
+    { target: "2026-01-16T17:00:00Z", pastText: "SERVER ON WITHOUT NPC!", showSeconds: true },
+    { target: "2026-01-16T18:00:00Z", pastText: "SERVER ON WITH NPC!", showSeconds: true }
   ];
-  function updateAllCountdowns() {
-    const now = new Date();
+
+  let cachedEvents = [];
+let countdownInterval = null; 
+
+  function init() {
+    // Clear old timer to prevent "timer stacking" during MkDocs navigation
+    if (countdownInterval) clearInterval(countdownInterval); 
+
+    cachedEvents = eventConfigs.map(config => {
+      const card = document.querySelector(`[data-target="${config.target}"]`);
+      if (!card) return null;
+
+      return {
+        ...config,
+        card: card,
+        displayEl: card.querySelector('.countdown-display'),
+        targetTime: new Date(config.target).getTime()
+      };
+    }).filter(event => event !== null); 
+
+    updateAllCountdowns();
     
-    document.querySelectorAll('.countdown-card').forEach(card => {
-      const targetDate = new Date(card.dataset.target);
-      const displayEl = card.querySelector('.countdown-display');
-      const timeLeft = targetDate - now;
-      const config = eventConfigs.find(c => c.selector === `[data-target="${card.dataset.target}"] .countdown-display`);
-      
-      if (!displayEl || !config) return;
+    // Store the interval ID so we can clear it next time
+    countdownInterval = setInterval(updateAllCountdowns, 1000);
+  }
+
+  function updateAllCountdowns() {
+    const now = Date.now();
+    
+    cachedEvents.forEach(event => {
+      const timeLeft = event.targetTime - now;
       
       if (timeLeft <= 0) {
-        displayEl.textContent = config.pastText;
-        displayEl.style.color = "#4CAF50";
-        card.classList.add('active-event');
+        if (event.displayEl.textContent !== event.pastText) {
+          event.displayEl.textContent = event.pastText;
+          event.displayEl.style.color = "#4CAF50";
+          event.card.classList.add('active-event');
+        }
         return;
       }
       
-      const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
-      const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-      const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
-      const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+      const d = Math.floor(timeLeft / 86400000);
+      const h = Math.floor((timeLeft % 86400000) / 3600000);
+      const m = Math.floor((timeLeft % 3600000) / 60000);
+      const s = Math.floor((timeLeft % 60000) / 1000);
       
-      let countdownText;
-      if (days > 0) {
-        countdownText = `${days}d ${hours}h ${minutes}m`;
-      } else if (hours > 0) {
-        countdownText = `${hours}h ${minutes}m`;
-      } else {
-        countdownText = `${minutes}m`;
+      let text = "";
+      if (d > 0) text += `${d}d ${h}h ${m}m`;
+      else if (h > 0) text += `${h}h ${m}m`;
+      else text += `${m}m`;
+      
+      if (event.showSeconds) {
+        text += ` ${s}s`;
       }
       
-      if (config.showSeconds) {
-        countdownText += ` ${seconds}s`;
+      // Crucial: Only update the DOM if the string actually changed
+      if (event.displayEl.textContent !== text) {
+        event.displayEl.textContent = text;
       }
-      
-      displayEl.textContent = countdownText;
-      displayEl.style.color = "";
-      card.classList.remove('active-event');
     });
   }
 
+  // Handle various loading scenarios
   if (document.readyState === 'complete') {
-    updateAllCountdowns();
+    init();
   } else {
-    document.addEventListener('DOMContentLoaded', updateAllCountdowns);
+    document.addEventListener('DOMContentLoaded', init);
   }
   
-  setInterval(updateAllCountdowns, 60000);
-  
+  // Support for MkDocs/Material theme instant loading
   if (typeof document$ !== 'undefined') {
-    document$.subscribe(updateAllCountdowns);
+    document$.subscribe(init);
   }
 })();
