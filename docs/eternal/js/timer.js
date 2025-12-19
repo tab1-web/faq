@@ -44,7 +44,17 @@
       selector: '[data-target="2025-08-18T00:00:00Z"] .countdown-display',
       pastText: "THIRD STAGE IS ON!",
       showSeconds: false
-    }
+    },
+    {
+      selector: '[data-target="2026-01-16T17:00:00Z"] .countdown-display',
+      pastText: "SERVER ON WITHOUT NPC!",
+      showSeconds: true
+    },
+    {
+      selector: '[data-target="2026-01-16T18:00:00Z"] .countdown-display',
+      pastText: "SERVER ON WITH NPC!",
+      showSeconds: true
+    },
   ];
   function updateAllCountdowns() {
     const now = new Date();

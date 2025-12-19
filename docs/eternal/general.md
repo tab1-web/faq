@@ -224,63 +224,19 @@ icon: material/clock-time-one-outline
 <div class="grid cards">
   
   <!-- Server without NPC Opening -->
-  <div class="md-typeset card countdown-card" data-target="2025-07-18T17:00:00Z">
+  <div class="md-typeset card countdown-card" data-target="2026-01-16T17:00:00Z">
     <h3>Server without NPC Countdown</h3>
-    <p><strong>Start Time:</strong> July 18th at 17:00 UTC</p>
+    <p><strong>Time:</strong> January 16th at 17:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
   <!-- Server with NPC Opening -->
-  <div class="md-typeset card countdown-card" data-target="2025-07-18T18:00:00Z">
+  <div class="md-typeset card countdown-card" data-target="2026-01-16T18:00:00Z">
     <h3>Server with NPC Countdown</h3>
-    <p><strong>Opening Time:</strong> July 18th at 18:00 UTC</p>
+    <p><strong>Time:</strong> January 16th at 18:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
-  <!-- Subclass & Noblesse Donation -->
-  <div class="md-typeset card countdown-card" data-target="2025-07-19T00:00:00Z">
-    <h3>Subclass & Noblesse Donation</h3>
-    <p><strong>Start Date:</strong> July 19th</p>
-    <p><strong>Note:</strong> Might be available on Server Daily Restart</p>
-    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-  <!-- First Mammon (No A/S Grade) -->
-  <div class="md-typeset card countdown-card" data-target="2025-07-25T18:00:00Z">
-    <h3>First Mammon</h3>
-    <p><strong>Start Date:</strong> July 25th at 18:00 UTC</p>
-    <p><strong>Note:</strong> No A/S Grade Services</p>
-    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-  <!-- A Grade Mammon Services -->
-  <div class="md-typeset card countdown-card" data-target="2025-08-01T18:00:00Z">
-    <h3>A Grade Mammon Services</h3>
-    <p><strong>Start Date:</strong> August 1st at 18:00 UTC</p>
-    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-  <!-- S Grade Mammon Services -->
-  <div class="md-typeset card countdown-card" data-target="2025-08-15T18:00:00Z">
-    <h3>S Grade Mammon Services</h3>
-    <p><strong>Start Date:</strong> August 15th at 18:00 UTC</p>
-    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-  <!-- First Cycle of Olympiad -->
-  <div class="md-typeset card countdown-card" data-target="2025-08-11T20:30:00Z">
-    <h3>First Olympiad Cycle</h3>
-    <p><strong>Start Date:</strong> August 11th 20:30 UTC</p>
-    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-  <!-- x30 Rates and B-Grade at Maria -->
-  <div class="md-typeset card countdown-card" data-target="2025-08-18T00:00:00Z">
-    <h3>x30 EXP & B Grade at Maria</h3>
-    <p><strong>Start Date:</strong> August 18th</p>
-    <p><strong>Note:</strong>Might be available after server restart</p>
-    <p><strong>Starts In:</strong> <span class="countdown-display"></span></p>
-  </div>
 </div>
 
 ## Event Schedules
