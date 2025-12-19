@@ -1,12 +1,18 @@
 (function() {
+    // Declared outside to persist across MkDocs navigation events
     let periodTimeout = null;
 
     function updatePeriodDisplay() {
-        // Clear existing timeout to prevent memory leaks/timer stacking
+        // Essential: Clear the existing timeout to prevent duplicate "clock chains"
         if (periodTimeout) clearTimeout(periodTimeout);
 
         const container = document.querySelector('.period-widget');
-        if (!container) return;
+        
+        // If the widget isn't on this page, stop the timer entirely
+        if (!container) {
+            periodTimeout = null; 
+            return;
+        }
 
         const now = new Date();
         const day = now.getUTCDay();
@@ -18,19 +24,22 @@
         const isRewardPeriod = (day === 5 && hours >= 18) || (day === 6) || (day === 0) || (day === 1 && hours < 18);
 
         // Calculate Next Target Phase Change
-        let targetDay = isRewardPeriod ? 1 : 5; // Monday or Friday
+        let targetDay = isRewardPeriod ? 1 : 5; 
         let targetTime = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 18, 0, 0));
         
         let daysUntil = (targetDay - day + 7) % 7;
+        // If it's the target day but past 18:00, move to next week
         if (daysUntil === 0 && hours >= 18) daysUntil = 7;
         targetTime.setUTCDate(targetTime.getUTCDate() + daysUntil);
         
         const diffMs = targetTime - now;
-        const diffDays = Math.floor(diffMs / 86400000);
-        const diffHours = Math.floor((diffMs % 86400000) / 3600000);
-        const timeLeftStr = `${diffDays}d ${diffHours}h remaining`;
+        const d = Math.floor(diffMs / 86400000);
+        const h = Math.floor((diffMs % 86400000) / 3600000);
+        const m = Math.floor((diffMs % 3600000) / 60000);
+        
+        // Added minutes to the string for better accuracy
+        const timeLeftStr = `${d}d ${h}h ${m}m remaining`;
 
-        // Update DOM
         const indicator = container.querySelector('.period-indicator');
         const description = container.querySelector('.period-description');
         const utctime = container.querySelector('.current-utctime');
@@ -42,22 +51,22 @@
 
         if (description) {
             description.innerHTML = isRewardPeriod 
-                ? `Mammons (Blacksmith/Merchant) are active in Giran. <br> <b>Ends in: ${timeLeftStr}</b>`
-                : `Registration open for Seal competition. <br> No Blacksmith/Merchant <br> <b>Ends in: ${timeLeftStr}</b>`;
+                ? `Mammons (Blacksmith/Merchant) are active. <br> <b>Ends in: ${timeLeftStr}</b>`
+                : `Registration open for Seal competition. <br> <span style="color:#ff4444; font-size:0.8em;">Blacksmith/Merchant are currently away.</span> <br> <b>Ends in: ${timeLeftStr}</b>`;
         }
 
         if (utctime) {
             utctime.textContent = `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}, ${days[day]} UTC`;
         }
 
-        // Sync to trigger exactly at the top of the next minute
+        // Sync to the next minute
         periodTimeout = setTimeout(updatePeriodDisplay, 60000 - (now.getUTCSeconds() * 1000));
     }
 
-    // MkDocs Material Navigation Support
     if (typeof document$ !== 'undefined') {
         document$.subscribe(() => {
-            updatePeriodDisplay();
+            // Small delay to ensure MkDocs finished rendering the new page
+            setTimeout(updatePeriodDisplay, 100);
         });
     } else {
         document.addEventListener('DOMContentLoaded', updatePeriodDisplay);

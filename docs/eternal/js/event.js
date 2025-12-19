@@ -5,13 +5,16 @@
     { name: "DM", times: ["00:00", "06:00", "12:00", "18:00"], icon: "💀", className: "event-dm" }
   ];
   const REGISTRATION_DURATION = 5; 
-  let refreshInterval = null; // Global reference to kill old timers
+  let refreshInterval = null; 
 
   function initWidget() {
-    // Kill existing timer if we navigated to a new page
-    if (refreshInterval) clearInterval(refreshInterval);
+    if (refreshInterval) {
+        clearInterval(refreshInterval);
+        refreshInterval = null;
+    }
     
     const container = document.querySelector('.events-widget');
+    
     if (!container) return;
 
     updateEvents();
@@ -20,7 +23,6 @@
 
   function updateEvents() {
     const now = new Date();
-    // Use Date.UTC to ensure everyone sees the same server time
     const currentMinutes = now.getUTCHours() * 60 + now.getUTCMinutes();
     const list = document.querySelector('.events-list');
     
@@ -52,15 +54,12 @@
       return h * 60 + m;
     }).sort((a, b) => a - b);
     
-    // 1. Check for Active
     const active = eventMinutes.find(m => currentMinutes >= m && currentMinutes < m + REGISTRATION_DURATION);
     if (active !== undefined) return { time: formatMinutesToTime(active), minutesUntil: 0, isActive: true };
     
-    // 2. Check for Next Today
     const next = eventMinutes.find(m => m > currentMinutes);
     if (next !== undefined) return { time: formatMinutesToTime(next), minutesUntil: next - currentMinutes, isActive: false };
     
-    // 3. First event Tomorrow
     const first = eventMinutes[0];
     return { time: formatMinutesToTime(first), minutesUntil: (1440 - currentMinutes) + first, isActive: false };
   }
@@ -73,6 +72,7 @@
     let seconds = 60;
     const timerDisplay = document.querySelector('.refresh-timer');
     
+    // 3. Assign to the persistent variable so it can be cleared next time
     refreshInterval = setInterval(() => {
       seconds--;
       if (timerDisplay) timerDisplay.textContent = seconds;
@@ -84,9 +84,11 @@
     }, 1000);
   }
 
-  // MkDocs Integration
   if (typeof document$ !== 'undefined') {
-    document$.subscribe(() => initWidget());
+    document$.subscribe(() => {
+        // Small delay ensures MkDocs has finished DOM injection
+        setTimeout(initWidget, 50); 
+    });
   } else {
     document.addEventListener('DOMContentLoaded', initWidget);
   }
