@@ -539,6 +539,17 @@ else if (setbuff) {
 		{d.gI("WW").disabled=true;}
 	else
 		{d.gI("WW").disabled=false;}
+
+	var JOB = d.gI("class").value;
+    var reflectWrapper = d.gI("KAI_REFLECT_WRAPPER");
+
+    if (JOB == "KAI") {
+        reflectWrapper.style.display = "inline-block";
+		console.log("Showing KAI reflect option");
+    } else {
+        reflectWrapper.style.display = "none";
+        d.gI("REFLECT_TOGGLE").checked = false;
+    }
 }
 function debuffs() {
 	if (d.gI("DEACCCHECK").checked==false)
@@ -1875,18 +1886,25 @@ var vr2=Math.floor(vr*10)/10
 d.gI("VR").innerHTML=vr2
 
 //Reflect Damage
-var buffrd=BuffRD
-if (EWpnType=="Bow"||EWpnType=="YumiBow")
-	{buffrd=0}
-var buffrd2=Math.floor(100*buffrd)
-d.gI("RD").innerHTML=(buffrd2+"%")
+var buffrd = BuffRD;
+if (EWpnType == "Bow" || EWpnType == "YumiBow") {
+    buffrd = 0;
+}
 
-var avgdmg2=(Eavgdmg*buffrd)+avgdmg
-var avgdmg3=Math.floor(avgdmg2*10)/10
-d.gI("AVGDMG").innerHTML=avgdmg3
-var Eavgdmg2=(avgdmg*Ebuffrd)+Eavgdmg
-var Eavgdmg3=Math.floor(Eavgdmg2*10)/10
-d.gI("EAVGDMG").innerHTML=Eavgdmg3
+var reflectBox = d.gI("REFLECT_TOGGLE");
+var showReflect = (reflectBox && reflectBox.checked);
+var activeReflect = showReflect ? buffrd : 0;
+
+var avgdmg2 = (Eavgdmg * activeReflect) + avgdmg;
+var avgdmg3 = Math.floor(avgdmg2 * 10) / 10;
+d.gI("AVGDMG").innerHTML = avgdmg3;
+
+var buffrd2 = Math.floor(100 * buffrd);
+d.gI("RD").innerHTML = (buffrd2 + "%");
+
+var Eavgdmg2 = (avgdmg * Ebuffrd) + Eavgdmg;
+var Eavgdmg3 = Math.floor(Eavgdmg2 * 10) / 10;
+d.gI("EAVGDMG").innerHTML = Eavgdmg3;
 
 //alert(Ebasedmg)
 

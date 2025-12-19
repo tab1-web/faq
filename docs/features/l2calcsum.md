@@ -59,7 +59,7 @@ legend {
 <table class="statcalc" width=275>
 <tr><td colspan=4>
 Servitor
-<select style="width: 150px;" id="class" onchange="calc()">
+<select style="width: 150px;" id="class" onchange="buffs();calc()">
 <option value=BB>Big Boom
 <option value=CO>Corrupted Man
 <option value=CU>Cursed Man
@@ -166,8 +166,15 @@ Summoner Lv
 <option value="5">Level 56 Prophet buffs, Dances and Songs
 <option value="6">We're all gonna die!
 </select></td></tr>
-<tr><td align=right><input type="checkbox" id="SS" onclick="calc()" checked></td><td>Use Soulshots</td>
-</tr></table>
+<tr>
+    <td align=right><input type="checkbox" id="SS" onclick="calc()" checked></td>
+    <td>Use Soulshots</td>
+    <td id="KAI_REFLECT_WRAPPER" style="display: none;">
+        <input type="checkbox" id="REFLECT_TOGGLE" onclick="calc()" checked>
+        Show Kai Reflect
+    </td>
+</tr>
+</table>
 <table class="damage">
 <tr>
 <td align=left width=100></td>
