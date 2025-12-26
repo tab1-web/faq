@@ -272,7 +272,7 @@ Available in C5.
 
 ## Party System
 
-- [More info here](/gameplay/monsters/#party-system)
+- [More info here](/faq/gameplay/monsters/#party-system)
 
 ### EXP Distribution
 No EXP when party members have 20+ level difference.
