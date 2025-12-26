@@ -220,8 +220,9 @@ Visit [lineage2wiki.com/c5/exp-calculator](https://lineage2wiki.org/c5/exp-calcu
 
 ### Deleveling
 - Safe for 10 levels (learn at 35 -> delevelled to 25: won't lose skills)
-- After 11th level, skills may be lost
-- No expoff command - delevel by hitting guards
+- After 11th level, skills get lost
+- Keep in mind with C5 came Death Penalty, making it pretty expensive.
+- No expoff command, delevel by hitting guards
 
 ## Pets
 
