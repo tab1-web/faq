@@ -257,6 +257,19 @@ This is the moon knight's classic quest equivalent of a quest in C5, though not 
 ### Clan Leader Transfer
 Available in C5.
 
+### Clan Reputation Points (CRP) for Academy
+
+[![academy](https://i.postimg.cc/R0TNDbz5/academy.png){width=60%}](https://postimg.cc/GBHLBK2q)
+
+### Clan Reputation Points Fees
+
+- Lv6 Clan: 10K CRP (Max 100 members)
+- Lv7 Clan: 20K CRP (Max 140 members)
+- Lv8 Clan: 40k CRP (Max 140 members)
+- 2 Royal Guards: 2*5,000=10k CRP (20 Members)
+- 4 Knights: 4*10,000=40k CRP (40 Members, requires Lv7 Clan)
+
+
 ## Party System
 
 - [More info here](/gameplay/monsters/#party-system)

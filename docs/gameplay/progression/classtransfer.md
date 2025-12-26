@@ -103,6 +103,10 @@ The pages are google translated, so it can be off, but I think it's still unders
 
 2nd class transfer quest **step can be saved** if you click on the desired row, so you can continue where you left off.
 
+> On Eternal 1st and 2nd class transfers are free, when you are the appropriate level (20-40) you can class transfer in towns via Cat or bottom right corner medal icon
+
+> On Signature you can donate for 1st and 2nd class quests or do them, the Maria NPC in town is the donation means of transferring class.
+
 ## Human
 
 ### Tanks
