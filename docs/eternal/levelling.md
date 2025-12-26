@@ -135,6 +135,8 @@ icon: material/sword
 
 ## Max Buff Slot Book Strategy
 
+Default Max Buff Slots is 20 with learning these books at your trainer you can gain 4 additional buff slots.
+
 <figure markdown>
 
 | Icon      | Book          | Level | Cost        | Max Buff Slots |
@@ -146,7 +148,7 @@ icon: material/sword
 
 </figure>
 > You can earn Glittering Medals via [Events](/faq/eternal/events/).  
-> Learn the skills at your class trainer, unlock them in order (Original needs Modern) <br> **Mages**: Magic Guild, **Fighters**: Fighter Guild, **Dark Elf**: Dark Elf Guild etc..
+> Learn the skills at your class trainer, unlock them in order (Original needs Modern) <br> **Mages**: Magic Guild, **Fighters**: Fighter Guild, **Dark Elf**: Dark Elf Guild, **Spoiler**: Warehouse etc..
 
 
 
