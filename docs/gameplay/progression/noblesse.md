@@ -125,10 +125,6 @@ icon: material/crown
 
     Displays your raid / siege history in every town
 
-- :material-sword-cross: **PvP Boost**  
-
-    Deal extra damage in PvP fights  
-  
 </div>
 
 ## :fontawesome-solid-wand-magic-sparkles: Noblesse Skills (Use Spirit/Soul Ores)
