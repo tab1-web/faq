@@ -259,7 +259,7 @@ Available in C5.
 
 ### Clan Reputation Points (CRP) for Academy
 
-[![academy](https://i.postimg.cc/R0TNDbz5/academy.png){width=60%}](https://postimg.cc/GBHLBK2q)
+[![academy](https://i.postimg.cc/R0TNDbz5/academy.png){width=20%}](https://postimg.cc/GBHLBK2q)
 
 ### Clan Reputation Points Fees
 
