@@ -279,7 +279,8 @@ Selling fruits to a lord other than your current area's lord costs 5% tax. The r
 
 ### Avoiding Losses
 - Always harvest immediately after killing monsters
-- Plan your fruit deliveries - calculate if you have enough fruits for 100% resource chance
+- Plan your fruit selling - calculate if you have enough fruits for 100% resource chance.
+  - If you lack fruits e.g. to get one material for the price, then it goes as chance if you get one.
 - Don't plant seeds on monsters too high/low level for you
 
 ### Understanding Resource Chances

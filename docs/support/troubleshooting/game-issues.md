@@ -123,7 +123,7 @@ Thanks @Csilk
 
 
 ## Unresponsive Buttons Fix
-This solution fixes the buttons not working for Monster Data / Spoil / Reborn Store etc..
+This solution fixes the buttons not working for Monster Data / Spoil / Reborn Store / Easy Login Manager etc..
 
 Delete `windowsinfo.ini` and `option.ini` and **repair**.
 
