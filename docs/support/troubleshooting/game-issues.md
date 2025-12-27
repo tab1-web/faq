@@ -125,11 +125,10 @@ Thanks @Csilk
 ## Unresponsive Buttons Fix
 This solution fixes the buttons not working for Monster Data / Spoil / Reborn Store / Easy Login Manager etc..
 
-Delete `windowsinfo.ini` and `option.ini` and **repair**.
-
-They're found in: `\Reborn\games\signature\system\`
-
-OR try make your l2 window really small and go full screen with alt+enter. 
+- Close L2
+- Delete `windowsinfo.ini` and `option.ini` and **repair**.
+    - They're found in: `\Reborn\games\signature\system\`
+- OR try make your l2 window really small and go full screen with alt+enter. 
 
 <figure markdown="1">
 <a href="https://postimg.cc/yD7dg1Qs">
