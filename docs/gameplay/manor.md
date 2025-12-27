@@ -222,10 +222,7 @@ When you use Manor seeds, the monster drops NOTHING except adena, seal stones, q
 The game calculates how much your drops would have been worth, then gives you fruits of equivalent value. So you're not losing out, just getting rewards in a different form.
 
 ### Price Controls and Limits
-Castle lords control Manor prices, but they have restrictions:
-
-- **Maximum price:** 10x the base seed/fruit cost
-- **Minimum price:** 60% of base cost
+Castle lords control Manor prices and they don't have minimum or maximum price for setting up Manor.
 
 This prevents lords from completely manipulating the market.
 
