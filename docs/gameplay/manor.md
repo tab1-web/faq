@@ -283,6 +283,22 @@ Selling fruits to a lord other than your current area's lord costs 5% tax. The r
 ### Understanding Resource Chances
 If a fruit costs 100 adena but you want a resource worth 5700 adena, you need 57 fruits for guaranteed success. With fewer fruits, you're gambling on RNG.
 
+
+## In-Game Manor Menus
+
+### Current Seeds Tab
+- 1st column is for seed names, next is how many seeds can be bought by players, next is how many seeds lord wants to buy, then next column means what they set for how much to sell seed for
+
+### Current Crops Tab
+- Crop name, how many crops you can sell to manor, how many manor can accept, and what price they buy crops for and reward
+
+### Basic Info Tab
+- Crop name, level of crop, default seed price, default buy back price, reward type 1 and reward type 2
+
+<figure markdown>
+[![Current Seeds Tab](https://i.postimg.cc/Z5LR3P1S/image.png)](https://postimg.cc/cvr0G3x9)
+</figure>
+
 ## Key Takeaways
 
 - Manor works for any class, not just dwarves
