@@ -81,15 +81,12 @@ Yes, shortcuts reset and cannot be fixed.
 - Franz launched on November 7, 2025.
 
 ### Server Population
-**Teon:**
 
-- Unique Daily Players: 8,000-9,000
-- Max Daily Online: 3,500-4,000
-- Total Players (last 7 days): 12,759
-- Total Banned Accounts: 6,327
+**Teon:**
+- ~2-3k Daily Online
 
 **Franz:**
-- 4k on Launch Day.
+- ~3-4k Daily Online
 
 ### Server Stages
 
