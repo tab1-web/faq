@@ -50,9 +50,15 @@ Thank you **@Shuma**{style="color:white;"} and **@Ascy**{style="color:red;"} for
   margin-bottom: 0.75rem;
   border: 1px solid rgba(255,255,255,0.2);
   border-radius: 4px;
-  background: rgba(0,0,0,0.3); 
-  color: inherit;
+  background-color: #1a1a1a;
+  color: #ffffff;
   font-size: 0.9rem;
+  appearance: none;
+  -webkit-appearance: none;
+}
+.manor-calc select option {
+  background-color: #222; /* Dark background for the list items */
+  color: white;
 }
 
 .manor-calc select:focus, .manor-calc input:focus {
