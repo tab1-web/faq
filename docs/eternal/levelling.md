@@ -371,7 +371,8 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
 - **76-83**: Imperial Tomb - Goddard
     - [:fontawesome-solid-scroll: Relics of the Old Empire Quest](https://lineage2wiki.org/interlude/quest/619/relics-of-the-old-empire/)
     - After you kill Halisha in Four Sepulchers, a Ghost will appear and you can choose an S-Grade Recipe for 1,000 Broken Relic Parts.
-- **77-82**: 
+        - 4S opens 5 minutes before the hour: you need 4 in party and everybody needs [Sepulcher Keys](https://lineage2wiki.org/interlude/item/7075/entrance-pass-to-the-sepulcher/) you can earn it by hunting in Imperial Tomb with Relics of the Old Empire Quest
+        - Killing Archon of Halisha allows you to skip 700 Mobs Quest for 3rd Class Change Quest
     - Varka Silenos Barracks - Goddard
     - Ketra Orc Outpost - Goddard
     - **Faction Quests** (Choose One):
