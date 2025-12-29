@@ -371,7 +371,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler.
     <h2>Spellhowler</h2>
     <p>Dark magic user with slow casting but high magical damage. Low Maximum HP.</p>
     <p>- <strong>Leveling:</strong> Fast</p>
-    <p>- <strong>Strengths:</strong> <span class="strengths">PvE beast, great sustain due to Vampiric Claw in trains, Curse Death Link, access to AoE</span></p>
+    <p>- <strong>Strengths:</strong> <span class="strengths">Great sustain due to Vampiric Claw in trains, Curse Death Link, access to AoE</span></p>
     <iframe width="399" height="226" src="https://www.youtube.com/embed/a-nm-x5mC2I" frameborder="0" allowfullscreen></iframe>
     <p>If you want more Movement Speed, apply Magnus Chant instead of Prophecy of Water.</p>
     <ul>
