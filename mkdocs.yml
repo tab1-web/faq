@@ -34,7 +34,7 @@ nav:
   - Home: index.md
   - Getting Started:
     - Welcome: getting-started/welcome.md
-    - Server Information: getting-started/servers.md
+    - Servers: getting-started/servers.md
   - Gameplay:
     - Core Mechanics: gameplay/core-mechanics.md
     - Controls: gameplay/controls.md

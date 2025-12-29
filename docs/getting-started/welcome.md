@@ -27,6 +27,8 @@ It started in 2019 October 31 by a group of enthusiasts with the goal of providi
 
 If there's an issue during the Download, try restarting your Router, or use Mobile Data / VPN.
 
+You can check out a quick server summary [here](/faq/getting-started/servers).
+
 For any other issue, please refer to the [Help & Support page](https://tab1-web.github.io/faq/support/troubleshooting/technical-issues/).
 
 
