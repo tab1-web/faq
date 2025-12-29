@@ -294,6 +294,7 @@ Please make sure that:
 - You have enough inventory quest item and inventory slots (less than 80) and below weight capacity.
 - Followed the guide's steps.
 - Quest exists for the Chronicle
+- Not in a Party
 - If those don't work: open [support ticket](https://l2reborn.org/support/)
 
 
