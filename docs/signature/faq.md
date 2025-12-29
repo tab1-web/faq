@@ -284,6 +284,17 @@ Quests can conflict when targeting the same mob, reducing item drops.
 - `{solo}` requires personal last hit
 - `{group}` allows any party member last hit
 
+### Quest Troubleshoot
+
+Please make sure that:
+
+- Quest is Active
+- Amount of quests you have active is below 20
+- No other quests are interfering with the same mob (e.g. Quest for Fishing Shot)
+- You have enough inventory quest item and inventory slots (less than 80) and below weight capacity.
+- If those don't work: open [support ticket](https://l2reborn.org/support/)
+
+
 ## World Systems
 
 ### Taxes
@@ -665,15 +676,6 @@ Tallying occurs at 18:00 UTC every Monday.
 
 </figure>
 
-### Quest Troubleshoot
-
-Please make sure that:
-
-- Quest is Active
-- Amount of quests you have active is below 20
-- No other quests are interfering with the same mob (e.g. Quest for Fishing Shot)
-- You have enough inventory quest item and inventory slots (less than 80) and below weight capacity.
-- If those don't work: open [support ticket](https://l2reborn.org/support/)
 
 
 
