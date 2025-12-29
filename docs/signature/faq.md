@@ -292,6 +292,7 @@ Please make sure that:
 - Amount of quests you have active is below 20
 - No other quests are interfering with the same mob (e.g. Quest for Fishing Shot)
 - You have enough inventory quest item and inventory slots (less than 80) and below weight capacity.
+- Followed the guide's steps.
 - If those don't work: open [support ticket](https://l2reborn.org/support/)
 
 
