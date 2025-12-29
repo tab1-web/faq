@@ -293,6 +293,7 @@ Please make sure that:
 - No other quests are interfering with the same mob (e.g. Quest for Fishing Shot)
 - You have enough inventory quest item and inventory slots (less than 80) and below weight capacity.
 - Followed the guide's steps.
+- Quest exists for the Chronicle
 - If those don't work: open [support ticket](https://l2reborn.org/support/)
 
 
