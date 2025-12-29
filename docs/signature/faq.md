@@ -665,6 +665,18 @@ Tallying occurs at 18:00 UTC every Monday.
 
 </figure>
 
+### Quest Troubleshoot
+
+Please make sure that:
+
+- Quest is Active
+- Amount of quests you have active is below 20
+- No other quests are interfering with the same mob (e.g. Quest for Fishing Shot)
+- You have enough inventory quest item and inventory slots (less than 80) and below weight capacity.
+- If those don't work: open [support ticket](https://l2reborn.org/support/)
+
+
+
 ### Wrong Stats
 
 Empty slots give M.Def or P.Def according to Location.
