@@ -345,6 +345,7 @@ Access Maria for Teleport > Town and Villages > Select the Corresponding Territo
         - and [:fontawesome-solid-scroll: In Search of the Nest Quest](https://lineage2wiki.org/interlude/quest/109/in-search-of-the-nest/)
     - [:fontawesome-solid-scroll: The Zero Hour Quest](https://lineage2wiki.org/interlude/quest/640/the-zero-hour/)
         - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/zerohour/)
+        - Not really recommended because of the slow mob respawn
 
 
 
