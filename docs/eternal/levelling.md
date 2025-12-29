@@ -174,7 +174,7 @@ Default Max Buff Slots is 20 with learning these books at your trainer you can g
 
     - [:material-gold: Seal Stones](https://lineage2wiki.org/interlude/item/6362/red-seal-stone/) → Exchange for Ancient Adena at Priests
     - Ancient Scrolls → Trade to Ziggurat for Blank Scrolls
-    - Dimensional Fragments → Used for Hero Rift later
+    - Dimensional Fragments → Used for Hero Rift later (Hero Rift needs one other party member, dimensional fragments and can get you Lifestones in a specific room in Hero Rift in the Dimensional Rift)
 
     ### **Tips**
 
