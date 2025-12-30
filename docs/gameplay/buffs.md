@@ -301,9 +301,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 | Buff Name | Effect |
 |-----------|--------|
-| Death Whisper 3 | Increases Critical Damage Amount by 35% |
-| Eye of Paagrio 3 | Increases Critical Damage Amount by 35% |
-| Chant of Rage 3 | Increases Critical Damage Amount by 35% |
+| Death Whisper 3 | Increases Critical Damage Amount by 35% (IL) |
+| Eye of Paagrio 3 | Increases Critical Damage Amount by 35% (IL) |
+| Chant of Rage 3 | Increases Critical Damage Amount by 35% (IL) |
 </figure>
 
 
@@ -370,7 +370,7 @@ document.addEventListener('DOMContentLoaded', function() {
 | Dance of Warrior | Increases P. Atk. by 12% |
 | Dance of Inspiration | Increases Accuracy by 4 |
 | Dance of Mystic | Increases M. Atk. by 20% |
-| Dance of Fire | Increases Crit. Dmg. by +35% |
+| Dance of Fire | Increases Crit. Dmg. by +35% (IL) |
 | Dance of Fury | Increases Atk. Spd. by 15% |
 | Dance of Concentration | Decreases Cancel Rate by 40% and Increases Cast. Spd. by 30% |
 | Dance of Light | Makes your Attacks Holy |
@@ -425,7 +425,7 @@ document.addEventListener('DOMContentLoaded', function() {
 | Buff Name               | Effect                          | Value  | Target |
 |-------------------------|---------------------------------|--------|--------|
 | Gift of Queen Lv.3      | Increased Physical Attack <br> <br> Increased Accuracy      | +10% <br> <br> +3 | Party <br> <br> Party |
-| Blessing of Queen Lv.3  | Increased Critical Rate <br> <br> Increased Critical Damage        | +30% <br> <br> +25%   | Party <br> <br> Party  |
+| Blessing of Queen Lv.3  | Increased Critical Rate <br> <br> Increased Critical Damage        | +30% <br> <br> +25% (IL)   | Party <br> <br> Party  |
 </figure>
 
 <h3> Elemental Summoner Buffs </h3>
