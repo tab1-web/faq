@@ -253,7 +253,10 @@ For any reason you leave clan (either graduation from academy or leaving/kicked 
 This is the moon knight's classic quest equivalent of a quest in C5, though not as good.
 
 ### Clan Leader Transfer
-Available in C5.
+- Available in C5.
+- It happens after weekly restart / maintenance. 
+
+Thank you **@fyrix0**{color=cyan;}!
 
 ### Clan Reputation Points (CRP) for Academy
 
