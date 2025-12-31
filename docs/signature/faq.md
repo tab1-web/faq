@@ -254,7 +254,7 @@ This is the moon knight's classic quest equivalent of a quest in C5, though not 
 - Available in C5.
 - It happens after weekly restart / maintenance. 
 
-Thank you **@fyrix0**{color=cyan;}!
+Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 
 ### Clan Reputation Points (CRP) for Academy
 
