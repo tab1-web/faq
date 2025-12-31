@@ -33,7 +33,7 @@ hide:
     - :material-gamepad-variant-outline: __Gameplay__: Competitive, No Shortcuts
     - :material-account-group: __Population__: 4k daily peak
 
-    :material-check: **The Experience**: A slow-paced, prestigious journey where every level and item carries immense value.
+    :material-check: **The Experience**: A slow-paced, prestigious journey where every level and item carries immense value. Franz the newest server while Teon the old reliable ensure a long-lasting experience.
     <br>
     <a href="https://postimg.cc/zLKY8hr7">
     ![banner2](https://i.postimg.cc/k5hJNNY0/banner2.png){ .lightbox }
