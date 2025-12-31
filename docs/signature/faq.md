@@ -252,7 +252,7 @@ This is the moon knight's classic quest equivalent of a quest in C5, though not 
 
 ### Clan Leader Transfer
 - Available in C5.
-- It happens after weekly restart / maintenance. 
+- It happens after weekly restart / maintenance, make sure to request it well before the maintenance. 
 
 Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 
