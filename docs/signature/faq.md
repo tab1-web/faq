@@ -9,7 +9,7 @@ icon: material/frequently-asked-questions
 ## New Player Information
 
 ### Class Selection
-Watch the C4 class guide video for help choosing
+Watch the C4 class guide video for help choosing and feel free to ask in the Discord about the classes!
 
 <figure markdown>
 
@@ -77,15 +77,18 @@ Chronicle 5
 Yes, shortcuts reset and cannot be fixed.
 
 ### Launch Time
+
 - Teon launched on November 1, 2024.
 - Franz launched on November 7, 2025.
 
 ### Server Population
 
 **Teon:**
+
 - ~2-3k Daily Online
 
 **Franz:**
+
 - ~3-4k Daily Online
 
 ### Server Stages
@@ -279,7 +282,7 @@ No EXP when party members have 20+ level difference.
 ## Quests
 
 ### Quest Conflicts
-Quests can conflict when targeting the same mob, reducing item drops.
+Quests can conflict when targeting the same mob, reducing quest item drops.
 
 ### Group/Solo Last Hit Quests
 - `{solo}` requires personal last hit
