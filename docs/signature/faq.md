@@ -122,10 +122,6 @@ Thank you **@Seriel**{style="color:yellow;"} and **@Jessnina**{style="color:gree
 
 </figure>
 
-### Costs of Upgrading Clan Level
-
-
-
 ### Additional Hotbars
 You can have additional hotbars by expanding to the 6th slot, which reveals two new buttons on the side for customization.
 
