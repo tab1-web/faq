@@ -34,3 +34,15 @@ icon: material/shopping
 
 - [![2XU1RuZ.png](https://i.postimg.cc/fRYSm3WD/2XU1RuZ.png)](https://postimg.cc/RWV0zZnD)
 
+- ### Having Trouble?
+
+    On Signature if you made sure you have only one offline shop and it is level 20, log into all of your accounts.
+
+    On Forever H5 you can only have maximum of 2 offline shops. 
+
+    On Eternal you can have more than 2.
+
+    Scam shops are bannable, [here are some examples what they are](/faq/support/rules/#6-scamming)
+
+
+    
