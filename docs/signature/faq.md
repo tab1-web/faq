@@ -679,7 +679,7 @@ Tallying occurs at 18:00 UTC every Monday.
 
 <figure markdown>
 
-[![ancient-adena.png](https://i.postimg.cc/c4gvjM9P/ancient-adena.png)](https://postimg.cc/bsPYSbjR)
+[![image.png](https://i.postimg.cc/Qts3g5VT/image.png)](https://postimg.cc/xkshnXvf)
 
 </figure>
 
