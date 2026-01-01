@@ -90,7 +90,7 @@ hide:
 
     - :fontawesome-solid-scroll: __Chronicle__: H5
     - :material-gamepad-variant-outline: __Gameplay__: GM Shop (to S), Buffers
-    - :material-account-group: __Population__: High seasonal activity
+    - :material-account-group: __Population__: 2k on Launch
     
     :material-check: **The Goal**: Rapid gearing and a fresh-start economy every cycle, perfect for mid-rate High Five enthusiasts.
     <br>
