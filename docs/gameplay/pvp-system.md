@@ -38,6 +38,7 @@ Most people use **“flagged”**{style="color: purple;"}. instead of **purple n
     - You need to level up Sin Eater Pet and hand it to [:material-drama-masks: Black Judge](https://lineage2wiki.org/c4/monster/7981/black-judge/), it will reduce your PK points, allowing you to kill again up to a certain point without drop penalty. Make sure when you hand it in, it is not summoned.
     - Sin Eater also disables receiving **Experience**.
     - Make sure when you Add/Change Subclass to not have an active quest for [**:fontawesome-solid-scroll: Repent Your Sins**](https://lineage2wiki.com/c4/quest/422/repent-your-sins/) (don't have the summonable Sin Eater) or it'll disappear.
+        - Put the item in Warehouse.
     - Higher the difference between your Sin Eater's level and your level, more PKs it can remove randomly.
 
 ### **PvP / PK List**
