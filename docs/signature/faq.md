@@ -29,8 +29,8 @@ Watch the C4 class guide video for help choosing and feel free to ask in the Dis
     - No Stages
 - Franz
     - Started in 2025-11-07
-    - Players are spread out
-    - Stages
+    - Players in all level ranges
+    - [Stages](/faq/signature/faq/#server-stages)
 
 ### What about Signature merging?
 
