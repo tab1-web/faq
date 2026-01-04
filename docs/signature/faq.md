@@ -20,6 +20,23 @@ Watch the C4 class guide video for help choosing and feel free to ask in the Dis
 
 </figure>
 
+### Differences between Franz & Teon?
+
+- Teon
+    - Started in 2024-11-01
+    - More players on higher levels
+    - More Stable Market
+    - No Stages
+- Franz
+    - Started in 2025-11-07
+    - Players are spread out
+    - Stages
+
+### What about Signature merging?
+
+- No merge date for now, based on experience and data they expect it to be end of 2026, likely or before Interlude update.
+- This estimation cannot be taken as a guarantee
+
 
 ### Are there any shadow tickets / cat weapons / adventurer weapons?
 Shadow Weapons are in Interlude, Cat Weapons or Adventurer Weapons are enabled.
@@ -70,22 +87,6 @@ Visit [l2reborn.org/reborn-shop](https://l2reborn.org/reborn-shop/) to vote ever
 
 ## General
 
-### Differences between Franz & Teon?
-
-- Teon
-    - Started in 2024-11-01
-    - More players on higher levels
-    - More Stable Market
-    - No Stages
-- Franz
-    - Started in 2025-11-07
-    - Players are spread out
-    - Stages
-
-### What about Signature merging?
-
-- No merge date for now, based on experience and data they expect it to be end of 2026, likely or before Interlude update.
-- This estimation cannot be taken as a guarantee
 
 
 ### Current Chronicle
