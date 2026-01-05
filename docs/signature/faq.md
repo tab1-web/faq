@@ -681,10 +681,13 @@ function loadSavedState() {
 </script>
 
 ### Epic/Raid Boss Spawn Times
+
 [![4CF8AC99-D3D5-462D-8E07-9E8BE5508D65.png](https://i.postimg.cc/PqpCBSTM/4CF8AC99-D3D5-462D-8E07-9E8BE5508D65.png){width=60%}](https://postimg.cc/Tyx2bqyy)
 
 - There is no way to check raid boss status and respawn time, you must be there to write down the time of death of the boss and add the appropriate times above.
     - 9h random window means that the boss can spawn at any time during that window, the first number is for static window. 
+- People will post subclass/nobless bosses timers in the [Discord Forum](https://discord.com/channels/622089207028121602/1365360511834788045)
+- If a boss has been slained by a Hero, Hero Statue, in all towns, can reveal the boss time of death. Keep in mind that the range can go from +30 minutes to -30 minutes written there in either direction. Thank you **@Ascy**  
 
 ### Manor Time
 Manor seed selling/buying occurs at 20:06 UTC daily.
