@@ -19,6 +19,8 @@ icon: material/vote-outline
     
     Voting rune **lasts 12 hours (real time)**
     
+    > On Eternal right click to activate the VIP, on Signature it's applied on your character from inventory, if it's not, try restart.
+    
     VIP only affects **one character** (the one you select in vote menu)
 
     **Mobile voting:** You can vote again using mobile data or VPN 
