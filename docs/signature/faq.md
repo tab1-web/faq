@@ -728,7 +728,7 @@ Tallying occurs at 18:00 UTC every Monday.
 
 ### BoM/MoM Locations
 - Blacksmith of Mammon: Witch
-- Merchant of Mammon: Martyr/Patriots
+- Merchant of Mammon: Patriots
 
 ### BoM Exchange Rules
 - Upgrading weapons loses enchants

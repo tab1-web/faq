@@ -9,7 +9,7 @@ icon: material/clock-time-one-outline
     const DESCRIPTIONS = {
         COMPETITION: `<strong style="color: #32cd32">Registration:</strong> Players with 1st class can register. <br>
                      <strong style="color: #ff3333">Mammons:</strong> Not available during this period.`,
-        SEAL: `<strong style="color: #32cd32">Blacksmith:</strong> Witch | <strong style="color: #32cd32">Merchant:</strong> Martyr/Patriots <br>
+        SEAL: `<strong style="color: #32cd32">Blacksmith:</strong> Witch | <strong style="color: #32cd32">Merchant:</strong> Patriots <br>
                <strong style="color: #ff3333">Registration:</strong> Closed. Winning side only.`
     };
 

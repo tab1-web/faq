@@ -77,7 +77,7 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
     - **Avarice**: Access to Necropolis dungeons + Merchant of Mammon
         - **Merchant of Mammon:**{style="color: #af5d5dff;"} Gemstones, Dyes, Enchants.
         - On Eternal it is available in Giran.
-        - On Signature it is avialable in Martyr Necropolis.
+        - On Signature it is avialable in Patriots Necropolis.
     - **Gnosis**: Access to Catacombs + Blacksmith of Mammon services 
         - **Blacksmith of Mammon:**{style="color:lightgreen;"} Upgrade/Exchange D-C Weapon, Duals, Apply A-S Special Abilities, Unseal A-S Equipment
         - On Eternal it is available in Giran.
