@@ -34,7 +34,12 @@ Login with the last character you logged.
 
 ## Is Server Down?
 
-- Mostly not, maintenances where servers are down are announced in Discord News Channels and in-game.
+- Most likely not, maintenances where servers are down are announced in Discord News Channels and in-game.
+    - If you get invalid login info on login, try use Easy Login Manager (on bottom right) and copy paste your info
+    - If you get stuck on server selection try:
+        - Going back to login menu and choosing a new proxy each time.
+        - Not taking too long on server selection, you will need to go back to the login menu and login again.
+        - VPN.
 - Keep in mind after server maintenances the NPCs might take a while to respawn.
 
 ## Nothing happens when I click on Character Create or Server Select and I use the laptop's mouse pad, how to fix it?
