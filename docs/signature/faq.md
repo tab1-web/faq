@@ -185,7 +185,7 @@ Targeted AoE spells do not flag you for PvP.
 ### Malaria Effect
 The visual effect is actually poison from the [Fairy Tree of Abyss](https://lineage2wiki.org/c5/monster/27188/fairy-tree-of-abyss-quest-monster/) outside Hunter's Village. Just hit the tree and you should get the poison, don't need the Hatchling Quest to get the Poison on you.
 
-Poison keeps damaging you until you are 1 HP, useful for CDL.
+Venomous Poison keeps damaging you until you are 1 HP, useful for CDL.
 
 ### Dye Information
 Refer to the dye chart for specific dye combinations and effects.
