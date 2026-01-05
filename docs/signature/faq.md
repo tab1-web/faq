@@ -675,8 +675,11 @@ function loadSavedState() {
 }
 </script>
 
-### Epic Boss Spawn Times
+### Epic/Raid Boss Spawn Times
 [![4CF8AC99-D3D5-462D-8E07-9E8BE5508D65.png](https://i.postimg.cc/PqpCBSTM/4CF8AC99-D3D5-462D-8E07-9E8BE5508D65.png){width=60%}](https://postimg.cc/Tyx2bqyy)
+
+- There is no way to check raid boss status and respawn time, you must be there to write down the time of death of the boss and add the appropriate times above.
+    - 9h random window means that the boss can spawn at any time during that window, the first number is for static window. 
 
 ### Manor Time
 Manor seed selling/buying occurs at 20:06 UTC daily.
@@ -684,6 +687,7 @@ Manor seed selling/buying occurs at 20:06 UTC daily.
 ### Seven Signs
 Tallying occurs at 18:00 UTC every Monday.
 [More Info](/gameplay/sevensigns)
+
 
 ## Items & Crafting
 
