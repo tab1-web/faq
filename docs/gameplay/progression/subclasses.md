@@ -28,6 +28,7 @@ Subclasses are a major milestone in your character's progression. If you finish 
 you're eligible to unlock a new class on the same character that starts from level 40, 
 allowing you to switch classes.
 
+Common misconception is that in Interlude chronicles or before, different subclasses can give skills to your Main class, but it's only available from [Hellbound](https://lineage2wiki.org/hellbound/patch-notes/#character_changes) and after
 
 ## :fontawesome-solid-scroll: Quests
 
