@@ -226,7 +226,11 @@ Pet buffs unlock at:
 
 
 ### Soul Crystals
-Soul Crystals do not break in C5.
+- Soul Crystals do not break in C5.
+- Pick up the quest at Magic Guilds (Aden, Giran) at one of the Magisters
+    - You can choose Red, Blue, Green SC Lv1
+- If you want to level soul crystals up, use soul crystals on the [appropriate mobs and corresponding level](https://lineage2wiki.org/c5/soul-crystal/) when the mobs are below 30-50% HP.
+
 
 ### Enchanting System
 - Blessed Enchants prevent breakage but don't increase success chance
@@ -692,7 +696,7 @@ Tallying occurs at 18:00 UTC every Monday.
 ## Items & Crafting
 
 ### BoM/MoM Locations
-- Blacksmith of Mammon: Witch/Dark Omens
+- Blacksmith of Mammon: Witch
 - Merchant of Mammon: Martyr/Patriots
 
 ### BoM Exchange Rules
@@ -707,11 +711,11 @@ Tallying occurs at 18:00 UTC every Monday.
 </figure>
 
 
-
-
 ### Wrong Stats
 
-Empty slots give M.Def or P.Def according to Location.
+Stats are correct, just when you remove your equip: 
+
+- Empty slots give M.Def or P.Def according to Location.
 
 <figure markdown>
 
