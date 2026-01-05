@@ -32,10 +32,16 @@ Login with the last character you logged.
 </figure>
 </div>
 
+## Is Server Down?
+
+- Mostly not, maintenances where servers are down are announced in Discord News Channels and in-game.
+- Keep in mind after server maintenances the NPCs might take a while to respawn.
+
 ## Nothing happens when I click on Character Create or Server Select and I use the laptop's mouse pad, how to fix it?
 
-- If you take too long on server selection, you will need a fresh login to proceed.
+- If you take too long on server selection, you will need a fresh login to proceed or try another proxy.
 - Use a desktop mouse instead, the laptop's mouse pad may be blocked. 
+- [VPN](/faq/support/troubleshooting/game-issues/#how-to-fix-lag-and-disconnection-issues-a-general-guide) might help as well.
 
 ## Server Selection Stuck
 

@@ -295,6 +295,32 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 - 2 Royal Guards: 2*5,000=10k CRP (20 Members)
 - 4 Knights: 4*10,000=40k CRP (40 Members, requires Lv7 Clan)
 
+## Clan Hall 
+
+More info regarding clan halls [here](https://l2reborn.org/news/reborn-signature-franz/)
+
+
+**Clan Hall Buffs:**
+
+- Windwalk Lv2
+- Decrease Weight LV3
+- Shield Lv3
+- Mental Shield Lv4
+- Might Lv3
+- Bless the Body Lv6
+- Magic Barrier Lv2
+- Resist Shock Lv4
+- Bless the Soul Lv6
+- Concentration Lv6
+- Berserker Spirit Lv2
+- Bless Shield Lv6
+- Guidance Lv3
+- Vampiric Rage Lv4
+- Acumen Lv1
+- Empower Lv1
+- Haste Lv1
+- Focus Lv1
+- Death Whisper Lv1
 
 ## Party System
 
