@@ -295,10 +295,11 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 - 2 Royal Guards: 2*5,000=10k CRP (20 Members)
 - 4 Knights: 4*10,000=40k CRP (40 Members, requires Lv7 Clan)
 
-## Clan Hall 
+### Clan Hall 
 
 More info regarding clan halls [here](https://l2reborn.org/news/reborn-signature-franz/)
 
+Clan Hall buffs do not apply to pets/summons only to owner.
 
 **Clan Hall Buffs:**
 
