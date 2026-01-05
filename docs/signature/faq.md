@@ -230,6 +230,7 @@ Pet buffs unlock at:
 - Pick up the quest at Magic Guilds (Aden, Giran) at one of the Magisters
     - You can choose Red, Blue, Green SC Lv1
 - If you want to level soul crystals up, use soul crystals on the [appropriate mobs and corresponding level](https://lineage2wiki.org/c5/soul-crystal/) when the mobs are below 30-50% HP.
+- You can also buy Soul Crystals from [Giran's Luxury Shop](https://lineage2wiki.org/interlude/item/exchange/)
 
 
 ### Enchanting System
