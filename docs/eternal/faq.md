@@ -223,4 +223,22 @@ h2 {
 ### What plugins, programs, files, patches can I use?
 - Reborn provides official addons. Outside of these, players assume responsibility for any custom edits. Modifications that grant PvE/PvP advantages are not permitted and may result in penalties.
 
+## ❓ Other
+
+### Where can screenshots be found?
+
+In your game's folder:
+
+- `../games/signature/Screenshot/`
+
+### How to take a screenshot?
+
+You can use `Win+Shift+S` or [Sharex](https://getsharex.com/downloads)
+
+Some [ShareX settings](https://postimg.cc/gallery/7zzwVrH)
+
+### How to include screenshot in ticket?
+
+- [Follow this guide](/faq/support/tickets)
+
 <script src="/faq/eternal/js/utctime.js" defer></script>
