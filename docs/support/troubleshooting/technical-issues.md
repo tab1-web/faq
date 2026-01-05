@@ -116,13 +116,6 @@ Make sure that you are not on the correct Master Account.
 </figure>
 
 
-## VPN Recommendation
-
-[Cloudflare Warp](https://one.one.one.one/)
-
-
-
-
 ## Invalid SafeAuth
 
 Save `l2reborn_easylogin.ini` file to Desktop, it contains your passwords.
