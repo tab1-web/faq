@@ -126,7 +126,7 @@ icon: material/sword
 - ### Level 52 Weapons
     <figure markdown>
     [![Shadow B Grade Weapons](https://i.postimg.cc/4NkMcX5v/shadow-b-grade.png)](https://postimg.cc/Cd7mTT9d)
-    <figcaption markdown>Rent strong D and C grade weapons for Adena in Giran</figcaption>
+    <figcaption markdown>Rent strong D/C/B grade weapons for Adena in Giran</figcaption>
     <figcaption markdown>Shadow Items are only for Shadow Weapons, there are no Shadow Armors</figcaption>
     </figure>
     
