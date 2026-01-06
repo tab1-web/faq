@@ -18,6 +18,7 @@ Unable to login after too many tries / not getting e-mail for authentication. (c
 Thank you.
 ```
 
+- If you get [2FA](/faq/support/user-safety/#about-2fa) you won't have to bother with emails anymore, you'll get codes from mobile app.
 
 ## Forgot Password
 
