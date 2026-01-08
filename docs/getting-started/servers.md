@@ -2,7 +2,6 @@
 icon: material/server
 hide:
   - toc
-comments: true
 ---
 
 <style>
