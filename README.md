@@ -9,23 +9,18 @@ If you want to preview the documentation on your own machine:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/tab1-web/faq.git](https://github.com/tab1-web/faq.git)
+   
    cd faq
-
-```
-
 2. **Install dependencies:**
-(It is recommended to use a virtual environment)
-```bash
-pip install -r requirements.txt
-
-```
-
+    (It is recommended to use a virtual environment)
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 3. **Start the dev server:**
-```bash
-mkdocs serve
-
-```
+    ```bash
+    mkdocs serve
+    ```
 
 
 4. **View the site:** Open `http://127.0.0.1:8000/` in your browser.
