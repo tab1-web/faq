@@ -1,7 +1,6 @@
 ---
 icon: material/web
-
-
+comments: true
 ---
 
 # :material-star: Welcome to Lineage][Reborn!
