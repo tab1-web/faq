@@ -125,6 +125,7 @@ theme:
     - navigation.path
     - content.code.copy
     - navigation.indexes
+    - navigation.tabs.sticky
   palette:
     - scheme: slate
       primary: indigo
