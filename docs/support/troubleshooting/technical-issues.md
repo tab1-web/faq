@@ -130,7 +130,21 @@ Save `l2reborn_easylogin.ini` file to Desktop, it contains your passwords.
     </a>
 </figure>
 
+## New Launcher/Updater
+<figure markdown="span">
+[![0FB5D3F5-189D-4DBF-9A5A-8397EE4F781B.png](https://i.postimg.cc/9XNy0j6z/0FB5D3F5-189D-4DBF-9A5A-8397EE4F781B.png){width=60%}](https://postimg.cc/kDK2YLXd)
+</figure>
 
+The old install is not being updated any more, please download the [new updater](https://l2reborn.org/installer).
+
+Once you click "Install" it should offer you to import existing game install. If it does not detect existing game, you can manually point the install path.
+
+It [offers](https://discord.com/channels/622089207028121602/1004498843930468393/1445623815433486346):
+
+- Better file compression system
+- File verification
+- Faster and more efficient client repair
+- Multi CDN support for different regions
 
 ## Client Red Error
 Close Updater, delete that file that has problem, re-launch Updater.
