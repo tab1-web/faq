@@ -198,7 +198,15 @@ h2 {
 ### How to raise my VIP Level?
 - You cannot raise it higher than level 1, if it's level 1, that means the VIP/Rune is activated
 
-### Is it possible to re-open the welcome pack / starter window for No Grade Pack? / How to get the No-Grade Starter Pack?
+### Welcome Pack - Starter Kit Infos
+
+- Click on **"Validate"**{style="color:blue;"} wait a bit, if it shows **"Completed"**{style="color:green;"} on all, you can press "Get Reward"
+- If one of the socials show **"ERROR**{style="color:red;"} don't worry, keep trying, you will be given a kit with time.
+
+<figure markdown>
+[![image.png](https://i.postimg.cc/W1r2rMty/image.png)](https://postimg.cc/hXDWRQL8)
+</figure>
+
 - If you already closed it, you cannot re-open it again:
     - Try restarting or waiting a bit, if that doesn't work: **make a new character**
     - On Server Launch **GMs**{style="color:rgb(232, 246, 32)"} might give a No-Grade pack
