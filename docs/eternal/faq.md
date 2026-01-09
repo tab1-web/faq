@@ -201,7 +201,7 @@ h2 {
 ### Welcome Pack - Starter Kit Infos
 
 - Click on **"Validate"**{style="color:blue;"} wait a bit, if it shows **"Completed"**{style="color:green;"} on all, you can press "Get Reward"
-- If one of the socials show **"ERROR**{style="color:red;"} don't worry, keep trying, you will be given a kit with time.
+- If one of the socials show **"ERROR"**{style="color:red;"} don't worry, keep trying, you will be given a kit with time.
 
 <figure markdown>
 [![image.png](https://i.postimg.cc/W1r2rMty/image.png)](https://postimg.cc/hXDWRQL8)
