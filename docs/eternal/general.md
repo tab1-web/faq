@@ -261,7 +261,7 @@ icon: material/clock-time-one-outline
 <div class="grid cards">
   <div class="md-typeset card countdown-card" data-target="2026-01-09T18:00:00Z">
     <h3>Open Beta Test (OBT)</h3>
-    <p><strong>Time:</strong> Jan 9th at 18:00 UTC</p>
+    <p><strong>Time:</strong> Jan 9th at 17:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
