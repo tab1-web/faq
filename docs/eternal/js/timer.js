@@ -9,12 +9,23 @@
     { target: "2025-08-15T18:00:00Z", pastText: "S GRADE MAMMON SERVICES ON!", showSeconds: false },
     { target: "2025-08-11T20:30:00Z", pastText: "FIRST CYCLE OF OLYMPIAD IS ON!", showSeconds: false },
     { target: "2025-08-18T00:00:00Z", pastText: "THIRD STAGE IS ON!", showSeconds: false },
+    // New Timers
+    { target: "2026-01-09T18:00:00Z", pastText: "OBT IS LIVE!", showSeconds: true },
     { target: "2026-01-16T17:00:00Z", pastText: "SERVER ON WITHOUT NPC!", showSeconds: true },
-    { target: "2026-01-16T18:00:00Z", pastText: "SERVER ON WITH NPC!", showSeconds: true }
-  ];
+    { target: "2026-01-16T18:00:00Z", pastText: "SERVER ON WITH NPC!", showSeconds: true },
+    { target: "2026-01-19T18:00:00Z", pastText: "NECROPOLIS & CATACOMBS ARE OPEN!", showSeconds: false },
+    { target: "2026-01-23T18:00:00Z", pastText: "FIRST MAMMON ON! (NO A/S GRADE SERVICES)", showSeconds: false },
+    { target: "2026-01-25T18:00:00Z", pastText: "FIRST CASTLE SIEGES HAVE BEGUN!", showSeconds: false },
+    { target: "2026-01-30T18:00:00Z", pastText: "A GRADE MAMMON SERVICES ON!", showSeconds: false },
+    { target: "2026-02-09T20:30:00Z", pastText: "OLYMPIAD CYCLE IS LIVE!", showSeconds: false },
+    { target: "2026-02-13T18:00:00Z", pastText: "S GRADE MAMMON SERVICES ON!", showSeconds: false },
+    { target: "2026-02-16T00:00:00Z", pastText: "FIRST HEROES HAVE ARRIVED!", showSeconds: false },
+    { target: "2026-02-25T18:00:00Z", pastText: "STAGE 2 IS LIVE! x10, B-GRADE IN SHOP", showSeconds: false },
+    { target: "2026-03-25T18:00:00Z", pastText: "STAGE 3 IS LIVE! x30 RATES ACTIVE", showSeconds: false },
+];
 
   let cachedEvents = [];
-let countdownInterval = null; 
+  let countdownInterval = null; 
 
   function init() {
     // Clear old timer to prevent "timer stacking" during MkDocs navigation

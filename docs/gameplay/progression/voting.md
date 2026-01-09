@@ -37,7 +37,7 @@ icon: material/vote-outline
 
 ## Eternal Server Rates
 
-> By voting you can access Bonus Buffs in Maria.
+> By voting you can access Bonus Buffs in Maria and 2nd stage offers B-Grade items.
 
 <div class="grid cards" markdown>
 - ### Experience & Skill Points <br> (EXP/SP)
@@ -49,14 +49,16 @@ icon: material/vote-outline
     | 61-76       | x5           | x3               |
     | 76-78       | x3           | x2               |
     | 78-80       | x2           | x1               |
-    | **Stage 3** | x30          | x25              |
+    | Stage 2     | x10          | x7               |
+    | Stage 3     | x30          | x25              |
 
 - ### Adena/Drop/Spoil Rates
 
-    | Level Range | With Vote/VIP | Without Vote/VIP |
-    |-------------|--------------|------------------|
-    | All Levels  | x3           | x2               |
-    | **Stage 3** | x5           | x3               |
+    | Level Range | With Vote/VIP | Without Vote/VIP  |
+    |-------------|---------------|-------------------|
+    | All Levels  | x3            | x2                |
+    | Stage 2     | x3            | x2                |
+    | Stage 3     | x5            | x3                |
 
 </div>
 

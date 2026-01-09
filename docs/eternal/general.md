@@ -255,11 +255,16 @@ icon: material/clock-time-one-outline
 </style>
 
 ## Time Tables
-<figure><h4 style="margin-top:10px;">Timers might change with new information being put out in 
-<a href="https://discord.com/channels/622089207028121602/1091647392836767864">📢│eternal-il-news</a>, check back frequently! <br> These are not all the timers, check the <a href="https://l2reborn.org/eternal-interlude/full-description/">features page</a> to view the others</h4></figure>
+<figure><h4 style="margin-top:10px; color:white;">Timers might change with new information being put out in 
+<a href="https://discord.com/channels/622089207028121602/1091647392836767864">📢│eternal-il-news</a>, check back frequently! <br> <br> These are not all the timers, check the <a href="https://l2reborn.org/eternal-interlude/full-description/">features page</a> to view the others <br> Mammons you will see 16-20 minutes after the competition cycle. <br> Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></figure>
 
 <div class="grid cards">
-  
+  <div class="md-typeset card countdown-card" data-target="2026-01-09T18:00:00Z">
+    <h3>Open Beta Test (OBT)</h3>
+    <p><strong>Time:</strong> Jan 9th at 18:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
   <!-- Server without NPC Opening -->
   <div class="md-typeset card countdown-card" data-target="2026-01-16T17:00:00Z">
     <h3>Server without NPC Countdown</h3>
@@ -273,6 +278,60 @@ icon: material/clock-time-one-outline
     <p><strong>Time:</strong> January 16th at 18:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
+
+  <div class="md-typeset card countdown-card" data-target="2026-01-19T18:00:00Z">
+    <h3>Catacombs & Necropolis</h3>
+    <p><strong>Time:</strong> Jan 19th at 18:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <div class="md-typeset card countdown-card" data-target="2026-01-23T18:00:00Z">
+    <h3>First Mammon (No A/S)</h3>
+    <p><strong>Time:</strong> Jan 23rd at 18:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <div class="md-typeset card countdown-card" data-target="2026-01-25T18:00:00Z">
+    <h3>First Castle Sieges</h3>
+    <p><strong>Time:</strong> Jan 25th at 18:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <div class="md-typeset card countdown-card" data-target="2026-01-30T18:00:00Z">
+    <h3>A-Grade Mammon</h3>
+    <p><strong>Time:</strong> Jan 30th at 18:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <div class="md-typeset card countdown-card" data-target="2026-02-09T20:30:00Z">
+    <h3>First Olympiad Cycle</h3>
+    <p><strong>Time:</strong> Feb 9th at 20:30 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <div class="md-typeset card countdown-card" data-target="2026-02-13T18:00:00Z">
+    <h3>S-Grade Mammon</h3>
+    <p><strong>Time:</strong> Feb 13th at 18:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <div class="md-typeset card countdown-card" data-target="2026-02-16T00:00:00Z">
+    <h3>First Heroes</h3>
+    <p><strong>Time:</strong> Feb 16th at 00:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <div class="md-typeset card countdown-card" data-target="2026-02-25T18:00:00Z">
+    <h3>Stage 2: B-Grade & x10 Rates</h3>
+    <p><strong>Time:</strong> Feb 25th at 18:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+<div class="md-typeset card countdown-card" data-target="2026-03-25T18:00:00Z">
+  <h3>Stage 3: x30 Rates</h3>
+  <p><strong>Time:</strong> March 25th at 18:00 UTC</p>
+  <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+</div>
 
 </div>
 

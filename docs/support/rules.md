@@ -118,45 +118,56 @@ icon: fontawesome/solid/scroll
 
 - GMs highly discourage such trades, if you get scammed, it's on you.
 
-## **Signature-Specific Rules**
+## **Server-Specific Rules**
 
-> **These rules are for Signature SERVER only!!! The above rules still apply.**{style="color:red;"}
+!!! info "About Specific Rules"
+    The general rules listed above apply to all servers. Below are additional restrictions unique to server.
 
-These rules prevent established players from dominating the new Franz server and gaining unfair advantages.
+    Click on the server names below to see.
 
-### 1. Simultaneous Play
-- You cannot be logged into both Teon and Franz server at the same time.
+=== "Eternal"
 
-### 2. Secondary Setup for Groups
-- Established Teon Clans/CPs/Personas are forbidden from running a secondary setup on Franz that attends Epics, Olympiads, Sieges, levelling up new CP Characters.
-    - Groups must fully and genuinely stop all activity on Teon to play on Franz.
+    > These rules are for Eternal SERVER only!!! The above general rules still apply.
 
-### 3. Market
-- You cannot participate in the market on both servers simultaneously. 
+    ### **1. Anti-Zerg Rules (Season Server)**
 
-## **Essence-Specific Rules**
+    To ensure fair play, we monitor activity during Epic Bosses to prevent alliances from circumventing member limits.
 
-> **These rules are for Essence SERVER only!!! The above general rules still apply.**{style="color:red;"}
+    * **Clan & Alliance Limits**: Groups are strictly limited to **36 clan members** and **2 clans per alliance**.
+    * Any attempt to bypass these limits during Epic Boss PVPs is punishable. This includes:
+        * Using secondary clans to increase numbers.
+        * Bringing additional untagged characters to the fight.
+        * Using alts specifically for resurrection or summoning.
+    * Using similar Clan or Alliance crests to create confusion during Epic Boss fights is strictly forbidden.
+    * Any attempt to bypass the **36 per clan / 72 per alliance** rule will result in a **Permanent Ban** for the leading group (Leader CP + alts) and all involved infractors.
 
-### **1. Offline Farming**
+=== "Signature"
 
-- Offline farming is allowed via the in-game system. 
-- You **may not** open a second client to farm actively with another character at the same time.
+    > These rules are for Signature SERVER only!!! The above rules still apply.
 
+    ### **1. Simultaneous Play**
+    - You cannot be logged into both Teon and Franz server at the same time.
 
+    ### **2. Secondary Setup for Groups**
+    - Established Teon Clans/CPs are forbidden from running secondary setups on Franz for Epics, Olympiads, or Sieges.
+    - Groups must fully stop activity on Teon to play on Franz.
 
-### **2. Mouse Macros**
+    ### **3. Market**
+    - You cannot have stores (networks of stores, bypasses of store limitation), which plays market in both servers trying to build wealth in both servers simultaneously.
 
-- The use of mouse macro software is permitted despite the general prohibition in Rule 1.
-- Use of generic auto-clickers or random macro software is not permitted.
+=== "Essence"
 
+    > These rules are for Essence SERVER only!!! The above general rules still apply.
 
+    ### **1. Offline Farming**
+    - Offline farming is allowed via the in-game system.
+    - You may not open a second client to farm actively with another character at the same time.
 
-### **3. Griefing is Prohibited**
+    ### **2. Mouse Macros**
+    - Mouse macro software is permitted here, despite the general prohibition in Rule 1.
 
-- **Any actions considered "griefing" are not allowed (FOR ESSENCE SERVER ONLY)**{style="color:red;"} 
-- See: [Changelog Essence-66](https://l2reborn.org/news/changelog-essence-66/) for more details.
-
+    ### **3. Griefing**
+    - **Any actions considered "griefing" are not allowed** (Strictly for Essence).
 
 ## Resources
 
