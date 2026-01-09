@@ -200,17 +200,7 @@ h2 {
 
 ### Welcome Pack - Starter Kit Infos
 
-- Click on **"Validate"**{style="color:blue;"} wait a bit, if it shows **"Completed"**{style="color:green;"} on all, you can press "Get Reward"
-- If one of the socials show **"ERROR"**{style="color:red;"} don't worry, keep trying, you will be given a kit with time.
-
-<figure markdown>
-[![image.png](https://i.postimg.cc/W1r2rMty/image.png)](https://postimg.cc/hXDWRQL8)
-</figure>
-
-- If you already closed it, you cannot re-open it again:
-    - Try restarting or waiting a bit, if that doesn't work: **make a new character**
-    - On Server Launch **GMs**{style="color:rgb(232, 246, 32)"} might give a No-Grade pack
-- The items in them are not tradeable, only Mana Potions and HP Potions
+- This will be removed and given on start in inventory. 
 
 ## 🌪️ Classes & Skills
 
