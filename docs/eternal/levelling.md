@@ -212,7 +212,9 @@ Below you will see Hunting Zone and it's corresponding Territory.
 
 Access Maria for Teleport > Town and Villages > Select the Corresponding Territory you want to farm in.
 
-Hunt outside of villages until Level 7
+Hunt outside of villages until Level 7, keep in mind the Levels are Hunting Zone levels, not when you should leave / hunt. [You will deal one damage to monsters if the level of your skills is not sufficient.](https://tab1-web.github.io/faq/eternal/faq/#mage-skill-damage-based-on-level-difference)
+
+If you think you are getting low experience, move to a higher spot.
 
 ### Levels 12-25
 
@@ -228,10 +230,12 @@ Hunt outside of villages until Level 7
 ### Levels 23-33
 - **23-30**: Partisan's Hideaway - Dion
     - Hills & mountain spots available
+        - Higher HP (and better EXP) mobs further you go to the top
 - **27-33**: 
     - Forgotten Temple - Gludin
+        - Higher HP (and better EXP) mobs deeper inside
     - Ant Nest - Gludio
-    - Higher HP mobs deeper inside
+        - Higher HP (and better EXP) mobs deeper inside
 
 
 
