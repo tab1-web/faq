@@ -212,6 +212,7 @@ Below you will see Hunting Zone and it's corresponding Territory.
 
 Access Maria for Teleport > Town and Villages > Select the Corresponding Territory you want to farm in.
 
+Hunt outside of villages until Level 7
 
 ### Levels 12-25
 
