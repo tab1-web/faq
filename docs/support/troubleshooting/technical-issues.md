@@ -82,8 +82,8 @@ Thanks for the video @royce6735 !
 
 Connect to a VPN/Mobile Data and download + run these two:
 
-- https://developer.microsoft.com/en-us/microsoft-edge/webview2/?ch=1&form=MA13LH#download
-- https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
+- [Download Evergreen Bootstrapper](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?ch=1&form=MA13LH#download)
+- [Download VC Redistributables](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 
 [![loadinglauncherpicture](https://i.postimg.cc/LX48Bw9c/1D80F737-5B25-43A5-8EB4-BE9210DFF805.png){width=50%}](https://postimg.cc/67SKBHGc)
 
