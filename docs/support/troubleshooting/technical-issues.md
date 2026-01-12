@@ -78,7 +78,13 @@ Thanks for the video @royce6735 !
     </a>
 </figure>
 
+## Reborn Launcher failed to connect to game servers.
 
+Restart your Router + PC.
+
+<figure markdown>
+[![image.png](https://i.postimg.cc/8PzYX91w/image.png){width=60%}](https://postimg.cc/Z0XjCfvy)
+</figure>
 
 ## Discord Permissions Fix
 If you can't see certain discord channels, assign yourself the Origins role.

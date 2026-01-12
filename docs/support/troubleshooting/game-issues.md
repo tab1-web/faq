@@ -62,7 +62,8 @@ Experiencing lag, disconnections, or high ping is often not a problem with your 
 
 ### **General Troubleshooting (Before Using a VPN)**
 *   **Try Different Network Connection:** Switch to Ethernet Cable instead of WiFi or use Mobile Data temporarily.
-*   **Switch Proxies/Gateways:** If your game has the option, try selecting a different proxy or gateway from the login menu.
+*   **Check your own connection:** Open CMD and type `ping -t google.com`, if it shows high values, the problem is on your end.
+*   **Switch Proxies/Gateways:** Try selecting a different proxy from server selection menu, keep in mind each server select requires a fresh login.
 *   **Reset Your Network:** Fully close the game client and then restart your router and PC. This can clear up local routing issues.
 *   **Flush Your DNS:** Open an Admin Command Prompt and type `ipconfig /flushdns`. This clears your local DNS cache.
 *   **Change Your DNS:** Try using a public DNS service like Cloudflare (`1.1.1.1`, `1.0.0.1`) or Google (`8.8.8.8`, `8.8.4.4`). This can sometimes provide a more reliable path for domain lookups.
