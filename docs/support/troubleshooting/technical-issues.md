@@ -78,6 +78,13 @@ Thanks for the video @royce6735 !
     </a>
 </figure>
 
+## Part of this app has been blocked
+
+[![image.png](https://i.postimg.cc/CMGVLmwn/image.png){width=20%}](https://postimg.cc/NLjnd89Q)
+
+- Some features of ... may not work because we can't confirm who published.. 
+- Solution found was to reinstall Windows and restrict windows security from regedit and enabling it back.
+
 ## Reborn Launcher keeps loading infinitely
 
 Connect to a VPN/Mobile Data and download + run these two:
