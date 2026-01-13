@@ -117,6 +117,8 @@ To unlock your subclass, complete the following quests
 
 Your **main class is the selected one**, the cell turns `grey` if you can't have that subclass. (Restrictions also extend to other Subclasses)
 
+> On **Eternal** the "similar class" restriction only checks against your Main Class. Since Necromancer isn't grouped with the elemental mages, it doesn't block them. This allows Necromancer to take Sorc, Spellh, Spells all at the same time. Though a Sorc main wouldn't be able to do the same.
+
 | Human           | Elf                | Dark Elf         | Orc       | Dwarf         |
 |-----------------|--------------------|------------------|-----------|---------------|
 | Dark Avenger    | Temple Knight      | Shillien Knight  | Destroyer | Warsmith      |
