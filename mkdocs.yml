@@ -61,7 +61,7 @@ nav:
       - Noblesse: gameplay/progression/noblesse.md
       - Heroes & Olympiad: gameplay/progression/heroes.md
     - Interface:
-      - Shops: interface/shops.md
+      - Offline Shops: interface/shops.md
       - Colorful Chat: interface/systemmessage.md
       - Transferring Items: interface/transferring.md
   - Support:
