@@ -112,7 +112,11 @@ h2 {
 ### Do summons retain their buffs after death in pvp events?
 - Yes, except for Soultaker.
 
-### Clan System on Eternal
+### Clan System on Seasonal
+- Clans can have 36 members in total and 2 clans per alliance
+    - Check out [rules](/faq/support/rules) regarding the anti-zerg rule
+
+### Clan System on Eternal Main
 #### **Clan Structure**
 - **Main Clan**: 40 members  
 - **Royal Subclans**: 2 subclans × 20 members (Total: 40)  
