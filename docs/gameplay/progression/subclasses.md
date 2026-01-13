@@ -105,7 +105,7 @@ To unlock your subclass, complete the following quests
 
 ## :octicons-sliders-16: Subclass Limits
 
-- Level up a subclass to **75** to unlock **two more**.
+- Level up a subclass to **75** to unlock one more.
 - There’s **no cooldown** or limit on how often you can switch.
 - Subclasses are required to unlock:
     - :material-crown: **Noblesse**
