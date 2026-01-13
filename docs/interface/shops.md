@@ -12,7 +12,7 @@ icon: material/shopping
 
     - To activate it, set up your private shop and type `.offline` in the chat.
 
-    - You can farm on one character while your shop runs on a separate account.
+    - You can farm on one character while your **offline** shop runs on a separate account.
 
 - [![undefined-Imgur.gif](https://i.postimg.cc/K89jnnSX/undefined-Imgur.gif)](https://postimg.cc/gxZGpL24)
     <figure markdown>
