@@ -188,9 +188,8 @@ The visual effect is actually poison from the [Fairy Tree of Abyss](https://line
 Venomous Poison keeps damaging you until you are 1 HP, useful for CDL.
 
 ### Dye Information
-Refer to the dye chart for specific dye combinations and effects.
+Refer to the [dye page](/faq/gameplay/dyes) for specific dye combinations and effects.
 
-[![Ajj0fbu.png](https://i.postimg.cc/VNnKQ6qP/Ajj0fbu.png){width=60%}](https://postimg.cc/Z9Y86Jsw)
 
 ### Hero Weapons Info
 <div class="grid cards" markdown>
