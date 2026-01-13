@@ -207,6 +207,18 @@ Refer to the dye chart for specific dye combinations and effects.
 
 </div>
 
+### Spoil Macro
+
+- Do this for each mob you see:
+
+```
+/target mob
+/delay 0
+/us Sweep
+```
+
+And keep running around the monsters
+
 ## Character Progression
 
 ### PK-ing with Cat Weapon
