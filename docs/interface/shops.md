@@ -41,13 +41,19 @@ icon: material/shopping
 
 - ### Having Trouble?
 
+    - Make sure of all the requirements.
+
     - On Signature if you made sure you have only one offline shop and it is level 20, log into all of your accounts.
 
-    - On Forever H5 you can only have maximum of 2 offline shops. 
-
-    - On Eternal you can have more than 2.
-
     - Scam shops are bannable, [here are some examples what they are](/faq/support/rules/#6-scamming)
+
+- ### Max Offline Shop Count
+
+    | Server | Number of Shops |
+    |--------|--------------------|
+    | Reborn/Origins | 1 Offline Shop per Person |
+    | Forever | 2 Offline Shops per Person | 
+    | Eternal | Multiple Offline Shops allowed |
 
 
     
