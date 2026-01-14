@@ -25,8 +25,7 @@ Most people use **“flagged”**{style="color: purple;"}. instead of **purple n
 
 ### **Drop Penalty**
 - When you reach a certain PK count, on death you can drop your items while being **Red**{: style="color:red;"}.
-    - On Signature, this is 6.
-    - On Eternal, this is 5.
+    - On Signature & Eternal: this is 6.
 
 
 ### **Reducing Karma**

@@ -79,10 +79,9 @@ icon: fontawesome/solid/scroll
 - Each person is allowed only **ONE offline shop** AND **one per account**:
     - Even if you have multiple accounts, you can only have **1 offline shop maximum** per person.
         - Make sure that if you wish to play on a character, it's **not on the same account** as the offline shop.
-    - If your client is active, you may also run one **online shop**.
     - You can report scam shops with an image in the Discord. ([Origins](https://discord.com/channels/622089207028121602/1094888772128219166), [Eternal](https://discord.com/channels/622089207028121602/1094888982887809065), [Signature](https://discord.com/channels/622089207028121602/1302078589616787507), [Forever](https://discord.com/channels/622089207028121602/1150403590725304380)
 - It is allowed to have an offline shop used by: `.offline` while farming on another account.
-- **Essence, Eternal, H5 Forever** are allowed to have **more than one offline shop**, but still **one per account**.
+- On **Eternal** you can have multiple offline shops, on **Forever H5** you can have 2 offline shops, but still one per account.
 
 
 

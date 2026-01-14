@@ -105,7 +105,7 @@ To unlock your subclass, complete the following quests
 
 ## :octicons-sliders-16: Subclass Limits
 
-- Level up a subclass to **75** to unlock **two more**.
+- Level up a subclass to **75** to unlock one more.
 - There’s **no cooldown** or limit on how often you can switch.
 - Subclasses are required to unlock:
     - :material-crown: **Noblesse**
@@ -116,6 +116,11 @@ To unlock your subclass, complete the following quests
 ## Subclass Selection Interactive Table
 
 Your **main class is the selected one**, the cell turns `grey` if you can't have that subclass. (Restrictions also extend to other Subclasses)
+
+> On **Eternal** the "similar class" restriction only checks against your Main Class. Since Necromancer isn't grouped with the elemental mages, it doesn't block them. This allows Necromancer to take Sorc, Spellh, Spells all at the same time. Though a Sorc main wouldn't be able to do the same. 
+> For **Signature** you can refer to this [picture](https://postimg.cc/jw3R3k21), credits to **@Lemon** 
+
+
 
 | Human           | Elf                | Dark Elf         | Orc       | Dwarf         |
 |-----------------|--------------------|------------------|-----------|---------------|
