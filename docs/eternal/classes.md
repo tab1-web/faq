@@ -74,6 +74,8 @@ I've focused on the most versatile and beginner-friendly options—classes that 
 
 As starter, I would choose a farm character like a Spellsinger/Spellhowler.
 
+> Note: Older videos that have more than 24 buff slots do not apply anymore, you can only have 20+4 buff slots.
+
 <div class="filter-container">
     <select id="classFilter" class="class-filter">
         <optgroup label="Daggers">
