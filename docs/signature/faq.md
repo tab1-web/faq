@@ -152,7 +152,9 @@ Press `PgDN` to zoom out. Using third-party programs to increase zoom further is
 
 ### B Grade Fists Exchange Info
 
-- It is possible to trade bows and dagger weapons for B-Grade fists at the Blacksmith of Mammon
+- It is possible to trade B-Grade weapons for same crystal count B-Grade fists at the Blacksmith of Mammon
+- Keep in mind that you cannot exchange it back
+- You cannot upgrade this way, only exchange
 
 ### Maximum Target Hit
 | Condition | Max Target Hit |
