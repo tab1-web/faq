@@ -150,6 +150,10 @@ You can have additional hotbars by expanding to the 6th slot, which reveals two 
 ### Zoom Control
 Press `PgDN` to zoom out. Using third-party programs to increase zoom further is not allowed.
 
+### B Grade Fists Exchange Info
+
+- It is possible to trade bows and dagger weapons for B-Grade fists at the Blacksmith of Mammon
+
 ### Maximum Target Hit
 | Condition | Max Target Hit |
 |-|-|
