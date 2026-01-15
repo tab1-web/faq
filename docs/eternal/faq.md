@@ -118,7 +118,7 @@ h2 {
         - Royal Guard costs 20k CRP each
         - Needs Clan Level 6
     - Check out [rules](/faq/support/rules) regarding the anti-zerg rule
-        - If more than 36 members join, additional ones will be automatically teleported to town.
+        - Additional ones will be automatically teleported to town.
 
 ### Clan System on Eternal Main
 #### **Clan Structure**
