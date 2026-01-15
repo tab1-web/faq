@@ -116,6 +116,7 @@ h2 {
 - Clans can have 60 members in total and 2 clans per alliance
     - 40 main + 10 per each Royal Guard
         - Royal Guard costs 20k CRP each
+        - Needs Clan Level 6
     - Check out [rules](/faq/support/rules) regarding the anti-zerg rule
         - If more than 36 members join, additional ones will be automatically teleported to town.
 
