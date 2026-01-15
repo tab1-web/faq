@@ -113,8 +113,11 @@ h2 {
 - Yes, except for Soultaker.
 
 ### Clan System on Seasonal
-- Clans can have 36 members in total and 2 clans per alliance
+- Clans can have 60 members in total and 2 clans per alliance
+    - 40 main + 10 per each Royal Guard
+        - Royal Guard costs 20k CRP each
     - Check out [rules](/faq/support/rules) regarding the anti-zerg rule
+        - If more than 36 members join, additional ones will be automatically teleported to town.
 
 ### Clan System on Eternal Main
 #### **Clan Structure**
