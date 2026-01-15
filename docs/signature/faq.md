@@ -265,8 +265,13 @@ Visit [lineage2wiki.com/c5/exp-calculator](https://lineage2wiki.org/c5/exp-calcu
 
 ## Pets
 
+- You can only have a summon or a pet, you cannot have both of them at the same time
+
 ### Improved Pets
-No improved pets available (Signature won't go beyond Interlude)
+- There are no improved pets
+    - and there won't be any on Signature, it is a [Hellbound](https://lineage2wiki.org/hellbound/patch-notes/#pets_and_servitors) feature
+- Baby pets only heal 
+
 
 ### Pet Leveling
 - Baby pets take 10% of master's EXP
@@ -281,6 +286,11 @@ No improved pets available (Signature won't go beyond Interlude)
 ### Strider Mechanics
 - All strider types have same speed (scales with level)
 - Mounting/Unmounting removes certain buffs
+    - Songs, Dances, Dash, Thrill Fight, Potions, Deflect Arrow, Totems etc..
+
+### Hatchling of the Stars does Physical Attack when pressing Bright Burst?
+- Yes, make a macro with stopping the pet attack or spam Bright Burst.
+
 
 ## Clan System
 
