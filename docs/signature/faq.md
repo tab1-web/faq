@@ -304,6 +304,11 @@ For any reason you leave clan (either graduation from academy or leaving/kicked 
 
 This is the moon knight's classic quest equivalent of a quest in C5, though not as good.
 
+- [To Lead and Be Led](https://lineage2wiki.org/c5/quest/118/to-lead-and-be-led/)
+- [The leader and the follower](https://lineage2wiki.org/c5/quest/123/the-leader-and-the-follower/)
+- You need to be in academy with a Sponsor 
+    - Some people reported that they cannot select a Sponsor
+
 ### Clan Leader Transfer
 - Available in C5.
 - It happens after weekly restart / maintenance, make sure to request it 24 hours before the maintenance. 
