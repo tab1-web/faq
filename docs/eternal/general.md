@@ -258,6 +258,8 @@ icon: material/clock-time-one-outline
 <figure><h4 style="margin-top:10px; color:white;">Timers might change with new information being put out in 
 <a href="https://discord.com/channels/622089207028121602/1091647392836767864">📢│eternal-il-news</a>, check back frequently! <br> <br> These are not all the timers, check the <a href="https://l2reborn.org/eternal-interlude/full-description/">features page</a> to view the others <br> Mammons you will see 16-20 minutes after the competition cycle. <br> Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></figure>
 
+[![0F3032EC-805C-4174-B6B5-CDF5BAB3F122.png](https://i.postimg.cc/gjnL7nPd/0F3032EC-805C-4174-B6B5-CDF5BAB3F122.png)](https://postimg.cc/fSQbtWLg)
+
 <div class="grid cards">
   <div class="md-typeset card countdown-card" data-target="2026-01-09T17:00:00Z">
     <h3>Open Beta Test (OBT)</h3>
