@@ -31,7 +31,7 @@ The Package includes:
 - **365 days VIP Rune**
 
 
-- Two **Hair Accessory Coupons** that you can exchange in Maria's shop for a hair accessory of your choice
+- Two **Hair Accessory Coupons** that you can exchange in Maria's shop for a hair accessory of your choice or Color Title
 
 - Two **VIP Cloak Coupons** that you can exchange in Maria's shop for unique cloaks not found in the Reborn Store.
 
