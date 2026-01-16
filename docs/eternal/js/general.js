@@ -51,7 +51,7 @@
 
         if (description) {
             description.innerHTML = isRewardPeriod 
-                ? `Mammons (Blacksmith/Merchant) are active. <br> <b>Ends in: ${timeLeftStr}</b>`
+                ? `Mammons (Blacksmith/Merchant) are active. Registration is not open. <br> <b>Ends in: ${timeLeftStr}</b>`
                 : `Registration open for Seal competition. <br> <span style="color:#ff4444; font-size:0.8em;">Blacksmith/Merchant are currently away.</span> <br> <b>Ends in: ${timeLeftStr}</b>`;
         }
 
