@@ -176,6 +176,11 @@ If you have problems with Next Target not working, change these options:
 ### Looting Rights in C4
 Top-damage-done-party gets loot rights on raids, regardless of CC status.
 
+### Server Time Zone
+
+- Server Time Zone is in UTC.
+- [Server Time Now](https://time.is/UTC)
+
 ### Resurrection Mechanics
 Resurrection = (Base Res %) x (WIT Modifier), capped at +20% maximum boost.
 

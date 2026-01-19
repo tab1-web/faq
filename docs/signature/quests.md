@@ -2617,6 +2617,11 @@ Honorable Mention for Spoilers: [Cypheron's Spoiler App](https://cypheron.itch.i
       <td>Quest for weapon and beginner shots: Quest Item in your Inventory Quest Tab shows you which mob you need to hunt</td>
     </tr>
     <tr>
+      <td>11</td>
+      <td>Legacy of the Poet</td>
+      <td>Quest 14k Adena</td>
+    </tr>
+    <tr>
       <td>12</td>
       <td>Sea of Spores Fever</td>
       <td>Quest for weapons and some NG shots</td>
