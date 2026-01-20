@@ -8,7 +8,7 @@ If you want to preview the documentation on your own machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/tab1-web/faq.git](https://github.com/tab1-web/faq.git)
+   git clone https://github.com/tab1-web/faq.git
    
    cd faq
 2. **Install dependencies:**
