@@ -14,6 +14,10 @@ For official updates and support, please visit the game’s [official website.](
 
 **This is a website dedicated to streamline assistance without the need of having to ask.**{style="color:yellow;"} 
 
+Comments are enabled!
+
+- You can also make your [edits](https://github.com/tab1-web/faq) here 
+
 ## Tools
 
 You can search on the website in the top right corner and you can also search the page with: `CTRL + F`
