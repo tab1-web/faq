@@ -142,7 +142,7 @@ Default Max Buff Slots is 20 with learning these books at your trainer you can g
 | Icon      | Book          | Level | Cost        | Max Buff Slots |
 |-----------|---------------|-------|-------------|-----------|
 | [![modern.png](https://i.postimg.cc/rFgHPRtH/modern.png)](https://postimg.cc/xcJgkC5G)          | Modern        | 52    | 400K Adena  | +1        |
-| [![original.png](https://i.postimg.cc/SQdVSFN2/original.png)](https://postimg.cc/hhJVsYmc)          | Original      | 62    | 7 Glittering Medals    | +1        |
+| [![original.png](https://i.postimg.cc/SQdVSFN2/original.png)](https://postimg.cc/hhJVsYmc)          | Original      | 61    | 7 Glittering Medals    | +1        |
 | [![manuscript.png](https://i.postimg.cc/nhj1GXKB/manuscript.png)](https://postimg.cc/w1zJ6TGj)          | Manuscript    | 76    | 10 Glittering Medals   | +1        |
 | [![original-vers.png](https://i.postimg.cc/MTD0pVx2/original-vers.png)](https://postimg.cc/zbyHdLV0)          | Original Ver. | 76    | 15 Glittering Medals   | +1        |
 
