@@ -39,6 +39,8 @@ icon: material/vote-outline
 
 > By voting you can access Bonus Buffs in Maria and 2nd stage offers B-Grade items.
 
+> Main has fixed rates: EXP/SP x10 (x7 without VIP), Adena/Drop/Spoil x4.5 (x3 without VIP)
+
 <div class="grid cards" markdown>
 - ### Experience & Skill Points <br> (EXP/SP)
 
