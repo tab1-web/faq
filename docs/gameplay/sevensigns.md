@@ -22,7 +22,8 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
 1. **Choose a Faction**{style="color:lightblue;"}:
     - **Dawn**{style="color: #af5d5dff;"}: For castle owners (castle owning clan) or those willing to pay 50,000 adena (or get an Approval Certificate from a castle lord).
         - People mostly register to **Dawn**{style="color: #af5d5dff;"} because of castle owners can only register to **Dawn**{style="color: #af5d5dff;"}.
-    - **Dusk**{style="color:lightgreen;"}: For players not affiliated with castle-owning clans.
+        - Sometimes people choose **Dusk** and do festivals last minute if there are no castle owners or wanting to farm free in Catacombs without competition, as on the Seal Effective Period only winners can hunt in Catacombs.
+    - **Dusk**{style="color:lightgreen;"}: For players "not affiliated with castle-owning clans".
 
 2. **Choose a Seal**{style="color:lightblue;"}:
     - Avarice
@@ -77,11 +78,11 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
     - **Avarice**: Access to Necropolis dungeons + Merchant of Mammon
         - **Merchant of Mammon:**{style="color: #af5d5dff;"} Gemstones, Dyes, Enchants.
         - On Eternal it is available in Giran.
-        - On Signature it is avialable in Patriots Necropolis.
+        - On Signature it is available in Patriots Necropolis.
     - **Gnosis**: Access to Catacombs + Blacksmith of Mammon services 
         - **Blacksmith of Mammon:**{style="color:lightgreen;"} Upgrade/Exchange D-C Weapon, Duals, Apply A-S Special Abilities, Unseal A-S Equipment
         - On Eternal it is available in Giran.
-        - On Signature it is avialable in Witch Catacomb.
+        - On Signature it is available in Witch Catacomb.
         - If it's an equal exchange of weapons, the enchanted items keep their enchants. (Crystal Amount the same)
             - Some weapons like Demon Fang **cannot be upgraded**{style="color:red;"} double check if it's upgradeable.
         - When you upgrade a weapon, it doesn't keep enchants. 
@@ -134,7 +135,7 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
 
     The **Dawn Faction**{style="color: #af5d5dff;"} has won, because they got the most points from Seal Stones and Festivals.
 
-    If enough people voted for the Seals, they get to enjoy its' effects.
+    If enough people voted for the Seals, they get to enjoy its effects.
 
     **Cabal:** **Dawn**{style="color: #af5d5dff;"}/**Dusk**{style="color:lightblue;"}  
     
@@ -153,7 +154,7 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
     Mostly people see the first option and just click that, but it can happen if not enough people **(10%+ atleast)** vote for Gnosis, 
     then they cannot go to Catacombs during Seal Validation Period.
 
-    Strife is not owned, because not enough people registered to Strife. **(35%+ needs atleast)**
+    Strife is not owned, because not enough people registered to Strife. **(35%+ is required)**
 
 
 

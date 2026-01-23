@@ -166,7 +166,7 @@ Default Max Buff Slots is 20 with learning these books at your trainer you can g
 
     ### **Must-Do First**
     0. Check if you can register [at the Seven Signs Status](/faq/eternal/general/#seven-sign-status).
-    1. Register with Priest of Dawn in Giran (`/target Dawn`) *(Mostly)*
+    1. Register with Priest of Dawn in Giran (`/target Dawn`) [*(Mostly)*](/faq/gameplay/sevensigns)
     - Choose any Seal (Avarice/Gnosis)
     2. Talk to Ziggurat and Statue NPCs at dungeon entrances for quests
 
