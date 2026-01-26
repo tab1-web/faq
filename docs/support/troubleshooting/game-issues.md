@@ -167,6 +167,15 @@ Make sure to adjust the path of your executable and path to **nircmd.exe** in th
 
 [**Copy paste the example .bat file**](https://pastebin.com/raw/TgFE05vg)
 
+### 3rd option
+
+- Open regedit and navigate to:
+
+`Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers`
+
+- Delete "`l2.bin`" and "`L2.exe`" keys with the values "`HIGHDPIAWARE`"
+- Before making any changes to the registry, back it up or create a system recovery point.
+- Thanks **@Csilk** 
 
 ## Event Code 10/5 or 39/1
 This happens when there is either an interruption in your connection and/or an interruption to the SmartGuard service.
