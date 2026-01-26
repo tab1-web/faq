@@ -336,9 +336,12 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 
 ### Clan Hall 
 
-More info regarding clan halls [here](https://l2reborn.org/news/reborn-signature-franz/)
+- More info regarding clan halls [here](https://l2reborn.org/news/reborn-signature-franz/)
 
-Clan Hall buffs do not apply to pets/summons only to owner.
+- Clan Hall buffs do not apply to pets/summons only to owner.
+
+- Clan Hall auction ends and starts at the designated time of Auctioneer NPC in towns:
+    - 12/28/202507 means 2025/12/28 07.00 UTC
 
 **Clan Hall Buffs:**
 
