@@ -147,6 +147,10 @@ h2 {
 ### What's the clan penalty? / How long do I have to wait to get invited back to my clan?
 - You have to wait 24 hours in order to join clan
 
+### How long can I remain delogged in PVP zone?
+
+- 1 minute, after you will be sent to Town
+
 ### When is the first Clan Hall Auctin/Bid?
 - At the designated date in the features page at 3 pm UTC + 0
 <ul>
