@@ -192,6 +192,8 @@ Add **Reborn files (l2.exe)** and **folders** are added as **exceptions/exclusio
 
 ## Critical Error on Server Selection
 
+- `Protocol: <- <- S_CHARACTER_SELECTION_INFO <- S_LOGIN_RESULT <- C_LOGIN <- S_VERSION_CHECK <- C_VERSION`
+
 1. Your game is outdated → **Run the "Repair" option** in your game launcher.
 2. Server is slow to update → If others on Discord report the same issue, wait for the GMs to fix it.
 
