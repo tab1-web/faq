@@ -18,6 +18,7 @@ Please make sure that:
 - [ ] If you’re using a touchpad, note that it may be blocked; please use a mouse instead.
 - [ ] If you get stuck at the proxy selection screen, **go back into the login menu again** and **select another proxy.**
 - [ ] Ensure you have the [latest Visual C++ Redistributable for x86](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) installed.
+- [ ] You have [DirectX 2010](https://www.microsoft.com/en-us/download/details.aspx?id=8109) downloaded, extracted and DirectX installer ran inside extracted folder.
 - [ ] Your **drivers** are **up-to-date**.
 - [ ] You are logging in with your in-game account's username **(e.g. le_lenny13)** and not your Master Account's email.
 
