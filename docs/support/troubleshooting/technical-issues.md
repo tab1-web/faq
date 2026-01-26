@@ -31,7 +31,7 @@ Additionally try:
 - [ ] Deleting your **system folder** and **repairing your files**.
     - [ ] Trying reinstall/repair with mobile data or vpn.
 - [ ] Doing full **re-install** by deleting the game folder.
-- [ ] **Disabling all overlay extensions**: Discord, Overwolf etc..
+- [ ] **Disabling all overlay extensions**: Discord, Overwolf, GameBar etc..
 - [ ] [Reinstalling .NET frameworks or Enable them](https://youtu.be/57HbrVq6Ej0?si=uUNFievc5M00opIf&t=105), click on drop down and tick the options below as well.
 - [ ] Updating your Windows or uninstalling a recent update if you had. (23H2 , 24H2 seems to work)
 
