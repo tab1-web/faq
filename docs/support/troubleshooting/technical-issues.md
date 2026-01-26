@@ -21,6 +21,7 @@ Please make sure that:
 - [ ] You have [DirectX 2010](https://www.microsoft.com/en-us/download/details.aspx?id=8109) downloaded, extracted and DirectX installer ran inside extracted folder.
 - [ ] Your **drivers** are **up-to-date**.
 - [ ] You are logging in with your in-game account's username **(e.g. le_lenny13)** and not your Master Account's email.
+- [ ] In some rare cases: Cache needs to be cleaned in %localappdata% : Delete `UnrealEngine`, `Temp` and `.dxcache` files
 
 Additionally try:
 
