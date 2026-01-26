@@ -346,7 +346,7 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 **Clan Hall Buffs:**
 
 - Windwalk Lv2
-- Decrease Weight LV3
+- Decrease Weight Lv3
 - Shield Lv3
 - Mental Shield Lv4
 - Might Lv3
@@ -364,6 +364,10 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 - Haste Lv1
 - Focus Lv1
 - Death Whisper Lv1
+
+## Unstuck
+- When you are stuck in MDT with a low level character or in an area generally you are stuck, you can use the [unstuck](https://l2reborn.org/game-account/) option in website.
+- Select server in the middle, click on your account the (...) three dots next to your account and (....) three dots as well next to your character
 
 ## Party System
 
