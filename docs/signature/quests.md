@@ -7,7 +7,6 @@ search:
 ---
 # Levelling Guide
 
-<script src="/faq/signature/js/quest.js"></script>
 <link rel="stylesheet" href="/faq/signature/styles/style.css">
 
 ## Credits
@@ -2901,3 +2900,6 @@ Honorable Mention for Spoilers: [Cypheron's Spoiler App](https://cypheron.itch.i
 </table>
 </figure>
 </div>
+
+<script src="/faq/signature/js/quest.js"></script>
+
