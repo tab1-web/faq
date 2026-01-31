@@ -96,13 +96,27 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
 
 ### Seal Ownership Rules
 
-**To take a Seal from opponents**{style="color:lightblue;"} (or claim unclaimed):  
-✔ 35%+ of your faction must choose it  
+<div class="grid cards" markdown>
+- 
+    **To take a Seal from opponents**{style="color:lightblue;"} (or claim unclaimed):  
+    ✔ 35%+ of your faction must choose it  
 
-**To keep a Seal you already own:**{style="color:lightblue;"}  
-✔ 10%+ of your faction must choose it  
+    **To keep a Seal you already own:**{style="color:lightblue;"}  
+    ✔ 10%+ of your faction must choose it  
 
-> "Choosing" = selecting during registration.
+    > "Choosing" = selecting during registration.
+
+    **Example:** Dusk won the last cycle, therefore to take all the seals, 
+    the faction must vote 35% on Avarice and Gnosis to hunt in Catacombs and Necropolis.
+
+    Fail to get 35% atleast on a faction that controlled it last time will not let you in that
+    part of Catacombs. (Avarice controls Necropolis, Catacombs Gnosis)
+
+- <figure markdown>
+    [![image.png](https://i.postimg.cc/QdzDJMwh/image.png)](https://postimg.cc/9DysWccn)
+    <figcaption>Thank you <b>@Siedun</b> for the picture</figcaption>
+    </figure>
+</div>
 
 ## Dungeons
 ### Catacombs & Necropolis
