@@ -40,7 +40,6 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
     - Winners also get their Seal's effects if they control it. (Enough people registered)
 
 ### Who Can Join?
-- **No class transfer**: Cannot participate.
 - **First-class transfer completed**: Can join either faction freely.
 - **Second-class transfer completed**: Must follow faction rules:
     - Castle Owner Clans can only join Dawn.
@@ -72,6 +71,7 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
 
 ## Winning & Seals
 - **Victory**: Determined by total points from Seal Stones and Festival performance.
+    - This does not mean you automatically take the Seals
 - **Duration**{style="color:lightblue;"}: 1 week and starts after Competition Period
     - **On Eternal**{style="color: #af5d5dff;"} this is different: (Friday 6:00 PM UTC + 0 until Monday 6:00 PM UTC + 0)
 - **Seal Effects**:
@@ -83,9 +83,9 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
         - **Blacksmith of Mammon:**{style="color:lightgreen;"} Upgrade/Exchange D-C Weapon, Duals, Apply A-S Special Abilities, Unseal A-S Equipment
         - On Eternal it is available in Giran.
         - On Signature it is available in Witch Catacomb.
-        - If it's an equal exchange of weapons, the enchanted items keep their enchants. (Crystal Amount the same)
+        - If it's an equal exchange of weapons (Even trade), the enchanted items keep their enchants. (Crystal Amount the same)
             - Some weapons like Demon Fang **cannot be upgraded**{style="color:red;"} double check if it's upgradeable.
-        - When you upgrade a weapon, it doesn't keep enchants. 
+        - When you upgrade a weapon (Bestowing SA or trading up to higher tier), it doesn't keep enchants. 
     - **Strife**: Siege advantages (Dawn: stronger defenses, Dusk: siege weapons).
 
 - **Post-Victory**{style="color:lightblue;"}:
