@@ -1,6 +1,7 @@
 ---
 icon: material/frequently-asked-questions
 ---
+
 # FAQ - Signature Server
 
 <link rel="stylesheet" href="/faq/signature/styles/faq-style.css">
@@ -9,44 +10,46 @@ icon: material/frequently-asked-questions
 ## New Player Information
 
 ### Class Selection
+
 Watch the C4 class guide video for help choosing and feel free to ask in the Discord about the classes!
 
 <figure markdown>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJAlGHVx5qA?si=eQKHIJHvct8eV0Zu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[SPIN THE WHEEL L2 EDITION](https://wheelofnames.com/uyt-dh7) 
-
+[SPIN THE WHEEL L2 EDITION](https://wheelofnames.com/uyt-dh7)
 
 </figure>
 
 ### Differences between Franz & Teon?
 
 - Teon
-    - Started in 2024-11-01
-    - More players on higher levels
-    - More Stable Market
-    - No Stages
+  - Started in 2024-11-01
+  - More players on higher levels
+  - More Stable Market
+  - No Stages
 - Franz
-    - Started in 2025-11-07
-    - Players in all level ranges
-    - [Stages](/faq/signature/faq/#server-stages)
+  - Started in 2025-11-07
+  - Players in all level ranges
+  - [Stages](/faq/signature/faq/#server-stages)
 
 ### What about Signature merging?
 
 - No merge date for now, based on experience and data they expect it to be end of 2026, likely or before Interlude update.
 - This estimation cannot be taken as a guarantee
 
-
 ### Are there any shadow tickets / cat weapons / adventurer weapons?
+
 Shadow Weapons are in Interlude, Cat Weapons or Adventurer Weapons are enabled.
 
 ### Newbie Buffs
+
 Available from the Newbie Guide NPC.
 
 [![O6NDmk-L.png](https://i.postimg.cc/2S9BHwhf/O6NDmk-L.png){width=60%}](https://postimg.cc/21v6yn0H)
 
 ### Newbie Bonuses
+
 - Account-wide bonuses apply to all characters on the same account.
 - This means that you can get newbie buffs and get the same amount of shots on all of your characters in the same game account.
 
@@ -69,30 +72,33 @@ Visit [l2reborn.org/reborn-shop](https://l2reborn.org/reborn-shop/) to vote ever
 #### Additional Notes
 
 - Applies only to your selected character
-- Voting via mobile/VPN is allowed 
-    - This doesn't mean you can dualbox.
+- Voting via mobile/VPN is allowed
+  - This doesn't mean you can dualbox.
 - Rune effects last 12 real-time hours
 
 ## Donation
 
 ### What can you buy for Reborn Coins?
+
 - 1st class & 2nd class, cosmetics, color title, skins etc..
-    - [Donation Infos are here](/faq/cosmetics/overview/)
+  - [Donation Infos are here](/faq/cosmetics/overview/)
 
 ### Can you Freight/Trade VIP or Color Title?
+
 - No, you cannot freight them once you have opened them.
 
 ### Can I set a Title with Color Title Reborn Donation Item?
+
 - Yes, even if you are not in a clan, you can set a color and title text for your character unlimited times.
 
 ## General
 
-
-
 ### Current Chronicle
+
 Chronicle 5
 
 ### Shortcuts Reset
+
 Yes, shortcuts reset and cannot be fixed.
 
 ### Launch Time
@@ -136,6 +142,7 @@ Yes, shortcuts reset and cannot be fixed.
 - Talk to newbie guide, the npc beside it and then town newbie guide to acquire them
 
 ### Wide Blow vs. Towering Blow
+
 Thank you **@Seriel**{style="color:yellow;"} and **@Jessnina**{style="color:green;"}
 
 <figure markdown>
@@ -145,9 +152,11 @@ Thank you **@Seriel**{style="color:yellow;"} and **@Jessnina**{style="color:gree
 </figure>
 
 ### Additional Hotbars
+
 You can have additional hotbars by expanding to the 6th slot, which reveals two new buttons on the side for customization.
 
 ### Zoom Control
+
 Press `PgDN` to zoom out. Using third-party programs to increase zoom further is not allowed.
 
 ### B Grade Fists Exchange Info
@@ -157,23 +166,25 @@ Press `PgDN` to zoom out. Using third-party programs to increase zoom further is
 - You cannot upgrade this way, only exchange
 
 ### Maximum Target Hit
-| Condition | Max Target Hit |
-|-|-|
-| Any weapon | 1 target
-| Pole weapon | +4 target, total 5
-| Pole Mastery low level | +5 target, total 10
-| Pole Mastery high level | +10 target, total 15
-| Fell swoop lvl 5 | +5 target, total 20
+
+| Condition               | Max Target Hit       |
+| ----------------------- | -------------------- |
+| Any weapon              | 1 target             |
+| Pole weapon             | +4 target, total 5   |
+| Pole Mastery low level  | +5 target, total 10  |
+| Pole Mastery high level | +10 target, total 15 |
+| Fell swoop lvl 5        | +5 target, total 20  |
 
 ### Next Target Options
+
 If you have problems with Next Target not working, change these options:
 
 - `Target to Taunt`: Targets Flagged Players
 - `Monster`: Targets Monsters only
 - Shortcut: `CTRL + T`
 
-
 ### Looting Rights in C4
+
 Top-damage-done-party gets loot rights on raids, regardless of CC status.
 
 ### Server Time Zone
@@ -184,6 +195,7 @@ Top-damage-done-party gets loot rights on raids, regardless of CC status.
 Thank you **@LifeisShort**
 
 ### Resurrection Mechanics
+
 Resurrection = (Base Res %) x (WIT Modifier), capped at +20% maximum boost.
 
 <figure markdown>
@@ -193,18 +205,21 @@ Resurrection = (Base Res %) x (WIT Modifier), capped at +20% maximum boost.
 </figure>
 
 ### AoE Spell Flagging
+
 Targeted AoE spells do not flag you for PvP.
 
 ### Malaria Effect
+
 The visual effect is actually poison from the [Fairy Tree of Abyss](https://lineage2wiki.org/c5/monster/27188/fairy-tree-of-abyss-quest-monster/) outside Hunter's Village. Just hit the tree or kill it and you should get the poison, don't need the Hatchling Quest to get the Poison on you.
 
 Venomous Poison keeps damaging you until you are 1 HP, useful for CDL.
 
 ### Dye Information
+
 Refer to the [dye page](/faq/gameplay/dyes) for specific dye combinations and effects.
 
-
 ### Hero Weapons Info
+
 <div class="grid cards" markdown>
 
 - <figure markdown>
@@ -242,29 +257,32 @@ If you PK with Weapon from Cat (adventurer weapons) then it gets de-equipped and
 [Check it out here.](/faq/gameplay/monsters/#character-mob-level-difference-penalties)
 
 ### WK/ES Buffs
+
 Pet buffs unlock at:
 
 - Level 56: Effect 1
 - Level 62: Effect 2
 - Level 68: Effect 3
 
-
 ### Soul Crystals
+
 - Soul Crystals do not break in C5.
 - Pick up the quest at Magic Guilds (Aden, Giran) at one of the Magisters
-    - You can choose Red, Blue, Green SC Lv1
+  - You can choose Red, Blue, Green SC Lv1
 - If you want to level soul crystals up, use soul crystals on the [appropriate mobs and corresponding level](https://lineage2wiki.org/c5/soul-crystal/) when the mobs are below 30-50% HP.
 - You can also buy Soul Crystals from [Giran's Luxury Shop](https://lineage2wiki.org/interlude/item/exchange/)
 
-
 ### Enchanting System
+
 - Blessed Enchants prevent breakage but don't increase success chance
 - Look up the enchant chances here: [lineage2wiki.org/c5/](https://lineage2wiki.org/c5/)
 
 ### Experience Table
+
 Visit [lineage2wiki.com/c5/exp-calculator](https://lineage2wiki.org/c5/exp-calculator/) for experience calculations.
 
 ### Deleveling
+
 - Safe for 10 levels (learn at 35 -> delevelled to 25: won't lose skills)
 - After 11th level, skills get lost
 - Keep in mind with C5 came Death Penalty, making it pretty expensive if you die by NPCs/Mobs.
@@ -275,33 +293,392 @@ Visit [lineage2wiki.com/c5/exp-calculator](https://lineage2wiki.org/c5/exp-calcu
 - You can only have a summon or a pet, you cannot have both of them at the same time
 
 ### Improved Pets
-- There are no improved pets
-    - and there won't be any on Signature, it is a [Hellbound](https://lineage2wiki.org/hellbound/patch-notes/#pets_and_servitors) feature
-- Baby pets only heal 
 
+- There are no improved pets
+  - and there won't be any on Signature, it is a [Hellbound](https://lineage2wiki.org/hellbound/patch-notes/#pets_and_servitors) feature
+- Baby pets only heal
 
 ### Pet Leveling
+
 - Baby pets take 10% of master's EXP
 - Wolves/Hatchlings/Striders gain EXP based on damage dealt
 - Hatchlings become striders at level 55 via quest
 
 ### Pet Types
+
 - Wind Dragon: Fighter type with stun/defense skills
 - Star Dragon: Mage type with burst/heal skills
 - Twilight Dragon: No skills but faster to level
 
 ### Strider Mechanics
+
 - All strider types have same speed (scales with level)
 - Mounting/Unmounting removes certain buffs
-    - Songs, Dances, Dash, Thrill Fight, Potions, Deflect Arrow, Totems etc..
+  - Songs, Dances, Dash, Thrill Fight, Potions, Deflect Arrow, Totems etc..
 
 ### Hatchling of the Stars does Physical Attack when pressing Bright Burst?
-- Yes, make a macro with stopping the pet attack or spam Bright Burst.
 
+- Yes, make a macro with stopping the pet attack or spam Bright Burst.
 
 ## Clan System
 
+### Clan Skills
+
+Players can see their own rank in the character status window.
+Players can see the target’s rank in the Target window when another player is selected.
+
+=== "Clan Level 5"
+
+    <table border="1" style="width: 100%; border-collapse: collapse; text-align: left;">
+    <thead>
+        <tr>
+            <th>Required Rank</th>
+            <th>Available Skills</th>
+            <th>Effect Summary</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <strong>Vagabond</strong>
+                <p>Non-clan member</p>
+                <strong>Vassal</strong>
+                <p>Clan Member</p>
+                <p>20 members</p>
+            </td>
+        <td><p>-</p></td>
+        <td><p>-</p></td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Heir</strong>
+                <p>Lv5 Clan Member</p>
+                <p>40 members</p>
+            </td>
+            <td>Lifeblood (1), Magic Protection (1), Vitality (1),</td>
+            <td>+3% HP regen, +6% M. Def, +3% Max HP.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Knight</strong>
+                <p>Lv4 Clan Leader</p>
+                <p>-</p>
+            </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Elder</strong>
+                <p>Lv 5 Clan Leader and above</p>
+                <p>1 members</p>
+            </td>
+            <td>Imperium (1)</td>
+            <td>Command Channel access.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Baron</strong>
+                <p>Noblesse</p>
+                <p>Special</p>
+            </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Viscount</strong>
+                <p>Not Available</p>
+                <p>-</p>
+            </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Count</strong>
+                <p>Not Available</p>
+                <p>-</p>
+            </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Marquis</strong>
+                <p>Not Available</p>
+                <p>-</p>
+            </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+    </table>
+
+=== "Clan Level 6"
+
+    <table border="1" style="width: 100%; border-collapse: collapse; text-align: left;">
+    <thead>
+        <tr>
+            <th>Required Rank</th>
+            <th>Available Skills</th>
+            <th>Effect Summary</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <strong>Vagabond</strong>
+                <p>Non-clan member</p>
+                <strong>Vassal</strong>
+                <p>Academy Clan Member</p>
+            </td>
+        <td><p>-</p></td>
+        <td><p>-</p></td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Heir</strong>
+                <p>Clan member in the Royal Guard</p>
+                <p>40 members</p>
+            </td>
+            <td>Lifeblood (1), Magic Protection (1), Vitality (1),</td>
+            <td>+3% HP regen, +6% M. Def, +3% Max HP.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Knight</strong>
+                <p>Direct clan member</p>
+                <p>40 members</p>
+            </td>
+            <td>Aegis (1), Might (1)</td>
+            <td>+3% P. Def and +3% P. Atk.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Elder</strong>
+                <p>Royal Guard</p>
+                <p>2 members</p>
+            </td>
+            <td>Morale (1), Imperium (1)</td>
+            <td>+6% CP regen and Command Channel access.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Baron</strong>
+                <p>Leader</p>
+                <p>1 member</p>
+            </td>
+            <td>Shield Boost (1), Spirituality (1) </td>
+            <td>+24% Shield Def, 6% Max CP</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Viscount</strong>
+                <p>Not Available</p>
+                <p>-</p>
+            </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Count</strong>
+                <p>Not Available</p>
+                <p>-</p>
+            </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Marquis</strong>
+                <p>Not Available</p>
+                <p>-</p>
+            </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+    </table>
+
+
+=== "Clan Level 7"
+
+    <table border="1" style="width: 100%; border-collapse: collapse; text-align: left;">
+    <thead>
+        <tr>
+        <th>Required Rank</th>
+        <th>Available Skills</th>
+        <th>Effect Summary</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <strong>Vagabond</strong>
+                <p>Non-clan member</p>
+                <strong>Vassal</strong>
+                <p>Academy Clan Member</p>
+            </td>
+        <td><p>-</p></td>
+        <td><p>-</p></td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Heir</strong>
+                <p>Clan member in the Order of Knights</p>
+                <p>40 members</p>
+            </td>
+            <td>Lifeblood (2), Magic Protection (2), Vitality (2), Luck (1)</td>
+            <td>+5% HP regen, +10% M. Def, +5% Max HP, and Death Penalty reduction.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Knight</strong>
+                <p>Clan member in the Royal Guard</p>
+                <p>40 members</p>
+            </td>
+            <td>Aegis (2), Might (2)</td>
+            <td>+5% P. Def and +5% P. Atk.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Elder</strong>
+                <p>Direct clan member</p>
+                <p>40 members</p>
+            </td>
+            <td>Morale (1), Imperium (1)</td>
+            <td>+6% CP regen and Command Channel access.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Baron</strong>
+                <p>Knight Banneret</p>
+                <p>4 members</p>
+            </td>
+            <td>Shield Boost (1), Spirituality (2), Guidance (1)</td>
+            <td>+24% Shield Def, 10% Max CP, +1 Accuracy.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Viscount</strong>
+                <p>Captain of Royal Guard</p>
+                <p>2 members</p>
+            </td>
+            <td>All Resistances</td>
+            <td>+3 Fire/Earth/Water/Wind, +12 Sleep/Hold Resist/Shock/Shield Protection Chance.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Count</strong>
+                <p>Clan Leader</p>
+                <p>1 members</p>
+            </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Marquis</strong>
+                <p>Not Available</p>
+                <p>-</p>
+            </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+    </table>
+
+=== "Clan Level 8"
+
+    <table border="1" style="width: 100%; border-collapse: collapse; text-align: left;">
+    <thead>
+        <tr>
+        <th>Required Rank</th>
+        <th>Available Skills</th>
+        <th>Effect Summary</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <strong>Vagabond</strong>
+                <p>Non-clan member</p>
+                <strong>Vassal</strong>
+                <p>Academy Clan Member</p>
+            </td>
+        <td><p>-</p></td>
+        <td><p>-</p></td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Heir</strong>
+                <p>Not Available</p>
+                <p>-</p>
+            </td>
+            <td>Lifeblood (2), Magic Protection (2), Vitality (2), Luck (2)</td>
+            <td>+5% HP regen, +10% M. Def, +5% Max HP, and Death Penalty reduction.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Knight</strong>
+                <p>Clan member in the Order of Knights</p>
+                <p>40 members</p>
+            </td>
+            <td>Aegis (3), Might (3)</td>
+            <td>+6% P. Def and +6% P. Atk.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Elder</strong>
+                <p>Clan member in the Royal Guard</p>
+                <p>40 members</p>
+            </td>
+            <td>Morale (3), Imperium (1)</td>
+            <td>+12% CP regen and Command Channel access.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Baron</strong>
+                <p>Direct clan member</p>
+                <p>40 members</p>
+            </td>
+            <td>Shield Boost (2), Spirituality (2), Guidance (1), Agility (1)</td>
+            <td>+40% Shield Def, 10% Max CP, +2 Accuracy, +1 Evasion</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Viscount</strong>
+                <p>Knight Banneret</p>
+                <p>4 members</p>
+            </td>
+            <td>Clarity (1), Empowerment (1), Essence (1), All Resistances</td>
+            <td>+3% MP regen, +6% M. Atk, +3% Max MP, and +5 Fire/Earth/Water/Wind, +20 Sleep/Hold Resist/Shock/Shield Protection Chance.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Count</strong>
+                <p>Captain of the Royal Guard</p>
+                <p>2 members</p>
+            </td>
+            <td>March (1)</td>
+            <td>+2 Movement Speed.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Marquis</strong>
+                <p>Clan Leader</p>
+                <p>1 member</p>
+            </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+    </table>
+
 ### Clan Leave Cooldown
+
 - 1-day cooldown after leaving/kicked from clan
 - 1-day cooldown before clan can re-invite
 
@@ -313,12 +690,13 @@ This is the moon knight's classic quest equivalent of a quest in C5, though not 
 
 - [To Lead and Be Led](https://lineage2wiki.org/c5/quest/118/to-lead-and-be-led/)
 - [The leader and the follower](https://lineage2wiki.org/c5/quest/123/the-leader-and-the-follower/)
-- You need to be in academy with a Sponsor 
-    - Some people reported that they cannot select a Sponsor
+- You need to be in academy with a Sponsor
+  - Some people reported that they cannot select a Sponsor
 
 ### Clan Leader Transfer
+
 - Available in C5.
-- It happens after weekly restart / maintenance, make sure to request it 24 hours before the maintenance. 
+- It happens after weekly restart / maintenance, make sure to request it 24 hours before the maintenance.
 
 Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 
@@ -331,17 +709,17 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 - Lv6 Clan: 10K CRP (Max 100 members)
 - Lv7 Clan: 20K CRP (Max 140 members)
 - Lv8 Clan: 40k CRP (Max 140 members)
-- 2 Royal Guards: 2*5,000=10k CRP (20 Members)
-- 4 Knights: 4*10,000=40k CRP (40 Members, requires Lv7 Clan)
+- 2 Royal Guards: 2\*5,000=10k CRP (20 Members)
+- 4 Knights: 4\*10,000=40k CRP (40 Members, requires Lv7 Clan)
 
-### Clan Hall 
+### Clan Hall
 
 - More info regarding clan halls [here](https://l2reborn.org/news/reborn-signature-franz/)
 
 - Clan Hall buffs do not apply to pets/summons only to owner.
 
 - Clan Hall auction ends and starts at the designated time of Auctioneer NPC in towns:
-    - 12/28/202507 means 2025/12/28 07.00 UTC
+  - 12/28/202507 means 2025/12/28 07.00 UTC
 
 **Clan Hall Buffs:**
 
@@ -366,6 +744,7 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 - Death Whisper Lv1
 
 ## Unstuck
+
 - When you are stuck in MDT with a low level character or in an area generally you are stuck, you can use the [unstuck](https://l2reborn.org/game-account/) option in website.
 - Select server in the middle, click on your account the (...) three dots next to your account and (....) three dots as well next to your character
 
@@ -374,14 +753,17 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 - [More info here](/faq/gameplay/monsters/#party-system)
 
 ### EXP Distribution
+
 No EXP when party members have 20+ level difference.
 
 ## Quests
 
 ### Quest Conflicts
+
 Quests can conflict when targeting the same mob, reducing quest item drops.
 
 ### Group/Solo Last Hit Quests
+
 - `{solo}` requires personal last hit
 - `{group}` allows any party member last hit
 
@@ -398,12 +780,12 @@ Please make sure that:
 - Not in a Party
 - If those don't work: open [support ticket](https://l2reborn.org/support/)
 
-
 ## World Systems
 
 ### Taxes
-1. Look up Base Item Price on the [Wiki](https://lineage2wiki.org/c5/item/168/work-hammer/)   
-[![workhammer.png](https://i.postimg.cc/NMfBmTm0/workhammer.png)](https://postimg.cc/yJ5MzDfq)
+
+1. Look up Base Item Price on the [Wiki](https://lineage2wiki.org/c5/item/168/work-hammer/)  
+   [![workhammer.png](https://i.postimg.cc/NMfBmTm0/workhammer.png)](https://postimg.cc/yJ5MzDfq)
 2. Check the Castle Tax by hovering over the Town's Castle on the Map you wish to buy from
 3. Enter in the values and press **Calculate**
 
@@ -649,7 +1031,7 @@ function clearErrors() {
 function showErrors(errors) {
     const errorDiv = document.getElementById('errorMessage');
     if (errorDiv) {
-        errorDiv.innerHTML = '<strong>Please fix the following errors:</strong><br>• ' + errors.join('<br>• ');
+        errorDiv.innerHTML = '<strong>Please fix the following errors:</strong><br>' + errors.join('<br>');
         errorDiv.style.display = 'block';
     }
 }
@@ -758,25 +1140,28 @@ function loadSavedState() {
 [![4CF8AC99-D3D5-462D-8E07-9E8BE5508D65.png](https://i.postimg.cc/PqpCBSTM/4CF8AC99-D3D5-462D-8E07-9E8BE5508D65.png){width=60%}](https://postimg.cc/Tyx2bqyy)
 
 - There is no way to check raid boss status and respawn time, you must be there to write down the time of death of the boss and add the appropriate times above.
-    - 9h random window means that the boss can spawn at any time during that window, the first number is for static window. 
+  - 9h random window means that the boss can spawn at any time during that window, the first number is for static window.
 - People will post subclass/nobless bosses timers in the [Discord Forum](https://discord.com/channels/622089207028121602/1365360511834788045)
-- If a boss has been slained by a Hero, Hero Statue, in all towns, can reveal the boss time of death. Keep in mind that the range can go from +30 minutes to -30 minutes written there in either direction. Thank you **@Ascy**  
+- If a boss has been slained by a Hero, Hero Statue, in all towns, can reveal the boss time of death. Keep in mind that the range can go from +30 minutes to -30 minutes written there in either direction. Thank you **@Ascy**
 
 ### Manor Time
+
 Manor seed selling/buying occurs at 20:06 UTC daily.
 
 ### Seven Signs
+
 Tallying occurs at 18:00 UTC every Monday.
 [More Info](/gameplay/sevensigns)
-
 
 ## Items & Crafting
 
 ### BoM/MoM Locations
+
 - Blacksmith of Mammon: Witch
 - Merchant of Mammon: Patriots
 
 ### BoM Exchange Rules
+
 - Upgrading weapons loses enchants
 - Equal exchange keeps enchants
 - Some items (like [Demon Fang](https://lineage2wiki.org/c4/item/321/demon-fangs/)) cannot be exchanged
@@ -787,10 +1172,9 @@ Tallying occurs at 18:00 UTC every Monday.
 
 </figure>
 
-
 ### Wrong Stats
 
-Stats are correct, just when you remove your equip: 
+Stats are correct, just when you remove your equip:
 
 - Empty slots give M.Def or P.Def according to Location.
 
