@@ -311,6 +311,12 @@ icon: material/clock-time-one-outline
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
+  <div class="md-typeset card countdown-card" data-target="2026-02-11T18:00:00Z">
+    <h3>Valentines Event (Season & Main, uncertain time) </h3>
+    <p><strong>Time:</strong> Feb 11th at 18:00 UTC</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
   <div class="md-typeset card countdown-card" data-target="2026-02-13T18:00:00Z">
     <h3>S-Grade Mammon</h3>
     <p><strong>Time:</strong> Feb 13th at 18:00 UTC</p>
@@ -324,13 +330,13 @@ icon: material/clock-time-one-outline
   </div>
 
   <div class="md-typeset card countdown-card" data-target="2026-02-25T18:00:00Z">
-    <h3>Stage 2: B-Grade & x10 Rates</h3>
+    <h3>Stage 2: B-Grade & x10 Rates, uncertain time</h3>
     <p><strong>Time:</strong> Feb 25th at 18:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
 <div class="md-typeset card countdown-card" data-target="2026-03-25T18:00:00Z">
-  <h3>Stage 3: x30 Rates</h3>
+  <h3>Stage 3: x30 Rates, uncertain time</h3>
   <p><strong>Time:</strong> March 25th at 18:00 UTC</p>
   <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
 </div>

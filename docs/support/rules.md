@@ -124,22 +124,6 @@ icon: fontawesome/solid/scroll
 
     Click on the server names below to see.
 
-=== "Eternal"
-
-    > These rules are for Eternal SERVER only!!! The above general rules still apply.
-
-    ### **1. Anti-Zerg Rules (Season Server)**
-
-    To ensure fair play, we monitor activity during Epic Bosses and Siege Zones to prevent alliances from circumventing member limits.
-
-    * **Clan & Alliance Limits**: Groups are strictly limited to **36 clan members** and **2 clans per alliance**.
-    * Any attempt to bypass these limits during Epic Boss Areas or Siege Zones is punishable. This includes:
-        * Using secondary clans to increase numbers.
-        * Bringing additional untagged characters to the fight.
-        * Using alts specifically for resurrection or summoning.
-    * Using similar Clan or Alliance crests to create confusion during Epic Boss Areas or Siege Zones is strictly forbidden.
-    * Any attempt to bypass the **36 per clan / 72 per alliance** rule will result in a **Permanent Ban** for the leading group (Leader CP + alts) and all involved infractors.
-
 === "Signature"
 
     > These rules are for Signature SERVER only!!! The above rules still apply.

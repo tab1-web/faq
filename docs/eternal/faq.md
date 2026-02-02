@@ -112,19 +112,18 @@ h2 {
 ### Do summons retain their buffs after death in pvp events?
 - Yes, except for Soultaker.
 
-### Clan System on Seasonal
-- Clans can have 60 members in total and 2 clans per alliance
-    - 40 main + 10 per each Royal Guard
-        - Royal Guard costs 20k CRP each
-        - Needs Clan Level 6
-    - Check out [rules](/faq/support/rules) regarding the anti-zerg rule
-        - Additional ones (36 per clan, 72 per alliance) will be automatically teleported to town.
+### Clan System
 
-### Clan System on Eternal Main
+- Penalty after leaving a clan is 24h
+- Clan penalty after expelling a member is 24h
+- Alliance size is 1 (only for the crest).
+- Limits on Epic Boss zones and Sieges have been removed.
+
 #### **Clan Structure**
 - **Main Clan**: 40 members  
 - **Royal Subclans**: 2 subclans × 20 members (Total: 40)  
 - **Knight Subclans**: 4 subclans × 10 members (Total: 40)  
+
 
 > 40 + 40 + 40 = 120 members
 

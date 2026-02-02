@@ -18,6 +18,7 @@
     { target: "2026-01-25T18:00:00Z", pastText: "FIRST CASTLE SIEGES HAVE BEGUN!", showSeconds: false },
     { target: "2026-01-30T18:00:00Z", pastText: "A GRADE MAMMON SERVICES ON!", showSeconds: false },
     { target: "2026-02-09T20:30:00Z", pastText: "OLYMPIAD CYCLE IS LIVE!", showSeconds: false },
+    { target: "2026-02-11T18:00:00Z", pastText: "VALENTINES EVENT ON!", showSeconds: false },
     { target: "2026-02-13T18:00:00Z", pastText: "S GRADE MAMMON SERVICES ON!", showSeconds: false },
     { target: "2026-02-16T00:00:00Z", pastText: "FIRST HEROES HAVE ARRIVED!", showSeconds: false },
     { target: "2026-02-25T18:00:00Z", pastText: "STAGE 2 IS LIVE! x10, B-GRADE IN SHOP", showSeconds: false },
