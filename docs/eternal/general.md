@@ -312,7 +312,7 @@ icon: material/clock-time-one-outline
   </div>
 
   <div class="md-typeset card countdown-card" data-target="2026-02-11T18:00:00Z">
-    <h3>Valentines Event (Season & Main, uncertain time) </h3>
+    <h3>Valentines Event (Season & Main, <a href="https://l2reborn.org/latest-news/">uncertain time</a>) </h3>
     <p><strong>Time:</strong> Feb 11th at 18:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
@@ -324,7 +324,7 @@ icon: material/clock-time-one-outline
   </div>
 
   <div class="md-typeset card countdown-card" data-target="2026-02-16T00:00:00Z">
-    <h3>First Heroes</h3>
+    <h3>First Heroes, uncertain time</h3>
     <p><strong>Time:</strong> Feb 16th at 00:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
