@@ -147,7 +147,6 @@ h2 {
 - You have to wait 24 hours in order to join clan
 
 ### How long can I remain delogged in PVP zone?
-
 - 1 minute, after you will be sent to Town
 
 ### When is the first Clan Hall Auctin/Bid?
@@ -155,6 +154,9 @@ h2 {
 <ul>
 <li class="utc-time"></li>
 </ul>
+
+### When does clan leader transfer occur?
+- Every Tuesday after Server Restart (8.30 AM UTC)
 
 ## 🤝 Items & Trading
 

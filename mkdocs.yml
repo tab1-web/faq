@@ -16,25 +16,13 @@ extra:
   analytics:
     provider: google
     property: G-6G22445Y9H
-    feedback:
-      title: Was this page helpful?
-      ratings:
-        - icon: material/emoticon-happy-outline
-          name: This page was helpful
-          data: 1
-          note: >-
-            Thanks for your feedback!
-        - icon: material/emoticon-sad-outline
-          name: This page could be improved
-          data: 0
-          note: >- 
-            Thanks for your feedback! Help us improve this page by
-            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+
 nav:
-  - Home: index.md
-  - Getting Started:
-    - Welcome: getting-started/welcome.md
-    - Servers: getting-started/servers.md
+  - Home: 
+    - Index: index.md
+    - Getting Started:
+      - Welcome: getting-started/welcome.md
+      - Servers: getting-started/servers.md
   - Gameplay:
     - Core Mechanics: gameplay/core-mechanics.md
     - Controls: gameplay/controls.md
@@ -103,6 +91,12 @@ nav:
       - 003 Essential Fatal Crush Cooldown Reduction: essence/exp003.md
       - 002 Mystic Explosion Relict Cooldown Reduction: essence/exp002.md
       - 001 Triple Shot Cooldown Reduction: essence/exp001.md
+  - Arena:
+    - Overview: arena/overview.md
+  - Remastered:
+    - Overview: remastered/overview.md
+  - Legacy:
+    - Overview: legacy/overview.md
 
   
 theme:
