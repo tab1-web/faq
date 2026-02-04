@@ -19,6 +19,7 @@ To preserve the social fabric of the game and eliminate the "min-max" culture th
 
 We have implemented technical measures to ensure a level playing field where solo players can still co-exist with the community:
 
+- **Adding to our rules the usage of drivers**, hired drivers or the min-max CP structure is not allowed, such as any attempt to bypass the system.
 - **HWID Locking:** Only 1 device can log an account every 24 hours. A maximum of 3 unique devices can log an account within a 30-day window.
     - This means you can play from home, work or during a trip, but only once device a day.
 - **Fatigue System:** To prevent 24/7 account exploitation, rates for XP, SP, and Adena decrease drastically after extended daily playtime.
