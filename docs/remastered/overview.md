@@ -12,7 +12,7 @@ Remastered follows a **Progressive Chapter System** (one chapter per month), evo
 - **Idle Progress:** Limited auto-hunt instances for background progress, ensuring you don't fall behind while AFK.
 - **Modern Dungeons:** Meaningful PvE with automated matching and queues.
 - **Personal Housing:** Your own instanced zone with NPCs and decorations that contribute to your progression.
-- **Competitive PvP:** Redesigned Olympiad (Bo3) and PvP Epic Boss instances, no NPC click-races, just skill.
+- **Competitive PvP:** Redesigned Olympiad and PvP Epic Boss instances, no NPC click-races, just skill.
 
 ## Modernized Mechanics
 
