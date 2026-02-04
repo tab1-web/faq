@@ -3,7 +3,7 @@
 A **fully PvP-oriented server** focused on constant, well-designed across all scales: 
 Solo, Small-Scale and Large-Scale battles. 
 
-__No grinding, no mandatory farming.__
+__No grinding, no mandatory farming.__ Just plug and play experience.
 
 ## The Concept
 

@@ -97,6 +97,8 @@ nav:
     - Overview: remastered/overview.md
   - Legacy:
     - Overview: legacy/overview.md
+    - Updates: legacy/updates.md
+
 
   
 theme:
