@@ -20,6 +20,7 @@ Remastered follows a **Progressive Chapter System** (one chapter per month), evo
 
 - **Manual World:** The open world is for active players; auto-hunt is restricted to specific instances.
 - **Crafting:** Gear still requires gathering recipes, materials, and completing quests.
+    - Max Grade is R99
 - **Active War:** All major content (Raids, Epics, Olympiad, Sieges) is fully manual.
 - **Accessible Epics:** Small-group challenges provide alternative paths to epic jewels traditionally locked behind massive alliances.
 
