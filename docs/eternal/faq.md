@@ -158,6 +158,26 @@ h2 {
 ### When does clan leader transfer occur?
 - Every Tuesday after Server Restart (8.30 AM UTC)
 
+### Clan Halls
+
+#### Auction Rules
+
+Clan Halls are no longer permanent assets that clans can purchase. Instead, they are rented for 4 weeks through an auction system.
+
+- **Rental Duration:** 4 weeks.
+- **Bidding Window:** Clans can place or update bids at any time during the cycle.
+- **Limits:** 1 bid per clan at a time. No maximum bid limit.
+- **Minimum Bid:** 10,000,000 to 30,000,000 Adena (varies by location).
+
+#### Winning & Losing
+
+- **Winners:** Receive the Hall for 4 weeks. You can re-bid on your current hall during this time to stay for the next cycle.
+- **Losers:** 100% of the bid amount is refunded.
+- **Cancellations:** Manually cancelling an active bid incurs a **10% penalty fee**.
+- **Unclaimed Halls:** Any Hall without a bidder returns to the next auction cycle.
+
+[Dates for first Auctions and Buffs](https://l2reborn.org/eternal-interlude/full-description/)
+
 ## 🤝 Items & Trading
 
 ### Can I exchange enchanted items at Blacksmith of Mammon?
