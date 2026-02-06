@@ -16,8 +16,6 @@ icon: octicons/report-16
 !!! warning
     **Never warn suspects that you are reporting them or that they are dualboxing** - it compromises investigations.
 
-0. Target the player, in ALT + C select "Auto Hunting Report"
-
 1. **Contact Staff on Discord** and **include** the suspects' **nicknames** and **server name**.  
     - **EU Daytime**: Message [@ginreborn](https://discord.com/users/917729115770073119) or [@astarothreborn](https://discord.com/users/1067169953683349577)  
     - **EU Late Night**: Message [@serielreborn](https://discord.com/users/1139948642166394920).
@@ -34,7 +32,7 @@ icon: octicons/report-16
         - Upload images, videos with [imgur.com](https://imgur.com/upload) and [share the public link](https://help.imgur.com/hc/article_attachments/26512938185243).
 
 
-Auto Hunting Report is **not a live report**, it sends the report to Copycat who's pretty active in checking the suspects.
+Auto Hunting Report is **not a live report**, it is preferred if you private message GMs:
 
 > On **Eternal**{style="color:red;"} this command is: `.dualboxreport` <br>
 > On **Signature**{style="color:green;"} you can find it in `ALT + C`
