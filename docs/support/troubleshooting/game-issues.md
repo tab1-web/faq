@@ -78,10 +78,10 @@ Experiencing lag, disconnections, or high ping is often not a problem with your 
     3.  If one location doesn't work, try another nearby city or country.
     4.  **Always fully close your game before connecting or disconnecting the VPN.**
 
-Try these VPNs with free trial:
+Try these VPNs with free trial (if available):
 
-- [CyberGhost](https://www.cyberghostvpn.com/download/windows-vpn)
 - [ExitLag](https://www.exitlag.com/register)
+- [CyberGhost](https://www.cyberghostvpn.com/download/windows-vpn)
 - [Proton VPN](https://protonvpn.com/download-windows)
 - [Bitdefender](https://www.bitdefender.com/en-us/consumer/downloads)
 - [Hotspot Shield](https://www.hotspotshield.com/vpn/vpn-for-windows/)

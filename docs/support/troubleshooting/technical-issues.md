@@ -282,7 +282,7 @@ It seems like this error comes from new AMI BIOS + Driver updates, roll them bac
 ## SmartGuard stuck loading
 Reboot your PC and Router.
 
-- Temporary fix: Use a [VPN](#vpn-recommendation) or Mobile Data to connect. 
+- Temporary fix: Use a [VPN](/faq/support/troubleshooting/game-issues/#the-quick-fix-using-a-vpn) or Mobile Data to connect. 
 
 <figure markdown="span">
 <a href="https://postimg.cc/BbgXQYD1/">
