@@ -158,8 +158,7 @@ wit_mod = (1.05**(wit - 20) * 100 + 0.5) / 100
 
 .form-group {
     margin-bottom: 1.5rem;
-}style>
-#magicCr
+}
 
 .form-section {
     margin-bottom: 1.5rem;
