@@ -22,8 +22,8 @@ We have implemented technical measures to ensure a level playing field where sol
 - **Adding to our rules the usage of drivers**, hired drivers or the min-max CP structure is not allowed (large amount of people playing in one party), such as any attempt to bypass the system.
 - **HWID Locking:** Only 1 device can log an account every 24 hours. A maximum of 3 unique devices can log an account within a 30-day window.
     - This means you can play from home, work or during a trip, but only once device a day.
-- **Fatigue System:** To prevent 24/7 account exploitation, rates for XP, SP, and Adena decrease drastically after extended daily playtime.
-- **Active Moderation:** Manual GM inspections and pattern recognition to eliminate "hired drivers" and power-leveling services.
+- **Fatigue System:** To prevent 24/7 account exploitation, power levelling the rates for XP, SP, Adena, Drops decrease drastically after extended daily playtime.
+- **Active Moderation:** Manual GM inspections and pattern recognition to eliminate "hired drivers".
 - **The "Anti-CP" Philosophy:** Success is driven by socialization and clan unity, not by rotating 20 people onto a single party to dominate a server.
 
 This set of measures will provide a healthy server, a healthy community and a social experience.
