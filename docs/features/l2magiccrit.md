@@ -267,12 +267,16 @@ wit_mod = (1.05**(wit - 20) * 100 + 0.5) / 100
 <script>
 document.getElementById('calculateBtn').addEventListener('click', calculateMagicCrit);
 
-// Handle mutually exclusive checkboxes
 document.getElementById('wildMagic1').addEventListener('change', function() {
-    if (this.checked) document.getElementById('wildMagic2').checked = false;
+    if (this.checked) {
+        document.getElementById('wildMagic2').checked = false;
+    }
 });
+
 document.getElementById('wildMagic2').addEventListener('change', function() {
-    if (this.checked) document.getElementById('wildMagic1').checked = false;
+    if (this.checked) {
+        document.getElementById('wildMagic1').checked = false;
+    }
 });
 
 function calculateMagicCrit() {
@@ -289,11 +293,11 @@ function calculateMagicCrit() {
 
     // Buffs 
     const buffs = [
-        { id: 'wildMagic1', val: 4 }, 
+        { id: 'wildMagic1', val: 3 }, 
         { id: 'wildMagic2', val: 4 }, 
         { id: 'sirensDance', val: 3 },
         { id: 'prophecyOfWater', val: 2 },
-        { id: 'curseOfAbyss', val: 1 } 
+        { id: 'curseOfAbyss', val: 0.7 } 
     ];
 
     buffs.forEach(buff => {
@@ -348,6 +352,8 @@ function calculateWitMod(wit) {
     
     const witMod = (Math.pow(1.05, wit - 20) * 100 + 0.5) / 100;
     return Math.round(witMod * 100) / 100; 
+}
+
 </script>
 
 
