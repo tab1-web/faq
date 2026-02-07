@@ -4,7 +4,7 @@ icon: material/magic-staff
 
 # Magic Crit
 
-Thank you @Crossto , @Emihiro for the guide.
+Thank you @Crossto for the guide.
 
 When you deal a magic critical, your magic damage is multiplied by 4. Calculating chances are below.
 
@@ -16,7 +16,7 @@ When you deal a magic critical, your magic damage is multiplied by 4. Calculatin
 - Augments come with Interlude.
 
 ```math
-mcrit_rate = (0.005+1.05^(WIT-20) * buffs * items)/2
+mcrit_rate = (0.8 * wit_mod * buff_mod * item_mod)
 ```
 
 **Eternal:**{style="color: #af5d5dff;"}
@@ -24,7 +24,7 @@ mcrit_rate = (0.005+1.05^(WIT-20) * buffs * items)/2
 - Eternal uses custom values when calculating magic critical rate. Active and passive augment effects are halved. Whole magic critical rate is **capped to 70%**.
 
 ```math
-mcrit_rate = min(mcrit_rate = (0.005+1.05^(WIT-20) * buffs * items)/2, 70)
+mcrit_rate = min(0.8 * wit_mod * buff_mod * item_mod, 70)
 ```
 
 - With current setup it's impossible to hit the 70% cap without highly contested items (Hero weapon, Necklace of Valakas). Solo Mystic Muse with +4 WIT, Dark Crystal Set, all buffs, active+passive WM augment can reach 56% magic critical rate.
@@ -266,6 +266,18 @@ wit_mod = (1.05**(wit - 20) * 100 + 0.5) / 100
 <script>
 document.getElementById('calculateBtn').addEventListener('click', calculateMagicCrit);
 
+// WIT modifier table
+const witModTable = {
+    1: 0.40, 2: 0.42, 3: 0.44, 4: 0.46, 5: 0.48,
+    6: 0.51, 7: 0.53, 8: 0.56, 9: 0.58, 10: 0.61,
+    11: 0.64, 12: 0.68, 13: 0.72, 14: 0.75, 15: 0.78,
+    16: 0.82, 17: 0.86, 18: 0.91, 19: 0.95, 20: 1.00,
+    21: 1.05, 22: 1.10, 23: 1.16, 24: 1.22, 25: 1.28,
+    26: 1.34, 27: 1.41, 28: 1.48, 29: 1.55, 30: 1.63,
+    31: 1.71
+};
+
+// Add event listeners for Wild Magic checkboxes
 document.getElementById('wildMagic1').addEventListener('change', function() {
     if (this.checked) {
         document.getElementById('wildMagic2').checked = false;
@@ -280,66 +292,69 @@ document.getElementById('wildMagic2').addEventListener('change', function() {
 
 function calculateMagicCrit() {
     const serverType = document.getElementById('serverType').value;
-    const wit = parseInt(document.getElementById('wit').value) || 0;
-    const isEternal = serverType === 'eternal';
-
-    // Calculate Base WIT
-    // Formula: (0.005 + 1.05^(WIT-20))
-    const witComponent = 0.005 + Math.pow(1.05, wit - 20);
-
-    // Aggregate Multipliers
-    let totalMultipliers = 1;
-
-    // Buffs 
+    const wit = parseInt(document.getElementById('wit').value);
+    
+    // Get WIT modifier
+    const witMod = witModTable[wit] || calculateWitMod(wit);
+    
+    // Calculate buff modifier
+    let buffMod = 1;
     const buffs = [
-        { id: 'wildMagic1', val: 3 }, 
-        { id: 'wildMagic2', val: 4 }, 
-        { id: 'sirensDance', val: 3 },
-        { id: 'prophecyOfWater', val: 2 },
-        { id: 'curseOfAbyss', val: 0.7 } 
+        document.getElementById('wildMagic1'),
+        document.getElementById('wildMagic2'),
+        document.getElementById('sirensDance'),
+        document.getElementById('prophecyOfWater'),
+        document.getElementById('curseOfAbyss')
     ];
-
+    
     buffs.forEach(buff => {
-        const el = document.getElementById(buff.id);
-        if (el && el.checked) {
-            totalMultipliers *= buff.val;
+        if (buff.checked) {
+            buffMod *= parseFloat(buff.value);
         }
     });
-
-    // Items
-    if (document.getElementById('valakasNecklace').checked) {
-        totalMultipliers *= 2; 
-    }
-    if (document.getElementById('infinityScepter').checked) {
-        totalMultipliers *= 1.54;
+    
+    // Calculate item modifier
+    let itemMod = 1;
+    const isEternal = serverType === 'eternal';
+    
+    // Active augment
+    if (document.getElementById('activeAugment').checked) {
+        itemMod *= isEternal ? 1.5 : 2;
     }
     
-    // Augments 
-    if (document.getElementById('activeAugment').checked) {
-        totalMultipliers *= isEternal ? 1.5 : 2;
-    }
+    // Passive augment
     if (document.getElementById('passiveAugment').checked) {
-        totalMultipliers *= isEternal ? 1.25 : 1.5;
+        itemMod *= isEternal ? 1.25 : 1.5;
     }
-
-    // Calculation
-    // Formula: (WIT Component * Multipliers) / 2
-    let mcritRate = ((witComponent * totalMultipliers) / 2);
-
-    // Eternal Cap
+    
+    // Other items
+    if (document.getElementById('infinityScepter').checked) {
+        itemMod *= 1.54;
+    }
+    
+    if (document.getElementById('valakasNecklace').checked) {
+        itemMod *= 2;
+    }
+    
+    // Calculate base magic crit rate
+    let mcritRate = 0.8 * witMod * buffMod * itemMod;
+    
+    // Apply server-specific rules
     if (isEternal) {
+        // Eternal: cap at 70%
         mcritRate = Math.min(mcritRate, 70);
     }
-
-    // Display Result
+    
+    // Display result
     const resultElement = document.getElementById('result');
     resultElement.innerHTML = `
-        <h3>Magic Critical Rate: ${mcritRate.toFixed(1)}%</h3>
+        <h3>Magic Critical Rate: ${mcritRate.toFixed(2)}%</h3>
         <p>Breakdown:</p>
         <ul>
-            <li>Total WIT: ${wit}</li>
-            <li>WIT Component: ${witComponent.toFixed(4)}</li>
-            <li>Combined Multiplier: ${totalMultipliers.toFixed(2)}x</li>
+            <li>WIT Modifier: ${witMod.toFixed(2)}</li>
+            <li>Buff Modifier: ${buffMod.toFixed(2)}</li>
+            <li>Item Modifier: ${itemMod.toFixed(2)}</li>
+            <li>Server Type: ${serverType.charAt(0).toUpperCase() + serverType.slice(1)}</li>
         </ul>
     `;
 }
@@ -350,9 +365,8 @@ function calculateWitMod(wit) {
     if (wit > 31) wit = 31;
     
     const witMod = (Math.pow(1.05, wit - 20) * 100 + 0.5) / 100;
-    return Math.round(witMod * 100) / 100; 
+    return Math.round(witMod * 100) / 100; // Round to 2 decimal places
 }
-
 </script>
 
 
