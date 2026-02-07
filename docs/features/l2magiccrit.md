@@ -4,30 +4,24 @@ icon: material/magic-staff
 
 # Magic Crit
 
-Thank you @Crossto , @Emihiro for the guide.
+Thank you **@Crossto** , **@Emihiro & Aline** for the guide.
 
 When you deal a magic critical, your magic damage is multiplied by 4. Calculating chances are below.
 
 ## Magic Critical Rate Formula 
+
+```math
+mcrit_rate = (0.005+1.05^(WIT-20) * buffs * items)/2
+```
 
 **Signature:**{style="color:lightblue;"}
 
 - Everything remains retail. Hero weapons were changed, but the magic critical chance was not changed.
 - Augments come with Interlude.
 
-```math
-mcrit_rate = (0.005+1.05^(WIT-20) * buffs * items)/2
-```
-
 **Eternal:**{style="color: #af5d5dff;"}
 
-- Eternal uses custom values when calculating magic critical rate. Active and passive augment effects are halved. Whole magic critical rate is **capped to 70%**.
-
-```math
-mcrit_rate = min(mcrit_rate = (0.005+1.05^(WIT-20) * buffs * items)/2, 70)
-```
-
-- With current setup it's impossible to hit the 70% cap without highly contested items (Hero weapon, Necklace of Valakas). Solo Mystic Muse with +4 WIT, Dark Crystal Set, all buffs, active+passive WM augment can reach 56% magic critical rate.
+- Whole magic critical rate is **capped to 70%**.
 
 ### WIT modifier
 
@@ -52,6 +46,7 @@ or by formula (result stripped to 2 decimal places)
 ```math
 wit_mod = (1.05**(wit - 20) * 100 + 0.5) / 100
 ```
+
 </figure>
 
 <div class="grid cards" markdown>
@@ -62,19 +57,19 @@ wit_mod = (1.05**(wit - 20) * 100 + 0.5) / 100
 
     | buff | mod |
     | --- | --- |
-    | Wild Magic lvl. 1 | 3 |
-    | Wild Magic lvl. 2 | 4 |
-    | Siren's Dance | 3 |
-    | Prophecy of Water | 2 |
-    | Curse of Abyss | 0.7 |
+    | Wild Magic lvl. 1 (C3) | 3 |
+    | Wild Magic lvl. 2 (C3) | 4 |
+    | Dance of Siren (C4) | 3 |
+    | Prophecy of Water (C4) | 2 |
+    | Curse of Abyss (C4) | 0.7 |
 
 - ### Item modifier
     | item | mod |
     | --- | --- |
-    | Active Wild Magic Augment lvl. 10 | 1.5 (Eternal) <br> 2 (IL) |
-    | Passive Wild Magic Augment lvl. 10 | 1.25 (Eternal) <br> 1.5 (IL) |
-    | Infinity Scepter | 1.54 |
-    | Necklace of Valakas | 2 |
+    | Active Wild Magic Augment lvl. 10  (IL) | 2 |
+    | Passive Wild Magic Augment lvl. 10 (IL) | 1.5 |
+    | Infinity Scepter (C4) | 1.54 |
+    | Necklace of Valakas (C4) | 2 |
 
 </div>
 
@@ -316,10 +311,10 @@ function calculateMagicCrit() {
     
     // Augments 
     if (document.getElementById('activeAugment').checked) {
-        totalMultipliers *= isEternal ? 1.5 : 2;
+        totalMultipliers *= 2;
     }
     if (document.getElementById('passiveAugment').checked) {
-        totalMultipliers *= isEternal ? 1.25 : 1.5;
+        totalMultipliers *= 1.5;
     }
 
     // Calculation
