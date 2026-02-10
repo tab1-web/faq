@@ -6,7 +6,7 @@ icon: octicons/report-16
 
 # How to report Dual-Box / Bot?
 
-1. **Contact Staff on Discord** ([@GiN](<https://discord.com/users/917729115770073119>) / [@Seriel](<https://discord.com/users/1139948642166394920>) / [@Astaroth](<https://discord.com/users/1067169953683349577>)) and **include** the suspects' **nicknames** and **server name**.  
+1. **Contact Staff on Discord** via private messages ([@GiN](<https://discord.com/users/917729115770073119>) / [@Seriel](<https://discord.com/users/1139948642166394920>) / [@Astaroth](<https://discord.com/users/1067169953683349577>)) and **include** the suspects' **nicknames** and **server name**.  
 
     ```
     Hello! "Thomas and "Charles might be dualboxing on Main Eternal. 
