@@ -65,7 +65,7 @@ icon: material/crown
           - Subclass Level 65
           - Noblesse Part I, II
 
-          > On **Eternal**{style="color:red;"} you hit Barakiel once and get 1 Rain Song Staff fragment, gather 15 to make a Rain Song Staff (automatically). <br> If you donate for Noblesse, this is the part you get to, so you still need to kill Barakiel or gather fragments.
+          > On **Eternal**{style="color:red;"} you hit Barakiel once and get 1 Rain Song Staff fragment, gather 15 to make a Rain Song Staff (automatically). <br> If you donate for Noblesse, this is the part you get to, so you still need to kill Barakiel or gather fragments. <br> Be "close", hit the boss and don't die.
         
         ---
 
