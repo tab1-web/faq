@@ -23,7 +23,6 @@ icon: material/crown
 
 ## :material-star-shooting: How To Get Noblesse
 
-1. **Reach level 75** on your subclass.
 2. **Complete all Possessor of a Precious Soul quests.** (Parts I–IV)
 3. **Unlock**: Once done, you become Noblesse on both main and subclass.
 
