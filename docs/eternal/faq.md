@@ -28,6 +28,7 @@ h2 {
 
 ### What happens with nicknames on server merge on Eternal if duplicate?
 - The seasonal character will get a 1 next to their name, like: `nickname1` and will be given a free rename service as well.
+- Same thing will happen on usernames, if it already had a `1` then it will be `2` next to the username and so on..
 
 ### What happens to characters on server merge?
 - Clan halls will be reset and placed in auction
@@ -179,6 +180,10 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 [Dates for first Auctions and Buffs](https://l2reborn.org/eternal-interlude/full-description/)
 
 ## 🤝 Items & Trading
+
+### Can I send cosmetics from Main to Seasonal?
+
+- No.
 
 ### Can I exchange enchanted items at Blacksmith of Mammon?
 
