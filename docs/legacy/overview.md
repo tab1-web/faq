@@ -15,6 +15,7 @@ To preserve the social fabric of the game and eliminate the "min-max" culture th
 - **Modern Quality of Life:** While the content is old-school, the interface is not. Enjoy auto-soulshots and a modern mailing system without the critical errors of the 2004 client.
 - **Zero-Tolerance for "Drivers":** A system designed to kill the 24/7 "Driver" meta. L2 is a game, not a job.
 - **Removing MDT** as an offline shop gathering area so that the cities will feel more lively.
+- **Removing buffers on relog:** Buffers on relog will be prevented, it won't be possible for example to have PP / SE / EE on relog played by 1 person 
 
 ## Anti-Powerleveling & Security
 
