@@ -147,7 +147,7 @@ Default Max Buff Slots is 20 with learning these books at your trainer you can g
 | [![original-vers.png](https://i.postimg.cc/MTD0pVx2/original-vers.png)](https://postimg.cc/zbyHdLV0)          | Original Ver. | 76    | 15 Glittering Medals   | +1        |
 
 </figure>
-> You can earn Glittering Medals via [Events](/faq/eternal/events/). <br> Requires Class Changes!
+> You can earn Glittering Medals via [Events](/faq/eternal/events/). <br> Requires Class Changes! <br>
 > Learn the skills at your class trainer, unlock them in order (Original needs Modern) <br> **Mages**: Magic Guild, **Fighters**: Fighter Guild, **Dark Elf**: Dark Elf Guild, **Spoiler**: Warehouse etc..
 
 
