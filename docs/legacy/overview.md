@@ -14,7 +14,7 @@ To preserve the social fabric of the game and eliminate the "min-max" culture th
 - **True Single-Box:** No dual-boxing and no account sharing. One player, one character, one world.
 - **Modern Quality of Life:** While the content is old-school, the interface is not. Enjoy auto-soulshots and a modern mailing system without the critical errors of the 2004 client.
 - **Zero-Tolerance for "Drivers":** A system designed to kill the 24/7 "Driver" meta. L2 is a game, not a job.
-- **Removing MDT** as an offline shop gathering area so that the cities will feel more lively.
+- **Removing MDT as an offline shop gathering area:** Cities will feel more lively.
 - **Removing buffers on relog:** Buffers on relog will be prevented, it won't be possible for example to have PP / SE / EE on relog played by 1 person 
 
 ## Anti-Powerleveling & Security
@@ -24,7 +24,9 @@ We have implemented technical measures to ensure a level playing field where sol
 - **Adding to our rules the usage of drivers**, hired drivers or the min-max CP structure is not allowed (large amount of people playing in one party), such as any attempt to bypass the system.
 - **HWID Locking:** Only 1 device can log an account every 24 hours. A maximum of 3 unique devices can log an account within a 30-day window.
     - This means you can play from home, work or during a trip, but only once device a day.
-- **Fatigue System:** To prevent 24/7 account exploitation, power levelling the rates for XP, SP, Adena, Drops decrease drastically after extended daily playtime.
+- **Fatigue System:** To prevent 24/7 account exploitation, power levelling the rates for XP, SP, Adena, Drops decrease drastically after extended daily playtime. 
+    - This system can be for account or character, maybe initially character.
+    - Details will come later if its an inverse vitality system where you get less experience as you get experience.
 - **Active Moderation:** Manual GM inspections and pattern recognition to eliminate "hired drivers".
 - **The "Anti-CP" Philosophy:** Success is driven by socialization and clan unity, not by rotating 20 people onto a single party to dominate a server.
 
