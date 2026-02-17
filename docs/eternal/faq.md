@@ -140,6 +140,7 @@ h2 {
 <figure markdown>
 | Level | Required Members | Required Reputation |
 |-------|------------------|---------------------|
+| 6     | 30               | 10k                 |
 | 7     | 80               | 20k                 |
 | 8     | 120              | 40k                 |
 </figure>
