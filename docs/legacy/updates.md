@@ -3,6 +3,7 @@
 <div class="legacy-container">
   <div class="legacy-header">
     <p>Legacy follows the original 7-year progression path from C1 to High Five.</p>
+    <p>Thank you @Glock</p>
   </div>
   
   <div class="legacy-timeline-wrapper">
