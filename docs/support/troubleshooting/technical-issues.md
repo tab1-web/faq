@@ -235,7 +235,10 @@ Disable system's debug mode: [here](https://smart-guard.eu/en/support/game-clien
 
 Try everything from [here](#ultimate-fix-summary)
 
+# 0xc0000409
 
+- On Eternal this was fixed by adding the `1024 Cache` addon from Eternal files.
+- Could also try cleaning cache files in `%localappdata%` : Delete `UnrealEngine`, `Temp` and `.dxcache` files
 
 ## 0xc000041d
 Anti-virus is blocking Smartguard

@@ -15,7 +15,9 @@ To preserve the social fabric of the game and eliminate the "min-max" culture th
 - **Modern Quality of Life:** While the content is old-school, the interface is not. Enjoy auto-soulshots and a modern mailing system without the critical errors of the 2004 client.
 - **Zero-Tolerance for "Drivers":** A system designed to kill the 24/7 "Driver" meta. L2 is a game, not a job.
 - **Removing MDT as an offline shop gathering area:** Cities will feel more lively.
-- **Removing buffers on relog:** Buffers on relog will be prevented, it won't be possible for example to have PP / SE / EE on relog played by 1 person 
+- **Removing buffers on relog:** Buffers on relog will be prevented, it won't be possible for example to have PP / SE / EE on relog played by 1 person.
+    - Buffers sellings buffs 24/7, which 99% of them are alts/boxes from someone else must disappear as well so more people will be looking for party.
+- **Removing Retail Bugs:** All kinds of retail bugs (like Healing Cubic healing across the map) will be fixed and won't exist.
 
 ## Anti-Powerleveling & Security
 
@@ -36,10 +38,14 @@ This set of measures will provide a healthy server, a healthy community and a so
 
 Legacy stays true to the vanilla spirit while making quality-of-life improvements to the problematic 20-year-old design flaws:
 
-- **Chapter Progression:** Starting at C1, the game evolves naturally. Balance issues (like Destroyer pole-farming) are [monitored and addressed](https://discord.com/channels/622089207028121602/1466764328718831882/1468659579884671079) as the chronicles progress, but it could be too custom.
+- **Chapter Progression:** Starting at C1, the game evolves naturally. Balance issues that is game breaking, like Destroyer or Pole-farming won't work by retail. On Signature, Sleep for example was tuned, you can expect similar things on Legacy.
+    - Plan is not to remaster old chronicles, Chronicles will be released mostly Vanilla, a server oriented for old-school players.
 - **Economy & Shops:** Offline shops are supported. Yearly subscribers receive a dedicated secondary account specifically for offline trading.
+- **No Sub to Main feature:** It is known that server will evolve from C1 to H5, so plan accordingly.
 
 After Legacy, our server stack is complete. No new servers, just a permanent, evolving home for the community.
+
+There are other things worth mentioning, It is better to wait for us to make an stream/podcast where we will explain the server concept and all its features. (No date known, wait)
 
 <figure markdown>
 __Coming Early 2027__

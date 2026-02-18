@@ -54,7 +54,7 @@ To unlock your subclass, complete the following quests
 
         [**:octicons-arrow-right-24: An Arrogant Search**](https://lineage2wiki.org/c4/quest/348/an-arrogant-search/) (Entering Baium to Stab it)
 
-        > On **Eternal**{style="color:red;"}, you don't need to stab Baium, you can exchange Pipette Knife at Maria to get a Red one. (so you don't need <a href="https://lineage2wiki.org/c4/quest/348/an-arrogant-search/">Arrogant Search Quest</a>) <br> You also don't need B Crystals or Top B Grade weapon, you can skip that part and get a coupon instead for exchanging the items. (Reorin at that part you can choose from 2 options either get a [coupon](https://postimg.cc/tZzHp581) and skip or continue with the quest to get Top B and exchange for Top A)
+        > On **Eternal**{style="color:red;"}, you don't need to stab Baium, you can exchange Pipette Knife at Maria to get a Red one. (so you don't need <a href="https://lineage2wiki.org/c4/quest/348/an-arrogant-search/">Arrogant Search Quest</a>) <br> You also don't need B Crystals or Top B Grade weapon, you can skip that part and get a coupon instead for exchanging the items. (Reorin at that part you can choose from 2 options either get a [coupon](https://postimg.cc/tZzHp581) and skip or continue with the quest to get Top B and exchange for Low A)
 
     === "**Mimir's Elixir**"
 
