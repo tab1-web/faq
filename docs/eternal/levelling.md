@@ -152,8 +152,6 @@ Default Max Buff Slots is 20 with learning these books at your trainer you can g
 
 
 
-
-
 ## Catacombs/Necropolis Leveling Guide (Newbie-Friendly)
 
 <div class="grid cards" markdown>
@@ -221,6 +219,7 @@ If you think you are getting low experience, move to a higher spot.
 > If you have 30k-60k, buy Wooden Set (Fighters) or Devotion Set (Mages) in Starter Villages.
 
 - **12-18**: Ruins of Despair - Gludio
+    - Look for Skeletons on the right side
 - **15-20**: Ruins of Agony - Gludio 
 - **20-25**: Abandoned Camp - Gludin
     - Kill outside, inside, or on mountain lines
@@ -228,7 +227,7 @@ If you think you are getting low experience, move to a higher spot.
 
 
 ### Levels 23-33
-- **23-30**: Partisan's Hideaway - Dion
+- **23-30**: Fortress of Resistance - Dion
     - Hills & mountain spots available
         - Higher HP (and better EXP) mobs further you go to the top
 - **27-33**: 

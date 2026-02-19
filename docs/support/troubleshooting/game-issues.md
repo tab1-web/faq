@@ -148,6 +148,9 @@ This solution fixes the buttons not working for Monster Data / Spoil / Reborn St
     - They're found in: `\Reborn\games\signature\system\`
 - OR try make your l2 window really small and go full screen with alt+enter. 
 
+Some window names in `windowsinfo.ini` are named intuitively so you can find 
+whatever value you feel comfortable in changing it too.
+
 <figure markdown="1">
 <a href="https://postimg.cc/yD7dg1Qs">
 ![Buttons Fix Video](https://i.postimg.cc/2SZBt3nb/13Jl6Qc.gif){ width=50% .lightbox }
@@ -176,6 +179,14 @@ Make sure to adjust the path of your executable and path to **nircmd.exe** in th
 - Delete "`l2.bin`" and "`L2.exe`" keys with the values "`HIGHDPIAWARE`"
 - Before making any changes to the registry, back it up or create a system recovery point.
 - Thanks **@Csilk** 
+
+## Character Selection Error
+
+[![45D767C8-2443-47C5-AA89-1594B8F66907.png](https://i.postimg.cc/bwsqMXy0/45D767C8-2443-47C5-AA89-1594B8F66907.png)](https://postimg.cc/mPWxz5Fh)
+
+- `Your account has been suspended due to suspected abusive gameplay.`
+
+- Create Character button is not greyed out, you can press it and the message will disappear.
 
 ## Event Code 10/5 or 39/1
 This happens when there is either an interruption in your connection and/or an interruption to the SmartGuard service.
