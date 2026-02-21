@@ -9,7 +9,7 @@ Login with the last character you logged.
 **Eternal:**
 
 - I fixed it one time for my friend by logging his character and using Maria to teleport.
-- Daily Server Restart at 8 am UTC helps too.
+- Daily Server Restart at 8 am UTC helps too or logging from another device.
 - If issue persists, [open a ticket](https://l2reborn.org/support/).
 
 > GMs in the past tried to kick the player, but that solution did not work.
