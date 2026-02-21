@@ -69,10 +69,16 @@ h2 {
 
 #### **Period:**  
 
-- Monday to Friday, from 20:30 to 21:30, first cycle is on the [features page](https://l2reborn.org/eternal-interlude/full-description/).
+- Monday to Friday, from 20:30 to 21:30 UTC, first cycle is on the [features page](https://l2reborn.org/eternal-interlude/full-description/).
 <ul>
 <li class="utc-time"></li>
 </ul>
+
+### What happens if points, matches, wins, losses are all same tied to first place?
+
+[![image.png](https://i.postimg.cc/43hYnZf2/image.png){width=60%}](https://postimg.cc/CZSh63fb)
+
+- One who got it earlier will get Hero
 
 #### **Limit of Combats:**  
 
