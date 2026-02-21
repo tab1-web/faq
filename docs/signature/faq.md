@@ -23,6 +23,8 @@ Watch the C4 class guide video for help choosing and feel free to ask in the Dis
 
 ### Differences between Franz & Teon?
 
+New Characters are now receiving the "L2Reborn Cube" upon creation
+
 - Teon
   - Started in 2024-11-01
   - More players on higher levels
@@ -31,7 +33,7 @@ Watch the C4 class guide video for help choosing and feel free to ask in the Dis
 - Franz
   - Started in 2025-11-07
   - Players in all level ranges
-  - [Stages](/faq/signature/faq/#server-stages)
+  - [Bonus Stages](https://l2reborn.org/news/bonus-stages/)
 
 ### What about Signature merging?
 
@@ -124,7 +126,7 @@ Yes, shortcuts reset and cannot be fixed.
 
 **Franz**:
 
-[![B6C7BF3F-2FCF-413B-AC14-047227927967.png](https://i.postimg.cc/ydbQs9wt/B6C7BF3F-2FCF-413B-AC14-047227927967.png){width=70%}](https://postimg.cc/njqY1sVG)
+- [Bonus Stages for Franz](https://l2reborn.org/news/bonus-stages/)
 
 ### Why does it feel like the Drop Rate for Event Items has been reduced?
 
