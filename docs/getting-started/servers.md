@@ -27,7 +27,7 @@ hide:
     - Franz
         - Opened in 2025 Nov
         - [Bonus Stages](https://l2reborn.org/news/bonus-stages/)
-        - Will merge with Teon in June
+        - Will merge with Teon in June 2026
     - Teon
         - Opened in 2024 Nov
         - No Stages
