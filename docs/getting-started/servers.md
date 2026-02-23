@@ -51,7 +51,7 @@ hide:
     - Seasonal Server (October/April)
         - 2 Servers: Main / Seasonal
         - 3 months into Season characters merge into Main
-    - 4k online peak on Seasonal Launch
+    - 2k online peak on Seasonal Launch
     - GM Buffer eliminating the need for buffers and GM Shop until S Grade
     - **Good for:** H5 Enthusiasts
 
