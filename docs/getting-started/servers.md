@@ -4,136 +4,109 @@ hide:
   - toc
 ---
 
+- Origins (x1)
+    - 3k online peak
+    - Opened in 2019 
+    - Starter Kits up to B-Grade
+    - Dynamic Rates: x3 (Lv76), x2 (Lv82), x1.5 (Lv85) with VIP
+    - Newbie Guide buffs until Lv76
+    - Party/CC instanced epic bosses
+    - Pets that help in PvE/PvP, variety in classes
+    - [Catch-up server](https://l2reborn.org/news/origins-x5-server-features/) (x5 until Lv80)
+        - Opens on March 6
+        - Beta Test opens on Feb 27
+    - **Good for:** New players that are looking for a traditional x1 L2 experience. 
+
+<br>
+
+- [Signature](https://l2reborn.org/news/reborn-signature-features/) (x1)
+    - 3k online peak
+    - Newbie Guide buffs until Lv24
+    - Slower-paced with retail-like settings
+    - Offers starter kits (NG/D Grade) for catch-up
+    - Franz
+        - Opened in 2025 Nov
+        - [Bonus Stages](https://l2reborn.org/news/bonus-stages/)
+        - Will merge with Teon in June
+    - Teon
+        - Opened in 2024 Nov
+        - No Stages
+    - **Good for:** Veterans or players seeking a challenge. 
+
+<br>
+
+- [Eternal](https://l2reborn.org/eternal-interlude/full-description/) (x10)
+    - 4k online peak
+    - [Seasonal Server](/faq/eternal/faq/#what-is-a-seasonal-server) (July/January)
+        - 2 Servers: Main (since 2024) / Seasonal
+        - 3 months into Season characters merge into Main
+    - GM Buffer eliminating the need for buffers and GM Shop until C Grade
+    - Events like TvT, DM, CTF.. 
+    - **Good for:** Players who love PvP and a faster "grind" that still rewards hard work.
+
+<br>
+
+- [H5 Forever](https://l2reborn.org/forever-h5/full-description/) (x15)
+    - Online on lower side, more online on Seasons
+    - Seasonal Server (October/April)
+        - 2 Servers: Main / Seasonal
+        - 3 months into Season characters merge into Main
+    - 4k online peak on Seasonal Launch
+    - GM Buffer eliminating the need for buffers and GM Shop until S Grade
+    - **Good for:** H5 Enthusiasts
+
+<br>
+
+- [Essence](https://l2reborn.org/essence/full-description/) (x1) 
+    - 1.5k online
+    - [Custom Balance (check news for info)](https://l2reborn.org/latest-news/) 
+    - Cool skills, lots of gambling with enchants
+    - Auto-farm, classes with self-buffs
+    - **Good for:** Busy players who love flashy skills and auto-farm while they work or study.
+
+<br>
+
+- [Arena](https://tab1-web.github.io/faq/arena/overview/) (Custom)
+    - Coming in 2026 Q2
+    - Plug-and-play PvP Server
+    - Every class is viable and team composition counts
+    - **Good for:** Casual-like players or players that prefer PvP, GvG.
+
+<br>
+
+- [Remastered](/faq/remastered/overview/) (Custom)
+    - Progressive Chapter System (1 Chapter/Month)
+    - Personal housing, idling progress, competitive 
+    - Coming in 2026 Q4
+    - **Good for:** Solo, group players that prefer modern-remaster like concepts.
+
+<br>
+
+- [Legacy](/faq/legacy/overview/) (x1)
+    - C1-H5 Journey, following official update schedule
+    - Anti-driver, anti-relogged buffer for pure experience
+    - Subscription-based service
+    - Coming in Early 2027
+    - **Good for:** Players that prefer long-term slower/prestigious nostalgic journey.
+
+<br>
+
+<figure markdown="span">
+    <h1 style="padding: 0px; margin: 1rem 0;">Quick Links</h1>
+
+    [:material-book: Server Rules](https://l2reborn.org/server-rules/){ .md-button .lightbox }
+    [:material-newspaper: Changelogs](https://l2reborn.org/latest-news/){ .md-button .lightbox }
+    [:octicons-download-16: Launcher](https://l2reborn.org/installer){ .md-button .lightbox }
+    [:fontawesome-solid-user-large: Login](https://l2reborn.org/signin/){ .md-button .lightbox }
+
+</figure>
+
+
 <style>
+
 .md-button {
     margin: 0.1rem;
 }
 
-.md-typeset .grid.cards > ul > li {
-    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
-    backface-visibility: hidden;
-}
-
-.md-typeset .grid.cards > ul > li:hover {
-    border-color: var(--md-primary-fg-color);
-    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-    transform: translateY(-8px) scale(1.02);
-    z-index: 10;
-}
 </style>
 
-# Reborn Server List
-
-<div class="grid cards" markdown>
-
-- ## :material-server: Signature x1 (C4 - IL)
-    **The Uncompromising Retail Challenge**
-
-    - :fontawesome-solid-scroll: __Chronicle__: C5 
-    - :material-gamepad-variant-outline: __Gameplay__: Competitive, No Shortcuts
-    - :material-account-group: __Population__: 4k daily peak
-
-    :material-check: **The Experience**: A slow-paced, prestigious journey where every level and item carries immense value. Franz the newest server while Teon the old reliable ensure a long-lasting experience.
-    <br>
-    <a href="https://postimg.cc/zLKY8hr7">
-    ![banner2](https://i.postimg.cc/k5hJNNY0/banner2.png){ .lightbox }
-    </a>
-    <hr class="divider">
-
-    <figure markdown="span">
-    [Info](https://l2reborn.org/news/reborn-signature-features/){ .md-button .lightbox }
-    [Video](https://www.youtube.com/watch?v=Xyqw43h7Qio){ .md-button .lightbox }
-    </figure>
-
-- ## :material-server: Origins x1 (GF - H5)
-    **The Permanent "Crown Jewel"**
-
-    - :fontawesome-solid-scroll: __Chronicle__: H5 
-    - :material-gamepad-variant-outline: __Gameplay__: Dynamic Rates, Starter kits
-    - :material-account-group: __Population__: 2k daily peak 
-
-    :material-check: **The Promise**: A rock-solid server providing a smooth transition into modern High Five gameplay.
-    <br>
-    <a href="https://postimg.cc/QVTDqvPw">
-    ![banner4](https://i.postimg.cc/y6fN7HT1/banner4.png){ .lightbox }
-    </a>
-    <hr class="divider">
-
-    <figure markdown="span">
-    [Info](https://l2reborn.org/origins/full-description/){ .md-button .lightbox } 
-    [Video](https://www.youtube.com/watch?v=T6lTyDTm2P8){ .md-button .lightbox }
-    </figure>
-
-- ## :material-server: Eternal x10/x30 (IL)
-    **Mid-Rate Interlude Seasons**
-
-    - :fontawesome-solid-scroll: __Chronicle__: Interlude
-    - :material-gamepad-variant-outline: __Gameplay__: GM shop (to C), Buffers, Events
-    - :material-account-group: __Population__: 4k peak during Season
-
-    :material-check: **The Vibe**: Faster-paced progression and fun events designed for those who value PvP and Interlude Grind.
-    <br>
-    <a href="https://postimg.cc/HVjTyVm0">
-    ![banner6](https://i.postimg.cc/4NQyj9F0/banner6.png){ .lightbox }
-    </a>
-
-    <hr class="divider">
-
-    <figure markdown="span">
-    [Info](https://l2reborn.org/eternal-interlude/full-description/){ .md-button .lightbox }
-    [Guide](https://l2reborn.org/news/adventure-guide/){ .md-button .lightbox }
-    [Video](https://www.youtube.com/watch?v=3xNf4zb5Jms){ .md-button .lightbox }
-    </figure>
-
-- ## :material-server: Forever H5 x15 (H5)
-    **Mid-Rate Seasonal High Five**
-
-    - :fontawesome-solid-scroll: __Chronicle__: H5
-    - :material-gamepad-variant-outline: __Gameplay__: GM Shop (to S), Buffers
-    - :material-account-group: __Population__: 2k on Launch
-    
-    :material-check: **The Goal**: Rapid gearing and a fresh-start economy every cycle, perfect for mid-rate High Five enthusiasts.
-    <br>
-    <a href="https://postimg.cc/s1QnGr8Q">
-    ![banner5](https://i.postimg.cc/bYL4MY9T/banner7.png){ .lightbox }
-    </a>
-
-    <hr class="divider">
-
-    <figure markdown="span">
-    [Info](https://l2reborn.org/forever-h5/full-description/){ .md-button .lightbox }
-    [Guide](https://l2reborn.org/news/high-five-walkthrough/){ .md-button .lightbox }
-    [Video](https://youtu.be/BWjJ2MEUo9A){ .md-button .lightbox }
-    </figure>
-
-- ## :material-server: Essence x1 (Warg)
-    **Modern, Laid-back Automation**
-
-    - :fontawesome-solid-scroll: __Chronicle__: Modern (Warg)
-    - :material-gamepad-variant-outline: __Gameplay__: Auto-farm, Custom balance
-    - :material-account-group: __Population__: 1.5k daily peak 
-
-    :material-check: **The Niche**: Modern style Lineage with auto-farm and lots of gambling.
-    <br>
-    <a href="https://postimg.cc/wRcBvPYW">
-    ![banner3](https://i.postimg.cc/br4S6cCj/banner3.png){ .lightbox }
-    </a>
-
-    <hr class="divider">
-
-    <figure markdown="span">
-    [Class Balance](https://l2reborn.org/news/class-balance-v2-6/){ .md-button .lightbox }
-    [Video](https://www.youtube.com/watch?v=w4JF9_zTO1o){ .md-button .lightbox }
-    </figure>
-
-</div>
-
-<figure markdown="span">
-<h1 style="padding: 0px; margin: 1rem 0;">Quick Links</h1>
-
-[:material-book: Server Rules](https://l2reborn.org/server-rules/){ .md-button .lightbox }
-[:material-newspaper: Changelogs](https://l2reborn.org/latest-news/){ .md-button .lightbox }
-[:octicons-download-16: Launcher](https://l2reborn.org/installer){ .md-button .lightbox }
-[:fontawesome-solid-user-large: Login](https://l2reborn.org/signin/){ .md-button .lightbox }
-
-</figure>
