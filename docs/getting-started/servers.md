@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-- Origins (x1)
+- Origins (x1) (High-Five)
     - 3k online peak
     - Opened in 2019 
     - Starter Kits up to B-Grade
@@ -19,10 +19,10 @@ hide:
 
 <br>
 
-- [Signature](https://l2reborn.org/news/reborn-signature-features/) (x1)
+- [Signature](https://l2reborn.org/news/reborn-signature-features/) (x1) (C4-IL)
     - 3k online peak
     - Newbie Guide buffs until Lv24
-    - Slower-paced with retail-like settings
+    - Slower-paced with retail-like settings, currently C5
     - Offers starter kits (NG/D Grade) for catch-up
     - Franz
         - Opened in 2025 Nov
@@ -35,7 +35,7 @@ hide:
 
 <br>
 
-- [Eternal](https://l2reborn.org/eternal-interlude/full-description/) (x10)
+- [Eternal](https://l2reborn.org/eternal-interlude/full-description/) (x10) (Interlude)
     - 4k online peak
     - [Seasonal Server](/faq/eternal/faq/#what-is-a-seasonal-server) (July/January)
         - 2 Servers: Main (since 2024) / Seasonal
@@ -46,7 +46,7 @@ hide:
 
 <br>
 
-- [H5 Forever](https://l2reborn.org/forever-h5/full-description/) (x15)
+- [H5 Forever](https://l2reborn.org/forever-h5/full-description/) (x15) (High-Five)
     - Online on lower side, more online on Seasons
     - Seasonal Server (October/April)
         - 2 Servers: Main / Seasonal
@@ -57,7 +57,7 @@ hide:
 
 <br>
 
-- [Essence](https://l2reborn.org/essence/full-description/) (x1) 
+- [Essence](https://l2reborn.org/essence/full-description/) (x1) (Warg)
     - 1.5k online
     - [Custom Balance (check news for info)](https://l2reborn.org/latest-news/) 
     - Cool skills, lots of gambling with enchants
@@ -82,7 +82,7 @@ hide:
 
 <br>
 
-- [Legacy](/faq/legacy/overview/) (x1)
+- [Legacy](/faq/legacy/overview/) (x1) (C1-H5)
     - C1-H5 Journey, following official update schedule
     - Anti-driver, anti-relogged buffer for pure experience
     - Subscription-based service
