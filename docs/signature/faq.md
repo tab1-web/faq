@@ -25,15 +25,15 @@ Watch the C4 class guide video for help choosing and feel free to ask in the Dis
 
 New Characters are now receiving the "L2Reborn Cube" upon creation
 
-- Teon
-  - Started in 2024-11-01
-  - More players on higher levels
-  - More Stable Market
-  - No Stages
-- Franz
-  - Started in 2025-11-07
-  - Players in all level ranges
-  - [Bonus Stages](https://l2reborn.org/news/bonus-stages/)
+- **Teon**
+    - Started in 2024-11-01
+    - More players on higher levels
+    - More Stable Market
+    - No Stages
+- **Franz**
+    - Started in 2025-11-07
+    - Players in all level ranges
+    - [Bonus Stages](https://l2reborn.org/news/bonus-stages/)
 
 ### What about Signature merging?
 
@@ -75,7 +75,7 @@ Visit [l2reborn.org/reborn-shop](https://l2reborn.org/reborn-shop/) to vote ever
 
 - Applies only to your selected character
 - Voting via mobile/VPN is allowed
-  - This doesn't mean you can dualbox.
+    - This doesn't mean you can dualbox.
 - Rune effects last 12 real-time hours
 
 ## Donation
@@ -297,7 +297,7 @@ Visit [lineage2wiki.com/c5/exp-calculator](https://lineage2wiki.org/c5/exp-calcu
 ### Improved Pets
 
 - There are no improved pets
-  - and there won't be any on Signature, it is a [Hellbound](https://lineage2wiki.org/hellbound/patch-notes/#pets_and_servitors) feature
+    - and there won't be any on Signature, it is a [Hellbound](https://lineage2wiki.org/hellbound/patch-notes/#pets_and_servitors) feature
 - Baby pets only heal
 
 ### Pet Leveling
@@ -316,7 +316,7 @@ Visit [lineage2wiki.com/c5/exp-calculator](https://lineage2wiki.org/c5/exp-calcu
 
 - All strider types have same speed (scales with level)
 - Mounting/Unmounting removes certain buffs
-  - Songs, Dances, Dash, Thrill Fight, Potions, Deflect Arrow, Totems etc..
+     - Songs, Dances, Dash, Thrill Fight, Potions, Deflect Arrow, Totems etc..
 
 ### Hatchling of the Stars does Physical Attack when pressing Bright Burst?
 
@@ -693,7 +693,7 @@ This is the moon knight's classic quest equivalent of a quest in C5, though not 
 - [To Lead and Be Led](https://lineage2wiki.org/c5/quest/118/to-lead-and-be-led/)
 - [The leader and the follower](https://lineage2wiki.org/c5/quest/123/the-leader-and-the-follower/)
 - You need to be in academy with a Sponsor
-  - Some people reported that they cannot select a Sponsor
+    - Some people reported that they cannot select a Sponsor
 
 ### Clan Leader Transfer
 
@@ -720,8 +720,8 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 
 - Clan Hall buffs do not apply to pets/summons only to owner.
 
-- Clan Hall auction ends and starts at the designated time of Auctioneer NPC in towns:
-  - 12/28/202507 means 2025/12/28 07.00 UTC
+- Clan Hall auction ends and starts at the designated time of Auctioneer NPC in towns: (click into the desired clan hall)
+    - 12/28/202607 means **2026/12/28** 07.00 UTC
 
 **Clan Hall Buffs:**
 
@@ -1142,7 +1142,7 @@ function loadSavedState() {
 [![4CF8AC99-D3D5-462D-8E07-9E8BE5508D65.png](https://i.postimg.cc/PqpCBSTM/4CF8AC99-D3D5-462D-8E07-9E8BE5508D65.png){width=60%}](https://postimg.cc/Tyx2bqyy)
 
 - There is no way to check raid boss status and respawn time, you must be there to write down the time of death of the boss and add the appropriate times above.
-  - 9h random window means that the boss can spawn at any time during that window, the first number is for static window.
+     - 9h random window means that the boss can spawn at any time during that window, the first number is for static window.
 - People will post subclass/nobless bosses timers in the [Discord Forum](https://discord.com/channels/622089207028121602/1365360511834788045)
 - If a boss has been slained by a Hero, Hero Statue, in all towns, can reveal the boss time of death. Keep in mind that the range can go from +30 minutes to -30 minutes written there in either direction. Thank you **@Ascy**
 
