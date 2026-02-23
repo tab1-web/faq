@@ -72,7 +72,7 @@ search:
 
 I've focused on the most versatile and beginner-friendly options—classes that perform well in most content. Some niche or highly specialized picks aren't listed here, as they're less ideal for newcomers.
 
-As starter, I would choose a farm character like a Spellsinger/Spellhowler.
+As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoiler.
 
 > Note: Older videos that have more than 24 buff slots do not apply anymore, you can only have 20+4 buff slots.
 
