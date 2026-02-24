@@ -22,7 +22,7 @@ Thank you.
 
 ### Forgot Master Account Password
 
-Go to the [website](https://l2reborn.org/reset-password/) and fill out your email.
+Go to the [website](https://l2reborn.org/signin/), click **"Forgot your password?"** and fill out your email.
 
 You will receive a link to create a new password via email.
 
@@ -43,7 +43,7 @@ Or
 
 ### Forgot In-Game Account Password
 
-1. Go to the [website](https://l2reborn.org/game-account/)
+1. Go to the [website](https://l2reborn.org/account/#origins)
 2. Select the appropriate server
 3. Click the `…` on the Account you would like reset the password for
 4. **Reset Password**

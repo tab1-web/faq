@@ -30,7 +30,7 @@ icon: material/vote-outline
 - ### Voting Tutorial
     <figure markdown>
     [![vote.gif](https://i.postimg.cc/mr9JwL5y/vote.gif)](https://postimg.cc/cKsF1SZv)
-    <figcaption>**You can vote [here](https://l2reborn.org/reborn-shop/)**{style="color: rgb(143, 209, 132);"}</figcaption>
+    <figcaption>**You can vote [here](https://l2reborn.org/shop/)**{style="color: rgb(143, 209, 132);"}</figcaption>
     </figure>
 </div>
 

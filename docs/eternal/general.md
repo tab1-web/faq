@@ -188,7 +188,7 @@ icon: material/clock-time-one-outline
 ## Quick Links
 
 <div class="button-grid">
-    <a href="https://l2reborn.org/eternal-interlude/full-description/" class="md-button lightbox">Features</a>
+    <a href="https://l2reborn.org/server-features/eternal-2/" class="md-button lightbox">Features</a>
     <a href="https://www.youtube.com/watch?v=3xNf4zb5Jms" class="md-button lightbox">Video</a>
     <a href="https://l2reborn.org/news/" class="md-button lightbox">News</a>
     <a href="https://l2reborn.org/news/adventure-guide/" class="md-button lightbox">Guide</a>
@@ -256,7 +256,7 @@ icon: material/clock-time-one-outline
 
 ## Time Tables
 <figure><h4 style="margin-top:10px; color:white;">Timers might change with new information being put out in 
-<a href="https://discord.com/channels/622089207028121602/1091647392836767864">📢│eternal-il-news</a>, check back frequently! <br> <br> These are not all the timers, check the <a href="https://l2reborn.org/eternal-interlude/full-description/">features page</a> to view the others <br> Mammons you will see 16-20 minutes after the competition cycle. <br> Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></figure>
+<a href="https://discord.com/channels/622089207028121602/1091647392836767864">📢│eternal-il-news</a>, check back frequently! <br> <br> These are not all the timers, check the <a href="https://l2reborn.org/server-features/eternal-2/">features page</a> to view the others <br> Mammons you will see 16-20 minutes after the competition cycle. <br> Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></figure>
 
 [![0F3032EC-805C-4174-B6B5-CDF5BAB3F122.png](https://i.postimg.cc/gjnL7nPd/0F3032EC-805C-4174-B6B5-CDF5BAB3F122.png)](https://postimg.cc/fSQbtWLg)
 

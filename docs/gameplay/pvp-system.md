@@ -41,6 +41,6 @@ Most people use **“flagged”**{style="color: purple;"}. instead of **purple n
     - Higher the difference between your Sin Eater's level and your level, more PKs it can remove randomly.
 
 ### **PvP / PK List**
-- You can check who has how many PvP / PK [here](https://l2reborn.org/rankings/).
+- You can check who has how many PvP / PK [here](https://l2reborn.org/ranking/).
 
 > **Tip**: Avoid unnecessary PKing unless you’re prepared for consequences!  

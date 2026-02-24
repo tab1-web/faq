@@ -57,7 +57,7 @@ Available from the Newbie Guide NPC.
 
 ### Signature Voting/Vote Info
 
-Visit [l2reborn.org/reborn-shop](https://l2reborn.org/reborn-shop/) to vote every 12 hours.
+Visit [l2reborn.org/reborn-shop](https://l2reborn.org/shop/) to vote every 12 hours.
 
 #### What does VIP/Voting give?
 
@@ -747,7 +747,7 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 
 ## Unstuck
 
-- When you are stuck in MDT with a low level character or in an area generally you are stuck, you can use the [unstuck](https://l2reborn.org/game-account/) option in website.
+- When you are stuck in MDT with a low level character or in an area generally you are stuck, you can use the [unstuck](https://l2reborn.org/account/#origins) option in website.
 - Select server in the middle, click on your account the (...) three dots next to your account and (....) three dots as well next to your character
 
 ## Party System

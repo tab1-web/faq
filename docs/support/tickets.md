@@ -10,7 +10,7 @@ If you have a problem related to **bans**, **account**, **game**, **donations**,
 
 - Upload images, videos with [imgur.com](https://imgur.com/upload) and [share the public link](https://help.imgur.com/hc/article_attachments/26512938185243)
 
-- [You will get a response here](https://l2reborn.org/my-support-tickets/) and **click on the appropriate ticket**.
+- [You will get a response here](https://l2reborn.org/support_log/) and **click on the appropriate ticket**.
 
 <figure markdown="span" markdown>
 

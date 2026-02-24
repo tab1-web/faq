@@ -80,7 +80,7 @@ icon: material/sword
 
     <figure markdown>
     [Vote Guide](../gameplay/progression/voting.md){ .md-button .md-button-secondary } <br> <br>
-    [Vote Now](https://l2reborn.org/reborn-shop/#eternal-il-x10){ .md-button .md-button-primary }
+    [Vote Now](https://l2reborn.org/shop/#eternal-il){ .md-button .md-button-primary }
     </figure>
 
 - ### **:material-sword-cross: Spending Priority**

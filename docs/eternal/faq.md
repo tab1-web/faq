@@ -69,7 +69,7 @@ h2 {
 
 #### **Period:**  
 
-- Monday to Friday, from 20:30 to 21:30 UTC, first cycle is on the [features page](https://l2reborn.org/eternal-interlude/full-description/).
+- Monday to Friday, from 20:30 to 21:30 UTC, first cycle is on the [features page](https://l2reborn.org/server-features/eternal-2/).
 <ul>
 <li class="utc-time"></li>
 </ul>
@@ -184,7 +184,7 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 - **Cancellations:** Manually cancelling an active bid incurs a **10% penalty fee**.
 - **Unclaimed Halls:** Any Hall without a bidder returns to the next auction cycle.
 
-[Dates for first Auctions and Buffs](https://l2reborn.org/eternal-interlude/full-description/)
+[Dates for first Auctions and Buffs](https://l2reborn.org/server-features/eternal-2/)
 
 ## 🤝 Items & Trading
 
@@ -234,7 +234,7 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 ## 📦 Voting & Rewards
 
 ### How can I vote?
-- Vote for the server at: [l2reborn/reborn-shop](https://l2reborn.org/reborn-shop/#eternal-il-x10)
+- Vote for the server at: [l2reborn/reborn-shop](https://l2reborn.org/shop/#eternal-il)
 - Vote Tutorial is [here](../gameplay/progression/voting.md)
 
 ### Why am I not getting votes during a server restart?  

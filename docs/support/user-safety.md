@@ -43,7 +43,7 @@ actions in or out of the game.
     !!! info "Requirements"
         Enable [2FA](https://l2reborn.org/setting) first.
     
-    - Visit [Game Accounts](https://l2reborn.org/game-account/)
+    - Visit [Game Accounts](https://l2reborn.org/account/#origins)
     - Click `Overview` on the account
     - Click `⋯` and **Unlock**
 

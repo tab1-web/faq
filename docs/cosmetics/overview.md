@@ -30,7 +30,7 @@ icon: octicons/info-16
 
 ## Where can you use Reborn Coins?
 
-- You can use them either on the [website](https://l2reborn.org/reborn-shop/) or in-game.
+- You can use them either on the [website](https://l2reborn.org/shop/) or in-game.
 - Most of the skins are available __in-game__.
 
 <figure markdown>
@@ -68,7 +68,7 @@ Paypal is not available, you can pay with [(here)](https://l2reborn.org/balance/
 
 ## Hair & Color / Face Change
 
-You can either buy it from the [Website's Shop](https://l2reborn.org/reborn-shop/) or buy it from Dawn/Dusk Priest for 24k Ancient Adena each.
+You can either buy it from the [Website's Shop](https://l2reborn.org/shop/) or buy it from Dawn/Dusk Priest for 24k Ancient Adena each.
 
 <figure markdown="span">
   [Images](https://legacy-lineage2.com/guide/appearance_hair_colors.html){.md-button}

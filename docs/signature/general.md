@@ -83,7 +83,7 @@ icon: material/clock-time-one-outline
 ## Quick Links
 
 <div class="button-grid">
-    <a href="https://l2reborn.org/news/reborn-signature-features/" class="md-button lightbox">Features</a>
+    <a href="https://l2reborn.org/server-features/signature-server-features/" class="md-button lightbox">Features</a>
     <a href="https://youtu.be/5BNTfw2cDUs?si=gRY-ATlcqrXPLvel" class="md-button lightbox">PvP Video</a>
     <a href="https://l2reborn.org/news/" class="md-button lightbox">News</a>
     <a href="https://lineage2wiki.org/c5/" class="md-button lightbox">Wiki</a>
