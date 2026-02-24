@@ -20,9 +20,9 @@ extra:
 nav:
   - Home: 
     - Index: index.md
-    - Getting Started:
-      - Welcome: getting-started/welcome.md
-      - Servers: getting-started/servers.md
+  - Getting Started:
+    - Welcome: getting-started/welcome.md
+    - Servers: getting-started/servers.md
   - Gameplay:
     - Core Mechanics: gameplay/core-mechanics.md
     - Controls: gameplay/controls.md
