@@ -34,7 +34,7 @@ For any other issue, please refer to the [Help & Support page](https://tab1-web.
 
 ## :fontawesome-solid-user: Account Registration
 
-1. Create a [Master Account](https://l2reborn.org/signin/?invc=C16DEC2BB#sign-up?invc=C16DEC2BB#sign-up)
+1. Create a [Master Account](https://l2reborn.org/signin/?invc=C16DEC2BB#sign-up?invc=C16DEC2BB#sign-up) using the referral link, it would be a **huge help**! <3
     - Your Master Account holds all of your in–game accounts.
 2. Create an [In-Game Account](https://l2reborn.org/account/#origins/)
     - Choose the server you would like to play on. 
