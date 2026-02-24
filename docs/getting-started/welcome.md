@@ -5,17 +5,17 @@ icon: material/web
 # :material-star: Welcome to Lineage][Reborn!
 
 ## :material-mapbox: Adventure Awaits
-Reborn is one of the most popular private servers for several versions of Lineage 2 with no pay to win, no wipes and no dual-box. 
+Reborn is **one of the most popular private servers** for several versions of Lineage 2 with no pay to win, no wipes and no dual-box. 
 
-It started in 2019 October 31 by a group of enthusiasts with the goal of providing a vanilla and plain experience to bring back childhood memories.
+It started in **2019 October 31** by a **group of enthusiasts** with the goal of **providing a vanilla** and plain experience to bring back childhood memories.
 
 **First time playing?** Here's everything you need to get started:
 
 
 ## :material-download: Install
 1. [Install the Launcher](https://l2reborn.org/installer)
-2. After launcher installs, press “Download” on which server you'd like to play on.
-3. Once finished downloading, press “Play”
+2. After launcher installs, press **“Download”** on which server you'd like to play on.
+3. Once finished downloading, press **“Play”**
 
 <figure markdown="span">
     <a href="https://postimg.cc/K44NxzGK">
@@ -23,11 +23,11 @@ It started in 2019 October 31 by a group of enthusiasts with the goal of providi
     </a>
 </figure>
 
-If there's an issue during the Download, try restarting your Router, or use Mobile Data / VPN.
+If there's an issue during the **Download**, try restarting your Router, or use Mobile Data / VPN.
 
-Make sure you download the games on SSD, it will significantly increase download/verify on SSD compared to HDD.
+Make sure you download the games on **SSD**, it will significantly increase download/verify on SSD compared to HDD.
 
-You can check out a quick server summary [here](/faq/getting-started/servers).
+You can check out a **quick server summary** [here](/faq/getting-started/servers).
 
 For any other issue, please refer to the [Help & Support page](https://tab1-web.github.io/faq/support/troubleshooting/technical-issues/).
 
@@ -43,9 +43,7 @@ For any other issue, please refer to the [Help & Support page](https://tab1-web.
     - Your **in-game username will look like**: eg_example123
 
 <figure markdown="span">
-    <a href="https://postimg.cc/zyB41pRW">
-    ![Create Account Image](https://i.postimg.cc/BQ2b7NZF/createacc.png){ .lightbox width=45%}
-    </a>
+    [![image.png](https://i.postimg.cc/MTydWdqs/image.png)](https://postimg.cc/HckQz0J5)
 </figure>
 
 
@@ -60,20 +58,20 @@ You don’t have to do fill out your account details every time, use **“Login 
 
 <figure markdown="span">
     <a href="https://postimg.cc/xJJzDr97">
-    ![Easy Login](https://i.postimg.cc/bJLHn8Wz/easylogin.png){ .lightbox width=45% }
+    ![Easy Login](https://i.postimg.cc/bJLHn8Wz/easylogin.png){ .lightbox width=60% }
     </a>
 </figure>
 
 All the servers you see are essentially proxies that **connect to the same game server**, it's just for better connectivity, 
 choose either a Proxy closest to you or the Main server.
 
-- The server is in France.
+- The main server is located in **France**.
 
 If you are on the Seasonal Server to play on the seasonal servers choose from the **[NEW]** servers.
 
 <figure markdown="span">
     <a href="https://postimg.cc/grMJpzMT">
-    ![Proxy Screen](https://i.postimg.cc/Dyhbqm1n/proxy.png){ .lightbox width=45% }
+    ![Proxy Screen](https://i.postimg.cc/Dyhbqm1n/proxy.png){ .lightbox width=60% }
     </a>
 </figure>
 If nothing happens after you pressed **“OK”**, you might have taken too long or the proxy is down. 
@@ -87,13 +85,11 @@ It's time to create your character now, I hope you enjoy your your journey. :sli
 
 Don't forget to **vote**, every server has VIP runes which increases your rates. 
 
-- Free VIP lasts for 12 hours (real-time) and can be acquirable again from the website after the rune expires.
-- Bought VIP last longer, increase the rates the same way and don’t stack, but consider supporting the project!
+- **Free VIP lasts for 12 hours** (real-time) and can be acquirable again from the website after the rune expires.
+- **Bought VIP lasts longer**, increase the rates the **same way as the Free VIP** and don't stack, but **consider supporting the project**!
 
 <figure markdown="span">
-    <a href="https://postimg.cc/cKsF1SZv">
-    ![Proxy Screen](https://i.postimg.cc/mr9JwL5y/vote.gif){ .lightbox width=70% }
-    </a>
+    [![vipzoom.gif](https://i.postimg.cc/W4PQ09XN/vipzoom.gif)](https://postimg.cc/dh4HYjbp)
 </figure>
 
 Check out my other guides and [rules](../support/rules.md) for navigating around the world of Aden.

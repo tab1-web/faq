@@ -29,7 +29,7 @@ icon: material/vote-outline
 
 - ### Voting Tutorial
     <figure markdown>
-    [![vote.gif](https://i.postimg.cc/mr9JwL5y/vote.gif)](https://postimg.cc/cKsF1SZv)
+    [![vipzoom.gif](https://i.postimg.cc/W4PQ09XN/vipzoom.gif)](https://postimg.cc/dh4HYjbp)
     <figcaption>**You can vote [here](https://l2reborn.org/shop/)**{style="color: rgb(143, 209, 132);"}</figcaption>
     </figure>
 </div>

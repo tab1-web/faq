@@ -12,7 +12,7 @@ Send a private message to [@Seriel](https://discord.com/users/113994864216639492
 Fill this message with the **appropriate information** and **choose which error** you are facing:
 ```
 Hey! 
-Unable to login after too many tries / not getting e-mail for authentication. (choose one)
+Unable to login after too many tries to the website / not getting e-mail for authentication. (choose one)
 - My email address: ...
 
 Thank you.
@@ -27,9 +27,7 @@ Go to the [website](https://l2reborn.org/signin/), click **"Forgot your password
 You will receive a link to create a new password via email.
 
 <figure markdown="span">
-    <a href="https://postimg.cc/z36FLFtC">
-    ![master account psw lost](https://i.postimg.cc/VLLGV7XV/lostpsw.png){ .lightbox width=50% }
-    </a>
+    [![image.png](https://i.postimg.cc/j5N92mpS/image.png){width=40%}](https://postimg.cc/HcY3PZWq)
 </figure>
 
 If you don't know your e-mail: 
@@ -45,13 +43,10 @@ Or
 
 1. Go to the [website](https://l2reborn.org/account/#origins)
 2. Select the appropriate server
-3. Click the `…` on the Account you would like reset the password for
 4. **Reset Password**
 
 <figure markdown="span">
-    <a href="https://postimg.cc/HVsxwqrX">
-    ![in-game psw lost](https://i.postimg.cc/TYnD6GG7/ingamepsw.png){ .lightbox width=50% }
-    </a>
+[![image.png](https://i.postimg.cc/VNt4WMDZ/image.png)](https://postimg.cc/Nyg1gyhR)
 </figure>
 
 

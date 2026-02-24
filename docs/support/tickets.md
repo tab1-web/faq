@@ -41,9 +41,7 @@ If you have a problem related to **bans**, **account**, **game**, **donations**,
 
 ## :material-help-box: How to Submit a Ticket Properly  
 <figure markdown>
-  <a href="https://postimg.cc/fk8KQq8v" target="_blank">
-    ![Animated GIF: How to open a ticket](https://i.postimg.cc/GhCSYZY6/ticket11mb.gif){ width="60%" .lightbox }
-  </a>
+[![ticketzoom.gif](https://i.postimg.cc/260gWhH4/ticketzoom.gif)](https://postimg.cc/hz7CWzRj)
 </figure>
 
 ## What does Ticket Completed mean?
