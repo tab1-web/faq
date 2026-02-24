@@ -154,5 +154,5 @@ icon: fontawesome/solid/scroll
 
 ## Resources
 
-- [Server Rules](https://l2reborn.org/server-rules/)
+- [Server Rules](https://l2reborn.org/documentation/?VarDocs=server)
 

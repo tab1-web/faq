@@ -190,7 +190,7 @@ icon: material/clock-time-one-outline
 <div class="button-grid">
     <a href="https://l2reborn.org/eternal-interlude/full-description/" class="md-button lightbox">Features</a>
     <a href="https://www.youtube.com/watch?v=3xNf4zb5Jms" class="md-button lightbox">Video</a>
-    <a href="https://l2reborn.org/latest-news/" class="md-button lightbox">News</a>
+    <a href="https://l2reborn.org/news/" class="md-button lightbox">News</a>
     <a href="https://l2reborn.org/news/adventure-guide/" class="md-button lightbox">Guide</a>
 </div>
 
@@ -312,7 +312,7 @@ icon: material/clock-time-one-outline
   </div>
 
   <div class="md-typeset card countdown-card" data-target="2026-02-11T18:00:00Z">
-    <h3>Valentines Event (Season & Main, <a href="https://l2reborn.org/latest-news/">uncertain time</a>) </h3>
+    <h3>Valentines Event (Season & Main, <a href="https://l2reborn.org/news/">uncertain time</a>) </h3>
     <p><strong>Time:</strong> Feb 11th at 18:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>

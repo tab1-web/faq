@@ -11,7 +11,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 **all**{style="color:orange;"} Servers
 </p>
 
-- **Origins (x1) (High-Five)**
+- **[Origins](https://l2reborn.org/server-features/origins-server-features/) (x1) (High-Five)**
     - **3k online peak**
     - Opened in 2019 
     - Starter Kits up to **B-Grade**
@@ -26,7 +26,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 
 <br>
 
-- **[Signature](https://l2reborn.org/news/reborn-signature-features/) (x1) (C4-IL)**
+- **[Signature](https://l2reborn.org/server-features/signature-server-features/) (x1) (C4-IL)**
     - **3k online peak**
     - Newbie Guide buffs until **Lv24**
     - Slower-paced with retail-like settings, currently **C5**
@@ -42,10 +42,10 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 
 <br>
 
-- **[Eternal](https://l2reborn.org/eternal-interlude/full-description/) (x10) (Interlude)**
+- **[Eternal](https://l2reborn.org/eternal/) (x10) (Interlude)**
     - **4k online peak**
     - [Seasonal Server](/faq/eternal/faq/#what-is-a-seasonal-server) (July/January)
-        - 2 Servers: **Main** (since 2024) / **Seasonal**
+        - 2 Servers: [**Main**](https://l2reborn.org/server-features/eternal-2/) (since 2024) / [**Seasonal**](https://l2reborn.org/server-features/eternal)
         - **3 months** into Season characters **merge** into Main
     - **GM Buffer** eliminating the need for buffers and GM Shop until C Grade
     - Events like **TvT, DM, CTF..**
@@ -53,7 +53,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 
 <br>
 
-- **[H5 Forever](https://l2reborn.org/forever-h5/full-description/) (x15) (High-Five)**
+- **[H5 Forever](https://l2reborn.org/forever/) (x15) (High-Five)**
     - Online on lower side, more online **on Seasons**
         - 2k online peak on Seasonal Launch
     - **Seasonal Server** (October/April)
@@ -64,9 +64,9 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 
 <br>
 
-- **[Essence](https://l2reborn.org/essence/full-description/) (x1) (Warg)**
+- **[Essence](https://l2reborn.org/essence/) (x1) (Warg)**
     - **1.5k online**
-    - [Custom Balance (check news for info)](https://l2reborn.org/latest-news/) 
+    - [Custom Balance (check news for info)](https://l2reborn.org/news/) 
     - Cool skills, lots of gambling with enchants
     - **Auto-farm**, classes with **self-buffs**
     - **Good for:** Busy players who love flashy skills and auto-farm while they work or study.
@@ -100,10 +100,10 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 
 <figure markdown="span">
 
-    [:material-book: Server Rules](https://l2reborn.org/server-rules/){ .md-button .lightbox }
-    [:material-newspaper: Changelogs](https://l2reborn.org/latest-news/){ .md-button .lightbox }
+    [:material-book: Server Rules](https://l2reborn.org/documentation/?VarDocs=server){ .md-button .lightbox }
+    [:material-newspaper: Changelogs](https://l2reborn.org/news/){ .md-button .lightbox }
     [:octicons-download-16: Launcher](https://l2reborn.org/installer){ .md-button .lightbox }
-    [:fontawesome-solid-user-large: Login](https://l2reborn.org/signin/){ .md-button .lightbox }
+    [:fontawesome-solid-user-large: Login](https://l2reborn.org/signin/?invc=C16DEC2BB#sign-up){ .md-button .lightbox }
 
 </figure>
 

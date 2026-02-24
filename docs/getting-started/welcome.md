@@ -34,15 +34,13 @@ For any other issue, please refer to the [Help & Support page](https://tab1-web.
 
 ## :fontawesome-solid-user: Account Registration
 
-1. Create a [Master Account](https://l2reborn.org/signin/)
+1. Create a [Master Account](https://l2reborn.org/signin/?invc=C16DEC2BB#sign-up?invc=C16DEC2BB#sign-up)
     - Your Master Account holds all of your in–game accounts. 
-2. Create an [In-Game Account](https://l2reborn.org/account-summary/)
-    - Choose "Manage Account" the server you would like to play on. 
+2. Create an [In-Game Account](https://l2reborn.org/account/#origins/)
+    - Choose the server you would like to play on. 
     - Press **:material-plus: Create Account**
     - Choose a random prefix from the list.
     - Your **in-game username will look like**: eg_example123
-
-Referral codes **are not implemented** at the moment.
 
 <figure markdown="span">
     <a href="https://postimg.cc/zyB41pRW">
@@ -71,7 +69,7 @@ choose either a Proxy closest to you or the Main server.
 
 - The server is in France.
 
-If you wish to play on the Seasonal Servers, choose from the **[NEW]** servers.
+If you are on the Seasonal Server to play on the seasonal servers choose from the **[NEW]** servers.
 
 <figure markdown="span">
     <a href="https://postimg.cc/grMJpzMT">
