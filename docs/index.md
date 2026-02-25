@@ -46,3 +46,7 @@ You can search on the website in the top right corner and you can also search th
 - **:material-crown: Jade Ink**{style="color: #00bb77; font-weight: bold;"}
     
     Thanks to Jade Ink for simplifying and enhancing portions of the document. :slight_smile:
+
+- **:material-crown: Fox**{style="color: #408d39; font-weight: bold;"}
+  
+  Thanks to Fox for his suggestions regarding GIFs and the website. :slight_smile:
