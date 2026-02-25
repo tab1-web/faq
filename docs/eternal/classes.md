@@ -127,7 +127,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
 
     <p>If you need more Sustain on basic attacks, then instead of one of the resists apply: <strong style="color:red;">Vampiric Rage</strong> and/or <strong style="color:red;">Dance of Vampire</strong></p>
 
-    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn with fists.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get <a href="https://l2j.ru/highfive/index.php?p=19&skid=4553">Flu</a> Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn with fists.</p>
 
     <p>If your <strong style="color:green;">auto attacks miss a lot</strong>, you can also use Cholera Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
 
@@ -149,7 +149,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
 
     <p>If you are pulling or just need <strong style="color:yellow;">Movement Speed</strong> for moving around the world, cancel Chant of Victory and Apply <strong style="color:yellow;">Prophecy of Wind</strong> instead.</p>
 
-    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn with fists.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get <a href="https://l2j.ru/highfive/index.php?p=19&skid=4553">Flu</a> Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn with fists.</p>
 
     <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
 
@@ -170,7 +170,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
     
     <p>If you are pulling or just need <strong style="color:yellow;">Movement Speed</strong> for moving around the world, cancel Chant of Victory and Apply <strong style="color:yellow;">Prophecy of Wind</strong> instead.</p>
 
-    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn with fists.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get <a href="https://l2j.ru/highfive/index.php?p=19&skid=4553">Flu</a> Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn with fists.</p>
 
     <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
 
@@ -196,7 +196,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
 
     <p><strong style="color:orange;">PvE:</strong> Try to slot in more offensive buffs and Vampiric Rage. You can get low fast with equipping Homunkulus Conversion and unequipping it.</p>
 
-    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get <a href="https://l2j.ru/highfive/index.php?p=19&skid=4553">Flu</a> Lv1 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn.</p>
 
     <p>If your auto attacks miss a lot, you can also use <strong style="color:darkgreen;">Cholera</strong> Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
 
@@ -216,7 +216,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
 
     <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
 
-    <p>If you want more Attack Speed, you can get Flu Lv4 "debuff" from Hotsprings, attack Bandersnatch / Atroxspawn.</p>
+    <p>If you want more Attack Speed, you can get <a href="https://l2j.ru/highfive/index.php?p=19&skid=4553">Flu</a> Lv1 "debuff" or <a href="https://l2j.ru/highfive/index.php?p=19&skid=4551">Rheuma</a> Lv1 from Hotsprings, attack Bandersnatch / Atroxspawn.</p>
 
     <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from Hotsprings.</p>
 </div>
@@ -233,7 +233,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
 
     <p>In Deathmatches you can also skip Windwalk and Song of Wind and get more resists as you won't be moving around too much.</p>
 
-    <p>If you want more Attack Speed, you can get Flu Lv4 "debuff" from Hotsprings, attack Bandersnatch / Atroxspawn.</p>
+    <p>If you want more Attack Speed, you can get <a href="https://l2j.ru/highfive/index.php?p=19&skid=4551">Flu</a> Lv1 "debuff" from Hotsprings, attack Bandersnatch / Atroxspawn.</p>
 
     <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from Hotsprings.</p>
 </div>
@@ -252,7 +252,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
 
     <p>In Deathmatches you can also skip <strong style="color:lightblue;">Windwalk</strong> and <strong style="color:lightblue;">Song of Wind</strong> and get more resists as you won't be moving around too much.</p>
 
-    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get <a href="https://l2j.ru/highfive/index.php?p=19&skid=4553">Flu</a> Lv1 "debuff" and <a href="https://l2j.ru/highfive/index.php?p=19&skid=4551">Rheuma</a> Lv1 from <strong>Hotsprings</strong> and , attack Bandersnatch / Atroxspawn.</p>
 
     <p>If your auto attacks miss a lot, you can also use <strong style="color:darkgreen;">Cholera</strong> Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
 
@@ -273,7 +273,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
 
     <p>Daggers have higher attack speed, therefore you can have better uptime of Dash if you use it with a Dagger. Use a <strong style="color:red;">Rsk. Haste</strong> dagger like <strong style="color:red;">Cursed Dagger</strong>, when <strong style="color:red;">HP drops to 60%</strong> or lower, it increases Atk. Speed as well.</p>
 
-    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn.</p>
+    <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get <a href="https://l2j.ru/highfive/index.php?p=19&skid=4553">Flu</a> Lv1 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn.</p>
 
     <p>If your auto attacks miss a lot, you can also use Cholera Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
 
@@ -304,7 +304,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
 
   <p>If you are pulling or just need <strong style="color:yellow;">Movement Speed</strong> for moving around the world, cancel Chant of Victory and Apply <strong style="color:yellow;">Prophecy of Wind</strong> instead. Chant of Victory is nice for Extra P. Def. when you feel like you are taking too much damage from monsters. I recommend checking out the <a href="/faq/gameplay/monsters">Monsters Page</a> and <a href="/faq/gameplay/buffs">Buffs Page</a> as well for more insight.</p>
 
-  <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get Flu Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn.</p>
+  <p>If you want more <strong style="color:yellow;">Attack Speed</strong>, you can get <a href="https://l2j.ru/highfive/index.php?p=19&skid=4553">Flu</a> Lv4 "debuff" from <strong>Hotsprings</strong>, attack Bandersnatch / Atroxspawn.</p>
 
   <p>If your auto attacks miss a lot, you can also use  <strong style="color:darkgreen;">Cholera</strong> Lv4 from Flava / Nepenthenes from <strong>Hotsprings.</strong></p>
 

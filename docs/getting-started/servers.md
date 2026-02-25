@@ -4,7 +4,9 @@ hide:
   - toc
 ---
 
-Lineage 2 is an **open-world, massive multiplayer online roleplaying game** emphasizing **PvE farming for progression**. You can be killed at any time by **anyone**, **anywhere** except for just certain zones. Below concludes a list of services that Reborn offers.
+Lineage 2 is an **open-world, massive multiplayer online roleplaying game** emphasizing **PvE farming for progression**. You can be killed at any time by **anyone**, **anywhere** except for just certain zones. Lineage 2 is special in a way as buffers, support class archetype that gives temporary enhancements called buffs, is important in progression in some of the services. 
+
+Below concludes a list of services that Reborn offers:
 
 <p markdown style="text-align: center;">
 No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **Dualbox**{style="color:orange;"} on 
@@ -16,7 +18,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
     - Opened in 2019 
     - Starter Kits up to **B-Grade**
     - **Dynamic Rates:** x3 (Lv76), x2 (Lv82), x1.5 (Lv85) with VIP
-    - Newbie Guide buffs until **Lv76**
+    - Newbie Guide buffs until **Lv75**
     - **Party/CC instanced epic bosses**
     - Pets that help in **PvE/PvP**, variety in classes
     - [Catch-up server](https://l2reborn.org/news/origins-x5-server-features/) (x5 until Lv80)
@@ -29,14 +31,15 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 - **[Signature](https://l2reborn.org/server-features/signature-server-features/) (x1) (C4-IL)**
     - **3k online peak**
     - Newbie Guide buffs until **Lv24**
-    - Slower-paced with retail-like settings, currently **C5**
     - Offers **starter kits** (NG/D Grade) for catch-up
+    - Slower-paced with retail-like settings, currently **C5**
     - **Franz**
         - Opened in **2025 Nov**
         - [Bonus Stages](https://l2reborn.org/news/bonus-stages/)
         - Will merge with Teon in **June 2026**
     - **Teon**
         - Opened in **2024 Nov**
+        - Established market 
         - No Stages
     - **Good for:** Veterans or players seeking a challenge. 
 
@@ -47,7 +50,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
     - [Seasonal Server](/faq/eternal/faq/#what-is-a-seasonal-server) (July/January)
         - 2 Servers: [**Main**](https://l2reborn.org/server-features/eternal-2/) (since 2024) / [**Seasonal**](https://l2reborn.org/server-features/eternal)
         - **3 months** into Season characters **merge** into Main
-    - **GM Buffer** eliminating the need for buffers and GM Shop until C Grade
+    - **GM Buffer** eliminating the need for buffers and **GM Shop** until C Grade
     - Events like **TvT, DM, CTF..**
     - **Good for:** Players who love PvP and a faster "grind" that still rewards hard work.
 
@@ -59,7 +62,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
     - **Seasonal Server** (October/April)
         - 2 Servers: **Main** / **Seasonal**
         - 3 months into Season characters merge into Main
-    - GM Buffer eliminating the need for buffers and GM Shop until S Grade
+    - **GM Buffer** eliminating the need for buffers and **GM Shop** until S Grade
     - **Good for:** H5 Enthusiasts
 
 <br>

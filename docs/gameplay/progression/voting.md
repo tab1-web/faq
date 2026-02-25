@@ -2,38 +2,29 @@
 icon: material/vote-outline
 ---
 
-# Server Rates & Voting Benefits
+# VIP & Server Rates
+
+<figure markdown>
+[![vipzoom.gif](https://i.postimg.cc/W4PQ09XN/vipzoom.gif)](https://postimg.cc/dh4HYjbp)
+<figcaption markdown>**You can vote [here](https://l2reborn.org/shop/)**{style="color: rgb(143, 209, 132); font-size: 1rem;"}</figcaption>
+</figure>
 
 ## Benefits
-- Increases your character's rates (applies only to the character you select)
-- VIP gives same benefits as voting but lasts longer
-- Free and paid VIP don't stack (paid lasts longer)
-    - You can buy VIPs in the Reborn Store.
+- By voting you get VIP for **12 hours** (real time) which **increases that character's rates** that you selected.
+    - **You can vote again after the 12 hours!**
 
-> Rates are multipliers that make you level up faster, earn more currency (Adena), and get better drops from monsters when you vote or have VIP.
+> Rates are multipliers that **make you level up faster**, **earn more currency** (Adena), and **get better drops** from monsters when you have VIP.
 
-## How It Works
-<div class="grid cards" markdown>
-- ### Description
-    **Vote every 12 hours** to maintain benefits
-    
-    Voting rune **lasts 12 hours (real time)**
-    
-    > On Eternal right click the item to activate the VIP, on Signature it's applied on your character from inventory, if it's not, try restart.
-    
-    VIP only affects **one character** (the one you select in vote menu)
+- **Bought VIP** and **VIP** you get from voting **gives the same benefits** and **don't stack** with any VIP.
+    - **By buying VIP**: it **lasts longer** and you **support the server!**
 
-    **Mobile voting:** You can vote again using mobile data or VPN 
-    
-    > This doesn't mean you can dual-box. See [rules.](https://tab1-web.github.io/faq/support/rules/)
+- You can vote again using **Mobile Data** or **VPN**
+    - This doesn't mean you can dual-box. *See [rules.](https://tab1-web.github.io/faq/support/rules/)*
 
-- ### Voting Tutorial
-    <figure markdown>
-    [![vipzoom.gif](https://i.postimg.cc/W4PQ09XN/vipzoom.gif)](https://postimg.cc/dh4HYjbp)
-    <figcaption>**You can vote [here](https://l2reborn.org/shop/)**{style="color: rgb(143, 209, 132);"}</figcaption>
-    </figure>
-</div>
+**How to activate them?**
 
+- **Eternal:** `right click` the item to activate the VIP 
+- **Signature:** it's `applied on your character` from inventory (when you see the timer going down), if it's not, try restart the game.
 
 ## Eternal Server Rates
 
@@ -66,8 +57,11 @@ icon: material/vote-outline
 
 ## Signature Server Rates
 
-- **Base Rates:** 0.75x for all (Adena, Drops, Quests, EXP)
+- **Base Rates:** 0.75x for all (Adena, Drops, EXP)
 - **With Vote/VIP:** 1.0x rates
+
+
+- **Franz**: [Bonus Stages](https://l2reborn.org/news/bonus-stages/)
 
 ### Party Mechanics
 <figure markdown>
@@ -77,3 +71,5 @@ icon: material/vote-outline
 | EXP             | Personal - only your VIP status matters |
 | Epic Bosses     | Always x1 rate (no VIP penalty) |
 </figure>
+
+> You can also access the server rates on the [official website](https://l2reborn.org/)!
