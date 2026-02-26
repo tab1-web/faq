@@ -48,7 +48,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 - **[Eternal](https://l2reborn.org/eternal/) (x10) (Interlude)**
     - **4k online peak**
     - [Seasonal Server](/faq/eternal/faq/#what-is-a-seasonal-server) (July/January)
-        - 2 Servers: [**Main**](https://l2reborn.org/server-features/eternal-2/) (since 2024) / [**Seasonal**](https://l2reborn.org/server-features/eternal)
+        - 2 Servers: [**Main**](https://l2reborn.org/server-features/eternal) (since 2024) / [**Seasonal**](https://l2reborn.org/server-features/eternal-2/)
         - **3 months** into Season characters **merge** into Main
     - **GM Buffer** eliminating the need for buffers and **GM Shop** until C Grade
     - Events like **TvT, DM, CTF..**
