@@ -22,8 +22,8 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
     - **Party/CC instanced epic bosses**
     - Pets that help in **PvE/PvP**, variety in classes
     - [Catch-up server](https://l2reborn.org/news/origins-x5-server-features/) (x5 until Lv80)
-        - Opens on **2026 March 6**
-        - Beta Test opens on **2026 Feb 27**
+        - Opens on **2026 March 6** 18:00 UTC
+        - Beta Test opens on **2026 Feb 27** 18:00 UTC
     - **Good for:** New players that are looking for a traditional x1 L2 experience. 
 
 <br>
