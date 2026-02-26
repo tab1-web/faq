@@ -49,7 +49,7 @@ icon: material/vote-outline
 
     | Level Range | With Vote/VIP | Without Vote/VIP  |
     |-------------|---------------|-------------------|
-    | All Levels  | x3            | x2                |
+    | All Levels  | x4.5          | x3                |
     | Stage 2     | x4.5          | x3                |
     | Stage 3     | x5            | x3                |
 
