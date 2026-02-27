@@ -165,5 +165,34 @@ Your **main class is the selected one**, the cell turns `grey` if you can't have
 [C3 Patch Notes](https://lineage2wiki.com/c3/patch-notes/#subclasses){ .md-button .lightbox }
 </figure>
 
+## Sub to Main Service
+
+- This service is usually announced or sometimes available in `Reborn Shop` in-game for limited time.
+- For **Eternal** you can find this Service in Main Server
+- Requirements:
+    - Your main class must be **between level 75 and 80**
+    - The target subclass (future main class) **between level 75 and 80**
+    - Main Class is **not Warsmith or Overlord**
+    - Character is **not Hero**
+    - You **don't have Elf having Dark Elf** Subclasses and the opposite
+    - Character's inventory is less than 60 items (quest items excluded).
+    - The Subclass and Main Class **do not belong in these same categories** and **you only have 1 sub from targetted category**, such as:
+        - Treasure Hunter, Plainswalker and Abyss Walker
+        - Hawkeye, Silver Ranger and Phantom Ranger
+        - Paladin, Dark Avenger, Temple Knight and Shillien Knight
+        - Warlocks, Elemental Summoner and Phantom Summoner
+        - Elder and Shillien Elder
+        - Swordsinger and Bladedancer
+        - Sorcerer, Spellsinger and Spellhowler
+    - Note that on **Eternal** if you have a Main Class that don't belong into one of these categories and you choose two or more from the same it will allow you to have these subclasses but it won't allow you to use the **Sub to Main service** as long as you have two or more from the same category. You must delete one of the subclasses in the category there's a friction with. 
+        - **For example**: Necromancer can choose Sorcerer, Spellsinger and Spellhowler subs at the same time, however they cannot use the Sub to Main service because they have 3 subclasses from the same category. They would need to delete Spellsinger and Spellhowler to use Sub to Main Service to have Sorcerer as Main.
+
+### Expanding Subclass Slots
+
+- On **Eternal** this is available at Maria for Reborn Coins (Donation).
+    - Services > Expand Subclass Slots
+- You can have 3 Subclass Slots by retail standards and 5 additional from Expanding Subclass Slots, so you can have 8 Subclasses in total.
+- You must level up all of your subclasses to 75 atleast in order to expand subclass slots.
+
 <script src="/faq/gameplay/progression/js/subclass.js" defer></script>
 

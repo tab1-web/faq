@@ -214,6 +214,12 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 ### It's 18.00 UTC and can't exchange Sealstones to Priest?
 - It's normal, wait 16 minutes for Priest to tally up the Seven Sign Points and you can exchange your Seal stones
 
+### Vouchers, what are they?
+
+- Voucher System allows you to create voucher codes for giveaways or share with your friends in `ALT+B`.
+- You can also redeem codes given by another player or from events. 
+- Selling them for items or adena is bannable. *Check [rules](/faq/support/rules/)*
+
 ## 🔧  Technical Issues
 
 ### Why can't I chat?
@@ -245,7 +251,9 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 
 ### Welcome Pack - Starter Kit Infos
 
-- This will be removed and given on start in inventory. 
+- This will be removed and given on start in inventory.
+- It offers Top NG Set and Top NG Weapon, some mana potions and HP potions
+- Mana Potions you get from Starter Kit cannot be used automatically, buy Mana Potions from GM Shop Maria if you want to use them automatically.
 
 ## 🌪️ Classes & Skills
 

@@ -24,6 +24,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
     - [Catch-up server](https://l2reborn.org/news/origins-x5-server-features/) (x5 until Lv80)
         - Opens on **2026 March 6** 18:00 UTC
         - Beta Test opens on **2026 Feb 27** 18:00 UTC
+        - Will merge with Origins later.
     - [Discord News Channel](https://discord.com/channels/622089207028121602/745643094560735242)
     - **Good for:** New players that are looking for a traditional x1 L2 experience. 
 
