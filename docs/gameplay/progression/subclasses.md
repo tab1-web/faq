@@ -174,7 +174,7 @@ Your **main class is the selected one**, the cell turns `grey` if you can't have
     - The target subclass (future main class) **between level 75 and 80**
     - Main Class is **not Warsmith or Overlord**
     - Character is **not Hero**
-    - You **don't have Elf having Dark Elf** Subclasses and the opposite
+    - Elves cannot have Dark Elf subclasses and vice-versa
     - Character's inventory is less than 60 items (quest items excluded).
     - The Subclass and Main Class **do not belong in these same categories** and **you only have 1 sub from targetted category**, such as:
         - Treasure Hunter, Plainswalker and Abyss Walker
