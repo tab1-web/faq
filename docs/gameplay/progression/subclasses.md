@@ -167,7 +167,7 @@ Your **main class is the selected one**, the cell turns `grey` if you can't have
 
 ## Sub to Main Service
 
-- This service is usually announced or sometimes available in `Reborn Shop` in-game for limited time.
+- This service is usually announced or sometimes available in `Reborn Shop` in-game for limited time or on the website shop.
 - For **Eternal** you can find this Service in Main Server
 - Requirements:
     - Your main class must be **between level 75 and 80**
