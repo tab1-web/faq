@@ -5,7 +5,7 @@ icon: material/incognito
 
 ## Why do I have to worry about Account Security?
 
-Reborn sets up systems and rules to protect players, but we're not responsible for players' 
+Reborn sets up systems and rules to protect players, but they're not responsible for players' 
 actions in or out of the game.
 
 
@@ -16,12 +16,6 @@ actions in or out of the game.
 
 
 <div class="grid cards" markdown>
-- ### :simple-2fas: Enable 2FA
-    Activate two-factor authentication on the L2Reborn website.    
-
-    Sometimes email verification can go down, you can always login with 2FA.
-
-    [:octicons-arrow-right-24: Link](https://l2reborn.org/setting/)
 
 - ### :octicons-question-24: About 2FA
 
@@ -39,13 +33,6 @@ actions in or out of the game.
     - `.unlock pin` - disables protection
 
 
-- ### :material-restart: Reset Lock System
-    !!! info "Requirements"
-        Enable [2FA](https://l2reborn.org/setting) first.
-    
-    - Visit [Game Accounts](https://l2reborn.org/account/#origins)
-    - Click `Overview` on the account
-    - Click `⋯` and **Unlock**
 
 - ### :material-unicorn-variant: Use Unique Passwords
     Use different passwords for different accounts (master, email, servers)
