@@ -244,32 +244,37 @@ Or disabling Intel Hyper-Threading in BIOS
 
 Thanks **@Aline**
 
-**__🔴 BIOS Settings - AMD CPUs (Ryzen)__**
+### **__🔴 BIOS Settings - AMD CPUs (Ryzen)__**
 
-__Recommended BIOS settings__
+#### __Recommended BIOS settings__
+
 - SMT (Simultaneous Multithreading): Disable
 - Global C-State Control: Disable
 - CPPC / Preferred Cores: Disable (if available)
 - Power Supply Idle Control: Typical Current Idle
 
-**__🔵 Bios Settings - Intel CPUs__**
+### **__🔵 Bios Settings - Intel CPUs__**
 
-__For all Intel CPUs, recommended BIOS settings__
+#### __For all Intel CPUs, recommended BIOS settings__
+
 - Hyper-Threading: Disable
 - CPU C-States: Limit to C0 / C1
 - SpeedStep / Speed Shift: Disable or set to Max Performance
 
-__Intel 12th / 13th / 14th Gen (P-cores + E-cores)__
+#### __Intel 12th / 13th / 14th Gen (P-cores + E-cores)__
+
 - E-Cores: Disable
 - Or enable Legacy Game Compatibility Mode
 - Or set Active E-Cores = 0
 
-**__🟢 Windows Settings __**
+### **__🟢 Windows Settings __**
+
 - Power Plan: High Performance
 - Do not use “Balanced”
 - Make a clean GPU driver reinstall, using DDU. [You can use this guide with Step 3](https://windowsforum.com/threads/windows-11-kb5074109-gaming-fps-drops-fix-with-clean-gpu-driver-install.397619/)
 
-**__Notes__**
+### **__Notes__**
+
 - This is not overclocking, there is no physical risk for the CPU
 - Temperatures and power usage may increase
 - BIOS names vary by motherboard vendor
