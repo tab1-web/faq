@@ -17,7 +17,6 @@ To preserve the social fabric of the game and eliminate the "min-max" culture th
 - **Zero-Tolerance for "Drivers":** A system designed to kill the 24/7 "Driver" meta. L2 is a game, not a job.
 - **Removing MDT as an offline shop gathering area:** Cities will feel more lively.
 - **Removing buffers on relog:** Buffers on relog will be prevented, it won't be possible for example to have PP / SE / EE on relog played by 1 person.
-    - Buffers sellings buffs 24/7, which 99% of them are alts/boxes from someone else must disappear as well so more people will be looking for party.
 - **Removing Retail Bugs:** All kinds of retail bugs (like Healing Cubic healing across the map) will be fixed and won't exist.
 
 ## Anti-Powerleveling & Security
