@@ -10,7 +10,8 @@ With the spirit of *Origins* and *Signature*, Legacy offers retail-close content
 
 To preserve the social fabric of the game and eliminate the "min-max" culture that ruined the classic experience, Legacy implements strict rules:
 
-- **Subscription Based:** A fair sub-model (€3.70 to €14/"month" depending on plans) replaces the need for premium shops, custom cosmetics, or "pay-to-skip" services.
+- **Subscription Based:** A fair sub-model replaces the need for **premium shops**, **custom cosmetics**, or **"pay-to-skip"** services.
+    - **3.70€** with yearly balance promotion, **7.40€/month** from yearly subscription or **14€/month** for the basic subscription
 - **True Single-Box:** No dual-boxing and no account sharing. One player, one character, one world.
 - **Modern Quality of Life:** While the content is old-school, the interface is not. Enjoy auto-soulshots and a modern mailing system without the critical errors of the 2004 client.
 - **Zero-Tolerance for "Drivers":** A system designed to kill the 24/7 "Driver" meta. L2 is a game, not a job.
