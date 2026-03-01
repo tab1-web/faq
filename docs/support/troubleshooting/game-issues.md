@@ -232,3 +232,10 @@ Restart your PC. `Error at hooking API ...`
 </a>
 </figure>
 
+## Keep crashing after 5 minutes in-game and I have a 12th gen Intel
+
+- Download [Process Lasso](https://bitsum.com/) 
+    - Launch Game, find `l2.bin`
+    - Right click on it > CPU affinity > Always > Select CPU affinity > Select CPU 0,2,4,6
+
+Or disabling Intel Hyper-Threading in BIOS
