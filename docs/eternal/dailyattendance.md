@@ -52,6 +52,8 @@ hr {
 
     Each reward requires the previous to claim.
 
+    You can claim `X2` rewards with VIP.
+
 - <figure markdown>
 <a href="https://postimg.cc/HryQ9b4k">
     ![Daily](https://i.postimg.cc/t4r2y5sW/dailyy.png){.lightbox width=60%}
