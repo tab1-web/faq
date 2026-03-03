@@ -39,31 +39,20 @@ Additionally try:
 
 
 
-## Do Linux & MacOS operating systems work?
-:material-close: **Does not work on Reborn servers** – SmartGuard (anti-cheat) only supports Windows 10/11.
+## What operating systems or systems work?
 
-:material-close: **M1/M2 Macs (Apple Silicon) are NOT supported.**
-
-:material-check: Only works on **Intel-based Macs** with a Windows partition (via Boot Camp).
-
- 
-
-## Does Cloud Gaming work?
-**No**, keyboard presses through streaming software don't work.
-
-
-
-## Do virtual systems work?
-**No**, SmartGuard (anti-cheat) prevents this.
-
-
+- SmartGuard (the anti-cheat) only supports Windows 10/11 native.
+- **M1/M2 Macs (Apple Silicon)** are NOT supported.
+    - Only works on **Intel-based Macs** with a Windows partition (via Boot Camp).
+- **Cloud Gaming** doesn't work, keyboard presses through streaming software won't work.
+- **Virtual Machines** (VMs) doesn't work, SmartGuard (the anti-cheat) prevents this.
+- **ARM-based** processors are not supported 
 
 ## Does Steam Deck work?
-[Yes, it does.](https://imgur.com/a/fl2vN55) You need to download Windows: [tutorial.](https://youtu.be/yBHzVSDVEqw?si=dX0EqR_q8-1_svqu)
-
-Key remap softwares: [reWASD](https://www.rewasd.com/) or [SWICD](https://youtu.be/07sP60nivXE?si=i2xpPtBbf_f3wIC8)
-
-Thanks for the video @royce6735 !
+- [Yes, it does.](https://imgur.com/a/fl2vN55) You need to download Windows: [tutorial.](https://youtu.be/yBHzVSDVEqw?si=dX0EqR_q8-1_svqu)
+    - The in-game captcha might be tricky to be solved as seen in video, make sure to practice a bit with the **trackpad**. 
+- Key remap softwares: [reWASD](https://www.rewasd.com/) or [SWICD](https://youtu.be/07sP60nivXE?si=i2xpPtBbf_f3wIC8)
+- Thanks for the video **@royce6735**!
 
 ## On Shutdown PC restarts instead
 
