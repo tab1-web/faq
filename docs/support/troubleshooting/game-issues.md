@@ -267,7 +267,7 @@ Thanks **@Aline**
 - Or enable Legacy Game Compatibility Mode
 - Or set Active E-Cores = 0
 
-### **__🟢 Windows Settings __**
+### **🟢 Windows Settings**
 
 - Power Plan: High Performance
 - Do not use “Balanced”

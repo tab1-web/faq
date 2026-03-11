@@ -63,9 +63,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 - **[H5 Forever](https://l2reborn.org/forever/) (x15) (High-Five)**
     - Online on lower side, more online **on Seasons**
         - 2k online peak on Seasonal Launch
-    - **Seasonal Server** (October/April)
-        - 2 Servers: **Main** / **Seasonal**
-        - 3 months into Season characters merge into Main
+    - Discontinued seasons, there won't be new seasons, only a main server.
     - **GM Buffer** eliminating the need for buffers and **GM Shop** until S Grade
     - [Discord News Channel](https://discord.com/channels/622089207028121602/1150401109018558628)
     - **Good for:** H5 Enthusiasts

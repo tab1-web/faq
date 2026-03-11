@@ -268,6 +268,18 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 
 ## 🔍  UI & Customization
 
+
+### Effect to Debuff window, what is it?
+- It is a menu that can be accessed by pressing the cog wheel on the buff bar.
+- You can apply certain buffs to show them as debuff instead
+- Use Cases:
+    - This allows bishops to see when to noblesse party members or for overlords when to apply empower in case they their party lost those buffs in debuff party menu for example.
+
+<figure markdown>
+[![image.png](https://i.postimg.cc/J4qcDYXz/image.png){width=90%}](https://postimg.cc/PPC804Kg)
+<figcaption>Thanks @Atalia for the picture!</figcaption>
+</figure>
+
 ### I saw on a stream that party members have noblesse icon next to their name, how to apply it?
 - Go to the Addons folder of Eternal and paste contents of L2RebornCustom folder in Eternal
 

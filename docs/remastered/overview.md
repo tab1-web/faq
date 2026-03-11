@@ -26,6 +26,40 @@ Remastered follows a **Progressive Chapter System** (one chapter per month), evo
 
 Whether you enjoy solo grinding, fishing, or organized GvG, Remastered offers a comfortable but long-term journey. With basic buffs, mana potions, and vitality systems, you are never "stuck" in one stage for months.
 
+
+## Reimagined Olympiad
+
+The Olympiad has been transformed into a weekly tournament-based system where individual skill outweighs clan influence. Every Saturday, players face off in a hidden-identity, bracket-style competition.
+
+### Monthly Tournament Cycle
+
+The format rotates every week to test different aspects of combat:
+
+- **Week 1:** 1v1 Class Tournament (Class-specific brackets).
+- **Week 2:** 3v3 Team Tournament (Coordinated group combat).
+- **Week 3:** 1v1 Open Class (Standard any-vs-any).
+- **Week 4:** 1v1 Tournament with NPC buffs (Open class with full buffs enabled).
+
+### Competitive Rules
+
+- **Anonymity:** Player names are hidden to prevent feeding or bias.
+- **Tournament Logic:** Single elimination brackets; Semi-finals and Finals are **Best of 3**.
+- **Victory Conditions:** If a timeout occurs, the winner is determined by a **Live Damage Counter**. Draws result in both parties being eliminated.
+
+Closely resembles of how the Tournament works on Eternal.
+
+### Rewards & Hero Status
+
+We’ve overhauled the reward structure to ensure every participant progresses. Tokens earned can be exchanged for **Epic Jewels, enchants, and spellbooks** among others, that are bound to the character.
+
+| Achievement | Reward Type | Visual Honors |
+| --- | --- | --- |
+| **Weekly Rank (1-3)** | Tokens + Points | Gold/Silver/Bronze Wings + Hero Aura |
+| **Monthly Hero** based on general ranking from all 4 gamemodes over the month. | Exclusive Title | Improved Hero Aura, Hero Weapon, & Hero Cloak |
+
+> **Note:** Hero status is no longer about "feeding" or clan size. Only the top-performing players across all four modes will earn the Monthly Hero title and skills.
+
+
 <figure markdown>
 __Coming 2026 Q4__
 </figure>

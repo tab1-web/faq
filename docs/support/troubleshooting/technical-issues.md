@@ -224,10 +224,11 @@ Disable system's debug mode: [here](https://smart-guard.eu/en/support/game-clien
 
 Try everything from [here](#ultimate-fix-summary)
 
-# 0xc0000409
+## 0xc0000409
 
 - On Eternal this was fixed by adding the `1024 Cache` addon from Eternal files.
 - Could also try cleaning cache files in `%localappdata%` : Delete `UnrealEngine`, `Temp` and `.dxcache` files
+- This might be [related to 12th gen intel PCs](/faq/support/troubleshooting/game-issues/#keep-crashing-after-5-minutes-in-game-and-i-have-a-12th-gen-intel)
 
 ## 0xc000041d
 Anti-virus is blocking Smartguard
