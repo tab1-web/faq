@@ -8,7 +8,7 @@ __No grinding, no mandatory farming.__ Just plug and play experience.
 ## The Concept
 
 - Classes have been reworked and updated using mechanics and skills from multiple chronicles.
-- **Server without 0% RMT:** All the items are soul-binded, there is no market in this server.
+- **Server without RMT:** All the items are soul-binded, there is no market in this server.
     - **Progression is done by achievements:** Participating in events, completing achievements or reaching ranks.
 - **Every class is viable**, every role matters, and team composition actually counts.
 
