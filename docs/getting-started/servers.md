@@ -26,6 +26,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
         - Beta Test opens on **2026 Feb 27** 18:00 UTC
         - Will merge with Origins later.
     - [Discord News Channel](https://discord.com/channels/622089207028121602/745643094560735242)
+    - Storage: 25GB
     - **Good for:** New players that are looking for a traditional x1 L2 experience. 
 
 <br>
@@ -45,6 +46,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
         - Established market 
         - No Stages
     - [Discord News Channel](https://discord.com/channels/622089207028121602/1260153801608790037)
+    - Storage: 23GB
     - **Good for:** Veterans or players seeking a challenge. 
 
 <br>
@@ -57,6 +59,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
     - **GM Buffer** eliminating the need for buffers and **GM Shop** until C Grade
     - Events like **TvT, DM, CTF..**
     - [Discord News Channel](https://discord.com/channels/622089207028121602/1091647392836767864)
+    - Storage: 22GB
     - **Good for:** Players who love PvP and a faster "grind" that still rewards hard work.
 
 <br>
@@ -66,6 +69,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
     - Discontinued seasons, there won't be new seasons, only a main server.
     - **GM Buffer** eliminating the need for buffers and **GM Shop** until S Grade
     - [Discord News Channel](https://discord.com/channels/622089207028121602/1150401109018558628)
+    - Storage: 22GB
     - **Good for:** H5 Enthusiasts
 
 <br>
@@ -76,6 +80,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
     - Cool skills, lots of gambling with enchants
     - **Auto-farm**, classes with **self-buffs**
     - [Discord News Channel](https://discord.com/channels/622089207028121602/1091647332233248838)
+    - Storage: 35GB
     - **Good for:** Busy players who love flashy skills and auto-farm while they work or study.
 
 <br>
