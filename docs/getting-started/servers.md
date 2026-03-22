@@ -14,7 +14,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 </p>
 
 - **[Origins](https://l2reborn.org/server-features/origins-server-features/) (x1) (High-Five)**
-    - **3k online peak**
+    - **2k Daily Peak**
     - Opened in 2019 
     - Starter Kits up to **B-Grade**
     - **Dynamic Rates:** x3 (Lv76), x2 (Lv82), x1.5 (Lv85) with VIP
@@ -52,7 +52,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 <br>
 
 - **[Eternal](https://l2reborn.org/eternal/) (x10) (Interlude)**
-    - **4k online peak**
+    - **4k Daily Peak**
     - [Seasonal Server](/faq/eternal/faq/#what-is-a-seasonal-server) (July/January)
         - 2 Servers: [**Main**](https://l2reborn.org/server-features/eternal) (since 2024) / [**Seasonal**](https://l2reborn.org/server-features/eternal-2/)
         - **3 months** into Season characters **merge** into Main
@@ -75,7 +75,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 <br>
 
 - **[Essence](https://l2reborn.org/essence/) (x1) (Warg)**
-    - **1.5k online**
+    - **1.5k Daily Peak**
     - [Custom Balance (check news for info)](https://l2reborn.org/news/) 
     - Cool skills, lots of gambling with enchants
     - **Auto-farm**, classes with **self-buffs**
@@ -119,6 +119,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 
 </figure>
 
+Thanks **@Eirial**{style="color: yellow"} for providing the Storages!
 
 <style>
 
