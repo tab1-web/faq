@@ -49,7 +49,7 @@ icon: material/vote-outline
 
     | Level Range | With Vote/VIP | Without Vote/VIP  |
     |-------------|---------------|-------------------|
-    | All Levels  | x4.5          | x3                |
+    | All Levels  | x5            | x3                |
 
 </div>
 

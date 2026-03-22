@@ -31,15 +31,16 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 <br>
 
 - **[Signature](https://l2reborn.org/server-features/signature-server-features/) (x1) (C4-IL)**
-    - **3k online peak**
     - Newbie Guide buffs until **Lv24**
     - Offers **starter kits** (NG/D Grade) for catch-up
     - Slower-paced with retail-like settings, currently **C5**
     - **Franz**
+        - **800 Daily Peak**
         - Opened in **2025 Nov**
         - [Bonus Stages](https://l2reborn.org/news/bonus-stages/)
         - Will merge with Teon in **June 2026**
     - **Teon**
+        - **1.3k Daily Peak**
         - Opened in **2024 Nov**
         - Established market 
         - No Stages
@@ -61,8 +62,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 <br>
 
 - **[H5 Forever](https://l2reborn.org/forever/) (x15) (High-Five)**
-    - Online on lower side, more online **on Seasons**
-        - 2k online peak on Seasonal Launch
+    - Online on lower side
     - Discontinued seasons, there won't be new seasons, only a main server.
     - **GM Buffer** eliminating the need for buffers and **GM Shop** until S Grade
     - [Discord News Channel](https://discord.com/channels/622089207028121602/1150401109018558628)

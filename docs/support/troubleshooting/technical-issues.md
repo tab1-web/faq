@@ -168,6 +168,12 @@ Close Updater, delete that file that has problem, re-launch Updater.
     </a>
 </figure>
 
+## Critical Error on Exit
+- Ignore this message, there is no way to stop it from happening.
+
+<figure markdown>
+[![image.png](https://i.postimg.cc/qRb3CN9r/image.png){width=70%}](https://postimg.cc/62Z3kpWb)
+</figure>
 
 
 ## 0301 CDEF0007

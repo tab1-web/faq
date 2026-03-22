@@ -112,11 +112,11 @@ Yes, shortcuts reset and cannot be fixed.
 
 **Teon:**
 
-- ~2-3k Daily Online
+- ~1.3k Daily Peak
 
 **Franz:**
 
-- ~3-4k Daily Online
+- ~ 800 Daily Peak
 
 ### Server Stages
 
@@ -236,9 +236,14 @@ Refer to the [dye page](/faq/gameplay/dyes) for specific dye combinations and ef
 
 </div>
 
+### What's the "Vampiric" effect that makes Mobs Aggro?
+
+- They use **Soul Crystals** that are originally for levelling up soul crystals and putting special abilities on weapons, however, they can be also used to pull mobs from range. They consume 26 MP per use. 
+- More info on Soul Crystals [here](/faq/signature/faq/#soul-crystals)
+
 ### Spoil Macro
 
-- Do this for each mob you see:
+- Replace `mob` at `/target mob` for each mob you want to Sweep:
 
 ```
 /target mob
@@ -246,7 +251,8 @@ Refer to the [dye page](/faq/gameplay/dyes) for specific dye combinations and ef
 /us Sweep
 ```
 
-And keep running around the monsters
+And keep running around the monsters, this will target dead mobs as well as mobs that are alive, but there is no way to just only target corpses. Keep running around and spamming macro to make sure you target the most amount of targets. 
+
 
 ## Character Progression
 
@@ -260,16 +266,18 @@ If you PK with Weapon from Cat (adventurer weapons) then it gets de-equipped and
 
 ### WK/ES Buffs
 
-Pet buffs unlock at:
+Summon buffs unlock at:
 
 - Level 56: Effect 1
 - Level 62: Effect 2
 - Level 68: Effect 3
 
+> Note: these do not relate to [Kookas/Tigers/Buffalos](/faq/signature/faq/#pets)
+
 ### Soul Crystals
 
 - Soul Crystals do not break in C5.
-- Pick up the quest at Magic Guilds (Aden, Giran) at one of the Magisters
+- Pick up the quest at Magic Guilds (Aden, Giran) at one of the Magisters ([Quest](https://lineage2wiki.org/interlude/quest/350/enhance-your-weapon/))
   - You can choose Red, Blue, Green SC Lv1
 - If you want to level soul crystals up, use soul crystals on the [appropriate mobs and corresponding level](https://lineage2wiki.org/c5/soul-crystal/) when the mobs are below 30-50% HP.
 - You can also buy Soul Crystals from [Giran's Luxury Shop](https://lineage2wiki.org/interlude/item/exchange/)

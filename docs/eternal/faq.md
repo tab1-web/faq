@@ -248,6 +248,10 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 
 ### How to raise my VIP Level?
 - You cannot raise it higher than level 1, if it's level 1, that means the VIP/Rune is activated
+- Vote/VIP doesn't stack
+- If there are **Golden Coins** they will Level up to 3.
+    - They are given in rare occassions like very long maintenance or events.
+    - It used to double or make the drops x6 and raise [quest drop rates](https://discord.com/channels/622089207028121602/1091647392836767864/1288538691270086667) 
 
 ### Welcome Pack - Starter Kit Infos
 
@@ -285,6 +289,44 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 
 ### What plugins, programs, files, patches can I use?
 - Reborn provides official addons. Outside of these, players assume responsibility for any custom edits. Modifications that grant PvE/PvP advantages are not permitted and may result in penalties.
+
+## 💵 Donation
+
+### How do the Paid Mounts work?
+
+- Paid Mounts are **Lv80** mounts
+- They are seperate mounts, meaning it's not a skin for your already existing mount
+- You can instantly summon them, whereasin the Strider requires bit of channeling time
+- The Striders found at **Maria > Medal Shop** are Lv55
+
+<figure markdown>
+[![image.png](https://i.postimg.cc/xqryckzV/image.png){width=60%}](https://postimg.cc/vxz6KZh0)
+</figure>
+
+### How to try out Cosmetics?
+
+- Do `.trycosmetic` in Towns
+
+### Can you move Donate Items across Main/Season?
+
+- No.
+
+### Can you trade with Reborn Coins or Cosmetics for items/services etc?
+
+- No.
+
+### What's worth to buy in Reborn Shop?
+
+- Subclasses are pretty worth, they can take from 2h to a day, depending how ToI bosses line up.
+- Paid Mounts can be pretty nice for running around.
+- Cosmetics/Skins for the drip. 
+
+### Does VIP/Vote stack?
+- You cannot raise it higher than level 1, if it's level 1, that means the VIP/Rune is activated
+- Vote/VIP doesn't stack
+- If there are **Golden Coins** they will Level up to 3.
+    - They are given in rare occassions like very long maintenance or events.
+    - It used to double or make the drops x6 and raise [quest drop rates](https://discord.com/channels/622089207028121602/1091647392836767864/1288538691270086667) 
 
 ## ❓ Other
 

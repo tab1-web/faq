@@ -38,6 +38,20 @@ You can search on the website in the top right corner and you can also search th
 
 </div>
 
+## Future of MkDocs
+
+The core engine of our site, MkDocs, is being rewritten from the ground up for version 2.0.0. However, this new version is a reset that is not compatible with our current design and features.
+
+Our site uses the Material for MkDocs theme, which provides our search, navigation tabs, and mobile-friendly layout.
+
+- MkDocs 2.0.0 is removing support for the plugin system that Material needs to work.
+
+Zensical is designed to be a drop-in replacement. We can eventually switch to it without changing our content or how the site looks.
+
+For now, we are staying on MkDocs 1.x (the current version). It is stable, and the Material team is committed to keeping it working until the new tool is ready.
+
+More info [here](https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/).
+
 ## Credits
 - **:material-crown: Tabi**{style="color:rgb(107, 103, 223); font-weight: bold;"} 
 

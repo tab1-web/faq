@@ -157,6 +157,14 @@ whatever value you feel comfortable in changing it too.
 </a>
 </figure>
 
+## No Sounds
+
+- Check Settings to see if you accidentally muted it with pressing `.`
+- Additionally, check Windows Volume Mixers as there are 2 different volume controls, one for the **Device** and the other for **Applications**.
+
+<figure markdown>
+[![image.png](https://i.postimg.cc/W4ctDGzN/image.png){width=40%}](https://postimg.cc/MntzNj1N)
+</figure>
 
 ## Small Texts and Buttons on 4k Monitor
 

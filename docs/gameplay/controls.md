@@ -30,9 +30,13 @@ icon: fontawesome/regular/keyboard
 
 </div>
 
-If you wish to see some indicators on the screen, tick some options in the __"Damage Text Settings"__ and __"Screen Info"__, Gauge Status Indicator for Player shows your health bar above your character.
+- Enable **Enter Chat** in **Shortcut** Settings so whenever you press a button it doesn't appear in Chat!
+    - Whenever you want to edit a **Shortcut** use the 2nd Column under **WASD Movement - Enter Chat**
+    - The keys might reset when you try re-log.
 
-You may __drag windows around__ by grabbing the side or the top of the windows' bar.
+- If you wish to see some indicators on the screen, tick some options in the __"Damage Text Settings"__ and __"Screen Info"__, Gauge Status Indicator for Player shows your health bar above your character.
+
+- You may __drag windows around__ by grabbing the side or the top of the windows' bar.
 
 ### How to enable Loot/Drops messages on Eternal
 
