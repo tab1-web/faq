@@ -258,6 +258,7 @@ Restart your PC. `Error at hooking API ...`
 - Download [Process Lasso](https://bitsum.com/) 
     - Launch Game, find `l2.bin`
     - Right click on it > CPU affinity > Always > Select CPU affinity > Select CPU 0,2,4,6
+    - Found out this is will give you a Trial version, try the below option instead.
 
 Or disabling Intel Hyper-Threading in BIOS
 
