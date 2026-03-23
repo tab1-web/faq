@@ -97,11 +97,13 @@ h2 {
 - Make sure to only have 1 offline shop per account and not farming on the same
 - **Set up an offline shop** in a peace zone and **Exit the game**
 
-### How to switch sets?
+### How to switch armor sets?
 1. **Locate the Circle** icon at the bottom left of the hotbar
 2. **Tick the armor sets panel**
 3. **Equip your desired armor set**
 4. **Click the plus icon** (+) to save the configuration
+
+> Troubleshoot: [here](/faq/support/troubleshooting/game-issues/#unresponsive-buttons-fix)
 
 ### When is the Weekend Bonus, what are the bonuses?
 - Both Main and Seasonal Servers get the Weekend Bonus
@@ -112,9 +114,6 @@ h2 {
 - x2 Barakiel Fragments
 - x2 Medals as PvP Event rewards.
 - Champion monsters: give more rewards and are more difficult to hunt.
-
-### How to add buffs as debuffs visually?
-- Locate your buffs and on the left side click the circle, when you are done hit Save
 
 ### Do summons retain their buffs after death in pvp events?
 - Yes, except for Soultaker.

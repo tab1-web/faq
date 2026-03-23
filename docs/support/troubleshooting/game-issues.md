@@ -148,14 +148,27 @@ This solution fixes the buttons not working for Monster Data / Spoil / Reborn St
     - They're found in: `\Reborn\games\signature\system\`
 - OR try make your l2 window really small and go full screen with alt+enter. 
 
-Some window names in `windowsinfo.ini` are named intuitively so you can find 
-whatever value you feel comfortable in changing it too.
-
 <figure markdown="1">
 <a href="https://postimg.cc/yD7dg1Qs">
 ![Buttons Fix Video](https://i.postimg.cc/2SZBt3nb/13Jl6Qc.gif){ width=50% .lightbox }
 </a>
 </figure>
+
+### Eternal Troubleshoot
+
+- Some window names in `windowsinfo.ini` are named intuitively so you can find 
+whatever value you feel comfortable in changing it too.
+- If you are having trouble opening up **Armor Set Window** then look for these inside `windowsinfo.ini`:
+
+```
+[ShortcutArmorSetsWnd]
+x=340
+y=340
+```
+
+- And change the values to these for example, **Save** and launch back **L2**.
+- Make sure the `windowsinfo.ini` in Properties (right-click file) is not Read-only!
+
 
 ## No Sounds
 
