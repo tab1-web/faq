@@ -3,6 +3,16 @@ icon: material/monitor-arrow-down
 ---
 
 ## Ultimate Fix Summary 
+
+### Looking up errors
+
+You can see specific error codes in **Event Viewer**
+
+<figure markdown>
+[![image.png](https://i.postimg.cc/JzQKxfYG/image.png){width=60%}](https://postimg.cc/mPtQ25ss)
+</figure>
+
+### Bulletpoints
 Try all steps, :white_check_mark: what you've tested, and share your results in [Discord](https://discord.com/invite/l2reborn) or [write a support ticket.](https://l2reborn.org/support/) :slight_smile: 
 
 Please make sure that:
@@ -21,7 +31,6 @@ Please make sure that:
 - [ ] You have [DirectX 2010](https://www.microsoft.com/en-us/download/details.aspx?id=8109) downloaded, extracted and DirectX installer ran inside extracted folder.
 - [ ] Your **drivers** are **up-to-date**.
 - [ ] You are logging in with your in-game account's username **(e.g. le_lenny13)** and not your Master Account's email.
-- [ ] In some rare cases: Cache needs to be cleaned in %localappdata% : Delete `UnrealEngine`, `Temp` and `.dxcache` files
 
 Additionally try:
 
@@ -35,8 +44,6 @@ Additionally try:
 - [ ] **Disabling all overlay extensions**: Discord, Overwolf, GameBar etc..
 - [ ] [Reinstalling .NET frameworks or Enable them](https://youtu.be/57HbrVq6Ej0?si=uUNFievc5M00opIf&t=105), click on drop down and tick the options below as well.
 - [ ] Updating your Windows or uninstalling a recent update if you had. (23H2 , 24H2 seems to work)
-
-
 
 
 ## What operating systems or systems work?
