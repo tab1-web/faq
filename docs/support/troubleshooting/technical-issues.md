@@ -76,9 +76,19 @@ Additionally try:
     </a>
 </figure>
 
+## Why can't I see the other games in Reborn Launcher? It looks cut off.
+
+- Reduce Text Size to 100% in **Accessibility settings**.
+
+<figure markdown>
+[![text size](https://i.postimg.cc/wMyfcN2q/kep.png){width=60%}](https://postimg.cc/wRzQ97nZ)
+</figure>
+
 ## Part of this app has been blocked
 
-[![image.png](https://i.postimg.cc/CMGVLmwn/image.png){width=20%}](https://postimg.cc/NLjnd89Q)
+<figure markdown>
+[![image.png](https://i.postimg.cc/CMGVLmwn/image.png){width=30%}](https://postimg.cc/NLjnd89Q)
+</figure>
 
 - Some features of ... may not work because we can't confirm who published.. 
 - Solution found was to reinstall Windows and restrict windows security from regedit and enabling it back.
