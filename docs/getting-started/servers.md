@@ -55,8 +55,9 @@ Daily Peaks are without offline shop being counted, there are also more people l
 <br>
 
 - **[Eternal](https://l2reborn.org/eternal/) (x10) (Interlude)**
-    - **4k Daily Peak**
+    - **600-1k+ Daily Peak on Main**
     - [Seasonal Server](/faq/eternal/faq/#what-is-a-seasonal-server) (July/January)
+        - **4k Peak on Seasonal Launches**
         - 2 Servers: [**Main**](https://l2reborn.org/server-features/eternal) (since 2024) / [**Seasonal**](https://l2reborn.org/server-features/eternal-2/)
         - **3 months** into Season characters **merge** into Main
     - **GM Buffer** eliminating the need for buffers and **GM Shop** until C Grade
