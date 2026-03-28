@@ -13,8 +13,10 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
 **all**{style="color:orange;"} Servers
 </p>
 
+Daily Peaks are without offline shop being counted, there are also more people logging throughout the day but it only shows Daily Peak.
+
 - **[Origins](https://l2reborn.org/server-features/origins-server-features/) (x1) (High-Five)**
-    - **2k Daily Peak**
+    - **800 Daily Peak**
     - Opened in 2019 
     - Starter Kits up to **B-Grade**
     - **Dynamic Rates:** x3 (Lv76), x2 (Lv82), x1.5 (Lv85) with VIP
@@ -22,6 +24,7 @@ No **P2W**{style="color:orange;"}, Never **Wipe**{style="color:orange;"}, No **D
     - **Party/CC instanced epic bosses**
     - Pets that help in **PvE/PvP**, variety in classes
     - [Catch-up server](https://l2reborn.org/news/origins-x5-server-features/) (x5 until Lv80)
+        - **2.3k Daily Peak**
         - Opens on **2026 March 6** 18:00 UTC
         - Beta Test opens on **2026 Feb 27** 18:00 UTC
         - Will merge with Origins later.

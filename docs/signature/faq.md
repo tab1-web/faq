@@ -175,7 +175,7 @@ Press `PgDN` to zoom out. Using third-party programs to increase zoom further is
 | Pole weapon             | +4 target, total 5   |
 | Pole Mastery low level  | +5 target, total 10  |
 | Pole Mastery high level | +10 target, total 15 |
-| Fell swoop lvl 5        | +5 target, total 20  |
+| Fell swoop lvl 5        | +10 target, total 25 |
 
 ### Next Target Options
 
