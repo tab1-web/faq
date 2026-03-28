@@ -21,9 +21,9 @@ icon: material/message
 
 <figure markdown>
 
-[![Y1-Vr-PZK-Imgur.png](https://i.postimg.cc/dtYMZ7W2/Y1-Vr-PZK-Imgur.png)](https://postimg.cc/hhpZHGRv)
+[![system-message.png](https://i.postimg.cc/d16xZHKh/system-message.png)](https://postimg.cc/R63RjThm)
 
-Thanks **@Ascy**{style="color:red;"} for the image
+Thanks **@Ascy**{style="color:red;"} for the image and **@Greatsky**{style="color:white;"} for the CN addition!
 
 </figure>
 
