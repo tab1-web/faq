@@ -8,11 +8,13 @@ Login with the last character you logged.
 
 **Eternal:**
 
-- I fixed it one time for my friend by logging his character and using Maria to teleport.
-- Daily Server Restart at 8 am UTC helps too or logging from another device.
-- If issue persists, [open a ticket](https://l2reborn.org/support/).
+- There **isn't a solution that fixes it for everyone**:
+    - I fixed it one time for my friend by logging his character and using Maria to teleport.
+    - GMs in the past tried to kick/jail the player, but that solution did not work.
+    - For someone else it was restarting their router
 
-> GMs in the past tried to kick the player, but that solution did not work.
+- What fixes it fully is a **server restart** in the morning at 8:30 AM UTC+0 or play from **another device** until then.
+- If issue persists or you know how to reproduce it please [open a ticket](https://l2reborn.org/support/).
 
 <div class="grid cards" markdown>
 <figure markdown="1">
