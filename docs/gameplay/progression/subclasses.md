@@ -172,7 +172,8 @@ Your **main class is the selected one**, the cell turns `grey` if you can't have
 - Requirements:
     - Your main class must be **between level 75 and 80**
     - The target subclass (future main class) **between level 75 and 80**
-    - Main Class is **not Warsmith or Overlord**
+    - Main Class is **not "Warsmith or Overlord"**
+        - **Eternal:** You can do the Main to Sub service on these mains, but these restricted classes will be erased and race would be changed to the targetted subclass.
     - Character is **not Hero**
     - Elves cannot have Dark Elf subclasses and vice-versa
     - Character's inventory is less than 60 items (quest items excluded).
