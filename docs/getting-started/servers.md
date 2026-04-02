@@ -34,16 +34,18 @@ Daily Peaks are without offline shop being counted, there are also more people l
 
 <br>
 
-- **[Signature](https://l2reborn.org/server-features/signature-server-features/) (x1) (C4-IL)**
+- **[Signature](https://l2reborn.org/server-features/signature-server-features/) (C4-IL)**
+    - Currently C5
     - Newbie Guide buffs until **Lv24**
     - Offers **starter kits** (NG/D Grade) for catch-up
     - Slower-paced with retail-like settings, currently **C5**
-    - **Franz**
+    - There are 2 servers at server selection: Franz & Teon
+    - **Franz** (x1.5)
         - **800 Daily Peak**
         - Opened in **2025 Nov**
         - [Bonus Stages](https://l2reborn.org/news/bonus-stages/)
         - Will merge with Teon in **June 2026**
-    - **Teon**
+    - **Teon** (x1)
         - **1.3k Daily Peak**
         - Opened in **2024 Nov**
         - Established market 
@@ -56,9 +58,9 @@ Daily Peaks are without offline shop being counted, there are also more people l
 
 - **[Eternal](https://l2reborn.org/eternal/) (x10) (Interlude)**
     - **600-1k+ Daily Peak on Main**
+    - There are 2 servers on server selection: [Main (since 2024)](https://l2reborn.org/server-features/eternal) & [Seasonal](https://l2reborn.org/server-features/eternal-2/) (Seasonal only up if Season started)
     - [Seasonal Server](/faq/eternal/faq/#what-is-a-seasonal-server) (July/January)
         - **4k Peak on Seasonal Launches**
-        - 2 Servers: [**Main**](https://l2reborn.org/server-features/eternal) (since 2024) / [**Seasonal**](https://l2reborn.org/server-features/eternal-2/)
         - **3 months** into Season characters **merge** into Main
     - **GM Buffer** eliminating the need for buffers and **GM Shop** until C Grade
     - Events like **TvT, DM, CTF..**
@@ -79,6 +81,7 @@ Daily Peaks are without offline shop being counted, there are also more people l
 <br>
 
 - **[Essence](https://l2reborn.org/essence/) (x1) (Warg)**
+    - Progressive Server
     - **1.5k Daily Peak**
     - [Custom Balance (check news for info)](https://l2reborn.org/news/) 
     - Cool skills, lots of gambling with enchants

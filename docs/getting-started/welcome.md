@@ -19,7 +19,7 @@ It started in **2019 October 31** by a **group of enthusiasts** with the goal of
 
 <figure markdown="span">
     <a href="https://postimg.cc/K44NxzGK">
-    ![Launcher Image](https://i.postimg.cc/dQjSRkg9/launcher.png){ .lightbox width=45% }
+    ![Launcher Image](https://i.postimg.cc/dQjSRkg9/launcher.png){ width=70% .lightbox }
     </a>
 </figure>
 
@@ -40,7 +40,10 @@ For any other issue, please refer to the [Help & Support page](https://tab1-web.
     - Choose the server you would like to play on. 
     - Press **:material-plus: Create Account**
     - Choose a random prefix from the list.
-    - Your **in-game username will look like**: eg_example123
+        - Your login username must include the prefix.
+        - So if you choose `eg` prefix and you have a username `example` your in-game account's username will be `eg_example`, you will use this to log into the game.
+    - Fill out the other details
+3. Account Creation and validation can take up to 5 minutes, if you are certain your username and password are correct, wait a moment.
 
 <figure markdown="span">
     [![image.png](https://i.postimg.cc/MTydWdqs/image.png)](https://postimg.cc/HckQz0J5)
@@ -58,12 +61,15 @@ You don’t have to do fill out your account details every time, use **“Login 
 
 <figure markdown="span">
     <a href="https://postimg.cc/xJJzDr97">
-    ![Easy Login](https://i.postimg.cc/bJLHn8Wz/easylogin.png){ .lightbox width=60% }
+    ![Easy Login](https://i.postimg.cc/bJLHn8Wz/easylogin.png){ .lightbox }
     </a>
 </figure>
 
-All the servers you see are essentially proxies that **connect to the same game server**, it's just for better connectivity, 
-choose either a Proxy closest to you or the Main server.
+## :octicons-server-24: Servers
+
+All the servers you see are essentially proxies that **connect to the same game server**, it's just for better connectivity, choose either a Proxy closest to you or the Main server.
+
+So even if you choose Asia, **you can still play with people that chose Australia**.
 
 - The main server is located in **France**.
 
@@ -71,9 +77,10 @@ If you are on the Seasonal Server to play on the seasonal servers choose from th
 
 <figure markdown="span">
     <a href="https://postimg.cc/grMJpzMT">
-    ![Proxy Screen](https://i.postimg.cc/Dyhbqm1n/proxy.png){ .lightbox width=60% }
+    [![eternal server selection](https://i.postimg.cc/qqzdrT2T/eternal-server-selection.png){.lightbox}](https://postimg.cc/hQWY8NCy)
     </a>
 </figure>
+
 If nothing happens after you pressed **“OK”**, you might have taken too long or the proxy is down. 
 
 - Try another proxy by going into the login menu again.
