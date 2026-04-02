@@ -722,7 +722,7 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 
 <figure markdown>
 [![academy](https://i.postimg.cc/R0TNDbz5/academy.png)](https://postimg.cc/GBHLBK2q)
-<figcaption markdown>Thank you **@Ascy**</figcaption>
+<figcaption markdown>Thank you **@Ceto**</figcaption>
 </figure>
 
 
