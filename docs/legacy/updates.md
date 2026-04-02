@@ -29,11 +29,13 @@
         <tr><td><strong><a href="https://lineage2wiki.org/gracia-final/patch-notes/">Gracia Final</a> &rarr; <a href="https://lineage2wiki.org/gracia-epilogue/patch-notes/">Epilogue</a></strong></td><td>28 Apr 2009 &mdash; 17 Nov 2009</td><td>~7 Months</td></tr>
         <tr><td><strong><a href="https://lineage2wiki.org/gracia-epilogue/patch-notes/">Epilogue</a> &rarr; <a href="https://lineage2wiki.org/freya/patch-notes/">Freya</a></strong></td><td>17 Nov 2009 &mdash; 24 Aug 2010</td><td>~9 Months</td></tr>
         <tr><td><strong><a href="https://lineage2wiki.org/freya/patch-notes/">Freya</a> &rarr; <a href="https://lineage2wiki.org/hi-five/patch-notes/">High Five</a></strong></td><td>24 Aug 2010 &mdash; 15 Feb 2011</td><td>~6 Months</td></tr>
-        <tr class="timeline-end"><td><strong><a href="https://lineage2wiki.org/hi-five/patch-notes/">High Five</a> &rarr; End of Journey</strong></td><td>15 Feb 2011 &mdash; 14 Mar 2011</td><td>~1 Month</td></tr>
+        <tr class="timeline-end"><td><strong><a href="https://lineage2wiki.org/hi-five/patch-notes/">High Five</a> &rarr; End of Journey</strong></td><td>15 Feb 2011 &mdash; 14 Mar 2011</td><td>~9 Months</td></tr>
       </tbody>
     </table>
   </div>
 </div>
+
+> **Note**: The timeline reflects the original retail lifecycle. Future plans for the server beyond the High Five milestone - whether it remains a permanent home, concludes the project, or evolves, will be determined by community health, player feedback and staff decision at that time.
 
 <style>
 /* Container and Typography */

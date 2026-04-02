@@ -48,7 +48,9 @@ Shadow Weapons are in Interlude, Cat Weapons or Adventurer Weapons are enabled.
 
 Available from the Newbie Guide NPC.
 
-[![O6NDmk-L.png](https://i.postimg.cc/2S9BHwhf/O6NDmk-L.png){width=60%}](https://postimg.cc/21v6yn0H)
+<figure markdown>
+[![O6NDmk-L.png](https://i.postimg.cc/2S9BHwhf/O6NDmk-L.png)](https://postimg.cc/21v6yn0H)
+</figure>
 
 ### Newbie Bonuses
 
@@ -240,6 +242,12 @@ Refer to the [dye page](/faq/gameplay/dyes) for specific dye combinations and ef
 
 - They use **Soul Crystals** that are originally for levelling up soul crystals and putting special abilities on weapons, however, they can be also used to pull mobs from range. They consume 26 MP per use. 
 - More info on Soul Crystals [here](/faq/signature/faq/#soul-crystals)
+
+### Unstuck
+
+- When you are stuck in MDT with a low level character or in an area generally you are stuck, you can use the [unstuck](https://l2reborn.org/account/#origins) option in website.
+- Select server in the middle, click on your account the (...) three dots next to your account and (....) three dots as well next to your character
+
 
 ### Spoil Macro
 
@@ -712,7 +720,11 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 
 ### Clan Reputation Points (CRP) for Academy
 
-[![academy](https://i.postimg.cc/R0TNDbz5/academy.png){width=20%}](https://postimg.cc/GBHLBK2q)
+<figure markdown>
+[![academy](https://i.postimg.cc/R0TNDbz5/academy.png)](https://postimg.cc/GBHLBK2q)
+<figcaption markdown>Thank you **@Ascy**</figcaption>
+</figure>
+
 
 ### Clan Reputation Points Fees
 
@@ -753,10 +765,6 @@ Thank you **@fyrix0**{color=blue;} , **@Paldir**{color=blue;} !
 - Focus Lv1
 - Death Whisper Lv1
 
-## Unstuck
-
-- When you are stuck in MDT with a low level character or in an area generally you are stuck, you can use the [unstuck](https://l2reborn.org/account/#origins) option in website.
-- Select server in the middle, click on your account the (...) three dots next to your account and (....) three dots as well next to your character
 
 ## Party System
 
