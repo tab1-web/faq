@@ -163,7 +163,15 @@ h2 {
 </ul>
 
 ### When does clan leader transfer occur?
+
 - Every Tuesday after Server Restart (8.30 AM UTC)
+
+### When does the 68/78 Rift Rooms open?
+
+- 68 Rift becomes available at A-grade stage.
+- 78 Rift becomes available at S-grade stage.
+
+Check [Eternal News](https://l2reborn.org/news/) for dates!
 
 ### Clan Halls
 

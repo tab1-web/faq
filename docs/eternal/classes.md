@@ -326,7 +326,7 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
     <h2>Spellsinger</h2>
     <p>Fast-casting water magic specialist. Effective in both PvE and PvP. Sustains HP by Battle Healing themselves.</p>
     <p>- <strong>Leveling:</strong> Fast</p>
-    <p>- <strong>Strengths:</strong> <span class="strengths">Casting Speed, access to AoE and Cancel (removes buffs)</span></p>
+    <p>- <strong>Strengths:</strong> <span class="strengths">Casting Speed, access to AoE and Cancel (removes buffs), Best DPS in AoE compared to Spellhowlers</span></p>
     <h3>Buff Setup</h3>
     <figure>
     <a href="https://postimg.cc/PLNDGjDK">
@@ -342,6 +342,8 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
     </ul>
 
     <p>If you want to save some adena for <strong style="color:lightblue">Mana Potions:</strong> Use Magnus Chant, Clarity and/or Song of Meditation.</p>
+
+    <p>Concetration might not be needed (buff used to lower probability of your magic being interrupted)</p>
 
     <p>You can get more <strong style="color:darkgreen;">Cast. Speed</strong> if you get Malaria Lv4 "debuff" from <strong>Hotsprings</strong>, keep Aura Burning the Aggro Monsters attacking you to get them.</p>
 
@@ -362,6 +364,8 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
     <li>Use Chant of Victory if you need more P.Def. against monsters for example</li>
     </ul>
 
+    <p>Concetration might not be needed (buff used to lower probability of your magic being interrupted)</p>
+    
     <p>If you want to save some adena for Mana Potions: Use Magnus Chant, Clarity and/or Song of Meditation.</p>
 
     <p>You can get more Cast. Speed if you get Malaria Lv4 "debuff" from Hotsprings, keep Aura Burning the Aggro Monsters attacking you to get them.</p>
@@ -373,12 +377,14 @@ As starter, I would choose a farm character like a Spellsinger/Spellhowler/Spoil
     <h2>Spellhowler</h2>
     <p>Dark magic user with slow casting but high magical damage. Low Maximum HP.</p>
     <p>- <strong>Leveling:</strong> Fast</p>
-    <p>- <strong>Strengths:</strong> <span class="strengths">Great sustain due to Vampiric Claw in trains, Curse Death Link, access to AoE</span></p>
+    <p>- <strong>Strengths:</strong> <span class="strengths">Great sustain due to Vampiric Claw in trains though lower DPS in trains than Spellsinger, Curse Death Link, access to AoE</span></p>
     <iframe width="399" height="226" src="https://www.youtube.com/embed/a-nm-x5mC2I" frameborder="0" allowfullscreen></iframe>
     <p>If you want more Movement Speed, apply Magnus Chant instead of Prophecy of Water.</p>
     <ul>
     <li>Use Chant of Victory if you need more P.Def.</li>
     </ul>
+
+    <p>Concetration might not be needed (buff used to lower probability of your magic being interrupted)</p>
 
     <p>If you want to save some adena for Mana Potions: Use Magnus Chant, Clarity and/or Song of Meditation.</p>
 

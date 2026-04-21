@@ -6,9 +6,9 @@ The server is fully refreshed of the game’s core systems to ensure you stay co
 
 ## The Concept
 
-Remastered follows a **Progressive Chapter System** (one chapter per month), evolving from C1 to H5 with curated modern imports. It is designed as a yearly experience: a main persistent server plus a fresh start every year.
+Experience a yearly cycle of evolving chapters (C1 through H5) that unlocks new content, level caps, and gear tiers every 30 days. Enjoy a permanent home on our Main Server or a fresh race on the Annual Seasonal Server. It has H5 as base with selected imports from modern chronicles.
 
-- **Classic H5 Base:** Humans, Elves, Orcs, Dwarves, and Kamaels fully rebalanced and enhanced.
+- **Classic H5 as Base:** Humans, Elves, Orcs, Dwarves, and Kamaels fully rebalanced and enhanced.
 - **Idle Progress:** Limited auto-hunt instances for background progress, ensuring you don't fall behind while AFK.
 - **Modern Dungeons:** Meaningful PvE with automated matching and queues.
 - **Personal Housing:** Your own instanced zone with NPCs and decorations that contribute to your progression.

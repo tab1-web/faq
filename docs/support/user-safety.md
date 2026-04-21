@@ -32,7 +32,13 @@ actions in or out of the game.
     - `.lock pin` - enables protection
     - `.unlock pin` - disables protection
 
-
+- ### :material-restart: Reset Lock System
+    !!! info "Requirements"
+        Enable [2FA](https://l2reborn.org/setting) first.
+    
+    - Visit [Game Accounts](https://l2reborn.org/account/#origins)
+    - Click on the account for dropdown menu
+    - Click `Unlock`
 
 - ### :material-unicorn-variant: Use Unique Passwords
     Use different passwords for different accounts (master, email, servers)

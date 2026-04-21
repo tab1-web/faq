@@ -13,8 +13,6 @@ icon: material/mushroom-outline
     
     Blessed Enchants on fail make your weapon +0 instead of breaking.
 
-
-
 - <figure markdown>
     [![enchant.png](https://i.postimg.cc/8k0bPPD1/enchant.png)](https://postimg.cc/hhVm2nfw)
     </figure>

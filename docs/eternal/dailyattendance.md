@@ -22,6 +22,8 @@ hr {
 
     You can access **Daily Login Rewards** in **ALT+X**.
 
+    Rewards are non-tradeable.
+
 - <figure markdown>
     <a href="https://postimg.cc/23KXSF0H">
     ![Daily](https://i.postimg.cc/SNS0VgCp/login.png){.lightbox width=55%}

@@ -15,5 +15,5 @@ __No grinding, no mandatory farming.__ Just plug and play experience.
 Do you have what it takes to jump straight into action and dominate on the battlefield? 
 
 <figure markdown>
-__Coming in 2026 Q2__
+__Coming in 2027 (Project Delayed from 2026 Q2)__
 </figure>

@@ -24,9 +24,17 @@ hr {
 
         - `.tvtreg`: Registers for TVT
 
+        - `.mtreg`: Registers for Multi Team Battle
+
+        - `.tournament`: Registers for Tournament Event
+
+        - `.enrage` Teleports to the Enraged boss.
+
     - You have **5 minutes to register**, counting from the start of the event in `ALT + B`.
 
     - Check the [General](../eternal/general.md) page to see timers.
+
+    - You can leave the event queue with `.leave`
 
     - The events last 10 minutes. 
 
@@ -42,15 +50,59 @@ hr {
 
     ---
 
-    **Capture the Flag (CTF):**
+    **Capture the Fortress (CTF):**
         
-    Work with your team to grab the enemy’s flag and bring it back to your base. Winning gives your team 1 Glittering Medal, and each kill also rewards Medals.
+    Work with your team to compete for control of a Fortress. The team holding it longer wins.
 
     ---
 
     **Team vs. Team (TVT):**
     
-    Two teams battle to get the most kills. The winning team earns 1 Glittering Medal, and every kill gives you extra Medals.
+    Two teams battle to get the most kills. The winning team earns 1 Glittering Medal, and every kill gives you extra Medals. This event is now included in Multi Team Battle.
+
+    ---
+
+    **Multi Team Battle (MTB):**
+
+    3, 4, 6 Teams battle to get the most kills. Every kill gives you medals, winning team gets 1 Glittering Medal and other teams get a little bit of medals too announced in chat.
+
+    ---
+
+    **Tournament:**
+
+    Gather a team and compete with other teams to get Tournament Coins. Just by participating you get 50. Check what you can get for them at Maria shop, Events tab. Only noblesse can take part.
+
+    Rewards:
+
+    - 250 -> BEAS, 500 -> BEWS
+    - 500 Tournament Coin+100m Adena -> Core (15d), 1250+250m QA (15d), 500+100m Orfen (15d), 1250+250m Zaken (15d), 1500+300m Frintezza (15d) 
+
+    Rules:
+    
+    - Pre-frenzy not allowed, SoE not allowed, CP/HP/MP/Eixirs allowed, QHP not allowed, Augment allowed, FOI not allowed, Hero Weapons/Skills not allowed, Buffs are from Maria.
+
+    ---
+
+    **Group vs Group (GvG):**
+
+    Gather a team and make your own GvG event against others. There are no rewards, just meant for practice or to challenge groups.
+
+    Rules:
+
+    - Pre-frenzy not allowed, SoE not allowed, CP/HP/MP/Eixirs allowed, QHP not allowed, Augment allowed, FOI not allowed, Hero Weapons/Skills not allowed, Buffs are from Maria.
+
+    ---
+
+    **Enraged:**
+
+    When a Raid Boss level 74+ is killed, there is a chance it will respawn in an Enraged state, with increased stats and a red title. Attacking it will flag your character.
+
+    ---
+
+    **Raid in the Middle**:
+
+    2,3,4,6 Teams fight for control of an Epic Boss. The team with the highest score wins. Score is determined by kills and damage to the Epic Boss.
+
 
 </div>
 

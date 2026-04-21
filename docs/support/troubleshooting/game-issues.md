@@ -90,6 +90,8 @@ Try these VPNs with free trial (if available):
 - [Norton](https://us.norton.com/products/norton-vpn)
 - [NoPing](https://noping.com/en/trial)
 
+> If for example ExitLag IP is shared among lots of users and some of them are playing, you won't be able to log in.
+
 ### **How to Diagnose the Problem Yourself**
 
 You can confirm that your connection issues are due to a bad internet route using built-in Windows tools. This helps you decide if a VPN is the right solution.

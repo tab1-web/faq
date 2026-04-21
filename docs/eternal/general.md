@@ -573,9 +573,26 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 
     Team vs Team Registration
 
+- ### .mtreg
+
+    Multi Team Battle Registration
+
+- ### .tournament
+
+    Tournament Registration and menu
+
+  ### .enrage
+
+    When a Raid Boss level 74+ is killed, there is a chance it will respawn in an Enraged state, attacking it will flag your character.
+
+
 - ### .leave
 
     Leaves the Event
+
+- ### .gvg
+
+    Run your own GvG against others for no reward.
 
 </div>
 

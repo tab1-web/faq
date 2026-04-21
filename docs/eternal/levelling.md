@@ -68,6 +68,7 @@ icon: material/sword
         - 52: Rent B Grade gear
     - Skills learn automatically
     - Save Mana Potions
+        - **Mana Potions from Starter kit cannot be used to automate potions! Buy from store!**
     - [Enable drop messages](/faq/gameplay/controls/#how-to-enable-lootdrops-messages-on-eternal)
 
 - ### **:material-star: Voting Benefits**
@@ -164,7 +165,7 @@ Default Max Buff Slots is 20 with learning these books at your trainer you can g
 
     ### **Must-Do First**
     0. Check if you can register [at the Seven Signs Status](/faq/eternal/general/#seven-sign-status).
-    1. Register with Priest of Dawn in Giran (`/target Dawn`) [*(Mostly)*](/faq/gameplay/sevensigns)
+    1. Register with Priest of Dawn in Giran (`/target Dawn`) [*(Mostly Click Here)*](/faq/gameplay/sevensigns)
     - Choose any Seal (Avarice/Gnosis)
     2. Talk to Ziggurat and Statue NPCs at dungeon entrances for quests
 
@@ -215,8 +216,6 @@ Hunt outside of villages until Level 7, keep in mind the Levels are Hunting Zone
 If you think you are getting low experience, move to a higher spot.
 
 ### Levels 12-25
-
-> If you have 30k-60k, buy Wooden Set (Fighters) or Devotion Set (Mages) in Starter Villages.
 
 - **12-18**: Ruins of Despair - Gludio
     - Look for Skeletons on the right side
@@ -421,4 +420,4 @@ Do [:fontawesome-solid-scroll: Noblesse Quest](../gameplay/progression/noblesse.
 
 For [:fontawesome-solid-scroll: Subclass Quests](../gameplay/progression/subclasses.md), you don't need to stab Baium (Buy Pipette Knife at Maria) and you don't need a Top B-Grade Weapon + B Grade Crystals, you can skip that part for later.
 
-For [:fontawesome-solid-scroll: Noblesse Quest](../gameplay/progression/noblesse.md) on Barakiel, you can earn fragments of the staff by hitting Barakiel once. Earn 15 fragments and turn it into the full Staff to progress the quest. Make sure to not die and be close to the boss. You don't have to be on your subclass to earn Barakiel Fragments, you can be on your main class.
+For [:fontawesome-solid-scroll: Noblesse Quest](../gameplay/progression/noblesse.md) on Barakiel, you can earn fragments of the staff by hitting Barakiel once. Earn 15 fragments and turn it into the full Staff to progress the quest. You can also make last hit of the boss and your party gets the Staff. Make sure to not die and be close to the boss. You don't have to be on your subclass to earn Barakiel Fragments, you can be on your main class.

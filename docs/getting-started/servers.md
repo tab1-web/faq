@@ -95,7 +95,7 @@ Daily Peaks are without offline shop being counted, there are also more people l
 - **[Arena](https://tab1-web.github.io/faq/arena/overview/) (Custom)**
     - Plug-and-play PvP Server
     - Every class is viable and team composition counts
-    - Coming in **2026 Q2**
+    - Coming in **2027 (Project Delayed from 2026 Q2)**
     - **Good for:** Casual-like players or players that prefer PvP, GvG.
 
 <br>

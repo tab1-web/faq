@@ -42,6 +42,8 @@ Legacy stays true to the vanilla spirit while making quality-of-life improvement
     - Plan is not to remaster old chronicles, Chronicles will be released mostly Vanilla, a server oriented for old-school players.
 - **Economy & Shops:** Offline shops are supported. Yearly subscribers receive a dedicated secondary account specifically for offline trading.
 - **No Sub to Main feature:** It is known that server will evolve from C1 to H5, so plan accordingly.
+- **No drop on death my monsters:** Outdated mechanic that is better off in the long run for the server.
+- **Max Pull Range:** Meant to discourage try-hard meta gameplay for destro/mage packs.
 
 After Legacy, our server stack is complete. No new servers, just a permanent, evolving home for the community.
 
