@@ -70,7 +70,7 @@ hr {
 
     **Tournament:**
 
-    Gather a team and compete with other teams to get Tournament Coins. Just by participating you get 50. Check what you can get for them at Maria shop, Events tab. Only noblesse can take part.
+    Gather a team and compete with other teams to get Medals, you get for participating as well. Check what you can get for them at Maria shop, Events tab. Only noblesse can take part.
 
     Rewards:
 
@@ -101,7 +101,7 @@ hr {
 
     **Raid in the Middle**:
 
-    2,3,4,6 Teams fight for control of an Epic Boss. The team with the highest score wins. Score is determined by kills and damage to the Epic Boss.
+    2, 3, 4, 6 Teams fight for control of an Epic Boss. The team with the highest score wins. Score is determined by kills and damage to the Epic Boss.
 
 
 </div>
