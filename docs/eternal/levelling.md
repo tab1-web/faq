@@ -380,9 +380,19 @@ If you think you are getting low experience, move to a higher spot.
     - Ketra Orc Outpost - Goddard
     - **Faction Quests** (Choose One):
         - [:fontawesome-solid-scroll: Alliance with Ketra Orcs](https://lineage2wiki.org/interlude/quest/605/alliance-with-ketra-orcs/)
+            - Ally Level 2 needed for 3rd class quests
+            - [:fontawesome-solid-scroll: War with Varka Silenos](https://lineage2wiki.org/interlude/quest/606/war-with-varka-silenos/)
+                - S-Grade Armor Pieces Recipe Reward
         - [:fontawesome-solid-scroll: Alliance with Varka Silenos](https://lineage2wiki.org/interlude/quest/611/alliance-with-varka-silenos/)
-        - Must kill opposing faction's mobs
-        - Important for 3rd class quests
+            - Ally Level 2 needed for 3rd class quests
+            - [:fontawesome-solid-scroll: War with Ketra Orcs](https://lineage2wiki.org/interlude/quest/612/war-with-ketra-orcs/)
+                - S-Grade Armor Pieces Recipe Reward
+        - Must kill **opposing faction's mobs** (e.g. Ally with Ketra, Kill in Varka)
+        - At **alliance level 5**, you can buy: 
+            - **Red File Cabinet** (Random S Grade Boot, Glove, Helm, Shield Recipe) for 750 molars/manes
+            - **Purple File Cabinet** (Random S Grade Body Armor Recipe) for 2500 molars/manes
+        - Credit: **@Locke**
+        
 
 ### Levels 78-85
 - **78-85**: Forge of the Gods - Goddard
