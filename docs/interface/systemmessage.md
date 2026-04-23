@@ -5,9 +5,6 @@ icon: material/message
 
 # Colorful Messages
 
-!!! warning
-    **Eternal**{style="color:red;"} has a **Custom System Message by default** and most modifications are available in `.cfg` and `ALT + B`.
-
 ## Video Tutorial
 
 <figure markdown>
@@ -16,8 +13,23 @@ icon: material/message
 
 </figure>
 
-## Colorful Chat Previews
+### For Eternal Server
 
+Got the OK from the boss himself to share my system message I made for **Eternal**{style="color:red;"}.
+
+0. Exit the Game
+1. Download it [here.](https://discord.com/channels/622089207028121602/1496663249418981396/1496663249418981396)
+2. Drag it to `system-eu` folder and over-write existing `SystemMsg_Classic-eu.dat` file.
+
+Keep in mind this is only for **Eternal**, thank you!
+
+<figure markdown>
+[![image.png](https://i.postimg.cc/rs98MDg2/image.png)](https://postimg.cc/64ysh5DM)
+<figcaption>Preview of Eternal System Message</figcaption>
+</figure>
+
+
+## Colorful Chat Previews
 
 <figure markdown>
 
@@ -34,8 +46,6 @@ Thanks **@Ascy**{style="color:red;"} for the image and **@Greatsky**{style="colo
 Save it as a `.bat` file, close the game, edit paths if needed and run it.
 
 Thanks **@Evan**{style="color:red;"} for the suggestion
-
-> On **Eternal**{style="color:red;"} you have a custom system message by default, this script will not work.
 
 </figure>
     
