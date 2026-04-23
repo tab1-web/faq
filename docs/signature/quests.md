@@ -2267,8 +2267,8 @@ Honorable Mention for Spoilers: [Cypheron's Spoiler App](https://cypheron.itch.i
                 </tr>
                 <tr>
                     <td>75</td>
-                    <td>Alliance with Ketra Orcs, Alliance with Varka Silenos</td>
-                    <td>Required for 3rd Class Quests, if you level up the Badge to 5 (through series of Raid Bosses), you can get S Grade Armor Recipes <br> So if you Ally with Ketra you kill in Varka OR if you ally with Varka you kill in Ketra</td>
+                    <td>Alliance with Ketra Orcs, Alliance with Varka Silenos, War with Ketra Orcs, War with Varka Silenos</td>
+                    <td>Required for 3rd Class Quests, if you level up the Badge to 5 (through series of Raid Bosses), you can get S Grade Armor Recipes <br> War with ... Quests allows you to get Manes/Molars: Red File Cabinet 750 for Random S Boots, Gloves, Helmet <br> Purple File Cabinet 2500 for Random Main S Body Armor Recipe <br> So if you Ally with Ketra you kill in Varka OR if you ally with Varka you kill in Ketra</td>
                 </tr>
                 <tr>
                     <td>75</td>
