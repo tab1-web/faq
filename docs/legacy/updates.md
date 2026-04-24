@@ -35,7 +35,7 @@
   </div>
 </div>
 
-> **Note**: The timeline reflects the original retail lifecycle. Future plans for the server beyond the High Five milestone - whether it remains a permanent home, concludes the project, or evolves, will be determined by community health, player feedback and staff decision at that time.
+> **Note**: While the timeline follows the retail chronicle progression, staff have confirmed that reaching the final milestone does not define an end for the server. Future plans include maintaining an existing lineup of servers and potentially adding new ones. The project's evolution remains a long-term commitment, guided by community health and staff's ongoing roadmap.
 
 <style>
 /* Container and Typography */

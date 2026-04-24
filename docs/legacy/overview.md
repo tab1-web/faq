@@ -11,7 +11,9 @@ With the spirit of *Origins* and *Signature*, Legacy offers retail-close content
 To preserve the social fabric of the game and eliminate the "min-max" culture that ruined the classic experience, Legacy implements strict rules:
 
 - **Subscription Based:** A fair sub-model replaces the need for **premium shops**, **custom cosmetics**, or **"pay-to-skip"** services.
-    - **3.70€** with yearly balance promotion, **7.40€/month** from yearly subscription or **14€/month** for the basic subscription
+    - **3.70€/month** from yearly subscription when there's annual anniversary (in Oct/Sept) that doubles your coins purchase.
+    - **7.40€/month** from yearly subscription.
+    - **14€/month** for the basic monthly subscription.
 - **True Single-Box:** No dual-boxing and no account sharing. One player, one character, one world.
 - **Modern Quality of Life:** While the content is old-school, the interface is not. Enjoy auto-soulshots and a modern mailing system without the critical errors of the 2004 client.
 - **Zero-Tolerance for "Drivers":** A system designed to kill the 24/7 "Driver" meta. L2 is a game, not a job.
@@ -42,10 +44,11 @@ Legacy stays true to the vanilla spirit while making quality-of-life improvement
     - Plan is not to remaster old chronicles, Chronicles will be released mostly Vanilla, a server oriented for old-school players.
 - **Economy & Shops:** Offline shops are supported. Yearly subscribers receive a dedicated secondary account specifically for offline trading.
 - **No Sub to Main feature:** It is known that server will evolve from C1 to H5, so plan accordingly.
-- **No drop on death my monsters:** Outdated mechanic that is better off in the long run for the server.
-- **Max Pull Range:** Meant to discourage try-hard meta gameplay for destro/mage packs.
+- **No drop on death by monsters:** Outdated mechanic that is better off in the long run for the server.
+- **Limited Pull Range:** Meant to discourage try-hard meta gameplay for destro/mage packs.
+- **Extended Subclass System:** Subclasses can be leveled to 85 and acquire skills. Subclass Certifications can be selected regardless of the subclass type. This system is designed to provide role flexibility within clans and groups, allowing players to reroll or adapt to new chronicles on a single character.
 
-After Legacy, our server stack is complete. No new servers, just a permanent, evolving home for the community.
+After Legacy, our server stack is complete. No new servers, just a permanent, **evolving home** for the community.
 
 There are other things worth mentioning, It is better to wait for us to make an stream/podcast where we will explain the server concept and all its features. (No date known, wait)
 
