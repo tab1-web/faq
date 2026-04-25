@@ -25,6 +25,7 @@
     { target: "2026-02-25T18:00:00Z", pastText: "STAGE 2 IS LIVE! x10, B-GRADE IN SHOP", showSeconds: false },
     { target: "2026-03-25T18:00:00Z", pastText: "STAGE 3 IS LIVE! x30 RATES ACTIVE", showSeconds: false },
     // may season 2026
+    { target: "2026-04-26T18:00:00Z", pastText: "STREAM STARTED!", showSeconds: false},
     { target: "2026-04-29T07:00:00Z", pastText: "SERVERS MERGED!", showSeconds: false },
     { target: "2026-05-04T18:00:00Z", pastText: "OBT IS LIVE!", showSeconds: true },
     { target: "2026-05-08T18:00:00Z", pastText: "STAGE 1: SERVER OPEN!", showSeconds: true },
