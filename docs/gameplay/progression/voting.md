@@ -28,30 +28,9 @@ icon: material/vote-outline
 
 ## Eternal Server Rates
 
-> By voting you can access Bonus Buffs in Maria and 2nd stage offers B-Grade items.
+Exp/SP: x15, Adena/Drop/Spoil: x5, [with time](/faq/eternal/general/) it'll be x30 Exp
 
-> Main has fixed rates: EXP/SP x10 (x7 without VIP), Adena/Drop/Spoil x4.5 (x3 without VIP)
-
-<div class="grid cards" markdown>
-- ### Experience & Skill Points <br> (EXP/SP)
-
-    | Level Range | With Vote/VIP | Without Vote/VIP |
-    |-------------|--------------|------------------|
-    | 1-52        | x10          | x7               |
-    | 52-61       | x7           | x5               |
-    | 61-76       | x5           | x3               |
-    | 76-78       | x3           | x2               |
-    | 78-80       | x2           | x1               |
-    | Stage 2     | x10          | x7               |
-    | Stage 3     | x30          | x25              |
-
-- ### Adena/Drop/Spoil Rates
-
-    | Level Range | With Vote/VIP | Without Vote/VIP  |
-    |-------------|---------------|-------------------|
-    | All Levels  | x5            | x3                |
-
-</div>
+> By voting you can access Bonus Buffs in Maria and can take rewards from Daily Login
 
 ## Signature Server Rates
 
