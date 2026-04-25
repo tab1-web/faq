@@ -533,15 +533,11 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 
 - ### .ctfreg
 
-    Capture the Flag Registration
+    Capture the Fortress Registration
 
 - ### .dmreg
 
     Deathmatch Registration
-
-- ### .tvtreg
-
-    Team vs Team Registration
 
 - ### .mtreg
 
