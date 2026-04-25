@@ -551,10 +551,9 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 
     Tournament Registration and menu
 
-  ### .enraged
+- ### .enraged
 
     When a Raid Boss level 74+ is killed, there is a chance it will respawn in an Enraged state, attacking it will flag your character.
-
 
 - ### .leave
 
