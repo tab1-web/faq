@@ -1,5 +1,6 @@
 (function() {
   const eventConfigs = [
+    // summer season 2025
     { target: "2025-07-18T18:00:00Z", pastText: "SERVER IS ONLINE! NPCs ARE UP!", showSeconds: false },
     { target: "2025-07-18T17:00:00Z", pastText: "SERVER IS ONLINE! NPCs ARE NOT!", showSeconds: false },
     { target: "2025-07-11T18:00:00Z", pastText: "BETA TEST IS LIVE!", showSeconds: false },
@@ -9,7 +10,7 @@
     { target: "2025-08-15T18:00:00Z", pastText: "S GRADE MAMMON SERVICES ON!", showSeconds: false },
     { target: "2025-08-11T20:30:00Z", pastText: "FIRST CYCLE OF OLYMPIAD IS ON!", showSeconds: false },
     { target: "2025-08-18T00:00:00Z", pastText: "THIRD STAGE IS ON!", showSeconds: false },
-    // New Timers
+    // winter season 2026
     { target: "2026-01-09T17:00:00Z", pastText: "OBT IS LIVE!", showSeconds: true },
     { target: "2026-01-16T17:00:00Z", pastText: "SERVER ON WITHOUT NPC!", showSeconds: true },
     { target: "2026-01-16T18:00:00Z", pastText: "SERVER ON WITH NPC!", showSeconds: true },
@@ -23,6 +24,14 @@
     { target: "2026-02-16T00:00:00Z", pastText: "FIRST HEROES HAVE ARRIVED!", showSeconds: false },
     { target: "2026-02-25T18:00:00Z", pastText: "STAGE 2 IS LIVE! x10, B-GRADE IN SHOP", showSeconds: false },
     { target: "2026-03-25T18:00:00Z", pastText: "STAGE 3 IS LIVE! x30 RATES ACTIVE", showSeconds: false },
+    // may season 2026
+    { target: "2026-04-29T07:00:00Z", pastText: "SERVERS MERGED!", showSeconds: false },
+    { target: "2026-05-04T18:00:00Z", pastText: "OBT IS LIVE!", showSeconds: true },
+    { target: "2026-05-08T18:00:00Z", pastText: "STAGE 1: SERVER OPEN!", showSeconds: true },
+    { target: "2026-05-22T18:00:00Z", pastText: "STAGE 2: A-GRADE UNLOCKED!", showSeconds: false },
+    { target: "2026-06-05T18:00:00Z", pastText: "STAGE 3: S-GRADE UNLOCKED!", showSeconds: false },
+    { target: "2026-06-26T18:00:00Z", pastText: "STAGE 4: CATCH-UP & SUMMER EVENT!", showSeconds: false },
+    { target: "2026-07-03T18:00:00Z", pastText: "STAGE 5: x30 RATES ACTIVE!", showSeconds: false }
 ];
 
   let cachedEvents = [];

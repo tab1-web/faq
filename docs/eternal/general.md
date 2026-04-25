@@ -255,92 +255,62 @@ icon: material/clock-time-one-outline
 </style>
 
 ## Time Tables
-<figure><h4 style="margin-top:10px; color:white;">Timers might change with new information being put out in 
-<a href="https://discord.com/channels/622089207028121602/1091647392836767864">📢│eternal-il-news</a>, check back frequently! <br> <br> These are not all the timers, check the <a href="https://l2reborn.org/server-features/eternal-2/">features page</a> to view the others <br> Mammons you will see 16-20 minutes after the competition cycle. <br> Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></figure>
-
-[![0F3032EC-805C-4174-B6B5-CDF5BAB3F122.png](https://i.postimg.cc/gjnL7nPd/0F3032EC-805C-4174-B6B5-CDF5BAB3F122.png)](https://postimg.cc/fSQbtWLg)
+<figure>
+<h4 style="margin-top:10px; color:white;">Timers might change with new information being put out in 
+<a href="https://discord.com/channels/622089207028121602/1091647392836767864">📢│eternal-il-news</a>, check back frequently! <br> Timers are from <a href="https://l2reborn.org/news/spring-season-features/">news</a> <br>
+These are not all the timers, check the <a href="https://l2reborn.org/server-features/eternal-2/">features page</a> to view the others <br> 
+Mammons you will see 16-20 minutes after the competition cycle. <br> 
+Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></figure>
 
 <div class="grid cards">
-  <div class="md-typeset card countdown-card" data-target="2026-01-09T17:00:00Z">
+  <div class="md-typeset card countdown-card" data-target="2026-04-29T07:00:00Z">
+    <h3>Eternal Main & Winter Merge</h3>
+    <p>~2 hour long maintenance</p>
+    <p><strong>Time:</strong> April 29th at 07:00 UTC</p>
+    <p><strong>Status:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <div class="md-typeset card countdown-card" data-target="2026-05-04T18:00:00Z">
     <h3>Open Beta Test (OBT)</h3>
-    <p><strong>Time:</strong> Jan 9th at 17:00 UTC</p>
+    <p>Test out things with admin shop/commands</p>
+    <p><strong>Time:</strong> May 4th at 18:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
-  <!-- Server without NPC Opening -->
-  <div class="md-typeset card countdown-card" data-target="2026-01-16T17:00:00Z">
-    <h3>Server without NPC Countdown</h3>
-    <p><strong>Time:</strong> January 16th at 17:00 UTC</p>
+  <div class="md-typeset card countdown-card" data-target="2026-05-08T18:00:00Z">
+    <h3>Stage 1: Grand Opening x15 XP/x5 Drop</h3>
+    <p><strong>Time:</strong> May 8th at 18:00 UTC</p>
+    <p>Max C-Grade, Can't equip A/S Gear</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
-  <!-- Server with NPC Opening -->
-  <div class="md-typeset card countdown-card" data-target="2026-01-16T18:00:00Z">
-    <h3>Server with NPC Countdown</h3>
-    <p><strong>Time:</strong> January 16th at 18:00 UTC</p>
+  <div class="md-typeset card countdown-card" data-target="2026-05-22T18:00:00Z">
+    <h3>Stage 2: A-Grade Unlock</h3>
+    <p><strong>Time:</strong> May 22nd at 18:00 UTC</p>
+    <p>A-Grade Gear equippable | Rift (Anakazel 68) unlocks</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
-  <div class="md-typeset card countdown-card" data-target="2026-01-19T18:00:00Z">
-    <h3>Catacombs & Necropolis</h3>
-    <p><strong>Time:</strong> Jan 19th at 18:00 UTC</p>
+  <div class="md-typeset card countdown-card" data-target="2026-06-05T18:00:00Z">
+    <h3>Stage 3: S-Grade Unlock</h3>
+    <p><strong>Time:</strong> June 5th at 18:00 UTC</p>
+    <p>S-Grade Gear equippable | Rift (Anakazel 78) unlocks</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
-  <div class="md-typeset card countdown-card" data-target="2026-01-23T18:00:00Z">
-    <h3>First Mammon (No A/S)</h3>
-    <p><strong>Time:</strong> Jan 23rd at 18:00 UTC</p>
+  <div class="md-typeset card countdown-card" data-target="2026-06-26T18:00:00Z">
+    <h3>Stage 4: Catch-up & Events</h3>
+    <p><strong>Time:</strong> June 26th at 18:00 UTC</p>
+    <p>Summer Event | Increased Rewards</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
-  <div class="md-typeset card countdown-card" data-target="2026-01-25T18:00:00Z">
-    <h3>First Castle Sieges</h3>
-    <p><strong>Time:</strong> Jan 25th at 18:00 UTC</p>
+  <div class="md-typeset card countdown-card" data-target="2026-07-03T18:00:00Z">
+    <h3>Stage 5: Max Rates</h3>
+    <p><strong>Time:</strong> July 3rd at 18:00 UTC</p>
+    <p>XP/SP Rates increased to x30</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
-
-  <div class="md-typeset card countdown-card" data-target="2026-01-30T18:00:00Z">
-    <h3>A-Grade Mammon</h3>
-    <p><strong>Time:</strong> Jan 30th at 18:00 UTC</p>
-    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-  <div class="md-typeset card countdown-card" data-target="2026-02-09T20:30:00Z">
-    <h3>First Olympiad Cycle</h3>
-    <p><strong>Time:</strong> Feb 9th at 20:30 UTC</p>
-    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-  <div class="md-typeset card countdown-card" data-target="2026-02-11T18:00:00Z">
-    <h3>Valentines Event (Season & Main, <a href="https://l2reborn.org/news/">uncertain time</a>) </h3>
-    <p><strong>Time:</strong> Feb 11th at 18:00 UTC</p>
-    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-  <div class="md-typeset card countdown-card" data-target="2026-02-13T18:00:00Z">
-    <h3>S-Grade Mammon</h3>
-    <p><strong>Time:</strong> Feb 13th at 18:00 UTC</p>
-    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-  <div class="md-typeset card countdown-card" data-target="2026-02-16T00:00:00Z">
-    <h3>First Heroes, uncertain time</h3>
-    <p><strong>Time:</strong> Feb 16th at 00:00 UTC</p>
-    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-  <div class="md-typeset card countdown-card" data-target="2026-02-25T18:00:00Z">
-    <h3>Stage 2: B-Grade & x10 Rates, uncertain time</h3>
-    <p><strong>Time:</strong> Feb 25th at 18:00 UTC</p>
-    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-<div class="md-typeset card countdown-card" data-target="2026-03-25T18:00:00Z">
-  <h3>Stage 3: x30 Rates, uncertain time</h3>
-  <p><strong>Time:</strong> March 25th at 18:00 UTC</p>
-  <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
-</div>
-
 </div>
 
 ## Event Schedules
@@ -581,7 +551,7 @@ Most commands are also available in **ALT + B**{style="color:fuchsia;"}, but you
 
     Tournament Registration and menu
 
-  ### .enrage
+  ### .enraged
 
     When a Raid Boss level 74+ is killed, there is a chance it will respawn in an Enraged state, attacking it will flag your character.
 

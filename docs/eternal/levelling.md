@@ -407,12 +407,10 @@ If you think you are getting low experience, move to a higher spot.
             - Important for Accessing Pagan
     - [:fontawesome-solid-scroll: Seekers of the Holy Grail](https://lineage2wiki.org/interlude/quest/638/seekers-of-the-holy-grail/)
         - S Grade Enchant Armor/Weapon
-    - Included in the missions as well
 
 - **78-85**: Monastery of Silence - Goddard/Rune
     - [:fontawesome-solid-scroll: Guardians of the Holy Grail Quest](https://lineage2wiki.org/interlude/quest/639/guardians-of-the-holy-grail/)
         - S Grade Enchant Armor/Weapon
-    - Included in the missions as well
 
 - **78-85**: Primeval Isle - Rune
     - [:fontawesome-solid-scroll: Rise and Fall of the Elroki Tribe Quest](https://lineage2wiki.org/interlude/quest/643/rise-and-fall-of-the-elroki-tribe/)
@@ -422,7 +420,6 @@ If you think you are getting low experience, move to a higher spot.
         - [:fontawesome-solid-scroll: A Powerful Primeval Creature](https://lineage2wiki.org/interlude/quest/642/a-powerful-primeval-creature/)
             - Top A Grade Weapon Recipes
             - Hunt Velociraptor, Pterosaur, Ornithominus and Deinonychus
-    - Included in the missions as well
 
 ## Important Quests
 

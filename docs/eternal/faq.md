@@ -195,6 +195,9 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 
 ## 🤝 Items & Trading
 
+### Can I trade items from Maria Events shop?
+- No.
+
 ### Can I send cosmetics from Main to Seasonal?
 
 - No.
@@ -267,6 +270,9 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 - Mana Potions you get from Starter Kit cannot be used automatically, buy Mana Potions from GM Shop Maria if you want to use them automatically.
 
 ## 🌪️ Classes & Skills
+
+### What classes can't equip heavy set?
+- Dagger classes can't equip Heavy Armor.
 
 ### Can I be on my Main Class on Noblesse Quest?
 - Yes. Be near the boss and make sure to hit it, don't die

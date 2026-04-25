@@ -18,9 +18,7 @@ hr {
 
     Daily Attendance requires you to be **Level 76**, **3rd class** and **Noblesse**.
     
-    If you play for 30 minutes, you can claim the rewards in the Daily Missions window.
-
-    You can access **Daily Login Rewards** in **ALT+X**.
+    Play for 30 minutes and you can access **Daily Login Rewards** in **ALT+X**.
 
     Rewards are non-tradeable.
 
@@ -46,15 +44,13 @@ hr {
     </figure>
 - ### :octicons-info-16:{ .lg .middle } __Example__
 
-    To claim the rewards, just **left click** on the highlighted item.
+    To claim the rewards, have VIP and just **left click** on the highlighted item.
 
     Mission Rewards reset daily **6:30 AM UTC + 0**
 
     If you claimed the rewards, check back tomorrow to claim again.
 
     Each reward requires the previous to claim.
-
-    You can claim `X2` rewards with VIP.
 
 - <figure markdown>
 <a href="https://postimg.cc/HryQ9b4k">

@@ -12,17 +12,18 @@ hr {
 }
 </style>
 
-# Missions
+# Achievements
 
 <div class="grid cards" markdown>
 
 - ### :material-format-font:{ .lg .middle } __Requirements__
     
-    Missions require you to be **Level 76**, if you do the given tasks, you can claim the rewards in the Daily Missions window.
+    Achievements require you to be **Level 76**, if you do the given tasks, 
+    you can claim the rewards in the Achievements window.
 
-    You can access **Daily Missions** in the bottom right corner or in `ALT+B`.
+    You can access **Achievements** in the bottom right corner or in `ALT+B`.
 
-    Missions reset at **6:30 am UTC + 0**.
+    Achievements reset at **6:30 am UTC + 0**.
 
     Rewards are non-tradeable.
 
@@ -41,8 +42,6 @@ hr {
     - Monthly: dynamically chosen every day, different for all players 
     - One-time: unique milestones with extra rewards for the first players completing them
     - Boost Achievements: long-term goals for over-enchanting items, skills, etc.
-
-    
 
 </div>
 

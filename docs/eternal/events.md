@@ -22,13 +22,11 @@ hr {
 
         - `.ctfreg`: Registers for CTF
 
-        - `.tvtreg`: Registers for TVT
-
         - `.mtreg`: Registers for Multi Team Battle
 
         - `.tournament`: Registers for Tournament Event
 
-        - `.enrage` Teleports to the Enraged boss.
+        - `.enraged` Teleports to the Enraged boss.
 
     - You have **5 minutes to register**, counting from the start of the event in `ALT + B`.
 
@@ -56,15 +54,9 @@ hr {
 
     ---
 
-    **Team vs. Team (TVT):**
-    
-    Two teams battle to get the most kills. The winning team earns 1 Glittering Medal, and every kill gives you extra Medals. This event is now included in Multi Team Battle.
-
-    ---
-
     **Multi Team Battle (MTB):**
 
-    3, 4, 6 Teams battle to get the most kills. Every kill gives you medals, winning team gets 1 Glittering Medal and other teams get a little bit of medals too announced in chat.
+    2, 3, 4, 6 Teams battle to get the most kills. Every kill gives you medals, winning team gets 1 Glittering Medal and other teams get a little bit of medals too announced in chat.
 
     ---
 
