@@ -263,10 +263,10 @@ Mammons you will see 16-20 minutes after the competition cycle. <br>
 Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></figure>
 
 <div class="grid cards">
-  <div class="md-typeset card coutdown-card" data-target="2026-04-26T18:00:00Z">
-    <h3>Season Showcase Stream</h3>
+  <div class="md-typeset card coutdown-card" data-target="2026-05-01T17:00:00Z">
+    <h3>Season Showcase Stream (Moved)</h3>
     <p>New features, changes from podcast, adjustments</p>
-    <p><strong>Time:</strong> April 26th at 18:00 UTC</p>
+    <p><strong>Time:</strong> May 1st at 17:00 UTC</p>
     <p><strong>Status:</strong> <span class="countdown-display"></span></p>
   </div>
 

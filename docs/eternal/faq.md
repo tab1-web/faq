@@ -95,7 +95,8 @@ h2 {
 - Stays for 2 days
 - You can have unlimited offline shops
 - Make sure to only have 1 offline shop per account and not farming on the same
-- **Set up an offline shop** in a peace zone and **Exit the game**
+- **Set up an offline shop** in a peace zone and do **.offline**
+
 
 ### How to switch armor sets?
 1. **Locate the Circle** icon at the bottom left of the hotbar
