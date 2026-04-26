@@ -11,7 +11,8 @@ Login with the last character you logged.
 - There **isn't a solution that fixes it for everyone**:
     - I fixed it one time for my friend by logging his character and using Maria to teleport.
     - GMs in the past tried to kick/jail the player, but that solution did not work.
-    - For someone else it was restarting their router
+    - For someone else it was restarting their router/pc
+    - You could try also try login one time, you get a message, wait like 3 minutes and try login again.
 
 - What fixes it fully is a **server restart** in the morning at 8:30 AM UTC+0 or play from **another device** until then.
 - If issue persists or you know how to reproduce it please [open a ticket](https://l2reborn.org/support/).
