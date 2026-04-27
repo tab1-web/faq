@@ -186,6 +186,9 @@ y=340
 
 ## Small Texts and Buttons on 4k Monitor
 
+I don't have a 4k monitor and I cannot test these solutions, these have been suggested by the community. 
+If they don't work then scale down your monitor to 2k.
+
 ### 1st option
 Enter fullscreen mode, and lower resolution.
 
