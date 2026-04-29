@@ -272,8 +272,12 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 
 ## 🌪️ Classes & Skills
 
+### Where can I see the class changes?
+- [Link](https://l2reborn.org/server-features/eternal-2/)
+    - Under General features -> Skills
+
 ### What classes can't equip heavy set?
-- Dagger classes can't equip Heavy Armor.
+- Dagger classes can't equip Heavy Armor and Robe Armor.
 
 ### Can I be on my Main Class on Noblesse Quest?
 - Yes. Be near the boss and make sure to hit it, don't die

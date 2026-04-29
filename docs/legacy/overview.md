@@ -47,6 +47,7 @@ Legacy stays true to the vanilla spirit while making quality-of-life improvement
 - **No drop on death by monsters:** Outdated mechanic that is better off in the long run for the server.
 - **Limited Pull Range:** Meant to discourage try-hard meta gameplay for destro/mage packs.
 - **Extended Subclass System:** Subclasses can be leveled to 85 and acquire skills. Subclass Certifications can be selected regardless of the subclass type. This system is designed to provide role flexibility within clans and groups, allowing players to reroll or adapt to new chronicles on a single character.
+- **Manor System 2.0:** Key changes made to fixed crop stock inflation over time and time based click races. 
 
 After Legacy, our server stack is complete. No new servers, just a permanent, **evolving home** for the community.
 
