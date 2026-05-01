@@ -264,10 +264,10 @@ Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></
 
 <div class="grid cards">
 
-  <div class="md-typeset card countdown-card" data-target="2026-05-01T08:00:00Z">
+  <div class="md-typeset card countdown-card" data-target="2026-05-01T10:00:00Z">
     <h3>Eternal Main & Winter Merge (Moved)</h3>
-    <p>~2 hour long maintenance</p>
-    <p><strong>Time:</strong> May 1st at around 08:00 UTC</p>
+    <p>~2-3 hour long maintenance, <a href="https://discord.com/channels/622089207028121602/1091647392836767864">Discord News</a></p>
+    <p><strong>Time:</strong> May 1st at around 10:00 UTC</p>
     <p><strong>Status:</strong> <span class="countdown-display"></span></p>
   </div>
 
