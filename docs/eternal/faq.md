@@ -266,9 +266,25 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 
 ### Welcome Pack - Starter Kit Infos
 
-- This will be removed and given on start in inventory.
-- It offers Top NG Set and Top NG Weapon, some mana potions and HP potions
+- It offers Top NG Set and Top NG Weapon, some mana potions, HP potions, VIP for 12h
 - Mana Potions you get from Starter Kit cannot be used automatically, buy Mana Potions from GM Shop Maria if you want to use them automatically.
+
+<div class="grid cards" markdown>
+
+- <figure markdown>
+
+    [![image.png](https://i.postimg.cc/JzMgXKVv/image.png)](https://postimg.cc/N5Cpq60k)
+
+    </figure>
+
+- <figure markdown>
+
+    [![image.png](https://i.postimg.cc/qRhZr5yJ/image.png)](https://postimg.cc/JD8QcKpv)
+
+    </figure>
+
+
+</div>
 
 ## 🌪️ Classes & Skills
 

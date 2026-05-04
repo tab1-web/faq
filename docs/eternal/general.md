@@ -280,10 +280,10 @@ Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></
 
 
 
-  <div class="md-typeset card countdown-card" data-target="2026-05-04T18:00:00Z">
-    <h3>Open Beta Test (OBT)</h3>
+  <div class="md-typeset card countdown-card" data-target="2026-05-04T15:30:00Z">
+    <h3>Open Beta Test (OBT) (Moved)</h3>
     <p>Test out things with admin shop/commands</p>
-    <p><strong>Time:</strong> May 4th at 18:00 UTC</p>
+    <p><strong>Time:</strong> May 4th at 15:30 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
