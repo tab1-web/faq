@@ -264,22 +264,6 @@ Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></
 
 <div class="grid cards">
 
-  <div class="md-typeset card countdown-card" data-target="2026-05-01T10:00:00Z">
-    <h3>Eternal Main & Winter Merge (Moved)</h3>
-    <p>~2-3 hour long maintenance, <a href="https://discord.com/channels/622089207028121602/1091647392836767864">Discord News</a></p>
-    <p><strong>Time:</strong> May 1st at around 10:00 UTC</p>
-    <p><strong>Status:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-  <div class="md-typeset card coutdown-card" data-target="2026-05-01T17:00:00Z">
-    <h3>Season Showcase Stream (Moved)</h3>
-    <p>New features, changes from podcast, adjustments</p>
-    <p><strong>Time:</strong> May 1st at 17:00 UTC</p>
-    <p><strong>Status:</strong> <span class="countdown-display"></span></p>
-  </div>
-
-
-
   <div class="md-typeset card countdown-card" data-target="2026-05-04T15:30:00Z">
     <h3>Open Beta Test (OBT) (Moved)</h3>
     <p>Test out things with admin shop/commands</p>
@@ -291,6 +275,13 @@ Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></
     <h3>Stage 1: Grand Opening x15 XP/x5 Drop</h3>
     <p><strong>Time:</strong> May 8th at 18:00 UTC</p>
     <p>Max C-Grade, Can't equip A/S Gear</p>
+    <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
+  </div>
+
+  <div class="md-typeset card countdown-card" data-target="2026-05-11T18:00:00Z">
+    <h3>Seven Signs opening Catacombs</h3>
+    <p><a href="https://tab1-web.github.io/faq/gameplay/sevensigns/">Validation</a> until Friday, Effect until Monday</p>
+    <p><strong>Time:</strong> May 11th at 18:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
@@ -309,14 +300,14 @@ Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></
   </div>
 
   <div class="md-typeset card countdown-card" data-target="2026-06-26T18:00:00Z">
-    <h3>Stage 4: Catch-up & Events</h3>
+    <h3>Stage 4: Catch-up & Events, uncertain time</h3>
     <p><strong>Time:</strong> June 26th at 18:00 UTC</p>
-    <p>Summer Event | Increased Rewards</p>
+    <p>Summer Event | Increased Rewards | B-Grade Maria</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
   <div class="md-typeset card countdown-card" data-target="2026-07-03T18:00:00Z">
-    <h3>Stage 5: Max Rates</h3>
+    <h3>Stage 5: Max Rates, uncertain time</h3>
     <p><strong>Time:</strong> July 3rd at 18:00 UTC</p>
     <p>XP/SP Rates increased to x30</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>

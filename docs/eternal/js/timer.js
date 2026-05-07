@@ -29,6 +29,7 @@
     { target: "2026-05-01T10:00:00Z", pastText: "SERVERS MERGING!", showSeconds: false },
     { target: "2026-05-04T15:30:00Z", pastText: "OBT IS LIVE!", showSeconds: true },
     { target: "2026-05-08T18:00:00Z", pastText: "STAGE 1: SERVER OPEN!", showSeconds: true },
+    { target: "2026-05-11T18:00:00Z", pastText: "CATAS OPEN!", showSeconds: true },
     { target: "2026-05-22T18:00:00Z", pastText: "STAGE 2: A-GRADE UNLOCKED!", showSeconds: false },
     { target: "2026-06-05T18:00:00Z", pastText: "STAGE 3: S-GRADE UNLOCKED!", showSeconds: false },
     { target: "2026-06-26T18:00:00Z", pastText: "STAGE 4: CATCH-UP & SUMMER EVENT!", showSeconds: false },

@@ -22,7 +22,7 @@ Go to either **Priest of Dawn**{style="color:lightblue;"} or **Priest of Dusk**{
 1. **Choose a Faction**{style="color:lightblue;"}:
     - **Dawn**{style="color: #af5d5dff;"}: For castle owners (castle owning clan) or those willing to pay 50,000 adena (or get an Approval Certificate from a castle lord).
         - People mostly register to **Dawn**{style="color: #af5d5dff;"} because of castle owners can only register to **Dawn**{style="color: #af5d5dff;"}.
-        - Sometimes people choose **Dusk** and do festivals last minute if there are no castle owners or wanting to farm free in Catacombs without competition, as on the Seal Effective Period only winners can hunt in Catacombs.
+        - Sometimes people choose **Dusk** and do festivals last minute if there are no castle owners or wanting to farm free in Catacombs without competition, as on the Seal Effective Period only winners can hunt in Catacombs. This could happen on fresh launches or the first few seven signs cycle too.
     - **Dusk**{style="color:lightgreen;"}: For players "not affiliated with castle-owning clans".
 
 2. **Choose a Seal**{style="color:lightblue;"}:
