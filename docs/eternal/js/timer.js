@@ -28,6 +28,7 @@
     { target: "2026-05-01T17:00:00Z", pastText: "STREAM STARTED!", showSeconds: false},
     { target: "2026-05-01T10:00:00Z", pastText: "SERVERS MERGING!", showSeconds: false },
     { target: "2026-05-04T15:30:00Z", pastText: "OBT IS LIVE!", showSeconds: true },
+    { target: "2026-05-08T17:00:00Z", pastText: "SERVER UP WITHOUT NPCS!", showSeconds: true },
     { target: "2026-05-08T18:00:00Z", pastText: "STAGE 1: SERVER OPEN!", showSeconds: true },
     { target: "2026-05-11T18:00:00Z", pastText: "CATAS OPEN!", showSeconds: true },
     { target: "2026-05-22T18:00:00Z", pastText: "STAGE 2: A-GRADE UNLOCKED!", showSeconds: false },
