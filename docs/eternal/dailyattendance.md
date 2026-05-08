@@ -17,7 +17,9 @@ hr {
 - ### :material-format-font:{ .lg .middle } __Requirements__
 
     Daily Attendance requires you to be **Level 76**, **3rd class** and **Noblesse**.
-    
+
+    > In season you don't need noblesse during first weeks.
+
     Play for 30 minutes and you can access **Daily Login Rewards** in **ALT+X**.
 
     Rewards are non-tradeable.
