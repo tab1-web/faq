@@ -11,7 +11,7 @@
     { target: "2025-08-11T20:30:00Z", pastText: "FIRST CYCLE OF OLYMPIAD IS ON!", showSeconds: false },
     { target: "2025-08-18T00:00:00Z", pastText: "THIRD STAGE IS ON!", showSeconds: false },
     // winter season 2026
-    { target: "2026-01-09T17:00:00Z", pastText: "OBT IS LIVE!", showSeconds: true },
+    { target: "2026-01-09T17:00:00Z", pastText: "OBT DOWN!", showSeconds: true },
     { target: "2026-01-16T17:00:00Z", pastText: "SERVER ON WITHOUT NPC!", showSeconds: true },
     { target: "2026-01-16T18:00:00Z", pastText: "SERVER ON WITH NPC!", showSeconds: true },
     { target: "2026-01-19T18:00:00Z", pastText: "NECROPOLIS & CATACOMBS ARE OPEN!", showSeconds: false },
