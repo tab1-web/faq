@@ -281,7 +281,7 @@ Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></
   <div class="md-typeset card countdown-card" data-target="2026-05-08T18:00:00Z">
     <h3>Stage 1: Grand Opening x15 XP/x5 Drop</h3>
     <p><strong>Time:</strong> May 8th at 18:00 UTC</p>
-    <p>Max C-Grade, Can't equip A/S Gear</p>
+    <p>Max C-Grade Maria, Can't equip A/S Gear</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
 
