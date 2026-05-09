@@ -14,7 +14,7 @@ To preserve the social fabric of the game and eliminate the "min-max" culture th
 - **True Single-Box:** No dual-boxing and no account sharing. One player, one character, one world.
 - **Modern Quality of Life:** While the content is old-school, the interface is not. Enjoy auto-soulshots and a modern mailing system without the critical errors of the 2004 client.
 - **Zero-Tolerance for "Drivers":** A system designed to kill the 24/7 "Driver" meta. L2 is a game, not a job.
-- **Removing MDT as an offline shop gathering area:** Cities will feel more lively.
+- **Removing MDT as an offline shop gathering area and buffing area:** Cities will feel more lively.
 - **Removing buffers on relog:** Buffers on relog will be prevented, it won't be possible for example to have PP / SE / EE on relog played by 1 person.
 - **Removing Retail Bugs:** All kinds of retail bugs (like Healing Cubic healing across the map) will be fixed and won't exist.
 
