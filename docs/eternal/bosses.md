@@ -26,5 +26,11 @@ icon: simple/librewolf
     [![altxboss.png](https://i.postimg.cc/RhzMjJj7/altxboss.png){width=50%}](https://postimg.cc/cgXy3C1C)
     </figure>
 
+- ### Enraged Bosses
+
+    - When a **Raid Boss level 74+** is killed, there is a chance it will respawn in an **Enraged state**
+        - Has increased stats and a red title. 
+        - Attacking it will flag your character.
+    - All **players will be notified globally** and can teleport using the `.enraged` command.
 
 </div>

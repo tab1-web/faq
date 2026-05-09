@@ -65,10 +65,9 @@ icon: material/sword
     - Or talk to Cat NPC in towns
     - **Important Levels:**
         - 20/40: Redeem shadow tickets
-        - 52: Rent B Grade gear
+        - 52: Rent B Grade weapons (if there are B soulshots/spiritshots in Giran from Players)
     - Skills learn automatically
     - Save Mana Potions
-        - **Mana Potions from Starter kit cannot be used to automate potions! Buy from store!**
     - [Enable drop messages](/faq/gameplay/controls/#how-to-enable-lootdrops-messages-on-eternal)
 
 - ### **:material-star: Voting Benefits**
@@ -127,7 +126,7 @@ icon: material/sword
 - ### Level 52 Weapons
     <figure markdown>
     [![Shadow B Grade Weapons](https://i.postimg.cc/4NkMcX5v/shadow-b-grade.png)](https://postimg.cc/Cd7mTT9d)
-    <figcaption markdown>Rent strong C/B grade weapons for Adena in Giran</figcaption>
+    <figcaption markdown>Rent strong C/B grade weapons for Adena in Giran, only if there are soulshots/spiritshots in Giran</figcaption>
     <figcaption markdown>Shadow Items are only for Shadow Weapons, there are no Shadow Armors</figcaption>
     </figure>
     
@@ -143,9 +142,9 @@ Default Max Buff Slots is 20 with learning these books at your trainer you can g
 | Icon      | Book          | Level | Cost        | Max Buff Slots |
 |-----------|---------------|-------|-------------|-----------|
 | [![modern.png](https://i.postimg.cc/rFgHPRtH/modern.png)](https://postimg.cc/xcJgkC5G)          | Modern        | 52    | 400K Adena  | +1        |
-| [![original.png](https://i.postimg.cc/SQdVSFN2/original.png)](https://postimg.cc/hhJVsYmc)          | Original      | 61    | 7 Glittering Medals    | +1        |
-| [![manuscript.png](https://i.postimg.cc/nhj1GXKB/manuscript.png)](https://postimg.cc/w1zJ6TGj)          | Manuscript    | 76    | 10 Glittering Medals   | +1        |
-| [![original-vers.png](https://i.postimg.cc/MTD0pVx2/original-vers.png)](https://postimg.cc/zbyHdLV0)          | Original Ver. | 76    | 15 Glittering Medals   | +1        |
+| [![original.png](https://i.postimg.cc/SQdVSFN2/original.png)](https://postimg.cc/hhJVsYmc)          | Original      | 61    | 1 Glittering Medals + 50m Adena   | +1        |
+| [![manuscript.png](https://i.postimg.cc/nhj1GXKB/manuscript.png)](https://postimg.cc/w1zJ6TGj)          | Manuscript    | 76    | 2 Glittering Medals + 50m Adena  | +1        |
+| [![original-vers.png](https://i.postimg.cc/MTD0pVx2/original-vers.png)](https://postimg.cc/zbyHdLV0)          | Original Ver. | 76    | 3 Glittering Medals + 50m Adena   | +1        |
 
 </figure>
 > You can earn Glittering Medals via [Events](/faq/eternal/events/). <br> Requires Class Changes! <br>

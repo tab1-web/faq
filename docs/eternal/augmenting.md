@@ -29,7 +29,7 @@ icon: fontawesome/solid/angles-up
 
 ## Basics
 - **Eligible Weapons**: C-grade (needs Gemstone D) **|**{style="color:purple;"} B-grade (needs Gemstone D) **|**{style="color:purple;"} A/S-grade (needs Gemstone C)
-- **Materials needed**: Weapon + Life Stone (monster drops, better from raids) + Gemstones
+- **Materials needed**: Weapon + Life Stone + Gemstones
 
 ## Bonus Types
 - **Stats**: They can be: STR/CON/INT/MEN, P.Atk/P.Def/etc.

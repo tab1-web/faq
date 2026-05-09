@@ -54,7 +54,7 @@ h2 {
 - You can delevel 9 times (e.g. learned skills at 35 -> 26) to keep skills
 
 ### Mage Skill Damage Based on Level Difference
-- When attacking a monster, if your magic skill level is **15 or more levels higher** the monster's level, your spells will only deal **1 damage** and not land
+- When attacking a monster, if your magic skill level is **more than 15 levels higher** the monster's level, your spells will only deal **1 damage** and not land
 
 ### Party Experience Sharing Level Range / Party Level Difference
 - Party members can only share experience if they are within **20 levels** of each other. If the level gap exceeds 20, higher-level members will not receive experience
@@ -273,13 +273,13 @@ Clan Halls are no longer permanent assets that clans can purchase. Instead, they
 
 - <figure markdown>
 
-    [![image.png](https://i.postimg.cc/JzMgXKVv/image.png)](https://postimg.cc/N5Cpq60k)
+    [![image.png](https://i.postimg.cc/gjpkxsfn/image.png)](https://postimg.cc/ygfz5m6H)
 
     </figure>
 
 - <figure markdown>
 
-    [![image.png](https://i.postimg.cc/qRhZr5yJ/image.png)](https://postimg.cc/JD8QcKpv)
+    [![image.png](https://i.postimg.cc/htDzyDZw/image.png)](https://postimg.cc/fJPRkNNj)
 
     </figure>
 

@@ -11,9 +11,6 @@ With the spirit of *Origins* and *Signature*, Legacy offers retail-close content
 To preserve the social fabric of the game and eliminate the "min-max" culture that ruined the classic experience, Legacy implements strict rules:
 
 - **Subscription Based:** A fair sub-model replaces the need for **premium shops**, **custom cosmetics**, or **"pay-to-skip"** services.
-    - **3.70€/month** from yearly subscription when there's annual anniversary (in Oct/Sept) that doubles your coins purchase.
-    - **7.40€/month** from yearly subscription.
-    - **14€/month** for the basic monthly subscription.
 - **True Single-Box:** No dual-boxing and no account sharing. One player, one character, one world.
 - **Modern Quality of Life:** While the content is old-school, the interface is not. Enjoy auto-soulshots and a modern mailing system without the critical errors of the 2004 client.
 - **Zero-Tolerance for "Drivers":** A system designed to kill the 24/7 "Driver" meta. L2 is a game, not a job.
@@ -49,11 +46,28 @@ Legacy stays true to the vanilla spirit while making quality-of-life improvement
 - **Extended Subclass System:** Subclasses can be leveled to 85 and acquire skills. Subclass Certifications can be selected regardless of the subclass type. This system is designed to provide role flexibility within clans and groups, allowing players to reroll or adapt to new chronicles on a single character.
 - **Manor System 2.0:** Key changes made to fixed crop stock inflation over time and time based click races. 
 
+## Subscription Plans
+
+To maintain a 100% Fair Play environment, Legacy operates on a **subscription model**. This replaces the need for premium shops, custom cosmetics, or "pay-to-skip" services.
+
+| Plan           | Monthly | Yearly            | During Black Friday (Yearly)     | Account Limit                      |
+|----------------|---------|-------------------|----------------------------------|------------------------------------|
+| Nobles Plan    | 9€      | 89€ (7,40€/mo)    | 44,50€ (3,70€/mo)                | 1 Account                          |
+| Hero Plan      | 14€     | 139€ (11,60€/mo)  | 69,50€ (5,80€/mo)                | 1 Account <br>+ 1 Offline-shop Account |
+
+- Black Friday is usually held in November where you can top-up your balance and recieve +50% free bonus.
+- Regular account can setup offline shop as long as you are **not playing another character** during that time.
+- Additionally we will **offer offline-shop service for 5€/mo**. Maximum 2 per plan. 
+- This concludes the monetization for the server. **Cosmetics will be earned from Events** as they can only reward cosmetics, not items.
+
+<hr class="divider">
+
+<figure markdown>
+
 After Legacy, our server stack is complete. No new servers, just a permanent, **evolving home** for the community.
 
 There are other things worth mentioning, It is better to wait for us to make an stream/podcast where we will explain the server concept and all its features. (No date known, wait)
 
-<figure markdown>
 __Coming Early 2027__
-</figure>
 
+</figure>

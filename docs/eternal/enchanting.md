@@ -34,12 +34,14 @@ icon: material/mushroom-outline
 
     In `ALT + K` drag the skill to **Standard Skills** in the Enchanting Window.
 
-    Make sure you are 3rd class and have enough EXP/SP and a Book of Giants for initial enchant.
+    Make sure you are 3rd class and have enough EXP/SP and a Book of Giants for initial enchant and select **TYPE**.
 
     **Press Enchant Skill** after you selected the Enchant Option.
 
+    **Giant's Codex:** Allows players to enchant skills from +10 to +14 without resetting them to +0, available in Achievements, Event Rewards, and the Olympiad Store
+
 - <figure markdown>
-    [![enchanting-skills.png](https://i.postimg.cc/Z5GjKhWM/enchanting-skills.png)](https://postimg.cc/zykT06SC)
+    [![image.png](https://i.postimg.cc/d0TydWxQ/image.png)](https://postimg.cc/1gsX1KSb)
     <figcaption>`ALT + K` Enchanting Window</figcaption>
     </figure>
 </div>

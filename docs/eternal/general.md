@@ -287,7 +287,7 @@ Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></
 
   <div class="md-typeset card countdown-card" data-target="2026-05-11T18:00:00Z">
     <h3>Seven Signs opening Catacombs</h3>
-    <p><a href="https://tab1-web.github.io/faq/gameplay/sevensigns/">Validation</a> until Friday, Effect until Monday</p>
+    <p><a href="https://tab1-web.github.io/faq/gameplay/sevensigns/">Competition</a> until Friday, Effect until Monday</p>
     <p><strong>Time:</strong> May 11th at 18:00 UTC</p>
     <p><strong>Time Remaining:</strong> <span class="countdown-display"></span></p>
   </div>
@@ -323,11 +323,7 @@ Stage Rates are with <a href="/faq/gameplay/progression/voting/">VIP!</a></h4></
 
 ## Event Schedules
 
-<div class="events-widget">
-    <h3 class="events-title">Event Schedules</h3>
-    <ul class="events-list">
-    </ul>
-</div>
+Waiting for schedule finish.
 
 ## Seven Sign Status
 
