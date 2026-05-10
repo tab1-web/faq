@@ -51,7 +51,7 @@ h2 {
 - Make sure to be a lot under that number at all times
 
 ### How many levels I can delevel/go down before losing skills on Eternal?
-- You can delevel 9 times (e.g. learned skills at 35 -> 26) to keep skills
+- You can [delevel 10 times](https://postimg.cc/gallery/XNwG0QV) (e.g. learned skills at 35 -> 25) to keep skills
 
 ### Mage Skill Damage Based on Level Difference
 - When attacking a monster, if your magic skill level is **more than 15 levels higher** the monster's level, your spells will only deal **1 damage** and not land
