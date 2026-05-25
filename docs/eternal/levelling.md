@@ -315,9 +315,13 @@ If you think you are getting low experience, move to a higher spot.
     - Feed animals with food from nearby NPCs to evolve them
     - **Recipe Locations**:
         - DC Helmet: [:material-drama-masks: Alpen Buffalo](https://lineage2wiki.org/interlude/monster/21488/alpen-buffalo/#spoils)
+            - Any food up to x4.
         - DC Boots: [:material-drama-masks: Alpen Buffalo](https://lineage2wiki.org/interlude/item/spoil/5368/recipe-sealed-dark-crystal-boots-60/)
+            - Crystal Spice up to x2.
         - Tallum Helmet: [:material-drama-masks: Alpen Buffalo](https://lineage2wiki.org/interlude/monster/21487/alpen-buffalo/)
+            - Any food up to x4.
         - Tallum Boots: [:material-drama-masks: Alpen Kookaburra](https://lineage2wiki.org/interlude/monster/21468/alpen-kookaburra/)
+            - Any food up to x4.
 
 - **63-69**: Forest of the Dead - Rune
     - [:fontawesome-solid-scroll: Necromancer's Request Quest](https://lineage2wiki.org/interlude/quest/632/necromancers-request/)
@@ -414,11 +418,14 @@ If you think you are getting low experience, move to a higher spot.
 - **78-85**: Primeval Isle - Rune
     - [:fontawesome-solid-scroll: Rise and Fall of the Elroki Tribe Quest](https://lineage2wiki.org/interlude/quest/643/rise-and-fall-of-the-elroki-tribe/)
         - Random Top A Grade Weapon Keys
+            - Daimon Crystal keys especially sought after
         - Hunt: Pachycephalosaurus, Wild Striders
         - Go to [Orahochin](https://lineage2wiki.org/interlude/monster/32111/orahochin/) to teleport to another Island and exchange 300 Dino Bones to [Karakawei](https://lineage2wiki.org/interlude/monster/32117/karakawei/) for 5 Random Top A Grade Weapon Keys
         - [:fontawesome-solid-scroll: A Powerful Primeval Creature](https://lineage2wiki.org/interlude/quest/642/a-powerful-primeval-creature/)
             - Top A Grade Weapon Recipes
             - Hunt Velociraptor, Pterosaur, Ornithominus and Deinonychus
+        - Could be good for daggers and archers but mostly for daggers to use "Switch" on mobs and pull trains for parties, you can level up here from level 60 as you can get experience from mobs even if party members are lv80, you have to be in 20 level difference range to get experience from high level party.
+        
 
 ## Important Quests
 
