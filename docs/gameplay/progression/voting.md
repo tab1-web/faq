@@ -13,7 +13,7 @@ icon: material/vote-outline
 - By voting you get VIP for **12 hours** (real time) which **increases that character's rates** that you selected.
     - **You can vote again after the 12 hours!**
 
-> Rates are multipliers that **make you level up faster**, **earn more currency** (Adena), and **get better drops** from monsters when you have VIP.
+> Rates are multipliers that **make you level up faster**, **earn more currency** (Adena), and **get better drops** from monsters when you have VIP. On **Origins** vote only increases EXP/SP!
 
 - **Bought VIP** and **VIP** you get from voting **gives the same benefits** and **don't stack** with any VIP.
     - **By buying VIP**: it **lasts longer** and you **support the server!**
