@@ -1161,6 +1161,7 @@ function loadSavedState() {
      - 9h random window means that the boss can spawn at any time during that window, the first number is for static window.
 - People will post subclass/nobless bosses timers in the [Discord Forum](https://discord.com/channels/622089207028121602/1365360511834788045)
 - If a boss has been slained by a Hero, Hero Statue, in all towns, can reveal the boss time of death. Keep in mind that the range can go from +30 minutes to -30 minutes written there in either direction. Thank you **@Ascy**
+- On Franz [Bonus Stages](https://l2reborn.org/news/bonus-stages/) there are differences in some respawn.
 
 ### Manor Time
 
