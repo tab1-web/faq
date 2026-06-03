@@ -1,0 +1,914 @@
+[ 
+  {
+     "text":"Shadow Orim","url":"https://lineage2wiki.org/c4/monster/7630/orim-of-the-shadow/"
+  },
+  {
+     "text":"Magister Iker","url":"https://lineage2wiki.org/c4/monster/7110/iker-magister/"
+  },
+  {
+     "text":"Trader Alexandria","url":"https://lineage2wiki.org/c4/monster/7098/alexandria-trader/"
+  },
+  {
+     "text":"Enchanted Stone Golem","url":"https://lineage2wiki.org/c4/monster/565/enchanted-stone-golem/"
+  },
+  {
+     "text":"Leto Lizardman","url":"https://lineage2wiki.org/c4/monster/577/leto-lizardman/"
+  },
+  {
+     "text":"Wyrm","url":"https://lineage2wiki.org/c4/monster/557/dire-wyrm/"
+  },
+  {
+   "text":"Test of the Healer"
+  },
+  {
+   "text":"Trial of the Challenger"
+  },
+  {
+   "text":"Test of the Champion"
+  },
+  {
+   "text":"Test of the Duelist"
+  },
+  {
+   "text":"Trial of the Scholar"
+  },
+  {
+   "text":"Testimony of Life"
+  },
+  {
+   "text":"Test of Magus"
+  },
+  {
+   "text":"Trial of the Scholar"
+  },
+  {
+   "text":"Trial of the Pilgrim"
+  },
+  {
+   "text":"Test of the Reformer"
+  },  
+  {
+   "text":"Trial of the Seeker"
+  },
+  {
+   "text":"Test of Sagittarius"
+  },  
+  {
+   "text":"Test of the Searcher"
+  },
+  {
+   "text":"Test of the Summoner"
+  },
+  {
+   "text":"Trial of the Pilgrim"
+  },
+  {
+   "text":"Testimony of Fate"
+  },
+  {
+   "text":"Testimony of Glory"
+  },
+  {
+   "text":"Test of the Lord"
+  },
+  {
+   "text":"Test of the War Spirit"
+  },
+  {
+   "text":"Trial of Guild Member"
+  },
+  {
+   "text":"Testimony of Prosperity"
+  },
+  {
+   "text":"Test of the Maestro"
+  },
+  {
+     "text":"High Priest Hollint","url":"https://lineage2wiki.org/c4/monster/7191/hollint-high-priest/"
+  },
+  {
+     "text":"Grand Master Hannavalt","url":"https://lineage2wiki.org/c4/monster/7109/hannavalt-grand-master/"
+  },
+  {
+     "text":"Magister Kaira","url":"https://lineage2wiki.org/c4/monster/7476/kaira-magister/"
+  },
+  {
+     "text":"Trader Lara","url":"https://lineage2wiki.org/c4/monster/7063/lara-trader/"
+  },
+  {
+     "text":"Nameless Revenant","url":"https://lineage2wiki.org/c4/monster/5099/nameless-revenant-quest-monster/"
+  },
+  {
+     "text":"Hierarch Asterios","url":"https://lineage2wiki.org/c4/monster/7154/asterios-hierarch/"
+  },
+  {
+     "text":"Dryad Elder","url":"https://lineage2wiki.org/c4/monster/19/dryad-elder/"
+  },
+  {
+   "text": "Trial of Duty"
+  },
+  {
+   "text": "Testimony of Trust"
+  },
+  {
+   "text": "Test of Witchcraft"
+  },
+  {
+     "text":"Dryad","url":"https://lineage2wiki.org/c4/monster/13/dryad/"
+  },
+  {
+     "text":"Actea","url":"https://lineage2wiki.org/c4/monster/5121/actea-of-verdant-wilds-quest-monster/"
+  },
+  {
+     "text":"Actea of Verdant Wilds","url":"https://lineage2wiki.org/c4/monster/5121/actea-of-verdant-wilds-quest-monster/"
+  },
+  {
+     "text":"Lirein","url":"https://lineage2wiki.org/c4/monster/36/lirein/"
+  },
+  {
+     "text":"Lirein Elder","url":"https://lineage2wiki.org/c4/monster/44/lirein-elder/"
+  },
+  {
+     "text":"Luell","url":"https://lineage2wiki.org/c4/monster/5120/luell-of-zephyr-winds-quest-monster/"
+  },
+  {
+     "text":"Luell of Zephyr Winds","url":"https://lineage2wiki.org/c4/monster/5120/luell-of-zephyr-winds-quest-monster/"
+  },
+  {
+     "text":"Tetrarch Thifiell","url":"https://lineage2wiki.org/c4/monster/7358/thifiell-tetrarch/"
+  },
+  {
+     "text":"Trader Nestle","url":"https://lineage2wiki.org/c4/monster/7314/nestle-trader/"
+  },
+  {
+     "text":"Leopold","url":"https://lineage2wiki.org/c4/monster/7435/leopold/"
+  },
+  {
+     "text":"Sir Aron Tanford","url":"https://lineage2wiki.org/c4/monster/7653/sir-aron-tanford/"
+  },
+  {
+     "text":"Skeletal Mercenary","url":"https://lineage2wiki.org/c4/monster/5100/skeletal-mercenary-quest-monster/"
+  },
+  {
+     "text":"Magister Clayton","url":"https://lineage2wiki.org/c4/monster/7464/clayton-magister/"
+  },
+  {
+   "text":"Maria"
+  },
+  {
+   "text":"Master Cardien"
+  },
+  {
+   "text":"Captain Lucas"
+  },
+  {
+   "text":"High Priest Sylvain"
+  },
+  {
+   "text":"Magister Mirien"
+  },
+  {
+   "text":"Astrologer Creta"
+  },
+  {
+   "text":"Bard Rukal"
+  },
+  {
+   "text":"Hierarch Asteryos"
+  },
+  {
+   "text":"Thalia"
+  },
+  {
+   "text":"Wiseman Casian"
+  },
+  {
+   "text":"Singing Flower Darkling"
+  },
+  {
+   "text":"Flame Salamander"
+  },
+  {
+   "text":"Wind Sylph"
+  },
+  {
+   "text":"Trader Edroc"
+  },
+  {
+   "text":"Priest Adonius"
+  },
+  {
+   "text":"Gauri Twinklerock"
+  },
+  {
+   "text":"Priest of Earth Gerald"
+  },
+  {
+   "text":"Wanderer Dorff"
+  },
+  {
+   "text":"Priest Petron"
+  },
+  {
+   "text":"Black Willow"
+  },
+  {
+   "text":"Nahir"
+  },
+  {
+   "text":"Ramus"
+  },
+    {
+   "text":"Silent Horror"
+  },
+  {
+   "text":"High Summoner Galatea"
+  },
+  {
+   "text":"Tyra"
+  },
+  {
+   "text":"Summoner Almors"
+  },
+  {
+   "text":"Summoner Basillia"
+  },
+  {
+   "text":"ever-influenced Strong Wooden Chest"
+  },
+  {
+   "text":"Leunt Chief Harak"
+  },
+  {
+   "text":"Urutu Chief Hatos"
+  },
+  {
+   "text":"Neruga Chief Tantus"
+  },
+  {
+   "text":"Atuba Chief Varkees"
+  },
+  {
+   "text":"Seer Racoy"
+  },
+  {
+   "text":"Seer Pekiron"
+  },
+  {
+   "text":"Mandragora Sapling"
+  },
+    {
+   "text":"Golden Wheel's Spiron"
+  },
+  {
+   "text":"Maryse Redbonnet"
+  },
+  {
+   "text":"Trader Shari"
+  },
+  {
+   "text":"Breka Orc"
+  },
+  {
+   "text":"Giant Mist Leech"
+  },
+  {
+   "text":"Warehouse Chief Gesto"
+  },
+  {
+   "text":"Silenos"
+  },
+  {
+   "text":"Emily"
+  },
+  {
+   "text":"Militaman Leirynn"
+  },
+  {
+   "text":"Lilith"
+  },
+  {
+   "text":"Box of Titan"
+  },
+  {
+   "text":"Toad Lord"
+  },
+  {
+   "text":"Blacksmith Kusto"
+  },
+  {
+   "text":"Grange Golem"
+  },
+  {
+   "text":"Researcher Lorain"
+  },
+  {
+   "text":"Captain Croto"
+  },
+  {
+   "text":" Blacksmith Duning"
+  },
+  {
+   "text":"Blacksmith Pinter"
+  },
+  {
+   "text":"Corpse of Kamur"
+  },
+  {
+   "text":"Warder Dubaba"
+  },
+  {
+   "text":"Trader Mion"
+  },
+  {
+   "text":"Silver Scale's Balanki"
+  },
+  {
+   "text":"Master Toma"
+  },
+  {
+   "text":"Bronze Ley's Keef"
+  },
+  {
+   "text":"Gray Pillar's Filure"
+  },
+  {
+   "text":"Black Anvil's Arin"
+  },
+  {
+   "text":"Blacksmith Altran"
+  },
+  {
+   "text":"Iron Gate’s Lockirin"
+  },
+  {
+   "text":"Mandragora Blossom"
+  },
+  {
+   "text":"Piotur"
+  },
+  {
+   "text":"Guard Bright"
+  },
+  {
+   "text":"Warehouse Keeper Parman"
+  },
+  {
+   "text":"Trader Sarien"
+  },
+  {
+   "text":"Enku Orc Shaman"
+  },
+  {
+   "text":"Mordeo"
+  },
+  {
+   "text":"Blacksmith Sumari"
+  },
+  {
+   "text":"Seer Somak"
+  },
+  {
+   "text":"Trader Jakal"
+  },
+  {
+   "text":"Ragna Orc Seer"
+  },  
+  {
+   "text":"High Prefect Penatus"
+  },
+  {
+   "text":"Ragna Orc Overlord"
+  },
+  {
+   "text":"Turek Chief Burai"
+  },
+  {
+   "text":"Vuku Chief Driko"
+  },
+  {
+   "text":"Timak Orc"
+  },
+  {
+   "text":"Gandi Chief Chianta"
+  },
+  {
+   "text":"Kasman"
+  },
+  {
+   "text":"Enku Orc Champion"
+  },
+  {
+   "text":"Enku Chief Kepra"
+  },
+  {
+   "text":"Breka Chief Voltar"
+  },
+  {
+   "text":"Ghost Fire"
+  },
+  {
+   "text":"Summoner Celestiel"
+  },
+  {
+   "text":"Bloody Pixy"
+  },
+  {
+   "text":"Blight Treant"
+  },
+  {
+   "text":"Warehouse Keeper Norman"
+  },
+  {
+   "text":"Magister Roa"
+  },
+  {
+   "text":"Master Ixia"
+  },
+  {
+   "text":"Summoner Belthus"
+  },
+  {
+   "text":"Summoner Brynthea"
+  },
+  {
+   "text":"Brother Metheus"
+  },
+  {
+   "text":"Summoner Camomuell"
+  },
+  {
+   "text":"Unicorn of Eva"
+  },
+  {
+   "text":"Karul Bugbear"
+  },
+  {
+   "text":"Tyrant"
+  },
+  {
+   "text":"Ant Noble Leader"
+  },
+  {
+   "text":"Ant Noble"
+  },
+  {
+   "text":"Tyrant Kingpin"
+  },
+  {
+   "text":"Manashen Gargoyle"
+  },
+  {
+   "text":"Leto Lizardman Warrior"
+  },
+  {
+   "text":"Drunkard Borys"
+  },
+  {
+   "text":"Guild President Bernard"
+  },
+  {
+   "text":"Leto Lizardman Shaman"
+  },
+  {
+   "text":"Bodyguard Jax"
+  },
+  {
+   "text":"Skeleton Marksman"
+  },
+  {
+   "text":"Giant Fungus"
+  },
+  {
+   "text":"Ol Mahum Captain"
+  },
+  {
+   "text":"Ant Captain"
+  },
+  {
+   "text":"Militaman Leiryn"
+  },
+  {
+   "text":"Militiaman Leiryn"
+  },
+  {
+   "text":"Delu Chief Kalkis"
+  },  
+  {
+   "text":"Delu Lizardman Shaman"
+  },
+  {
+   "text":"Alex"
+  },
+  {
+   "text":"Master Luther"
+  },
+  {
+   "text":"Prefect Vokian"
+  },
+  {
+   "text":"Magister Marina"
+  },
+  {
+   "text":"Master Dufner"
+  },
+  {
+   "text":"Blacksmith Brunon"
+  },
+  {
+   "text":"Magister Gauen"
+  },
+  {
+   "text":"Magister Gauene"
+  },
+  {
+   "text":"Trader Victor"
+  },
+  {
+   "text":"Sagittarius Hamil"
+  },
+  {
+   "text":"Turak Bugbear Warrior"
+  },
+  {
+   "text":"Magister Clayton"
+  },
+  {
+   "text":"Turek Orc Warlord"
+  },
+  {
+   "text":"Ghoul Berserker"
+  },
+  {
+   "text":"Master Duffner"
+  },
+  {
+   "text":"Master Terry"
+  },
+  {
+   "text":"Skeleton Lord"
+  },
+  {
+   "text":"Uruha"
+  },
+  {
+   "text":"Misery Skeleton"
+  },
+  {
+   "text":"Skeleton Archer"
+  },
+  {
+   "text":"Nyakuri"
+  },
+  {
+   "text":"Kakan"
+  },
+  {
+   "text":"Ol Mahum Betrayer"
+  },
+  {
+   "text":"Andelia"
+  },
+  {
+   "text":"Ol Mahum Pilgrim"
+  },
+  {
+   "text":"Katari"
+  },
+  {
+   "text":"Andellia"
+  },
+  {
+   "text":"Ol Mahum Inspector"
+  },
+  {
+   "text":"Preacher Sla"
+  },
+  {
+   "text":"Priest Pupina"
+  },
+  {
+   "text":"Hermit Santiago"
+  },
+  {
+   "text":"High Priest Maximillian"
+  },
+  {
+   "text":"Priest Prim"
+  },
+  {
+   "text":"Enchanted Gargoyle"
+  },
+  {
+   "text":"Enchanted Iron Golem"
+  },
+  {
+   "text":"Seer Tanapi"
+  },
+  {
+   "text":"Lava Salamander"
+  },
+  {
+   "text":"Ancestor Martankus"
+  },
+  {
+   "text":"Blacksmith Poitan"
+  },
+  {
+   "text":"Grandis"
+  },
+  {
+   "text":"Warehouse Keeper Valkon"
+  },
+  {
+   "text":"Warehouse Keeper Raut"
+  },
+  {
+   "text":"Drunkard Triff"
+  },
+  {
+   "text":"Marsh Spider"
+  },
+  {
+   "text":"Arkenia"
+  },
+  {
+   "text":"Water Undine"
+  },
+  {
+   "text":"Earth Snake"
+  },
+  {
+   "text":"Parina"
+  },
+  {
+   "text":"Singing Flower Nightmare"
+  },
+  {
+   "text":"Magister Dieter"
+  },
+  {
+   "text":"Shackle"
+  },
+  {
+   "text":"Wiseman Cronos"
+  },
+  {
+   "text":"Monster Eye Destroyer"
+  },
+  {
+   "text":"Blacksmith Pushkin"
+  },
+  {
+   "text":"Singing Flower Phantasm"
+  },
+  {
+   "text":"Breka Orc Shaman"
+  },
+  {
+   "text":"Grand Magister Jurek"
+  },
+  {
+     "text":"Zeruel","url":"https://lineage2wiki.org/c4/monster/5101/drevanul-prince-zeruel-quest-monster/"
+  },
+  {
+     "text":"Sir Klaus Vasper","url":"https://lineage2wiki.org/c4/monster/7417/sir-klaus-vasper/"
+  },
+  {
+     "text":"Skeleton Marauder","url":"https://lineage2wiki.org/c4/monster/190/skeleton-marauder/"
+  },
+  {
+     "text":"Skeleton Raider","url":"https://lineage2wiki.org/c4/monster/191/skeleton-raider/"
+  },
+  {
+     "text":"Spirit of Sir Herod","url":"https://lineage2wiki.org/c4/monster/5119/spirit-of-sir-herod-quest-monster/"
+  },
+  {
+     "text":"Ant Recruit","url":"https://lineage2wiki.org/c4/monster/82/ant-recruit/"
+  },
+  {
+     "text":"Ant Patrol","url":"https://lineage2wiki.org/c4/monster/84/ant-patrol/"
+  },
+  {
+     "text":"Ant Soldier","url":"https://lineage2wiki.org/c4/monster/87/ant-soldier/"
+  },
+  {
+     "text":"Ant Guard","url":"https://lineage2wiki.org/c4/monster/86/ant-guard/"
+  },
+  {
+     "text":"Ant Warrior Captain","url":"https://lineage2wiki.org/c4/monster/88/ant-warrior-captain/"
+  },
+  {
+     "text":"Marsh Stakato","url":"https://lineage2wiki.org/c4/monster/157/marsh-stakato/"
+  },
+  {
+     "text":"Sir Kiel Nighthawk","url":"https://lineage2wiki.org/c4/monster/7654/sir-kiel-nighthawk/"
+  },
+  {
+     "text":"Ghoul","url":"https://lineage2wiki.org/c4/monster/201/ghoul/"
+  },
+  {
+     "text":"Strain","url":"https://lineage2wiki.org/c4/monster/200/strain/"
+  },
+  {
+     "text":"Hangman Tree","url":"https://lineage2wiki.org/c4/monster/144/hangman-tree/"
+  },
+  {
+     "text":"Guardian Basilisk","url":"https://lineage2wiki.org/c4/monster/550/guardian-basilisk/"
+  },
+  {
+     "text":"Spirit of Sir Talianus","url":"https://lineage2wiki.org/c4/monster/7656/spirit-of-sir-talianus/"
+  },
+  {
+     "text":"Isael Silvershadow","url":"https://lineage2wiki.org/c4/monster/7655/isael-silvershadow/"
+  },
+  {
+     "text":"Priest Vadin","url":"https://lineage2wiki.org/c4/monster/7188/vadin-priest/"
+  },
+  {
+     "text":"Tamlin Orc","url":"https://lineage2wiki.org/c4/monster/601/tamlin-orc/"
+  },
+  {
+     "text":"Tamlin Orc Archer","url":"https://lineage2wiki.org/c4/monster/602/tamlin-orc-archer/"
+  },
+  {
+     "text":"Cardinal Seresin","url":"https://lineage2wiki.org/c4/monster/7657/seresin-cardinal/"
+  },
+  {
+     "text":"Priest Dustin","url":"https://lineage2wiki.org/c4/monster/7116/dustin-priest/"
+  },
+  {
+     "text":"Breka Orc Overlord","url":"https://lineage2wiki.org/c4/monster/270/breka-orc-overlord/"
+  },
+  {
+     "text":"Seer Manakia","url":"https://lineage2wiki.org/c4/monster/7515/manakia-seer/"
+  },
+  {
+     "text":"Windsus","url":"https://lineage2wiki.org/c4/monster/553/windsus/"
+  },
+  {
+     "text":"Flame Lord Kakai","url":"https://lineage2wiki.org/c4/monster/7565/kakai-flame-lord/"
+  },
+  {
+     "text":"Iron Gate's Lockirin","url":"https://lineage2wiki.org/c4/monster/7531/lockirin-iron-gates/"
+  },
+  {
+     "text":"Maestro Nikola","url":"https://lineage2wiki.org/c4/monster/7621/nikola-maestro/"
+  },
+  {
+     "text":"Porta","url":"https://lineage2wiki.org/c4/monster/213/porta/"
+  },
+  {
+     "text":"Fisherman Evert","url":"https://lineage2wiki.org/c4/monster/7633/evert-fisher/"
+  },
+  {
+     "text":"Drevanul Prince Zeruel","url":"https://lineage2wiki.org/c4/monster/5101/drevanul-prince-zeruel-quest-monster/"
+  },
+  {
+     "text":"Sir Collin Windawood","url":"Sir Collin Windawood"
+  },
+  {
+     "text":"High Priest Biotin","url":"https://lineage2wiki.org/c4/monster/7031/biotin-high-priest/"
+  },
+  {
+     "text":"Grand Master Angus","url":"https://lineage2wiki.org/c4/monster/7474/angus-grand-master/"
+  },
+  {
+     "text":"Perrin","url":"https://lineage2wiki.org/c4/monster/7428/perrin/"
+  },
+  {
+     "text":"Tatoma","url":"https://lineage2wiki.org/c4/monster/5134/tatoma-quest-monster/"
+  },
+  {
+     "text":"Allana","url":"https://lineage2wiki.org/c4/monster/7424/allana/"
+  },
+  {
+     "text":"Father Gupu","url":"https://lineage2wiki.org/c4/monster/7658/gupu-father/"
+  },
+  {
+     "text":"Windy Shaoring","url":"https://lineage2wiki.org/c4/monster/7660/windy-shaoring/"
+  },
+  {
+     "text":"Master Sorius","url":"https://lineage2wiki.org/c4/monster/7327/sorius-master/"
+  },
+  {
+     "text":"Any Marsh Stakato","url":"https://lineage2wiki.org/c4/monster/157/marsh-stakato/"
+  },
+  {
+     "text":"Daurin Hammercrush","url":"https://lineage2wiki.org/c4/monster/7674/daurin-hammercrush/"
+  },
+  {
+     "text":"Lizardman Agent","url":"https://lineage2wiki.org/c4/monster/5122/leto-lizardman-agent-quest-monster/"
+  },
+  {
+     "text":"Lizardman Lord","url":"https://lineage2wiki.org/c4/monster/5127/leto-lizardman-lord-quest-monster/"
+  },
+  {
+     "text":"Slein Shining Blade","url":"https://lineage2wiki.org/c4/monster/7663/slein-shining-blade/"
+  },
+  {
+     "text":"Piper Longbow","url":"https://lineage2wiki.org/c4/monster/7662/piper-longbow/"
+  },
+  {
+     "text":"Mysterious Dark Elf","url":"https://lineage2wiki.org/c4/monster/7661/mysterious-dark-elf/"
+  },
+  {
+     "text":"Saint Kristina","url":"https://lineage2wiki.org/c4/monster/7665/kristina-saint/"
+  },
+  {
+     "text":"Priest Bandellos","url":"https://lineage2wiki.org/c4/monster/7473/bandellos-priest/"
+  },
+  {
+     "text":"Veteran Ascalon","url":"https://lineage2wiki.org/c4/monster/7624/ascalon-veteran/"
+  },
+  {
+     "text":"Kash","url":"https://lineage2wiki.org/c4/monster/7644/kash/"
+  },
+  {
+     "text":"Mason","url":"https://lineage2wiki.org/c4/monster/7625/mason/"
+  },
+  {
+     "text":"Cave Basilisk","url":"https://lineage2wiki.org/c4/monster/5111/cave-basilisk-quest-monster/"
+  },
+  {
+     "text":"Shyslassys","url":"https://lineage2wiki.org/c4/monster/5110/shyslassys-quest-monster/"
+  },
+  {
+     "text":"Bloody Axe Elite","url":"https://lineage2wiki.org/c4/monster/780/bloody-axe-elite/"
+  },
+  {
+     "text":"Martien","url":"https://lineage2wiki.org/c4/monster/7645/martien/"
+  },
+  {
+     "text":"Gorr","url":"https://lineage2wiki.org/c4/monster/5112/gorr-quest-monster/"
+  },
+  {
+     "text":"Magic Trader Groot","url":"https://lineage2wiki.org/c4/monster/7093/groot-magic-trader/"
+  },
+  {
+     "text":"Medusa","url":"https://lineage2wiki.org/c4/monster/158/medusa/"
+  },
+  {
+     "text":"Harpy","url":"https://lineage2wiki.org/c4/monster/145/harpy/"
+  },
+  {
+     "text":"Harpy Matriarch","url":"https://lineage2wiki.org/c4/monster/5088/harpy-matriarch-quest-monster/"
+  },
+  {
+     "text":"Captain Mouen","url":"https://lineage2wiki.org/c4/monster/7196/mouen-captain/"
+  },
+  {
+     "text":"Road Scavenger","url":"https://lineage2wiki.org/c4/monster/551/road-scavenger/"
+  },
+  {
+     "text":"Baraham","url":"https://lineage2wiki.org/c4/monster/5113/baraham-quest-monster/"
+  },
+  {
+     "text":"Raldo","url":"https://lineage2wiki.org/c4/monster/7646/raldo-champion/"
+  },
+  {
+     "text":"Gray Pillar's Filaur","url":"https://lineage2wiki.org/c4/monster/7535/filaur-gray-pillars/"
+  },
+  {
+     "text":"Queen of Succubus","url":"https://lineage2wiki.org/c4/monster/5114/succubus-queen-quest-monster/"
+  },
+  {
+   "text":"Duelist Kaien","url":"https://lineage2wiki.org/c4/monster/7623/kaien-duelist/"
+  },
+  {
+  "text":"Puncher","url":"https://lineage2wiki.org/c4/monster/85/puncher/"
+  },
+  {
+   "text":"Noble Ant","url":"https://lineage2wiki.org/c4/monster/89/noble-ant/"
+  },
+  {
+   "text":"Noble Ant Leader","url":"https://lineage2wiki.org/c4/monster/90/noble-ant-leader/"
+  },
+  {
+   "text":"Marsh Stakato Drone","url":"https://lineage2wiki.org/c4/monster/234/marsh-stakato-drone/"
+  },
+  {
+   "text":"Dead Seeker","url":"https://lineage2wiki.org/c4/monster/202/dead-seeker/"
+  },
+  {
+   "text":"Fettered Soul","url":"https://lineage2wiki.org/c4/monster/552/fettered-soul/"
+  },
+  {
+   "text":"Enchanted Monster Eye","url":"https://lineage2wiki.org/c4/monster/564/enchanted-monstereye/"
+  },
+  {
+   "text":"Leto Lizardman Overlord","url":"https://lineage2wiki.org/c4/monster/582/leto-lizardman-overlord/"
+  },
+  {
+   "text":"Krator","url":"https://lineage2wiki.org/c4/monster/217/krator/"
+  },
+  {
+   "text":"Excuro","url":"https://lineage2wiki.org/c4/monster/214/excuro/"
+  },
+  {
+   "text":"Lakin","url":"https://lineage2wiki.org/c4/monster/604/lakin/"
+  },
+  {
+   "text":"Timak Orc Overlord","url":"https://lineage2wiki.org/c4/monster/588/timak-orc-overlord/"
+  }
+] 
